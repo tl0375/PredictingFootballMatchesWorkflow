@@ -1,0 +1,1753 @@
+Date,Time,Home_Team,Away_Team,Competition,Matchweek
+2025-08-15,19:00,Liverpool,Bournemouth,Premier League,1
+2025-08-16,11:30,Aston Villa,Newcastle,Premier League,1
+2025-08-16,14:00,Brighton,Fulham,Premier League,1
+2025-08-16,14:00,Nott'm Forest,Brentford,Premier League,1
+2025-08-16,14:00,Sunderland AFC,West Ham,Premier League,1
+2025-08-16,14:00,Tottenham,Burnley,Premier League,1
+2025-08-16,16:30,Wolves,Manchester City,Premier League,1
+2025-08-17,13:00,Chelsea,Crystal Palace,Premier League,1
+2025-08-17,15:30,Manchester Utd,Arsenal,Premier League,1
+2025-08-18,19:00,Leeds,Everton,Premier League,1
+2025-08-23,00:00,Bournemouth,Wolves,Premier League,2
+2025-08-23,00:00,Crystal Palace,Nott'm Forest,Premier League,2
+2025-08-23,00:00,Arsenal,Leeds,Premier League,2
+2025-08-23,00:00,Brentford,Aston Villa,Premier League,2
+2025-08-23,00:00,Burnley,Sunderland AFC,Premier League,2
+2025-08-23,00:00,Everton,Brighton,Premier League,2
+2025-08-23,00:00,Fulham,Manchester Utd,Premier League,2
+2025-08-23,00:00,Manchester City,Tottenham,Premier League,2
+2025-08-23,00:00,Newcastle,Liverpool,Premier League,2
+2025-08-23,00:00,West Ham,Chelsea,Premier League,2
+2025-08-30,00:00,Sunderland AFC,Brentford,Premier League,3
+2025-08-30,00:00,Aston Villa,Crystal Palace,Premier League,3
+2025-08-30,00:00,Brighton,Manchester City,Premier League,3
+2025-08-30,00:00,Chelsea,Fulham,Premier League,3
+2025-08-30,00:00,Liverpool,Arsenal,Premier League,3
+2025-08-30,00:00,Leeds,Newcastle,Premier League,3
+2025-08-30,00:00,Manchester Utd,Burnley,Premier League,3
+2025-08-30,00:00,Nott'm Forest,West Ham,Premier League,3
+2025-08-30,00:00,Tottenham,Bournemouth,Premier League,3
+2025-08-30,00:00,Wolves,Everton,Premier League,3
+2025-09-13,00:00,Bournemouth,Brighton,Premier League,4
+2025-09-13,00:00,Crystal Palace,Sunderland AFC,Premier League,4
+2025-09-13,00:00,Arsenal,Nott'm Forest,Premier League,4
+2025-09-13,00:00,Brentford,Chelsea,Premier League,4
+2025-09-13,00:00,Burnley,Liverpool,Premier League,4
+2025-09-13,00:00,Everton,Aston Villa,Premier League,4
+2025-09-13,00:00,Fulham,Leeds,Premier League,4
+2025-09-13,00:00,Manchester City,Manchester Utd,Premier League,4
+2025-09-13,00:00,Newcastle,Wolves,Premier League,4
+2025-09-13,00:00,West Ham,Tottenham,Premier League,4
+2025-09-20,00:00,Bournemouth,Newcastle,Premier League,5
+2025-09-20,00:00,Sunderland AFC,Aston Villa,Premier League,5
+2025-09-20,00:00,Brighton,Tottenham,Premier League,5
+2025-09-20,00:00,Arsenal,Manchester City,Premier League,5
+2025-09-20,00:00,Burnley,Nott'm Forest,Premier League,5
+2025-09-20,00:00,Fulham,Brentford,Premier League,5
+2025-09-20,00:00,Liverpool,Everton,Premier League,5
+2025-09-20,00:00,Manchester Utd,Chelsea,Premier League,5
+2025-09-20,00:00,West Ham,Crystal Palace,Premier League,5
+2025-09-20,00:00,Wolves,Leeds,Premier League,5
+2025-09-27,00:00,Aston Villa,Fulham,Premier League,6
+2025-09-27,00:00,Crystal Palace,Liverpool,Premier League,6
+2025-09-27,00:00,Brentford,Manchester Utd,Premier League,6
+2025-09-27,00:00,Chelsea,Brighton,Premier League,6
+2025-09-27,00:00,Everton,West Ham,Premier League,6
+2025-09-27,00:00,Leeds,Bournemouth,Premier League,6
+2025-09-27,00:00,Manchester City,Burnley,Premier League,6
+2025-09-27,00:00,Newcastle,Arsenal,Premier League,6
+2025-09-27,00:00,Nott'm Forest,Sunderland AFC,Premier League,6
+2025-09-27,00:00,Tottenham,Wolves,Premier League,6
+2025-10-04,00:00,Bournemouth,Fulham,Premier League,7
+2025-10-04,00:00,Aston Villa,Burnley,Premier League,7
+2025-10-04,00:00,Arsenal,West Ham,Premier League,7
+2025-10-04,00:00,Brentford,Manchester City,Premier League,7
+2025-10-04,00:00,Chelsea,Liverpool,Premier League,7
+2025-10-04,00:00,Everton,Crystal Palace,Premier League,7
+2025-10-04,00:00,Leeds,Tottenham,Premier League,7
+2025-10-04,00:00,Manchester Utd,Sunderland AFC,Premier League,7
+2025-10-04,00:00,Newcastle,Nott'm Forest,Premier League,7
+2025-10-04,00:00,Wolves,Brighton,Premier League,7
+2025-10-18,00:00,Brighton,Newcastle,Premier League,8
+2025-10-18,00:00,Crystal Palace,Bournemouth,Premier League,8
+2025-10-18,00:00,Burnley,Leeds,Premier League,8
+2025-10-18,00:00,Fulham,Arsenal,Premier League,8
+2025-10-18,00:00,Liverpool,Manchester Utd,Premier League,8
+2025-10-18,00:00,Manchester City,Everton,Premier League,8
+2025-10-18,00:00,Nott'm Forest,Chelsea,Premier League,8
+2025-10-18,00:00,Tottenham,Aston Villa,Premier League,8
+2025-10-18,00:00,West Ham,Brentford,Premier League,8
+2025-10-18,00:00,Sunderland AFC,Wolves,Premier League,8
+2025-10-25,00:00,Bournemouth,Nott'm Forest,Premier League,9
+2025-10-25,00:00,Aston Villa,Manchester City,Premier League,9
+2025-10-25,00:00,Arsenal,Crystal Palace,Premier League,9
+2025-10-25,00:00,Brentford,Liverpool,Premier League,9
+2025-10-25,00:00,Chelsea,Sunderland AFC,Premier League,9
+2025-10-25,00:00,Everton,Tottenham,Premier League,9
+2025-10-25,00:00,Leeds,West Ham,Premier League,9
+2025-10-25,00:00,Manchester Utd,Brighton,Premier League,9
+2025-10-25,00:00,Newcastle,Fulham,Premier League,9
+2025-10-25,00:00,Wolves,Burnley,Premier League,9
+2025-11-01,00:00,Sunderland AFC,Everton,Premier League,10
+2025-11-01,00:00,Brighton,Leeds,Premier League,10
+2025-11-01,00:00,Crystal Palace,Brentford,Premier League,10
+2025-11-01,00:00,Burnley,Arsenal,Premier League,10
+2025-11-01,00:00,Fulham,Wolves,Premier League,10
+2025-11-01,00:00,Liverpool,Aston Villa,Premier League,10
+2025-11-01,00:00,Manchester City,Bournemouth,Premier League,10
+2025-11-01,00:00,Nott'm Forest,Manchester Utd,Premier League,10
+2025-11-01,00:00,Tottenham,Chelsea,Premier League,10
+2025-11-01,00:00,West Ham,Newcastle,Premier League,10
+2025-11-08,00:00,Sunderland AFC,Arsenal,Premier League,11
+2025-11-08,00:00,Aston Villa,Bournemouth,Premier League,11
+2025-11-08,00:00,Crystal Palace,Brighton,Premier League,11
+2025-11-08,00:00,Brentford,Newcastle,Premier League,11
+2025-11-08,00:00,Chelsea,Wolves,Premier League,11
+2025-11-08,00:00,Everton,Fulham,Premier League,11
+2025-11-08,00:00,Manchester City,Liverpool,Premier League,11
+2025-11-08,00:00,Nott'm Forest,Leeds,Premier League,11
+2025-11-08,00:00,Tottenham,Manchester Utd,Premier League,11
+2025-11-08,00:00,West Ham,Burnley,Premier League,11
+2025-11-22,00:00,Bournemouth,West Ham,Premier League,12
+2025-11-22,00:00,Brighton,Brentford,Premier League,12
+2025-11-22,00:00,Arsenal,Tottenham,Premier League,12
+2025-11-22,00:00,Burnley,Chelsea,Premier League,12
+2025-11-22,00:00,Fulham,Sunderland AFC,Premier League,12
+2025-11-22,00:00,Liverpool,Nott'm Forest,Premier League,12
+2025-11-22,00:00,Leeds,Aston Villa,Premier League,12
+2025-11-22,00:00,Manchester Utd,Everton,Premier League,12
+2025-11-22,00:00,Newcastle,Manchester City,Premier League,12
+2025-11-22,00:00,Wolves,Crystal Palace,Premier League,12
+2025-11-29,00:00,Sunderland AFC,Bournemouth,Premier League,13
+2025-11-29,00:00,Aston Villa,Wolves,Premier League,13
+2025-11-29,00:00,Crystal Palace,Manchester Utd,Premier League,13
+2025-11-29,00:00,Brentford,Burnley,Premier League,13
+2025-11-29,00:00,Chelsea,Arsenal,Premier League,13
+2025-11-29,00:00,Everton,Newcastle,Premier League,13
+2025-11-29,00:00,Manchester City,Leeds,Premier League,13
+2025-11-29,00:00,Nott'm Forest,Brighton,Premier League,13
+2025-11-29,00:00,Tottenham,Fulham,Premier League,13
+2025-11-29,00:00,West Ham,Liverpool,Premier League,13
+2025-12-03,00:00,Bournemouth,Everton,Premier League,14
+2025-12-03,00:00,Brighton,Aston Villa,Premier League,14
+2025-12-03,00:00,Arsenal,Brentford,Premier League,14
+2025-12-03,00:00,Burnley,Crystal Palace,Premier League,14
+2025-12-03,00:00,Fulham,Manchester City,Premier League,14
+2025-12-03,00:00,Liverpool,Sunderland AFC,Premier League,14
+2025-12-03,00:00,Leeds,Chelsea,Premier League,14
+2025-12-03,00:00,Manchester Utd,West Ham,Premier League,14
+2025-12-03,00:00,Newcastle,Tottenham,Premier League,14
+2025-12-03,00:00,Wolves,Nott'm Forest,Premier League,14
+2025-12-06,00:00,Bournemouth,Chelsea,Premier League,15
+2025-12-06,00:00,Aston Villa,Arsenal,Premier League,15
+2025-12-06,00:00,Brighton,West Ham,Premier League,15
+2025-12-06,00:00,Everton,Nott'm Forest,Premier League,15
+2025-12-06,00:00,Fulham,Crystal Palace,Premier League,15
+2025-12-06,00:00,Leeds,Liverpool,Premier League,15
+2025-12-06,00:00,Manchester City,Sunderland AFC,Premier League,15
+2025-12-06,00:00,Newcastle,Burnley,Premier League,15
+2025-12-06,00:00,Tottenham,Brentford,Premier League,15
+2025-12-06,00:00,Wolves,Manchester Utd,Premier League,15
+2025-12-13,00:00,Sunderland AFC,Newcastle,Premier League,16
+2025-12-13,00:00,Crystal Palace,Manchester City,Premier League,16
+2025-12-13,00:00,Arsenal,Wolves,Premier League,16
+2025-12-13,00:00,Brentford,Leeds,Premier League,16
+2025-12-13,00:00,Burnley,Fulham,Premier League,16
+2025-12-13,00:00,Chelsea,Everton,Premier League,16
+2025-12-13,00:00,Liverpool,Brighton,Premier League,16
+2025-12-13,00:00,Manchester Utd,Bournemouth,Premier League,16
+2025-12-13,00:00,Nott'm Forest,Tottenham,Premier League,16
+2025-12-13,00:00,West Ham,Aston Villa,Premier League,16
+2025-12-20,00:00,Bournemouth,Burnley,Premier League,17
+2025-12-20,00:00,Aston Villa,Manchester Utd,Premier League,17
+2025-12-20,00:00,Brighton,Sunderland AFC,Premier League,17
+2025-12-20,00:00,Everton,Arsenal,Premier League,17
+2025-12-20,00:00,Fulham,Nott'm Forest,Premier League,17
+2025-12-20,00:00,Leeds,Crystal Palace,Premier League,17
+2025-12-20,00:00,Manchester City,West Ham,Premier League,17
+2025-12-20,00:00,Newcastle,Chelsea,Premier League,17
+2025-12-20,00:00,Tottenham,Liverpool,Premier League,17
+2025-12-20,00:00,Wolves,Brentford,Premier League,17
+2025-12-27,00:00,Sunderland AFC,Leeds,Premier League,18
+2025-12-27,00:00,Crystal Palace,Tottenham,Premier League,18
+2025-12-27,00:00,Arsenal,Brighton,Premier League,18
+2025-12-27,00:00,Brentford,Bournemouth,Premier League,18
+2025-12-27,00:00,Burnley,Everton,Premier League,18
+2025-12-27,00:00,Chelsea,Aston Villa,Premier League,18
+2025-12-27,00:00,Liverpool,Wolves,Premier League,18
+2025-12-27,00:00,Manchester Utd,Newcastle,Premier League,18
+2025-12-27,00:00,Nott'm Forest,Manchester City,Premier League,18
+2025-12-27,00:00,West Ham,Fulham,Premier League,18
+2025-12-30,00:00,Sunderland AFC,Manchester City,Premier League,19
+2025-12-30,00:00,Crystal Palace,Fulham,Premier League,19
+2025-12-30,00:00,Arsenal,Aston Villa,Premier League,19
+2025-12-30,00:00,Brentford,Tottenham,Premier League,19
+2025-12-30,00:00,Burnley,Newcastle,Premier League,19
+2025-12-30,00:00,Chelsea,Bournemouth,Premier League,19
+2025-12-30,00:00,Liverpool,Leeds,Premier League,19
+2025-12-30,00:00,Manchester Utd,Wolves,Premier League,19
+2025-12-30,00:00,Nott'm Forest,Everton,Premier League,19
+2025-12-30,00:00,West Ham,Brighton,Premier League,19
+2026-01-03,00:00,Bournemouth,Arsenal,Premier League,20
+2026-01-03,00:00,Aston Villa,Nott'm Forest,Premier League,20
+2026-01-03,00:00,Brighton,Burnley,Premier League,20
+2026-01-03,00:00,Everton,Brentford,Premier League,20
+2026-01-03,00:00,Fulham,Liverpool,Premier League,20
+2026-01-03,00:00,Leeds,Manchester Utd,Premier League,20
+2026-01-03,00:00,Manchester City,Chelsea,Premier League,20
+2026-01-03,00:00,Newcastle,Crystal Palace,Premier League,20
+2026-01-03,00:00,Tottenham,Sunderland AFC,Premier League,20
+2026-01-03,00:00,Wolves,West Ham,Premier League,20
+2026-01-07,00:00,Bournemouth,Tottenham,Premier League,21
+2026-01-07,00:00,Crystal Palace,Aston Villa,Premier League,21
+2026-01-07,00:00,Arsenal,Liverpool,Premier League,21
+2026-01-07,00:00,Brentford,Sunderland AFC,Premier League,21
+2026-01-07,00:00,Burnley,Manchester Utd,Premier League,21
+2026-01-07,00:00,Everton,Wolves,Premier League,21
+2026-01-07,00:00,Fulham,Chelsea,Premier League,21
+2026-01-07,00:00,Manchester City,Brighton,Premier League,21
+2026-01-07,00:00,Newcastle,Leeds,Premier League,21
+2026-01-07,00:00,West Ham,Nott'm Forest,Premier League,21
+2026-01-17,00:00,Sunderland AFC,Crystal Palace,Premier League,22
+2026-01-17,00:00,Aston Villa,Everton,Premier League,22
+2026-01-17,00:00,Brighton,Bournemouth,Premier League,22
+2026-01-17,00:00,Chelsea,Brentford,Premier League,22
+2026-01-17,00:00,Liverpool,Burnley,Premier League,22
+2026-01-17,00:00,Leeds,Fulham,Premier League,22
+2026-01-17,00:00,Manchester Utd,Manchester City,Premier League,22
+2026-01-17,00:00,Nott'm Forest,Arsenal,Premier League,22
+2026-01-17,00:00,Tottenham,West Ham,Premier League,22
+2026-01-17,00:00,Wolves,Newcastle,Premier League,22
+2026-01-24,00:00,Bournemouth,Liverpool,Premier League,23
+2026-01-24,00:00,Crystal Palace,Chelsea,Premier League,23
+2026-01-24,00:00,Arsenal,Manchester Utd,Premier League,23
+2026-01-24,00:00,Brentford,Nott'm Forest,Premier League,23
+2026-01-24,00:00,Burnley,Tottenham,Premier League,23
+2026-01-24,00:00,Everton,Leeds,Premier League,23
+2026-01-24,00:00,Fulham,Brighton,Premier League,23
+2026-01-24,00:00,Manchester City,Wolves,Premier League,23
+2026-01-24,00:00,Newcastle,Aston Villa,Premier League,23
+2026-01-24,00:00,West Ham,Sunderland AFC,Premier League,23
+2026-01-31,00:00,Sunderland AFC,Burnley,Premier League,24
+2026-01-31,00:00,Aston Villa,Brentford,Premier League,24
+2026-01-31,00:00,Brighton,Everton,Premier League,24
+2026-01-31,00:00,Chelsea,West Ham,Premier League,24
+2026-01-31,00:00,Liverpool,Newcastle,Premier League,24
+2026-01-31,00:00,Leeds,Arsenal,Premier League,24
+2026-01-31,00:00,Manchester Utd,Fulham,Premier League,24
+2026-01-31,00:00,Nott'm Forest,Crystal Palace,Premier League,24
+2026-01-31,00:00,Tottenham,Manchester City,Premier League,24
+2026-01-31,00:00,Wolves,Bournemouth,Premier League,24
+2026-02-07,00:00,Bournemouth,Aston Villa,Premier League,25
+2026-02-07,00:00,Brighton,Crystal Palace,Premier League,25
+2026-02-07,00:00,Arsenal,Sunderland AFC,Premier League,25
+2026-02-07,00:00,Burnley,West Ham,Premier League,25
+2026-02-07,00:00,Fulham,Everton,Premier League,25
+2026-02-07,00:00,Liverpool,Manchester City,Premier League,25
+2026-02-07,00:00,Leeds,Nott'm Forest,Premier League,25
+2026-02-07,00:00,Manchester Utd,Tottenham,Premier League,25
+2026-02-07,00:00,Newcastle,Brentford,Premier League,25
+2026-02-07,00:00,Wolves,Chelsea,Premier League,25
+2026-02-11,00:00,Sunderland AFC,Liverpool,Premier League,26
+2026-02-11,00:00,Aston Villa,Brighton,Premier League,26
+2026-02-11,00:00,Crystal Palace,Burnley,Premier League,26
+2026-02-11,00:00,Brentford,Arsenal,Premier League,26
+2026-02-11,00:00,Chelsea,Leeds,Premier League,26
+2026-02-11,00:00,Everton,Bournemouth,Premier League,26
+2026-02-11,00:00,Manchester City,Fulham,Premier League,26
+2026-02-11,00:00,Nott'm Forest,Wolves,Premier League,26
+2026-02-11,00:00,Tottenham,Newcastle,Premier League,26
+2026-02-11,00:00,West Ham,Manchester Utd,Premier League,26
+2026-02-21,00:00,Sunderland AFC,Fulham,Premier League,27
+2026-02-21,00:00,Aston Villa,Leeds,Premier League,27
+2026-02-21,00:00,Crystal Palace,Wolves,Premier League,27
+2026-02-21,00:00,Brentford,Brighton,Premier League,27
+2026-02-21,00:00,Chelsea,Burnley,Premier League,27
+2026-02-21,00:00,Everton,Manchester Utd,Premier League,27
+2026-02-21,00:00,Manchester City,Newcastle,Premier League,27
+2026-02-21,00:00,Nott'm Forest,Liverpool,Premier League,27
+2026-02-21,00:00,Tottenham,Arsenal,Premier League,27
+2026-02-21,00:00,West Ham,Bournemouth,Premier League,27
+2026-02-28,00:00,Bournemouth,Sunderland AFC,Premier League,28
+2026-02-28,00:00,Brighton,Nott'm Forest,Premier League,28
+2026-02-28,00:00,Arsenal,Chelsea,Premier League,28
+2026-02-28,00:00,Burnley,Brentford,Premier League,28
+2026-02-28,00:00,Fulham,Tottenham,Premier League,28
+2026-02-28,00:00,Liverpool,West Ham,Premier League,28
+2026-02-28,00:00,Leeds,Manchester City,Premier League,28
+2026-02-28,00:00,Manchester Utd,Crystal Palace,Premier League,28
+2026-02-28,00:00,Newcastle,Everton,Premier League,28
+2026-02-28,00:00,Wolves,Aston Villa,Premier League,28
+2026-03-04,00:00,Bournemouth,Brentford,Premier League,29
+2026-03-04,00:00,Aston Villa,Chelsea,Premier League,29
+2026-03-04,00:00,Brighton,Arsenal,Premier League,29
+2026-03-04,00:00,Everton,Burnley,Premier League,29
+2026-03-04,00:00,Fulham,West Ham,Premier League,29
+2026-03-04,00:00,Leeds,Sunderland AFC,Premier League,29
+2026-03-04,00:00,Manchester City,Nott'm Forest,Premier League,29
+2026-03-04,00:00,Newcastle,Manchester Utd,Premier League,29
+2026-03-04,00:00,Tottenham,Crystal Palace,Premier League,29
+2026-03-04,00:00,Wolves,Liverpool,Premier League,29
+2026-03-14,00:00,Sunderland AFC,Brighton,Premier League,30
+2026-03-14,00:00,Crystal Palace,Leeds,Premier League,30
+2026-03-14,00:00,Arsenal,Everton,Premier League,30
+2026-03-14,00:00,Brentford,Wolves,Premier League,30
+2026-03-14,00:00,Burnley,Bournemouth,Premier League,30
+2026-03-14,00:00,Chelsea,Newcastle,Premier League,30
+2026-03-14,00:00,Liverpool,Tottenham,Premier League,30
+2026-03-14,00:00,Manchester Utd,Aston Villa,Premier League,30
+2026-03-14,00:00,Nott'm Forest,Fulham,Premier League,30
+2026-03-14,00:00,West Ham,Manchester City,Premier League,30
+2026-03-21,00:00,Bournemouth,Manchester Utd,Premier League,31
+2026-03-21,00:00,Aston Villa,West Ham,Premier League,31
+2026-03-21,00:00,Brighton,Liverpool,Premier League,31
+2026-03-21,00:00,Everton,Chelsea,Premier League,31
+2026-03-21,00:00,Fulham,Burnley,Premier League,31
+2026-03-21,00:00,Leeds,Brentford,Premier League,31
+2026-03-21,00:00,Manchester City,Crystal Palace,Premier League,31
+2026-03-21,00:00,Newcastle,Sunderland AFC,Premier League,31
+2026-03-21,00:00,Tottenham,Nott'm Forest,Premier League,31
+2026-03-21,00:00,Wolves,Arsenal,Premier League,31
+2026-04-11,00:00,Sunderland AFC,Tottenham,Premier League,32
+2026-04-11,00:00,Crystal Palace,Newcastle,Premier League,32
+2026-04-11,00:00,Arsenal,Bournemouth,Premier League,32
+2026-04-11,00:00,Brentford,Everton,Premier League,32
+2026-04-11,00:00,Burnley,Brighton,Premier League,32
+2026-04-11,00:00,Chelsea,Manchester City,Premier League,32
+2026-04-11,00:00,Liverpool,Fulham,Premier League,32
+2026-04-11,00:00,Manchester Utd,Leeds,Premier League,32
+2026-04-11,00:00,Nott'm Forest,Aston Villa,Premier League,32
+2026-04-11,00:00,West Ham,Wolves,Premier League,32
+2026-04-18,00:00,Newcastle,Bournemouth,Premier League,33
+2026-04-18,00:00,Nott'm Forest,Burnley,Premier League,33
+2026-04-18,00:00,Tottenham,Brighton,Premier League,33
+2026-04-18,00:00,Aston Villa,Sunderland AFC,Premier League,33
+2026-04-18,00:00,Crystal Palace,West Ham,Premier League,33
+2026-04-18,00:00,Brentford,Fulham,Premier League,33
+2026-04-18,00:00,Chelsea,Manchester Utd,Premier League,33
+2026-04-18,00:00,Everton,Liverpool,Premier League,33
+2026-04-18,00:00,Leeds,Wolves,Premier League,33
+2026-04-18,00:00,Manchester City,Arsenal,Premier League,33
+2026-04-25,00:00,Bournemouth,Leeds,Premier League,34
+2026-04-25,00:00,Sunderland AFC,Nott'm Forest,Premier League,34
+2026-04-25,00:00,Brighton,Chelsea,Premier League,34
+2026-04-25,00:00,Arsenal,Newcastle,Premier League,34
+2026-04-25,00:00,Burnley,Manchester City,Premier League,34
+2026-04-25,00:00,Fulham,Aston Villa,Premier League,34
+2026-04-25,00:00,Liverpool,Crystal Palace,Premier League,34
+2026-04-25,00:00,Manchester Utd,Brentford,Premier League,34
+2026-04-25,00:00,West Ham,Everton,Premier League,34
+2026-04-25,00:00,Wolves,Tottenham,Premier League,34
+2026-05-02,00:00,Bournemouth,Crystal Palace,Premier League,35
+2026-05-02,00:00,Aston Villa,Tottenham,Premier League,35
+2026-05-02,00:00,Arsenal,Fulham,Premier League,35
+2026-05-02,00:00,Brentford,West Ham,Premier League,35
+2026-05-02,00:00,Chelsea,Nott'm Forest,Premier League,35
+2026-05-02,00:00,Everton,Manchester City,Premier League,35
+2026-05-02,00:00,Leeds,Burnley,Premier League,35
+2026-05-02,00:00,Manchester Utd,Liverpool,Premier League,35
+2026-05-02,00:00,Newcastle,Brighton,Premier League,35
+2026-05-02,00:00,Wolves,Sunderland AFC,Premier League,35
+2026-05-09,00:00,Sunderland AFC,Manchester Utd,Premier League,36
+2026-05-09,00:00,Brighton,Wolves,Premier League,36
+2026-05-09,00:00,Crystal Palace,Everton,Premier League,36
+2026-05-09,00:00,Burnley,Aston Villa,Premier League,36
+2026-05-09,00:00,Fulham,Bournemouth,Premier League,36
+2026-05-09,00:00,Liverpool,Chelsea,Premier League,36
+2026-05-09,00:00,Manchester City,Brentford,Premier League,36
+2026-05-09,00:00,Nott'm Forest,Newcastle,Premier League,36
+2026-05-09,00:00,Tottenham,Leeds,Premier League,36
+2026-05-09,00:00,West Ham,Arsenal,Premier League,36
+2026-05-17,00:00,Bournemouth,Manchester City,Premier League,37
+2026-05-17,00:00,Aston Villa,Liverpool,Premier League,37
+2026-05-17,00:00,Arsenal,Burnley,Premier League,37
+2026-05-17,00:00,Brentford,Crystal Palace,Premier League,37
+2026-05-17,00:00,Chelsea,Tottenham,Premier League,37
+2026-05-17,00:00,Everton,Sunderland AFC,Premier League,37
+2026-05-17,00:00,Leeds,Brighton,Premier League,37
+2026-05-17,00:00,Manchester Utd,Nott'm Forest,Premier League,37
+2026-05-17,00:00,Newcastle,West Ham,Premier League,37
+2026-05-17,00:00,Wolves,Fulham,Premier League,37
+2026-05-24,00:00,Sunderland AFC,Chelsea,Premier League,38
+2026-05-24,00:00,Brighton,Manchester Utd,Premier League,38
+2026-05-24,00:00,Crystal Palace,Arsenal,Premier League,38
+2026-05-24,00:00,Burnley,Wolves,Premier League,38
+2026-05-24,00:00,Fulham,Newcastle,Premier League,38
+2026-05-24,00:00,Liverpool,Brentford,Premier League,38
+2026-05-24,00:00,Manchester City,Aston Villa,Premier League,38
+2026-05-24,00:00,Nott'm Forest,Bournemouth,Premier League,38
+2026-05-24,00:00,Tottenham,Everton,Premier League,38
+2026-05-24,00:00,West Ham,Leeds,Premier League,38
+2025-08-23,16:30,Genoa,Lecce,Serie A,1
+2025-08-23,16:30,Sassuolo,Napoli,Serie A,1
+2025-08-23,18:45,Milan,Cremonese,Serie A,1
+2025-08-23,18:45,Roma,Bologna,Serie A,1
+2025-08-24,16:30,Cagliari,Fiorentina,Serie A,1
+2025-08-24,16:30,Como,Lazio,Serie A,1
+2025-08-24,18:45,Atalanta,Pisa,Serie A,1
+2025-08-24,18:45,Juventus,Parma,Serie A,1
+2025-08-25,16:30,Udinese,Verona,Serie A,1
+2025-08-25,18:45,Inter,Torino,Serie A,1
+2025-08-29,16:30,Cremonese,Sassuolo,Serie A,2
+2025-08-29,18:45,Lecce,Milan,Serie A,2
+2025-08-30,16:30,Bologna,Como,Serie A,2
+2025-08-30,16:30,Parma,Atalanta,Serie A,2
+2025-08-30,18:45,Napoli,Cagliari,Serie A,2
+2025-08-30,18:45,Pisa,Roma,Serie A,2
+2025-08-31,16:30,Genoa,Juventus,Serie A,2
+2025-08-31,16:30,Torino,Fiorentina,Serie A,2
+2025-08-31,18:45,Inter,Udinese,Serie A,2
+2025-08-31,18:45,Lazio,Verona,Serie A,2
+2025-09-13,13:00,Cagliari,Parma,Serie A,3
+2025-09-13,16:00,Juventus,Inter,Serie A,3
+2025-09-13,18:45,Fiorentina,Napoli,Serie A,3
+2025-09-14,10:30,Roma,Torino,Serie A,3
+2025-09-14,13:00,Atalanta,Lecce,Serie A,3
+2025-09-14,13:00,Pisa,Udinese,Serie A,3
+2025-09-14,16:00,Sassuolo,Lazio,Serie A,3
+2025-09-14,18:45,Milan,Bologna,Serie A,3
+2025-09-15,16:30,Verona,Cremonese,Serie A,3
+2025-09-15,18:45,Como,Genoa,Serie A,3
+2025-09-21,00:00,Fiorentina,Como,Serie A,4
+2025-09-21,00:00,Bologna,Genoa,Serie A,4
+2025-09-21,00:00,Torino,Atalanta,Serie A,4
+2025-09-21,00:00,Verona,Juventus,Serie A,4
+2025-09-21,00:00,Inter,Sassuolo,Serie A,4
+2025-09-21,00:00,Lazio,Roma,Serie A,4
+2025-09-21,00:00,Napoli,Pisa,Serie A,4
+2025-09-21,00:00,Udinese,Milan,Serie A,4
+2025-09-21,00:00,Cremonese,Parma,Serie A,4
+2025-09-21,00:00,Lecce,Cagliari,Serie A,4
+2025-09-28,00:00,Milan,Napoli,Serie A,5
+2025-09-28,00:00,Roma,Verona,Serie A,5
+2025-09-28,00:00,Cagliari,Inter,Serie A,5
+2025-09-28,00:00,Genoa,Lazio,Serie A,5
+2025-09-28,00:00,Como,Cremonese,Serie A,5
+2025-09-28,00:00,Juventus,Atalanta,Serie A,5
+2025-09-28,00:00,Parma,Torino,Serie A,5
+2025-09-28,00:00,Pisa,Fiorentina,Serie A,5
+2025-09-28,00:00,Sassuolo,Udinese,Serie A,5
+2025-09-28,00:00,Lecce,Bologna,Serie A,5
+2025-10-05,00:00,Fiorentina,Roma,Serie A,6
+2025-10-05,00:00,Atalanta,Como,Serie A,6
+2025-10-05,00:00,Bologna,Pisa,Serie A,6
+2025-10-05,00:00,Verona,Sassuolo,Serie A,6
+2025-10-05,00:00,Inter,Cremonese,Serie A,6
+2025-10-05,00:00,Juventus,Milan,Serie A,6
+2025-10-05,00:00,Lazio,Torino,Serie A,6
+2025-10-05,00:00,Parma,Lecce,Serie A,6
+2025-10-05,00:00,Napoli,Genoa,Serie A,6
+2025-10-05,00:00,Udinese,Cagliari,Serie A,6
+2025-10-19,00:00,Milan,Fiorentina,Serie A,7
+2025-10-19,00:00,Roma,Inter,Serie A,7
+2025-10-19,00:00,Atalanta,Lazio,Serie A,7
+2025-10-19,00:00,Cagliari,Bologna,Serie A,7
+2025-10-19,00:00,Genoa,Parma,Serie A,7
+2025-10-19,00:00,Como,Juventus,Serie A,7
+2025-10-19,00:00,Torino,Napoli,Serie A,7
+2025-10-19,00:00,Pisa,Verona,Serie A,7
+2025-10-19,00:00,Cremonese,Udinese,Serie A,7
+2025-10-19,00:00,Lecce,Sassuolo,Serie A,7
+2025-10-26,00:00,Fiorentina,Bologna,Serie A,8
+2025-10-26,00:00,Milan,Pisa,Serie A,8
+2025-10-26,00:00,Torino,Genoa,Serie A,8
+2025-10-26,00:00,Verona,Cagliari,Serie A,8
+2025-10-26,00:00,Lazio,Juventus,Serie A,8
+2025-10-26,00:00,Parma,Como,Serie A,8
+2025-10-26,00:00,Sassuolo,Roma,Serie A,8
+2025-10-26,00:00,Napoli,Inter,Serie A,8
+2025-10-26,00:00,Udinese,Lecce,Serie A,8
+2025-10-26,00:00,Cremonese,Atalanta,Serie A,8
+2025-10-29,00:00,Roma,Parma,Serie A,9
+2025-10-29,00:00,Atalanta,Milan,Serie A,9
+2025-10-29,00:00,Cagliari,Sassuolo,Serie A,9
+2025-10-29,00:00,Genoa,Cremonese,Serie A,9
+2025-10-29,00:00,Como,Verona,Serie A,9
+2025-10-29,00:00,Bologna,Torino,Serie A,9
+2025-10-29,00:00,Inter,Fiorentina,Serie A,9
+2025-10-29,00:00,Juventus,Udinese,Serie A,9
+2025-10-29,00:00,Pisa,Lazio,Serie A,9
+2025-10-29,00:00,Lecce,Napoli,Serie A,9
+2025-11-02,00:00,Fiorentina,Lecce,Serie A,10
+2025-11-02,00:00,Milan,Roma,Serie A,10
+2025-11-02,00:00,Torino,Pisa,Serie A,10
+2025-11-02,00:00,Verona,Inter,Serie A,10
+2025-11-02,00:00,Lazio,Cagliari,Serie A,10
+2025-11-02,00:00,Parma,Bologna,Serie A,10
+2025-11-02,00:00,Sassuolo,Genoa,Serie A,10
+2025-11-02,00:00,Napoli,Como,Serie A,10
+2025-11-02,00:00,Udinese,Atalanta,Serie A,10
+2025-11-02,00:00,Cremonese,Juventus,Serie A,10
+2025-11-09,00:00,Roma,Udinese,Serie A,11
+2025-11-09,00:00,Atalanta,Sassuolo,Serie A,11
+2025-11-09,00:00,Genoa,Fiorentina,Serie A,11
+2025-11-09,00:00,Como,Cagliari,Serie A,11
+2025-11-09,00:00,Bologna,Napoli,Serie A,11
+2025-11-09,00:00,Inter,Lazio,Serie A,11
+2025-11-09,00:00,Juventus,Torino,Serie A,11
+2025-11-09,00:00,Parma,Milan,Serie A,11
+2025-11-09,00:00,Pisa,Cremonese,Serie A,11
+2025-11-09,00:00,Lecce,Verona,Serie A,11
+2025-11-23,00:00,Fiorentina,Juventus,Serie A,12
+2025-11-23,00:00,Cagliari,Genoa,Serie A,12
+2025-11-23,00:00,Torino,Como,Serie A,12
+2025-11-23,00:00,Verona,Parma,Serie A,12
+2025-11-23,00:00,Inter,Milan,Serie A,12
+2025-11-23,00:00,Lazio,Lecce,Serie A,12
+2025-11-23,00:00,Sassuolo,Pisa,Serie A,12
+2025-11-23,00:00,Napoli,Atalanta,Serie A,12
+2025-11-23,00:00,Udinese,Bologna,Serie A,12
+2025-11-23,00:00,Cremonese,Roma,Serie A,12
+2025-11-30,00:00,Milan,Lazio,Serie A,13
+2025-11-30,00:00,Roma,Napoli,Serie A,13
+2025-11-30,00:00,Atalanta,Fiorentina,Serie A,13
+2025-11-30,00:00,Genoa,Verona,Serie A,13
+2025-11-30,00:00,Como,Sassuolo,Serie A,13
+2025-11-30,00:00,Bologna,Cremonese,Serie A,13
+2025-11-30,00:00,Juventus,Cagliari,Serie A,13
+2025-11-30,00:00,Parma,Udinese,Serie A,13
+2025-11-30,00:00,Pisa,Inter,Serie A,13
+2025-11-30,00:00,Lecce,Torino,Serie A,13
+2025-12-07,00:00,Cagliari,Roma,Serie A,14
+2025-12-07,00:00,Torino,Milan,Serie A,14
+2025-12-07,00:00,Verona,Atalanta,Serie A,14
+2025-12-07,00:00,Inter,Como,Serie A,14
+2025-12-07,00:00,Lazio,Bologna,Serie A,14
+2025-12-07,00:00,Pisa,Parma,Serie A,14
+2025-12-07,00:00,Sassuolo,Fiorentina,Serie A,14
+2025-12-07,00:00,Napoli,Juventus,Serie A,14
+2025-12-07,00:00,Udinese,Genoa,Serie A,14
+2025-12-07,00:00,Cremonese,Lecce,Serie A,14
+2025-12-14,00:00,Fiorentina,Verona,Serie A,15
+2025-12-14,00:00,Milan,Sassuolo,Serie A,15
+2025-12-14,00:00,Roma,Como,Serie A,15
+2025-12-14,00:00,Atalanta,Cagliari,Serie A,15
+2025-12-14,00:00,Genoa,Inter,Serie A,15
+2025-12-14,00:00,Bologna,Juventus,Serie A,15
+2025-12-14,00:00,Torino,Cremonese,Serie A,15
+2025-12-14,00:00,Parma,Lazio,Serie A,15
+2025-12-14,00:00,Udinese,Napoli,Serie A,15
+2025-12-14,00:00,Lecce,Pisa,Serie A,15
+2025-12-21,00:00,Fiorentina,Udinese,Serie A,16
+2025-12-21,00:00,Cagliari,Pisa,Serie A,16
+2025-12-21,00:00,Genoa,Atalanta,Serie A,16
+2025-12-21,00:00,Como,Milan,Serie A,16
+2025-12-21,00:00,Verona,Bologna,Serie A,16
+2025-12-21,00:00,Inter,Lecce,Serie A,16
+2025-12-21,00:00,Juventus,Roma,Serie A,16
+2025-12-21,00:00,Lazio,Cremonese,Serie A,16
+2025-12-21,00:00,Sassuolo,Torino,Serie A,16
+2025-12-21,00:00,Napoli,Parma,Serie A,16
+2025-12-28,00:00,Milan,Verona,Serie A,17
+2025-12-28,00:00,Roma,Genoa,Serie A,17
+2025-12-28,00:00,Atalanta,Inter,Serie A,17
+2025-12-28,00:00,Bologna,Sassuolo,Serie A,17
+2025-12-28,00:00,Torino,Cagliari,Serie A,17
+2025-12-28,00:00,Parma,Fiorentina,Serie A,17
+2025-12-28,00:00,Pisa,Juventus,Serie A,17
+2025-12-28,00:00,Udinese,Lazio,Serie A,17
+2025-12-28,00:00,Cremonese,Napoli,Serie A,17
+2025-12-28,00:00,Lecce,Como,Serie A,17
+2026-01-03,00:00,Fiorentina,Cremonese,Serie A,18
+2026-01-03,00:00,Atalanta,Roma,Serie A,18
+2026-01-03,00:00,Cagliari,Milan,Serie A,18
+2026-01-03,00:00,Genoa,Pisa,Serie A,18
+2026-01-03,00:00,Como,Udinese,Serie A,18
+2026-01-03,00:00,Verona,Torino,Serie A,18
+2026-01-03,00:00,Inter,Bologna,Serie A,18
+2026-01-03,00:00,Juventus,Lecce,Serie A,18
+2026-01-03,00:00,Lazio,Napoli,Serie A,18
+2026-01-03,00:00,Sassuolo,Parma,Serie A,18
+2026-01-06,00:00,Milan,Genoa,Serie A,19
+2026-01-06,00:00,Bologna,Atalanta,Serie A,19
+2026-01-06,00:00,Torino,Udinese,Serie A,19
+2026-01-06,00:00,Lazio,Fiorentina,Serie A,19
+2026-01-06,00:00,Parma,Inter,Serie A,19
+2026-01-06,00:00,Pisa,Como,Serie A,19
+2026-01-06,00:00,Sassuolo,Juventus,Serie A,19
+2026-01-06,00:00,Napoli,Verona,Serie A,19
+2026-01-06,00:00,Cremonese,Cagliari,Serie A,19
+2026-01-06,00:00,Lecce,Roma,Serie A,19
+2026-01-11,00:00,Fiorentina,Milan,Serie A,20
+2026-01-11,00:00,Roma,Sassuolo,Serie A,20
+2026-01-11,00:00,Atalanta,Torino,Serie A,20
+2026-01-11,00:00,Genoa,Cagliari,Serie A,20
+2026-01-11,00:00,Como,Bologna,Serie A,20
+2026-01-11,00:00,Verona,Lazio,Serie A,20
+2026-01-11,00:00,Inter,Napoli,Serie A,20
+2026-01-11,00:00,Juventus,Cremonese,Serie A,20
+2026-01-11,00:00,Udinese,Pisa,Serie A,20
+2026-01-11,00:00,Lecce,Parma,Serie A,20
+2026-01-18,00:00,Milan,Lecce,Serie A,21
+2026-01-18,00:00,Cagliari,Juventus,Serie A,21
+2026-01-18,00:00,Bologna,Fiorentina,Serie A,21
+2026-01-18,00:00,Torino,Roma,Serie A,21
+2026-01-18,00:00,Lazio,Como,Serie A,21
+2026-01-18,00:00,Parma,Genoa,Serie A,21
+2026-01-18,00:00,Pisa,Atalanta,Serie A,21
+2026-01-18,00:00,Napoli,Sassuolo,Serie A,21
+2026-01-18,00:00,Udinese,Inter,Serie A,21
+2026-01-18,00:00,Cremonese,Verona,Serie A,21
+2026-01-25,00:00,Fiorentina,Cagliari,Serie A,22
+2026-01-25,00:00,Roma,Milan,Serie A,22
+2026-01-25,00:00,Atalanta,Parma,Serie A,22
+2026-01-25,00:00,Genoa,Bologna,Serie A,22
+2026-01-25,00:00,Como,Torino,Serie A,22
+2026-01-25,00:00,Verona,Udinese,Serie A,22
+2026-01-25,00:00,Inter,Pisa,Serie A,22
+2026-01-25,00:00,Juventus,Napoli,Serie A,22
+2026-01-25,00:00,Sassuolo,Cremonese,Serie A,22
+2026-01-25,00:00,Lecce,Lazio,Serie A,22
+2026-02-01,00:00,Cagliari,Verona,Serie A,23
+2026-02-01,00:00,Como,Atalanta,Serie A,23
+2026-02-01,00:00,Bologna,Milan,Serie A,23
+2026-02-01,00:00,Torino,Lecce,Serie A,23
+2026-02-01,00:00,Lazio,Genoa,Serie A,23
+2026-02-01,00:00,Parma,Juventus,Serie A,23
+2026-02-01,00:00,Pisa,Sassuolo,Serie A,23
+2026-02-01,00:00,Napoli,Fiorentina,Serie A,23
+2026-02-01,00:00,Udinese,Roma,Serie A,23
+2026-02-01,00:00,Cremonese,Inter,Serie A,23
+2026-02-08,00:00,Fiorentina,Torino,Serie A,24
+2026-02-08,00:00,Milan,Como,Serie A,24
+2026-02-08,00:00,Roma,Cagliari,Serie A,24
+2026-02-08,00:00,Atalanta,Cremonese,Serie A,24
+2026-02-08,00:00,Genoa,Napoli,Serie A,24
+2026-02-08,00:00,Bologna,Parma,Serie A,24
+2026-02-08,00:00,Verona,Pisa,Serie A,24
+2026-02-08,00:00,Juventus,Lazio,Serie A,24
+2026-02-08,00:00,Sassuolo,Inter,Serie A,24
+2026-02-08,00:00,Lecce,Udinese,Serie A,24
+2026-02-15,00:00,Cagliari,Lecce,Serie A,25
+2026-02-15,00:00,Como,Fiorentina,Serie A,25
+2026-02-15,00:00,Torino,Bologna,Serie A,25
+2026-02-15,00:00,Inter,Juventus,Serie A,25
+2026-02-15,00:00,Lazio,Atalanta,Serie A,25
+2026-02-15,00:00,Parma,Verona,Serie A,25
+2026-02-15,00:00,Pisa,Milan,Serie A,25
+2026-02-15,00:00,Napoli,Roma,Serie A,25
+2026-02-15,00:00,Udinese,Sassuolo,Serie A,25
+2026-02-15,00:00,Cremonese,Genoa,Serie A,25
+2026-02-22,00:00,Fiorentina,Pisa,Serie A,26
+2026-02-22,00:00,Milan,Parma,Serie A,26
+2026-02-22,00:00,Roma,Cremonese,Serie A,26
+2026-02-22,00:00,Atalanta,Napoli,Serie A,26
+2026-02-22,00:00,Cagliari,Lazio,Serie A,26
+2026-02-22,00:00,Genoa,Torino,Serie A,26
+2026-02-22,00:00,Bologna,Udinese,Serie A,26
+2026-02-22,00:00,Juventus,Como,Serie A,26
+2026-02-22,00:00,Sassuolo,Verona,Serie A,26
+2026-02-22,00:00,Lecce,Inter,Serie A,26
+2026-03-01,00:00,Roma,Juventus,Serie A,27
+2026-03-01,00:00,Como,Lecce,Serie A,27
+2026-03-01,00:00,Torino,Lazio,Serie A,27
+2026-03-01,00:00,Verona,Napoli,Serie A,27
+2026-03-01,00:00,Inter,Genoa,Serie A,27
+2026-03-01,00:00,Parma,Cagliari,Serie A,27
+2026-03-01,00:00,Pisa,Bologna,Serie A,27
+2026-03-01,00:00,Sassuolo,Atalanta,Serie A,27
+2026-03-01,00:00,Udinese,Fiorentina,Serie A,27
+2026-03-01,00:00,Cremonese,Milan,Serie A,27
+2026-03-08,00:00,Cagliari,Como,Serie A,28
+2026-03-08,00:00,Genoa,Roma,Serie A,28
+2026-03-08,00:00,Bologna,Verona,Serie A,28
+2026-03-08,00:00,Juventus,Pisa,Serie A,28
+2026-03-08,00:00,Lazio,Sassuolo,Serie A,28
+2026-03-08,00:00,Napoli,Torino,Serie A,28
+2026-03-08,00:00,Lecce,Cremonese,Serie A,28
+2026-03-08,00:00,Fiorentina,Parma,Serie A,28
+2026-03-08,00:00,Milan,Inter,Serie A,28
+2026-03-08,00:00,Atalanta,Udinese,Serie A,28
+2026-03-15,00:00,Como,Roma,Serie A,29
+2026-03-15,00:00,Torino,Parma,Serie A,29
+2026-03-15,00:00,Verona,Genoa,Serie A,29
+2026-03-15,00:00,Inter,Atalanta,Serie A,29
+2026-03-15,00:00,Lazio,Milan,Serie A,29
+2026-03-15,00:00,Pisa,Cagliari,Serie A,29
+2026-03-15,00:00,Sassuolo,Bologna,Serie A,29
+2026-03-15,00:00,Napoli,Lecce,Serie A,29
+2026-03-15,00:00,Udinese,Juventus,Serie A,29
+2026-03-15,00:00,Cremonese,Fiorentina,Serie A,29
+2026-03-22,00:00,Fiorentina,Inter,Serie A,30
+2026-03-22,00:00,Milan,Torino,Serie A,30
+2026-03-22,00:00,Roma,Lecce,Serie A,30
+2026-03-22,00:00,Atalanta,Verona,Serie A,30
+2026-03-22,00:00,Cagliari,Napoli,Serie A,30
+2026-03-22,00:00,Genoa,Udinese,Serie A,30
+2026-03-22,00:00,Como,Pisa,Serie A,30
+2026-03-22,00:00,Bologna,Lazio,Serie A,30
+2026-03-22,00:00,Juventus,Sassuolo,Serie A,30
+2026-03-22,00:00,Parma,Cremonese,Serie A,30
+2026-04-04,00:00,Verona,Fiorentina,Serie A,31
+2026-04-04,00:00,Inter,Roma,Serie A,31
+2026-04-04,00:00,Juventus,Genoa,Serie A,31
+2026-04-04,00:00,Lazio,Parma,Serie A,31
+2026-04-04,00:00,Pisa,Torino,Serie A,31
+2026-04-04,00:00,Sassuolo,Cagliari,Serie A,31
+2026-04-04,00:00,Napoli,Milan,Serie A,31
+2026-04-04,00:00,Udinese,Como,Serie A,31
+2026-04-04,00:00,Cremonese,Bologna,Serie A,31
+2026-04-04,00:00,Lecce,Atalanta,Serie A,31
+2026-04-12,00:00,Fiorentina,Lazio,Serie A,32
+2026-04-12,00:00,Milan,Udinese,Serie A,32
+2026-04-12,00:00,Roma,Pisa,Serie A,32
+2026-04-12,00:00,Atalanta,Juventus,Serie A,32
+2026-04-12,00:00,Cagliari,Cremonese,Serie A,32
+2026-04-12,00:00,Genoa,Sassuolo,Serie A,32
+2026-04-12,00:00,Como,Inter,Serie A,32
+2026-04-12,00:00,Bologna,Lecce,Serie A,32
+2026-04-12,00:00,Torino,Verona,Serie A,32
+2026-04-12,00:00,Parma,Napoli,Serie A,32
+2026-04-19,00:00,Roma,Atalanta,Serie A,33
+2026-04-19,00:00,Verona,Milan,Serie A,33
+2026-04-19,00:00,Inter,Cagliari,Serie A,33
+2026-04-19,00:00,Juventus,Bologna,Serie A,33
+2026-04-19,00:00,Pisa,Genoa,Serie A,33
+2026-04-19,00:00,Sassuolo,Como,Serie A,33
+2026-04-19,00:00,Napoli,Lazio,Serie A,33
+2026-04-19,00:00,Udinese,Parma,Serie A,33
+2026-04-19,00:00,Cremonese,Torino,Serie A,33
+2026-04-19,00:00,Lecce,Fiorentina,Serie A,33
+2026-04-26,00:00,Fiorentina,Sassuolo,Serie A,34
+2026-04-26,00:00,Milan,Juventus,Serie A,34
+2026-04-26,00:00,Cagliari,Atalanta,Serie A,34
+2026-04-26,00:00,Genoa,Como,Serie A,34
+2026-04-26,00:00,Bologna,Roma,Serie A,34
+2026-04-26,00:00,Torino,Inter,Serie A,34
+2026-04-26,00:00,Verona,Lecce,Serie A,34
+2026-04-26,00:00,Lazio,Udinese,Serie A,34
+2026-04-26,00:00,Parma,Pisa,Serie A,34
+2026-04-26,00:00,Napoli,Cremonese,Serie A,34
+2026-05-03,00:00,Roma,Fiorentina,Serie A,35
+2026-05-03,00:00,Atalanta,Genoa,Serie A,35
+2026-05-03,00:00,Como,Napoli,Serie A,35
+2026-05-03,00:00,Bologna,Cagliari,Serie A,35
+2026-05-03,00:00,Inter,Parma,Serie A,35
+2026-05-03,00:00,Juventus,Verona,Serie A,35
+2026-05-03,00:00,Pisa,Lecce,Serie A,35
+2026-05-03,00:00,Sassuolo,Milan,Serie A,35
+2026-05-03,00:00,Udinese,Torino,Serie A,35
+2026-05-03,00:00,Cremonese,Lazio,Serie A,35
+2026-05-10,00:00,Fiorentina,Genoa,Serie A,36
+2026-05-10,00:00,Milan,Atalanta,Serie A,36
+2026-05-10,00:00,Cagliari,Udinese,Serie A,36
+2026-05-10,00:00,Torino,Sassuolo,Serie A,36
+2026-05-10,00:00,Verona,Como,Serie A,36
+2026-05-10,00:00,Lazio,Inter,Serie A,36
+2026-05-10,00:00,Parma,Roma,Serie A,36
+2026-05-10,00:00,Napoli,Bologna,Serie A,36
+2026-05-10,00:00,Cremonese,Pisa,Serie A,36
+2026-05-10,00:00,Lecce,Juventus,Serie A,36
+2026-05-17,00:00,Roma,Lazio,Serie A,37
+2026-05-17,00:00,Atalanta,Bologna,Serie A,37
+2026-05-17,00:00,Cagliari,Torino,Serie A,37
+2026-05-17,00:00,Genoa,Milan,Serie A,37
+2026-05-17,00:00,Como,Parma,Serie A,37
+2026-05-17,00:00,Inter,Verona,Serie A,37
+2026-05-17,00:00,Juventus,Fiorentina,Serie A,37
+2026-05-17,00:00,Pisa,Napoli,Serie A,37
+2026-05-17,00:00,Sassuolo,Lecce,Serie A,37
+2026-05-17,00:00,Udinese,Cremonese,Serie A,37
+2026-05-24,00:00,Fiorentina,Atalanta,Serie A,38
+2026-05-24,00:00,Milan,Cagliari,Serie A,38
+2026-05-24,00:00,Bologna,Inter,Serie A,38
+2026-05-24,00:00,Torino,Juventus,Serie A,38
+2026-05-24,00:00,Verona,Roma,Serie A,38
+2026-05-24,00:00,Lazio,Pisa,Serie A,38
+2026-05-24,00:00,Parma,Sassuolo,Serie A,38
+2026-05-24,00:00,Napoli,Udinese,Serie A,38
+2026-05-24,00:00,Cremonese,Como,Serie A,38
+2026-05-24,00:00,Lecce,Genoa,Serie A,38
+2025-08-17,00:00,Auxerre,Lorient,Ligue 1,1
+2025-08-17,00:00,Monaco,Le Havre,Ligue 1,1
+2025-08-17,00:00,Metz,Strasbourg,Ligue 1,1
+2025-08-17,00:00,Nantes,Paris SG,Ligue 1,1
+2025-08-17,00:00,Nice,Toulouse,Ligue 1,1
+2025-08-17,00:00,Lens,Lyon,Ligue 1,1
+2025-08-17,00:00,Angers,Paris FC,Ligue 1,1
+2025-08-17,00:00,Brest,Lille,Ligue 1,1
+2025-08-17,00:00,Rennes,Marseille,Ligue 1,1
+2025-08-24,00:00,Le Havre,Lens,Ligue 1,2
+2025-08-24,00:00,Lorient,Rennes,Ligue 1,2
+2025-08-24,00:00,Toulouse,Brest,Ligue 1,2
+2025-08-24,00:00,Nice,Auxerre,Ligue 1,2
+2025-08-24,00:00,Lyon,Metz,Ligue 1,2
+2025-08-24,00:00,Marseille,Paris FC,Ligue 1,2
+2025-08-24,00:00,Lille,Monaco,Ligue 1,2
+2025-08-24,00:00,Paris SG,Angers,Ligue 1,2
+2025-08-24,00:00,Strasbourg,Nantes,Ligue 1,2
+2025-08-31,00:00,Le Havre,Nice,Ligue 1,3
+2025-08-31,00:00,Monaco,Strasbourg,Ligue 1,3
+2025-08-31,00:00,Lorient,Lille,Ligue 1,3
+2025-08-31,00:00,Nantes,Auxerre,Ligue 1,3
+2025-08-31,00:00,Paris FC,Metz,Ligue 1,3
+2025-08-31,00:00,Toulouse,Paris SG,Ligue 1,3
+2025-08-31,00:00,Lyon,Marseille,Ligue 1,3
+2025-08-31,00:00,Lens,Brest,Ligue 1,3
+2025-08-31,00:00,Angers,Rennes,Ligue 1,3
+2025-09-14,00:00,Auxerre,Monaco,Ligue 1,4
+2025-09-14,00:00,Metz,Angers,Ligue 1,4
+2025-09-14,00:00,Nice,Nantes,Ligue 1,4
+2025-09-14,00:00,Marseille,Lorient,Ligue 1,4
+2025-09-14,00:00,Lille,Toulouse,Ligue 1,4
+2025-09-14,00:00,Paris SG,Lens,Ligue 1,4
+2025-09-14,00:00,Strasbourg,Le Havre,Ligue 1,4
+2025-09-14,00:00,Brest,Paris FC,Ligue 1,4
+2025-09-14,00:00,Rennes,Lyon,Ligue 1,4
+2025-09-21,00:00,Le Havre,Lorient,Ligue 1,5
+2025-09-21,00:00,Auxerre,Toulouse,Ligue 1,5
+2025-09-21,00:00,Monaco,Metz,Ligue 1,5
+2025-09-21,00:00,Nantes,Rennes,Ligue 1,5
+2025-09-21,00:00,Paris FC,Strasbourg,Ligue 1,5
+2025-09-21,00:00,Marseille,Paris SG,Ligue 1,5
+2025-09-21,00:00,Lyon,Angers,Ligue 1,5
+2025-09-21,00:00,Lens,Lille,Ligue 1,5
+2025-09-21,00:00,Brest,Nice,Ligue 1,5
+2025-09-28,00:00,Lorient,Monaco,Ligue 1,6
+2025-09-28,00:00,Metz,Le Havre,Ligue 1,6
+2025-09-28,00:00,Toulouse,Nantes,Ligue 1,6
+2025-09-28,00:00,Nice,Paris FC,Ligue 1,6
+2025-09-28,00:00,Lille,Lyon,Ligue 1,6
+2025-09-28,00:00,Paris SG,Auxerre,Ligue 1,6
+2025-09-28,00:00,Strasbourg,Marseille,Ligue 1,6
+2025-09-28,00:00,Angers,Brest,Ligue 1,6
+2025-09-28,00:00,Rennes,Lens,Ligue 1,6
+2025-10-05,00:00,Paris FC,Lorient,Ligue 1,7
+2025-10-05,00:00,Lyon,Toulouse,Ligue 1,7
+2025-10-05,00:00,Lille,Paris SG,Ligue 1,7
+2025-10-05,00:00,Strasbourg,Angers,Ligue 1,7
+2025-10-05,00:00,Brest,Nantes,Ligue 1,7
+2025-10-05,00:00,Le Havre,Rennes,Ligue 1,7
+2025-10-05,00:00,Auxerre,Lens,Ligue 1,7
+2025-10-05,00:00,Monaco,Nice,Ligue 1,7
+2025-10-05,00:00,Metz,Marseille,Ligue 1,7
+2025-10-19,00:00,Lorient,Brest,Ligue 1,8
+2025-10-19,00:00,Nantes,Lille,Ligue 1,8
+2025-10-19,00:00,Toulouse,Metz,Ligue 1,8
+2025-10-19,00:00,Nice,Lyon,Ligue 1,8
+2025-10-19,00:00,Marseille,Le Havre,Ligue 1,8
+2025-10-19,00:00,Paris SG,Strasbourg,Ligue 1,8
+2025-10-19,00:00,Lens,Paris FC,Ligue 1,8
+2025-10-19,00:00,Angers,Monaco,Ligue 1,8
+2025-10-19,00:00,Rennes,Auxerre,Ligue 1,8
+2025-10-26,00:00,Auxerre,Le Havre,Ligue 1,9
+2025-10-26,00:00,Monaco,Toulouse,Ligue 1,9
+2025-10-26,00:00,Paris FC,Nantes,Ligue 1,9
+2025-10-26,00:00,Lyon,Strasbourg,Ligue 1,9
+2025-10-26,00:00,Lille,Metz,Ligue 1,9
+2025-10-26,00:00,Lens,Marseille,Ligue 1,9
+2025-10-26,00:00,Angers,Lorient,Ligue 1,9
+2025-10-26,00:00,Brest,Paris SG,Ligue 1,9
+2025-10-26,00:00,Rennes,Nice,Ligue 1,9
+2025-10-29,00:00,Le Havre,Brest,Ligue 1,10
+2025-10-29,00:00,Lorient,Paris SG,Ligue 1,10
+2025-10-29,00:00,Metz,Lens,Ligue 1,10
+2025-10-29,00:00,Nantes,Monaco,Ligue 1,10
+2025-10-29,00:00,Paris FC,Lyon,Ligue 1,10
+2025-10-29,00:00,Toulouse,Rennes,Ligue 1,10
+2025-10-29,00:00,Nice,Lille,Ligue 1,10
+2025-10-29,00:00,Marseille,Angers,Ligue 1,10
+2025-10-29,00:00,Strasbourg,Auxerre,Ligue 1,10
+2025-11-02,00:00,Auxerre,Marseille,Ligue 1,11
+2025-11-02,00:00,Monaco,Paris FC,Ligue 1,11
+2025-11-02,00:00,Nantes,Metz,Ligue 1,11
+2025-11-02,00:00,Toulouse,Le Havre,Ligue 1,11
+2025-11-02,00:00,Lille,Angers,Ligue 1,11
+2025-11-02,00:00,Paris SG,Nice,Ligue 1,11
+2025-11-02,00:00,Lens,Lorient,Ligue 1,11
+2025-11-02,00:00,Brest,Lyon,Ligue 1,11
+2025-11-02,00:00,Rennes,Strasbourg,Ligue 1,11
+2025-11-09,00:00,Le Havre,Nantes,Ligue 1,12
+2025-11-09,00:00,Monaco,Lens,Ligue 1,12
+2025-11-09,00:00,Lorient,Toulouse,Ligue 1,12
+2025-11-09,00:00,Metz,Nice,Ligue 1,12
+2025-11-09,00:00,Paris FC,Rennes,Ligue 1,12
+2025-11-09,00:00,Lyon,Paris SG,Ligue 1,12
+2025-11-09,00:00,Marseille,Brest,Ligue 1,12
+2025-11-09,00:00,Strasbourg,Lille,Ligue 1,12
+2025-11-09,00:00,Angers,Auxerre,Ligue 1,12
+2025-11-23,00:00,Auxerre,Lyon,Ligue 1,13
+2025-11-23,00:00,Nantes,Lorient,Ligue 1,13
+2025-11-23,00:00,Toulouse,Angers,Ligue 1,13
+2025-11-23,00:00,Nice,Marseille,Ligue 1,13
+2025-11-23,00:00,Lille,Paris FC,Ligue 1,13
+2025-11-23,00:00,Paris SG,Le Havre,Ligue 1,13
+2025-11-23,00:00,Lens,Strasbourg,Ligue 1,13
+2025-11-23,00:00,Brest,Metz,Ligue 1,13
+2025-11-23,00:00,Rennes,Monaco,Ligue 1,13
+2025-11-30,00:00,Le Havre,Lille,Ligue 1,14
+2025-11-30,00:00,Monaco,Paris SG,Ligue 1,14
+2025-11-30,00:00,Lorient,Nice,Ligue 1,14
+2025-11-30,00:00,Metz,Rennes,Ligue 1,14
+2025-11-30,00:00,Paris FC,Auxerre,Ligue 1,14
+2025-11-30,00:00,Lyon,Nantes,Ligue 1,14
+2025-11-30,00:00,Marseille,Toulouse,Ligue 1,14
+2025-11-30,00:00,Strasbourg,Brest,Ligue 1,14
+2025-11-30,00:00,Angers,Lens,Ligue 1,14
+2025-12-07,00:00,Le Havre,Paris FC,Ligue 1,15
+2025-12-07,00:00,Auxerre,Metz,Ligue 1,15
+2025-12-07,00:00,Lorient,Lyon,Ligue 1,15
+2025-12-07,00:00,Nantes,Lens,Ligue 1,15
+2025-12-07,00:00,Toulouse,Strasbourg,Ligue 1,15
+2025-12-07,00:00,Nice,Angers,Ligue 1,15
+2025-12-07,00:00,Lille,Marseille,Ligue 1,15
+2025-12-07,00:00,Paris SG,Rennes,Ligue 1,15
+2025-12-07,00:00,Brest,Monaco,Ligue 1,15
+2025-12-14,00:00,Auxerre,Lille,Ligue 1,16
+2025-12-14,00:00,Metz,Paris SG,Ligue 1,16
+2025-12-14,00:00,Paris FC,Toulouse,Ligue 1,16
+2025-12-14,00:00,Lyon,Le Havre,Ligue 1,16
+2025-12-14,00:00,Marseille,Monaco,Ligue 1,16
+2025-12-14,00:00,Strasbourg,Lorient,Ligue 1,16
+2025-12-14,00:00,Lens,Nice,Ligue 1,16
+2025-12-14,00:00,Angers,Nantes,Ligue 1,16
+2025-12-14,00:00,Rennes,Brest,Ligue 1,16
+2026-01-04,00:00,Le Havre,Angers,Ligue 1,17
+2026-01-04,00:00,Monaco,Lyon,Ligue 1,17
+2026-01-04,00:00,Lorient,Metz,Ligue 1,17
+2026-01-04,00:00,Toulouse,Lens,Ligue 1,17
+2026-01-04,00:00,Nice,Strasbourg,Ligue 1,17
+2026-01-04,00:00,Marseille,Nantes,Ligue 1,17
+2026-01-04,00:00,Lille,Rennes,Ligue 1,17
+2026-01-04,00:00,Paris SG,Paris FC,Ligue 1,17
+2026-01-04,00:00,Brest,Auxerre,Ligue 1,17
+2026-01-18,00:00,Monaco,Lorient,Ligue 1,18
+2026-01-18,00:00,Nantes,Paris FC,Ligue 1,18
+2026-01-18,00:00,Toulouse,Nice,Ligue 1,18
+2026-01-18,00:00,Lyon,Brest,Ligue 1,18
+2026-01-18,00:00,Paris SG,Lille,Ligue 1,18
+2026-01-18,00:00,Strasbourg,Metz,Ligue 1,18
+2026-01-18,00:00,Lens,Auxerre,Ligue 1,18
+2026-01-18,00:00,Angers,Marseille,Ligue 1,18
+2026-01-18,00:00,Rennes,Le Havre,Ligue 1,18
+2026-01-25,00:00,Le Havre,Monaco,Ligue 1,19
+2026-01-25,00:00,Auxerre,Paris SG,Ligue 1,19
+2026-01-25,00:00,Metz,Lyon,Ligue 1,19
+2026-01-25,00:00,Nantes,Nice,Ligue 1,19
+2026-01-25,00:00,Paris FC,Angers,Ligue 1,19
+2026-01-25,00:00,Marseille,Lens,Ligue 1,19
+2026-01-25,00:00,Lille,Strasbourg,Ligue 1,19
+2026-01-25,00:00,Brest,Toulouse,Ligue 1,19
+2026-01-25,00:00,Rennes,Lorient,Ligue 1,19
+2026-02-01,00:00,Monaco,Rennes,Ligue 1,20
+2026-02-01,00:00,Lorient,Nantes,Ligue 1,20
+2026-02-01,00:00,Paris FC,Marseille,Ligue 1,20
+2026-02-01,00:00,Toulouse,Auxerre,Ligue 1,20
+2026-02-01,00:00,Nice,Brest,Ligue 1,20
+2026-02-01,00:00,Lyon,Lille,Ligue 1,20
+2026-02-01,00:00,Strasbourg,Paris SG,Ligue 1,20
+2026-02-01,00:00,Lens,Le Havre,Ligue 1,20
+2026-02-01,00:00,Angers,Metz,Ligue 1,20
+2026-02-08,00:00,Le Havre,Strasbourg,Ligue 1,21
+2026-02-08,00:00,Auxerre,Paris FC,Ligue 1,21
+2026-02-08,00:00,Metz,Lille,Ligue 1,21
+2026-02-08,00:00,Nantes,Lyon,Ligue 1,21
+2026-02-08,00:00,Nice,Monaco,Ligue 1,21
+2026-02-08,00:00,Paris SG,Marseille,Ligue 1,21
+2026-02-08,00:00,Lens,Rennes,Ligue 1,21
+2026-02-08,00:00,Angers,Toulouse,Ligue 1,21
+2026-02-08,00:00,Brest,Lorient,Ligue 1,21
+2026-02-15,00:00,Le Havre,Toulouse,Ligue 1,22
+2026-02-15,00:00,Monaco,Nantes,Ligue 1,22
+2026-02-15,00:00,Lorient,Angers,Ligue 1,22
+2026-02-15,00:00,Metz,Auxerre,Ligue 1,22
+2026-02-15,00:00,Paris FC,Lens,Ligue 1,22
+2026-02-15,00:00,Lyon,Nice,Ligue 1,22
+2026-02-15,00:00,Marseille,Strasbourg,Ligue 1,22
+2026-02-15,00:00,Lille,Brest,Ligue 1,22
+2026-02-15,00:00,Rennes,Paris SG,Ligue 1,22
+2026-02-22,00:00,Auxerre,Rennes,Ligue 1,23
+2026-02-22,00:00,Nantes,Le Havre,Ligue 1,23
+2026-02-22,00:00,Toulouse,Paris FC,Ligue 1,23
+2026-02-22,00:00,Nice,Lorient,Ligue 1,23
+2026-02-22,00:00,Paris SG,Metz,Ligue 1,23
+2026-02-22,00:00,Strasbourg,Lyon,Ligue 1,23
+2026-02-22,00:00,Lens,Monaco,Ligue 1,23
+2026-02-22,00:00,Angers,Lille,Ligue 1,23
+2026-02-22,00:00,Brest,Marseille,Ligue 1,23
+2026-03-01,00:00,Le Havre,Paris SG,Ligue 1,24
+2026-03-01,00:00,Monaco,Angers,Ligue 1,24
+2026-03-01,00:00,Lorient,Auxerre,Ligue 1,24
+2026-03-01,00:00,Metz,Brest,Ligue 1,24
+2026-03-01,00:00,Paris FC,Nice,Ligue 1,24
+2026-03-01,00:00,Marseille,Lyon,Ligue 1,24
+2026-03-01,00:00,Lille,Nantes,Ligue 1,24
+2026-03-01,00:00,Strasbourg,Lens,Ligue 1,24
+2026-03-01,00:00,Rennes,Toulouse,Ligue 1,24
+2026-03-08,00:00,Auxerre,Strasbourg,Ligue 1,25
+2026-03-08,00:00,Nantes,Angers,Ligue 1,25
+2026-03-08,00:00,Toulouse,Marseille,Ligue 1,25
+2026-03-08,00:00,Nice,Rennes,Ligue 1,25
+2026-03-08,00:00,Lyon,Paris FC,Ligue 1,25
+2026-03-08,00:00,Lille,Lorient,Ligue 1,25
+2026-03-08,00:00,Paris SG,Monaco,Ligue 1,25
+2026-03-08,00:00,Lens,Metz,Ligue 1,25
+2026-03-08,00:00,Brest,Le Havre,Ligue 1,25
+2026-03-15,00:00,Le Havre,Lyon,Ligue 1,26
+2026-03-15,00:00,Monaco,Brest,Ligue 1,26
+2026-03-15,00:00,Lorient,Lens,Ligue 1,26
+2026-03-15,00:00,Metz,Toulouse,Ligue 1,26
+2026-03-15,00:00,Marseille,Auxerre,Ligue 1,26
+2026-03-15,00:00,Paris SG,Nantes,Ligue 1,26
+2026-03-15,00:00,Strasbourg,Paris FC,Ligue 1,26
+2026-03-15,00:00,Angers,Nice,Ligue 1,26
+2026-03-15,00:00,Rennes,Lille,Ligue 1,26
+2026-03-22,00:00,Auxerre,Brest,Ligue 1,27
+2026-03-22,00:00,Nantes,Strasbourg,Ligue 1,27
+2026-03-22,00:00,Paris FC,Le Havre,Ligue 1,27
+2026-03-22,00:00,Toulouse,Lorient,Ligue 1,27
+2026-03-22,00:00,Nice,Paris SG,Ligue 1,27
+2026-03-22,00:00,Lyon,Monaco,Ligue 1,27
+2026-03-22,00:00,Marseille,Lille,Ligue 1,27
+2026-03-22,00:00,Lens,Angers,Ligue 1,27
+2026-03-22,00:00,Rennes,Metz,Ligue 1,27
+2026-04-05,00:00,Le Havre,Auxerre,Ligue 1,28
+2026-04-05,00:00,Monaco,Marseille,Ligue 1,28
+2026-04-05,00:00,Lorient,Paris FC,Ligue 1,28
+2026-04-05,00:00,Metz,Nantes,Ligue 1,28
+2026-04-05,00:00,Lille,Lens,Ligue 1,28
+2026-04-05,00:00,Paris SG,Toulouse,Ligue 1,28
+2026-04-05,00:00,Strasbourg,Nice,Ligue 1,28
+2026-04-05,00:00,Angers,Lyon,Ligue 1,28
+2026-04-05,00:00,Brest,Rennes,Ligue 1,28
+2026-04-12,00:00,Auxerre,Nantes,Ligue 1,29
+2026-04-12,00:00,Paris FC,Monaco,Ligue 1,29
+2026-04-12,00:00,Toulouse,Lille,Ligue 1,29
+2026-04-12,00:00,Nice,Le Havre,Ligue 1,29
+2026-04-12,00:00,Lyon,Lorient,Ligue 1,29
+2026-04-12,00:00,Marseille,Metz,Ligue 1,29
+2026-04-12,00:00,Lens,Paris SG,Ligue 1,29
+2026-04-12,00:00,Brest,Strasbourg,Ligue 1,29
+2026-04-12,00:00,Rennes,Angers,Ligue 1,29
+2026-04-19,00:00,Monaco,Auxerre,Ligue 1,30
+2026-04-19,00:00,Lorient,Marseille,Ligue 1,30
+2026-04-19,00:00,Metz,Paris FC,Ligue 1,30
+2026-04-19,00:00,Nantes,Brest,Ligue 1,30
+2026-04-19,00:00,Lille,Nice,Ligue 1,30
+2026-04-19,00:00,Paris SG,Lyon,Ligue 1,30
+2026-04-19,00:00,Strasbourg,Rennes,Ligue 1,30
+2026-04-19,00:00,Lens,Toulouse,Ligue 1,30
+2026-04-19,00:00,Angers,Le Havre,Ligue 1,30
+2026-04-26,00:00,Le Havre,Metz,Ligue 1,31
+2026-04-26,00:00,Lorient,Strasbourg,Ligue 1,31
+2026-04-26,00:00,Paris FC,Lille,Ligue 1,31
+2026-04-26,00:00,Toulouse,Monaco,Ligue 1,31
+2026-04-26,00:00,Lyon,Auxerre,Ligue 1,31
+2026-04-26,00:00,Marseille,Nice,Ligue 1,31
+2026-04-26,00:00,Angers,Paris SG,Ligue 1,31
+2026-04-26,00:00,Brest,Lens,Ligue 1,31
+2026-04-26,00:00,Rennes,Nantes,Ligue 1,31
+2026-05-03,00:00,Auxerre,Angers,Ligue 1,32
+2026-05-03,00:00,Metz,Monaco,Ligue 1,32
+2026-05-03,00:00,Nantes,Marseille,Ligue 1,32
+2026-05-03,00:00,Paris FC,Brest,Ligue 1,32
+2026-05-03,00:00,Nice,Lens,Ligue 1,32
+2026-05-03,00:00,Lyon,Rennes,Ligue 1,32
+2026-05-03,00:00,Lille,Le Havre,Ligue 1,32
+2026-05-03,00:00,Paris SG,Lorient,Ligue 1,32
+2026-05-03,00:00,Strasbourg,Toulouse,Ligue 1,32
+2026-05-09,00:00,Le Havre,Marseille,Ligue 1,33
+2026-05-09,00:00,Auxerre,Nice,Ligue 1,33
+2026-05-09,00:00,Monaco,Lille,Ligue 1,33
+2026-05-09,00:00,Metz,Lorient,Ligue 1,33
+2026-05-09,00:00,Toulouse,Lyon,Ligue 1,33
+2026-05-09,00:00,Paris SG,Brest,Ligue 1,33
+2026-05-09,00:00,Lens,Nantes,Ligue 1,33
+2026-05-09,00:00,Angers,Strasbourg,Ligue 1,33
+2026-05-09,00:00,Rennes,Paris FC,Ligue 1,33
+2026-05-16,00:00,Lorient,Le Havre,Ligue 1,34
+2026-05-16,00:00,Nantes,Toulouse,Ligue 1,34
+2026-05-16,00:00,Paris FC,Paris SG,Ligue 1,34
+2026-05-16,00:00,Nice,Metz,Ligue 1,34
+2026-05-16,00:00,Lyon,Lens,Ligue 1,34
+2026-05-16,00:00,Marseille,Rennes,Ligue 1,34
+2026-05-16,00:00,Lille,Auxerre,Ligue 1,34
+2026-05-16,00:00,Strasbourg,Monaco,Ligue 1,34
+2026-05-16,00:00,Brest,Angers,Ligue 1,34
+2025-08-17,00:00,Alaves,Levante,La Liga,1
+2025-08-17,00:00,Athletic Club,Sevilla,La Liga,1
+2025-08-17,00:00,Celta,Getafe,La Liga,1
+2025-08-17,00:00,Girona,Vallecano,La Liga,1
+2025-08-17,00:00,Espanol,Ath Madrid,La Liga,1
+2025-08-17,00:00,Mallorca,Barcelona,La Liga,1
+2025-08-17,00:00,Elche,Betis,La Liga,1
+2025-08-17,00:00,Real Madrid,Osasuna,La Liga,1
+2025-08-17,00:00,Valencia,Sociedad,La Liga,1
+2025-08-17,00:00,Villarreal,Real Oviedo,La Liga,1
+2025-08-24,00:00,Athletic Club,Vallecano,La Liga,2
+2025-08-24,00:00,Ath Madrid,Elche,La Liga,2
+2025-08-24,00:00,Osasuna,Valencia,La Liga,2
+2025-08-24,00:00,Real Oviedo,Real Madrid,La Liga,2
+2025-08-24,00:00,Betis,Alaves,La Liga,2
+2025-08-24,00:00,Levante,Barcelona,La Liga,2
+2025-08-24,00:00,Mallorca,Celta,La Liga,2
+2025-08-24,00:00,Sociedad,Espanol,La Liga,2
+2025-08-24,00:00,Sevilla,Getafe,La Liga,2
+2025-08-24,00:00,Villarreal,Girona,La Liga,2
+2025-08-31,00:00,Alaves,Ath Madrid,La Liga,3
+2025-08-31,00:00,Celta,Villarreal,La Liga,3
+2025-08-31,00:00,Elche,Levante,La Liga,3
+2025-08-31,00:00,Espanol,Osasuna,La Liga,3
+2025-08-31,00:00,Girona,Sevilla,La Liga,3
+2025-08-31,00:00,Real Oviedo,Sociedad,La Liga,3
+2025-08-31,00:00,Betis,Athletic Club,La Liga,3
+2025-08-31,00:00,Vallecano,Barcelona,La Liga,3
+2025-08-31,00:00,Valencia,Getafe,La Liga,3
+2025-08-31,00:00,Real Madrid,Mallorca,La Liga,3
+2025-09-14,00:00,Ath Madrid,Villarreal,La Liga,4
+2025-09-14,00:00,Barcelona,Valencia,La Liga,4
+2025-09-14,00:00,Celta,Girona,La Liga,4
+2025-09-14,00:00,Espanol,Mallorca,La Liga,4
+2025-09-14,00:00,Getafe,Real Oviedo,La Liga,4
+2025-09-14,00:00,Osasuna,Vallecano,La Liga,4
+2025-09-14,00:00,Athletic Club,Alaves,La Liga,4
+2025-09-14,00:00,Levante,Betis,La Liga,4
+2025-09-14,00:00,Sevilla,Elche,La Liga,4
+2025-09-14,00:00,Sociedad,Real Madrid,La Liga,4
+2025-09-21,00:00,Valencia,Athletic Club,La Liga,5
+2025-09-21,00:00,Mallorca,Ath Madrid,La Liga,5
+2025-09-21,00:00,Vallecano,Celta,La Liga,5
+2025-09-21,00:00,Real Madrid,Espanol,La Liga,5
+2025-09-21,00:00,Villarreal,Osasuna,La Liga,5
+2025-09-21,00:00,Alaves,Sevilla,La Liga,5
+2025-09-21,00:00,Barcelona,Getafe,La Liga,5
+2025-09-21,00:00,Betis,Sociedad,La Liga,5
+2025-09-21,00:00,Elche,Real Oviedo,La Liga,5
+2025-09-21,00:00,Girona,Levante,La Liga,5
+2025-09-24,00:00,Athletic Club,Girona,La Liga,6
+2025-09-24,00:00,Ath Madrid,Vallecano,La Liga,6
+2025-09-24,00:00,Espanol,Valencia,La Liga,6
+2025-09-24,00:00,Levante,Real Madrid,La Liga,6
+2025-09-24,00:00,Sevilla,Villarreal,La Liga,6
+2025-09-24,00:00,Getafe,Alaves,La Liga,6
+2025-09-24,00:00,Real Oviedo,Barcelona,La Liga,6
+2025-09-24,00:00,Celta,Betis,La Liga,6
+2025-09-24,00:00,Osasuna,Elche,La Liga,6
+2025-09-24,00:00,Sociedad,Mallorca,La Liga,6
+2025-09-28,00:00,Ath Madrid,Real Madrid,La Liga,7
+2025-09-28,00:00,Barcelona,Sociedad,La Liga,7
+2025-09-28,00:00,Betis,Osasuna,La Liga,7
+2025-09-28,00:00,Getafe,Levante,La Liga,7
+2025-09-28,00:00,Vallecano,Sevilla,La Liga,7
+2025-09-28,00:00,Mallorca,Alaves,La Liga,7
+2025-09-28,00:00,Villarreal,Athletic Club,La Liga,7
+2025-09-28,00:00,Elche,Celta,La Liga,7
+2025-09-28,00:00,Girona,Espanol,La Liga,7
+2025-09-28,00:00,Valencia,Real Oviedo,La Liga,7
+2025-10-05,00:00,Alaves,Elche,La Liga,8
+2025-10-05,00:00,Athletic Club,Mallorca,La Liga,8
+2025-10-05,00:00,Girona,Valencia,La Liga,8
+2025-10-05,00:00,Real Madrid,Villarreal,La Liga,8
+2025-10-05,00:00,Celta,Ath Madrid,La Liga,8
+2025-10-05,00:00,Sevilla,Barcelona,La Liga,8
+2025-10-05,00:00,Espanol,Betis,La Liga,8
+2025-10-05,00:00,Osasuna,Getafe,La Liga,8
+2025-10-05,00:00,Real Oviedo,Levante,La Liga,8
+2025-10-05,00:00,Sociedad,Vallecano,La Liga,8
+2025-10-19,00:00,Alaves,Valencia,La Liga,9
+2025-10-19,00:00,Ath Madrid,Osasuna,La Liga,9
+2025-10-19,00:00,Barcelona,Girona,La Liga,9
+2025-10-19,00:00,Celta,Sociedad,La Liga,9
+2025-10-19,00:00,Getafe,Real Madrid,La Liga,9
+2025-10-19,00:00,Levante,Vallecano,La Liga,9
+2025-10-19,00:00,Elche,Athletic Club,La Liga,9
+2025-10-19,00:00,Villarreal,Betis,La Liga,9
+2025-10-19,00:00,Real Oviedo,Espanol,La Liga,9
+2025-10-19,00:00,Sevilla,Mallorca,La Liga,9
+2025-10-26,00:00,Athletic Club,Getafe,La Liga,10
+2025-10-26,00:00,Girona,Real Oviedo,La Liga,10
+2025-10-26,00:00,Sociedad,Sevilla,La Liga,10
+2025-10-26,00:00,Valencia,Villarreal,La Liga,10
+2025-10-26,00:00,Vallecano,Alaves,La Liga,10
+2025-10-26,00:00,Betis,Ath Madrid,La Liga,10
+2025-10-26,00:00,Real Madrid,Barcelona,La Liga,10
+2025-10-26,00:00,Osasuna,Celta,La Liga,10
+2025-10-26,00:00,Espanol,Elche,La Liga,10
+2025-10-26,00:00,Mallorca,Levante,La Liga,10
+2025-11-02,00:00,Alaves,Espanol,La Liga,11
+2025-11-02,00:00,Ath Madrid,Sevilla,La Liga,11
+2025-11-02,00:00,Barcelona,Elche,La Liga,11
+2025-11-02,00:00,Betis,Mallorca,La Liga,11
+2025-11-02,00:00,Getafe,Girona,La Liga,11
+2025-11-02,00:00,Real Madrid,Valencia,La Liga,11
+2025-11-02,00:00,Sociedad,Athletic Club,La Liga,11
+2025-11-02,00:00,Levante,Celta,La Liga,11
+2025-11-02,00:00,Real Oviedo,Osasuna,La Liga,11
+2025-11-02,00:00,Villarreal,Vallecano,La Liga,11
+2025-11-09,00:00,Athletic Club,Real Oviedo,La Liga,12
+2025-11-09,00:00,Ath Madrid,Levante,La Liga,12
+2025-11-09,00:00,Elche,Sociedad,La Liga,12
+2025-11-09,00:00,Espanol,Villarreal,La Liga,12
+2025-11-09,00:00,Vallecano,Real Madrid,La Liga,12
+2025-11-09,00:00,Girona,Alaves,La Liga,12
+2025-11-09,00:00,Celta,Barcelona,La Liga,12
+2025-11-09,00:00,Valencia,Betis,La Liga,12
+2025-11-09,00:00,Mallorca,Getafe,La Liga,12
+2025-11-09,00:00,Sevilla,Osasuna,La Liga,12
+2025-11-23,00:00,Alaves,Celta,La Liga,13
+2025-11-23,00:00,Betis,Girona,La Liga,13
+2025-11-23,00:00,Elche,Real Madrid,La Liga,13
+2025-11-23,00:00,Espanol,Sevilla,La Liga,13
+2025-11-23,00:00,Osasuna,Sociedad,La Liga,13
+2025-11-23,00:00,Real Oviedo,Vallecano,La Liga,13
+2025-11-23,00:00,Barcelona,Athletic Club,La Liga,13
+2025-11-23,00:00,Getafe,Ath Madrid,La Liga,13
+2025-11-23,00:00,Valencia,Levante,La Liga,13
+2025-11-23,00:00,Villarreal,Mallorca,La Liga,13
+2025-11-30,00:00,Ath Madrid,Real Oviedo,La Liga,14
+2025-11-30,00:00,Celta,Espanol,La Liga,14
+2025-11-30,00:00,Girona,Real Madrid,La Liga,14
+2025-11-30,00:00,Mallorca,Osasuna,La Liga,14
+2025-11-30,00:00,Vallecano,Valencia,La Liga,14
+2025-11-30,00:00,Sociedad,Villarreal,La Liga,14
+2025-11-30,00:00,Barcelona,Alaves,La Liga,14
+2025-11-30,00:00,Levante,Athletic Club,La Liga,14
+2025-11-30,00:00,Sevilla,Betis,La Liga,14
+2025-11-30,00:00,Getafe,Elche,La Liga,14
+2025-12-07,00:00,Alaves,Sociedad,La Liga,15
+2025-12-07,00:00,Athletic Club,Ath Madrid,La Liga,15
+2025-12-07,00:00,Elche,Girona,La Liga,15
+2025-12-07,00:00,Espanol,Vallecano,La Liga,15
+2025-12-07,00:00,Betis,Barcelona,La Liga,15
+2025-12-07,00:00,Real Madrid,Celta,La Liga,15
+2025-12-07,00:00,Villarreal,Getafe,La Liga,15
+2025-12-07,00:00,Osasuna,Levante,La Liga,15
+2025-12-07,00:00,Real Oviedo,Mallorca,La Liga,15
+2025-12-07,00:00,Valencia,Sevilla,La Liga,15
+2025-12-14,00:00,Alaves,Real Madrid,La Liga,16
+2025-12-14,00:00,Ath Madrid,Valencia,La Liga,16
+2025-12-14,00:00,Barcelona,Osasuna,La Liga,16
+2025-12-14,00:00,Levante,Villarreal,La Liga,16
+2025-12-14,00:00,Celta,Athletic Club,La Liga,16
+2025-12-14,00:00,Vallecano,Betis,La Liga,16
+2025-12-14,00:00,Mallorca,Elche,La Liga,16
+2025-12-14,00:00,Getafe,Espanol,La Liga,16
+2025-12-14,00:00,Sociedad,Girona,La Liga,16
+2025-12-14,00:00,Sevilla,Real Oviedo,La Liga,16
+2025-12-21,00:00,Athletic Club,Espanol,La Liga,17
+2025-12-21,00:00,Betis,Getafe,La Liga,17
+2025-12-21,00:00,Elche,Vallecano,La Liga,17
+2025-12-21,00:00,Levante,Sociedad,La Liga,17
+2025-12-21,00:00,Real Madrid,Sevilla,La Liga,17
+2025-12-21,00:00,Osasuna,Alaves,La Liga,17
+2025-12-21,00:00,Girona,Ath Madrid,La Liga,17
+2025-12-21,00:00,Villarreal,Barcelona,La Liga,17
+2025-12-21,00:00,Real Oviedo,Celta,La Liga,17
+2025-12-21,00:00,Valencia,Mallorca,La Liga,17
+2026-01-04,00:00,Alaves,Real Oviedo,La Liga,18
+2026-01-04,00:00,Celta,Valencia,La Liga,18
+2026-01-04,00:00,Elche,Villarreal,La Liga,18
+2026-01-04,00:00,Osasuna,Athletic Club,La Liga,18
+2026-01-04,00:00,Sociedad,Ath Madrid,La Liga,18
+2026-01-04,00:00,Espanol,Barcelona,La Liga,18
+2026-01-04,00:00,Real Madrid,Betis,La Liga,18
+2026-01-04,00:00,Vallecano,Getafe,La Liga,18
+2026-01-04,00:00,Mallorca,Girona,La Liga,18
+2026-01-04,00:00,Sevilla,Levante,La Liga,18
+2026-01-11,00:00,Athletic Club,Real Madrid,La Liga,19
+2026-01-11,00:00,Getafe,Sociedad,La Liga,19
+2026-01-11,00:00,Girona,Osasuna,La Liga,19
+2026-01-11,00:00,Villarreal,Alaves,La Liga,19
+2026-01-11,00:00,Barcelona,Ath Madrid,La Liga,19
+2026-01-11,00:00,Real Oviedo,Betis,La Liga,19
+2026-01-11,00:00,Sevilla,Celta,La Liga,19
+2026-01-11,00:00,Valencia,Elche,La Liga,19
+2026-01-11,00:00,Levante,Espanol,La Liga,19
+2026-01-11,00:00,Vallecano,Mallorca,La Liga,19
+2026-01-18,00:00,Betis,Villarreal,La Liga,20
+2026-01-18,00:00,Celta,Vallecano,La Liga,20
+2026-01-18,00:00,Elche,Sevilla,La Liga,20
+2026-01-18,00:00,Espanol,Girona,La Liga,20
+2026-01-18,00:00,Getafe,Valencia,La Liga,20
+2026-01-18,00:00,Osasuna,Real Oviedo,La Liga,20
+2026-01-18,00:00,Ath Madrid,Alaves,La Liga,20
+2026-01-18,00:00,Mallorca,Athletic Club,La Liga,20
+2026-01-18,00:00,Sociedad,Barcelona,La Liga,20
+2026-01-18,00:00,Real Madrid,Levante,La Liga,20
+2026-01-25,00:00,Alaves,Betis,La Liga,21
+2026-01-25,00:00,Ath Madrid,Mallorca,La Liga,21
+2026-01-25,00:00,Barcelona,Real Oviedo,La Liga,21
+2026-01-25,00:00,Sevilla,Athletic Club,La Liga,21
+2026-01-25,00:00,Sociedad,Celta,La Liga,21
+2026-01-25,00:00,Levante,Elche,La Liga,21
+2026-01-25,00:00,Valencia,Espanol,La Liga,21
+2026-01-25,00:00,Girona,Getafe,La Liga,21
+2026-01-25,00:00,Vallecano,Osasuna,La Liga,21
+2026-01-25,00:00,Villarreal,Real Madrid,La Liga,21
+2026-02-01,00:00,Athletic Club,Sociedad,La Liga,22
+2026-02-01,00:00,Betis,Valencia,La Liga,22
+2026-02-01,00:00,Mallorca,Sevilla,La Liga,22
+2026-02-01,00:00,Osasuna,Villarreal,La Liga,22
+2026-02-01,00:00,Espanol,Alaves,La Liga,22
+2026-02-01,00:00,Levante,Ath Madrid,La Liga,22
+2026-02-01,00:00,Elche,Barcelona,La Liga,22
+2026-02-01,00:00,Getafe,Celta,La Liga,22
+2026-02-01,00:00,Real Oviedo,Girona,La Liga,22
+2026-02-01,00:00,Real Madrid,Vallecano,La Liga,22
+2026-02-08,00:00,Alaves,Getafe,La Liga,23
+2026-02-08,00:00,Athletic Club,Levante,La Liga,23
+2026-02-08,00:00,Ath Madrid,Betis,La Liga,23
+2026-02-08,00:00,Barcelona,Mallorca,La Liga,23
+2026-02-08,00:00,Celta,Osasuna,La Liga,23
+2026-02-08,00:00,Sociedad,Elche,La Liga,23
+2026-02-08,00:00,Villarreal,Espanol,La Liga,23
+2026-02-08,00:00,Sevilla,Girona,La Liga,23
+2026-02-08,00:00,Valencia,Real Madrid,La Liga,23
+2026-02-08,00:00,Vallecano,Real Oviedo,La Liga,23
+2026-02-15,00:00,Elche,Osasuna,La Liga,24
+2026-02-15,00:00,Getafe,Villarreal,La Liga,24
+2026-02-15,00:00,Levante,Valencia,La Liga,24
+2026-02-15,00:00,Real Madrid,Sociedad,La Liga,24
+2026-02-15,00:00,Sevilla,Alaves,La Liga,24
+2026-02-15,00:00,Real Oviedo,Athletic Club,La Liga,24
+2026-02-15,00:00,Vallecano,Ath Madrid,La Liga,24
+2026-02-15,00:00,Girona,Barcelona,La Liga,24
+2026-02-15,00:00,Mallorca,Betis,La Liga,24
+2026-02-15,00:00,Espanol,Celta,La Liga,24
+2026-02-22,00:00,Alaves,Girona,La Liga,25
+2026-02-22,00:00,Athletic Club,Elche,La Liga,25
+2026-02-22,00:00,Ath Madrid,Espanol,La Liga,25
+2026-02-22,00:00,Barcelona,Levante,La Liga,25
+2026-02-22,00:00,Betis,Vallecano,La Liga,25
+2026-02-22,00:00,Celta,Mallorca,La Liga,25
+2026-02-22,00:00,Getafe,Sevilla,La Liga,25
+2026-02-22,00:00,Osasuna,Real Madrid,La Liga,25
+2026-02-22,00:00,Villarreal,Valencia,La Liga,25
+2026-02-22,00:00,Sociedad,Real Oviedo,La Liga,25
+2026-03-01,00:00,Barcelona,Villarreal,La Liga,26
+2026-03-01,00:00,Betis,Sevilla,La Liga,26
+2026-03-01,00:00,Elche,Espanol,La Liga,26
+2026-03-01,00:00,Mallorca,Sociedad,La Liga,26
+2026-03-01,00:00,Levante,Alaves,La Liga,26
+2026-03-01,00:00,Vallecano,Athletic Club,La Liga,26
+2026-03-01,00:00,Real Oviedo,Ath Madrid,La Liga,26
+2026-03-01,00:00,Girona,Celta,La Liga,26
+2026-03-01,00:00,Real Madrid,Getafe,La Liga,26
+2026-03-01,00:00,Valencia,Osasuna,La Liga,26
+2026-03-08,00:00,Athletic Club,Barcelona,La Liga,27
+2026-03-08,00:00,Ath Madrid,Sociedad,La Liga,27
+2026-03-08,00:00,Celta,Real Madrid,La Liga,27
+2026-03-08,00:00,Espanol,Real Oviedo,La Liga,27
+2026-03-08,00:00,Valencia,Alaves,La Liga,27
+2026-03-08,00:00,Getafe,Betis,La Liga,27
+2026-03-08,00:00,Villarreal,Elche,La Liga,27
+2026-03-08,00:00,Levante,Girona,La Liga,27
+2026-03-08,00:00,Osasuna,Mallorca,La Liga,27
+2026-03-08,00:00,Sevilla,Vallecano,La Liga,27
+2026-03-15,00:00,Alaves,Villarreal,La Liga,28
+2026-03-15,00:00,Ath Madrid,Getafe,La Liga,28
+2026-03-15,00:00,Barcelona,Sevilla,La Liga,28
+2026-03-15,00:00,Betis,Celta,La Liga,28
+2026-03-15,00:00,Real Oviedo,Valencia,La Liga,28
+2026-03-15,00:00,Girona,Athletic Club,La Liga,28
+2026-03-15,00:00,Real Madrid,Elche,La Liga,28
+2026-03-15,00:00,Mallorca,Espanol,La Liga,28
+2026-03-15,00:00,Vallecano,Levante,La Liga,28
+2026-03-15,00:00,Sociedad,Osasuna,La Liga,28
+2026-03-22,00:00,Athletic Club,Betis,La Liga,29
+2026-03-22,00:00,Barcelona,Vallecano,La Liga,29
+2026-03-22,00:00,Elche,Mallorca,La Liga,29
+2026-03-22,00:00,Espanol,Getafe,La Liga,29
+2026-03-22,00:00,Levante,Real Oviedo,La Liga,29
+2026-03-22,00:00,Sevilla,Valencia,La Liga,29
+2026-03-22,00:00,Celta,Alaves,La Liga,29
+2026-03-22,00:00,Real Madrid,Ath Madrid,La Liga,29
+2026-03-22,00:00,Osasuna,Girona,La Liga,29
+2026-03-22,00:00,Villarreal,Sociedad,La Liga,29
+2026-04-05,00:00,Alaves,Osasuna,La Liga,30
+2026-04-05,00:00,Ath Madrid,Barcelona,La Liga,30
+2026-04-05,00:00,Betis,Espanol,La Liga,30
+2026-04-05,00:00,Girona,Villarreal,La Liga,30
+2026-04-05,00:00,Mallorca,Real Madrid,La Liga,30
+2026-04-05,00:00,Real Oviedo,Sevilla,La Liga,30
+2026-04-05,00:00,Getafe,Athletic Club,La Liga,30
+2026-04-05,00:00,Valencia,Celta,La Liga,30
+2026-04-05,00:00,Vallecano,Elche,La Liga,30
+2026-04-05,00:00,Sociedad,Levante,La Liga,30
+2026-04-12,00:00,Barcelona,Espanol,La Liga,31
+2026-04-12,00:00,Celta,Real Oviedo,La Liga,31
+2026-04-12,00:00,Elche,Valencia,La Liga,31
+2026-04-12,00:00,Mallorca,Vallecano,La Liga,31
+2026-04-12,00:00,Sociedad,Alaves,La Liga,31
+2026-04-12,00:00,Sevilla,Ath Madrid,La Liga,31
+2026-04-12,00:00,Osasuna,Betis,La Liga,31
+2026-04-12,00:00,Levante,Getafe,La Liga,31
+2026-04-12,00:00,Real Madrid,Girona,La Liga,31
+2026-04-12,00:00,Athletic Club,Villarreal,La Liga,31
+2026-04-19,00:00,Alaves,Mallorca,La Liga,32
+2026-04-19,00:00,Betis,Real Madrid,La Liga,32
+2026-04-19,00:00,Espanol,Levante,La Liga,32
+2026-04-19,00:00,Osasuna,Sevilla,La Liga,32
+2026-04-19,00:00,Vallecano,Sociedad,La Liga,32
+2026-04-19,00:00,Ath Madrid,Athletic Club,La Liga,32
+2026-04-19,00:00,Getafe,Barcelona,La Liga,32
+2026-04-19,00:00,Villarreal,Celta,La Liga,32
+2026-04-19,00:00,Real Oviedo,Elche,La Liga,32
+2026-04-19,00:00,Valencia,Girona,La Liga,32
+2026-04-22,00:00,Athletic Club,Osasuna,La Liga,33
+2026-04-22,00:00,Barcelona,Celta,La Liga,33
+2026-04-22,00:00,Levante,Sevilla,La Liga,33
+2026-04-22,00:00,Mallorca,Valencia,La Liga,33
+2026-04-22,00:00,Real Oviedo,Villarreal,La Liga,33
+2026-04-22,00:00,Real Madrid,Alaves,La Liga,33
+2026-04-22,00:00,Elche,Ath Madrid,La Liga,33
+2026-04-22,00:00,Girona,Betis,La Liga,33
+2026-04-22,00:00,Vallecano,Espanol,La Liga,33
+2026-04-22,00:00,Sociedad,Getafe,La Liga,33
+2026-05-03,00:00,Alaves,Athletic Club,La Liga,34
+2026-05-03,00:00,Betis,Real Oviedo,La Liga,34
+2026-05-03,00:00,Celta,Elche,La Liga,34
+2026-05-03,00:00,Espanol,Real Madrid,La Liga,34
+2026-05-03,00:00,Getafe,Vallecano,La Liga,34
+2026-05-03,00:00,Girona,Mallorca,La Liga,34
+2026-05-03,00:00,Valencia,Ath Madrid,La Liga,34
+2026-05-03,00:00,Osasuna,Barcelona,La Liga,34
+2026-05-03,00:00,Villarreal,Levante,La Liga,34
+2026-05-03,00:00,Sevilla,Sociedad,La Liga,34
+2026-05-10,00:00,Athletic Club,Valencia,La Liga,35
+2026-05-10,00:00,Ath Madrid,Celta,La Liga,35
+2026-05-10,00:00,Barcelona,Real Madrid,La Liga,35
+2026-05-10,00:00,Levante,Osasuna,La Liga,35
+2026-05-10,00:00,Mallorca,Villarreal,La Liga,35
+2026-05-10,00:00,Elche,Alaves,La Liga,35
+2026-05-10,00:00,Sociedad,Betis,La Liga,35
+2026-05-10,00:00,Sevilla,Espanol,La Liga,35
+2026-05-10,00:00,Real Oviedo,Getafe,La Liga,35
+2026-05-10,00:00,Vallecano,Girona,La Liga,35
+2026-05-13,00:00,Alaves,Barcelona,La Liga,36
+2026-05-13,00:00,Betis,Elche,La Liga,36
+2026-05-13,00:00,Celta,Levante,La Liga,36
+2026-05-13,00:00,Getafe,Mallorca,La Liga,36
+2026-05-13,00:00,Girona,Sociedad,La Liga,36
+2026-05-13,00:00,Espanol,Athletic Club,La Liga,36
+2026-05-13,00:00,Osasuna,Ath Madrid,La Liga,36
+2026-05-13,00:00,Valencia,Vallecano,La Liga,36
+2026-05-13,00:00,Villarreal,Sevilla,La Liga,36
+2026-05-13,00:00,Real Madrid,Real Oviedo,La Liga,36
+2026-05-17,00:00,Athletic Club,Celta,La Liga,37
+2026-05-17,00:00,Ath Madrid,Girona,La Liga,37
+2026-05-17,00:00,Barcelona,Betis,La Liga,37
+2026-05-17,00:00,Elche,Getafe,La Liga,37
+2026-05-17,00:00,Levante,Mallorca,La Liga,37
+2026-05-17,00:00,Vallecano,Villarreal,La Liga,37
+2026-05-17,00:00,Sociedad,Valencia,La Liga,37
+2026-05-17,00:00,Real Oviedo,Alaves,La Liga,37
+2026-05-17,00:00,Osasuna,Espanol,La Liga,37
+2026-05-17,00:00,Sevilla,Real Madrid,La Liga,37
+2026-05-24,00:00,Alaves,Vallecano,La Liga,38
+2026-05-24,00:00,Betis,Levante,La Liga,38
+2026-05-24,00:00,Celta,Sevilla,La Liga,38
+2026-05-24,00:00,Espanol,Sociedad,La Liga,38
+2026-05-24,00:00,Getafe,Osasuna,La Liga,38
+2026-05-24,00:00,Mallorca,Real Oviedo,La Liga,38
+2026-05-24,00:00,Real Madrid,Athletic Club,La Liga,38
+2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
+2026-05-24,00:00,Valencia,Barcelona,La Liga,38
+2026-05-24,00:00,Girona,Elche,La Liga,38
+2025-08-22,18:30,Bayern Munich,RB Leipzig,Bundesliga,1
+2025-08-23,00:00,Ein Frankfurt,Werder Bremen,Bundesliga,1
+2025-08-23,00:00,Leverkusen,Hoffenheim,Bundesliga,1
+2025-08-23,00:00,Freiburg,Augsburg,Bundesliga,1
+2025-08-23,00:00,Mainz,FC Koln,Bundesliga,1
+2025-08-23,00:00,M'gladbach,Hamburger SV,Bundesliga,1
+2025-08-23,00:00,Union Berlin,Stuttgart,Bundesliga,1
+2025-08-23,00:00,St Pauli,Dortmund,Bundesliga,1
+2025-08-23,00:00,Heidenheim,Wolfsburg,Bundesliga,1
+2025-08-30,00:00,RB Leipzig,Heidenheim,Bundesliga,2
+2025-08-30,00:00,Werder Bremen,Leverkusen,Bundesliga,2
+2025-08-30,00:00,Stuttgart,M'gladbach,Bundesliga,2
+2025-08-30,00:00,Wolfsburg,Mainz,Bundesliga,2
+2025-08-30,00:00,Augsburg,Bayern Munich,Bundesliga,2
+2025-08-30,00:00,Hoffenheim,Ein Frankfurt,Bundesliga,2
+2025-08-30,00:00,FC Koln,Freiburg,Bundesliga,2
+2025-08-30,00:00,Hamburger SV,St Pauli,Bundesliga,2
+2025-08-30,00:00,Dortmund,Union Berlin,Bundesliga,2
+2025-09-13,00:00,Bayern Munich,Hamburger SV,Bundesliga,3
+2025-09-13,00:00,Leverkusen,Ein Frankfurt,Bundesliga,3
+2025-09-13,00:00,Freiburg,Stuttgart,Bundesliga,3
+2025-09-13,00:00,Mainz,RB Leipzig,Bundesliga,3
+2025-09-13,00:00,M'gladbach,Werder Bremen,Bundesliga,3
+2025-09-13,00:00,Wolfsburg,FC Koln,Bundesliga,3
+2025-09-13,00:00,Union Berlin,Hoffenheim,Bundesliga,3
+2025-09-13,00:00,St Pauli,Augsburg,Bundesliga,3
+2025-09-13,00:00,Heidenheim,Dortmund,Bundesliga,3
+2025-09-20,00:00,Leverkusen,M'gladbach,Bundesliga,4
+2025-09-20,00:00,Ein Frankfurt,Union Berlin,Bundesliga,4
+2025-09-20,00:00,Dortmund,Wolfsburg,Bundesliga,4
+2025-09-20,00:00,RB Leipzig,FC Koln,Bundesliga,4
+2025-09-20,00:00,Werder Bremen,Freiburg,Bundesliga,4
+2025-09-20,00:00,Stuttgart,St Pauli,Bundesliga,4
+2025-09-20,00:00,Augsburg,Mainz,Bundesliga,4
+2025-09-20,00:00,Hoffenheim,Bayern Munich,Bundesliga,4
+2025-09-20,00:00,Hamburger SV,Heidenheim,Bundesliga,4
+2025-09-27,00:00,Bayern Munich,Werder Bremen,Bundesliga,5
+2025-09-27,00:00,Freiburg,Hoffenheim,Bundesliga,5
+2025-09-27,00:00,Mainz,Dortmund,Bundesliga,5
+2025-09-27,00:00,M'gladbach,Ein Frankfurt,Bundesliga,5
+2025-09-27,00:00,Wolfsburg,RB Leipzig,Bundesliga,5
+2025-09-27,00:00,Union Berlin,Hamburger SV,Bundesliga,5
+2025-09-27,00:00,St Pauli,Leverkusen,Bundesliga,5
+2025-09-27,00:00,Heidenheim,Augsburg,Bundesliga,5
+2025-09-27,00:00,FC Koln,Stuttgart,Bundesliga,5
+2025-10-04,00:00,Leverkusen,Union Berlin,Bundesliga,6
+2025-10-04,00:00,Ein Frankfurt,Bayern Munich,Bundesliga,6
+2025-10-04,00:00,Dortmund,RB Leipzig,Bundesliga,6
+2025-10-04,00:00,Werder Bremen,St Pauli,Bundesliga,6
+2025-10-04,00:00,Stuttgart,Heidenheim,Bundesliga,6
+2025-10-04,00:00,M'gladbach,Freiburg,Bundesliga,6
+2025-10-04,00:00,Augsburg,Wolfsburg,Bundesliga,6
+2025-10-04,00:00,Hoffenheim,FC Koln,Bundesliga,6
+2025-10-04,00:00,Hamburger SV,Mainz,Bundesliga,6
+2025-10-18,00:00,Bayern Munich,Dortmund,Bundesliga,7
+2025-10-18,00:00,Freiburg,Ein Frankfurt,Bundesliga,7
+2025-10-18,00:00,Mainz,Leverkusen,Bundesliga,7
+2025-10-18,00:00,RB Leipzig,Hamburger SV,Bundesliga,7
+2025-10-18,00:00,Wolfsburg,Stuttgart,Bundesliga,7
+2025-10-18,00:00,Union Berlin,M'gladbach,Bundesliga,7
+2025-10-18,00:00,St Pauli,Hoffenheim,Bundesliga,7
+2025-10-18,00:00,Heidenheim,Werder Bremen,Bundesliga,7
+2025-10-18,00:00,FC Koln,Augsburg,Bundesliga,7
+2025-10-25,00:00,Leverkusen,Freiburg,Bundesliga,8
+2025-10-25,00:00,Ein Frankfurt,St Pauli,Bundesliga,8
+2025-10-25,00:00,Dortmund,FC Koln,Bundesliga,8
+2025-10-25,00:00,Werder Bremen,Union Berlin,Bundesliga,8
+2025-10-25,00:00,Stuttgart,Mainz,Bundesliga,8
+2025-10-25,00:00,M'gladbach,Bayern Munich,Bundesliga,8
+2025-10-25,00:00,Augsburg,RB Leipzig,Bundesliga,8
+2025-10-25,00:00,Hoffenheim,Heidenheim,Bundesliga,8
+2025-10-25,00:00,Hamburger SV,Wolfsburg,Bundesliga,8
+2025-11-01,00:00,Bayern Munich,Leverkusen,Bundesliga,9
+2025-11-01,00:00,Mainz,Werder Bremen,Bundesliga,9
+2025-11-01,00:00,RB Leipzig,Stuttgart,Bundesliga,9
+2025-11-01,00:00,Wolfsburg,Hoffenheim,Bundesliga,9
+2025-11-01,00:00,Augsburg,Dortmund,Bundesliga,9
+2025-11-01,00:00,Union Berlin,Freiburg,Bundesliga,9
+2025-11-01,00:00,St Pauli,M'gladbach,Bundesliga,9
+2025-11-01,00:00,Heidenheim,Ein Frankfurt,Bundesliga,9
+2025-11-01,00:00,FC Koln,Hamburger SV,Bundesliga,9
+2025-11-08,00:00,Leverkusen,Heidenheim,Bundesliga,10
+2025-11-08,00:00,Ein Frankfurt,Mainz,Bundesliga,10
+2025-11-08,00:00,Freiburg,St Pauli,Bundesliga,10
+2025-11-08,00:00,Werder Bremen,Wolfsburg,Bundesliga,10
+2025-11-08,00:00,Stuttgart,Augsburg,Bundesliga,10
+2025-11-08,00:00,M'gladbach,FC Koln,Bundesliga,10
+2025-11-08,00:00,Union Berlin,Bayern Munich,Bundesliga,10
+2025-11-08,00:00,Hoffenheim,RB Leipzig,Bundesliga,10
+2025-11-08,00:00,Hamburger SV,Dortmund,Bundesliga,10
+2025-11-22,00:00,Bayern Munich,Freiburg,Bundesliga,11
+2025-11-22,00:00,Dortmund,Stuttgart,Bundesliga,11
+2025-11-22,00:00,Mainz,Hoffenheim,Bundesliga,11
+2025-11-22,00:00,RB Leipzig,Werder Bremen,Bundesliga,11
+2025-11-22,00:00,Wolfsburg,Leverkusen,Bundesliga,11
+2025-11-22,00:00,Augsburg,Hamburger SV,Bundesliga,11
+2025-11-22,00:00,St Pauli,Union Berlin,Bundesliga,11
+2025-11-22,00:00,Heidenheim,M'gladbach,Bundesliga,11
+2025-11-22,00:00,FC Koln,Ein Frankfurt,Bundesliga,11
+2025-11-29,00:00,Bayern Munich,St Pauli,Bundesliga,12
+2025-11-29,00:00,Leverkusen,Dortmund,Bundesliga,12
+2025-11-29,00:00,Ein Frankfurt,Wolfsburg,Bundesliga,12
+2025-11-29,00:00,Freiburg,Mainz,Bundesliga,12
+2025-11-29,00:00,Werder Bremen,FC Koln,Bundesliga,12
+2025-11-29,00:00,M'gladbach,RB Leipzig,Bundesliga,12
+2025-11-29,00:00,Union Berlin,Heidenheim,Bundesliga,12
+2025-11-29,00:00,Hoffenheim,Augsburg,Bundesliga,12
+2025-11-29,00:00,Hamburger SV,Stuttgart,Bundesliga,12
+2025-12-06,00:00,Dortmund,Hoffenheim,Bundesliga,13
+2025-12-06,00:00,Mainz,M'gladbach,Bundesliga,13
+2025-12-06,00:00,RB Leipzig,Ein Frankfurt,Bundesliga,13
+2025-12-06,00:00,Stuttgart,Bayern Munich,Bundesliga,13
+2025-12-06,00:00,Wolfsburg,Union Berlin,Bundesliga,13
+2025-12-06,00:00,Heidenheim,Freiburg,Bundesliga,13
+2025-12-06,00:00,FC Koln,St Pauli,Bundesliga,13
+2025-12-06,00:00,Hamburger SV,Werder Bremen,Bundesliga,13
+2025-12-06,00:00,Augsburg,Leverkusen,Bundesliga,13
+2025-12-13,00:00,Bayern Munich,Mainz,Bundesliga,14
+2025-12-13,00:00,Leverkusen,FC Koln,Bundesliga,14
+2025-12-13,00:00,Ein Frankfurt,Augsburg,Bundesliga,14
+2025-12-13,00:00,Freiburg,Dortmund,Bundesliga,14
+2025-12-13,00:00,Werder Bremen,Stuttgart,Bundesliga,14
+2025-12-13,00:00,M'gladbach,Wolfsburg,Bundesliga,14
+2025-12-13,00:00,Union Berlin,RB Leipzig,Bundesliga,14
+2025-12-13,00:00,St Pauli,Heidenheim,Bundesliga,14
+2025-12-13,00:00,Hoffenheim,Hamburger SV,Bundesliga,14
+2025-12-20,00:00,Dortmund,M'gladbach,Bundesliga,15
+2025-12-20,00:00,Mainz,St Pauli,Bundesliga,15
+2025-12-20,00:00,RB Leipzig,Leverkusen,Bundesliga,15
+2025-12-20,00:00,Stuttgart,Hoffenheim,Bundesliga,15
+2025-12-20,00:00,Wolfsburg,Freiburg,Bundesliga,15
+2025-12-20,00:00,Augsburg,Werder Bremen,Bundesliga,15
+2025-12-20,00:00,Heidenheim,Bayern Munich,Bundesliga,15
+2025-12-20,00:00,FC Koln,Union Berlin,Bundesliga,15
+2025-12-20,00:00,Hamburger SV,Ein Frankfurt,Bundesliga,15
+2026-01-10,00:00,Bayern Munich,Wolfsburg,Bundesliga,16
+2026-01-10,00:00,Leverkusen,Stuttgart,Bundesliga,16
+2026-01-10,00:00,Ein Frankfurt,Dortmund,Bundesliga,16
+2026-01-10,00:00,Freiburg,Hamburger SV,Bundesliga,16
+2026-01-10,00:00,Werder Bremen,Hoffenheim,Bundesliga,16
+2026-01-10,00:00,M'gladbach,Augsburg,Bundesliga,16
+2026-01-10,00:00,Union Berlin,Mainz,Bundesliga,16
+2026-01-10,00:00,St Pauli,RB Leipzig,Bundesliga,16
+2026-01-10,00:00,Heidenheim,FC Koln,Bundesliga,16
+2026-01-14,00:00,Dortmund,Werder Bremen,Bundesliga,17
+2026-01-14,00:00,Mainz,Heidenheim,Bundesliga,17
+2026-01-14,00:00,RB Leipzig,Freiburg,Bundesliga,17
+2026-01-14,00:00,Stuttgart,Ein Frankfurt,Bundesliga,17
+2026-01-14,00:00,Wolfsburg,St Pauli,Bundesliga,17
+2026-01-14,00:00,Augsburg,Union Berlin,Bundesliga,17
+2026-01-14,00:00,Hoffenheim,M'gladbach,Bundesliga,17
+2026-01-14,00:00,FC Koln,Bayern Munich,Bundesliga,17
+2026-01-14,00:00,Hamburger SV,Leverkusen,Bundesliga,17
+2026-01-17,00:00,RB Leipzig,Bayern Munich,Bundesliga,18
+2026-01-17,00:00,Werder Bremen,Ein Frankfurt,Bundesliga,18
+2026-01-17,00:00,Hoffenheim,Leverkusen,Bundesliga,18
+2026-01-17,00:00,Augsburg,Freiburg,Bundesliga,18
+2026-01-17,00:00,FC Koln,Mainz,Bundesliga,18
+2026-01-17,00:00,Hamburger SV,M'gladbach,Bundesliga,18
+2026-01-17,00:00,Stuttgart,Union Berlin,Bundesliga,18
+2026-01-17,00:00,Dortmund,St Pauli,Bundesliga,18
+2026-01-17,00:00,Wolfsburg,Heidenheim,Bundesliga,18
+2026-01-24,00:00,Union Berlin,Dortmund,Bundesliga,19
+2026-01-24,00:00,Heidenheim,RB Leipzig,Bundesliga,19
+2026-01-24,00:00,Leverkusen,Werder Bremen,Bundesliga,19
+2026-01-24,00:00,M'gladbach,Stuttgart,Bundesliga,19
+2026-01-24,00:00,Mainz,Wolfsburg,Bundesliga,19
+2026-01-24,00:00,Bayern Munich,Augsburg,Bundesliga,19
+2026-01-24,00:00,Ein Frankfurt,Hoffenheim,Bundesliga,19
+2026-01-24,00:00,Freiburg,FC Koln,Bundesliga,19
+2026-01-24,00:00,St Pauli,Hamburger SV,Bundesliga,19
+2026-01-31,00:00,Hamburger SV,Bayern Munich,Bundesliga,20
+2026-01-31,00:00,Ein Frankfurt,Leverkusen,Bundesliga,20
+2026-01-31,00:00,Stuttgart,Freiburg,Bundesliga,20
+2026-01-31,00:00,RB Leipzig,Mainz,Bundesliga,20
+2026-01-31,00:00,Werder Bremen,M'gladbach,Bundesliga,20
+2026-01-31,00:00,FC Koln,Wolfsburg,Bundesliga,20
+2026-01-31,00:00,Hoffenheim,Union Berlin,Bundesliga,20
+2026-01-31,00:00,Augsburg,St Pauli,Bundesliga,20
+2026-01-31,00:00,Dortmund,Heidenheim,Bundesliga,20
+2026-02-07,00:00,M'gladbach,Leverkusen,Bundesliga,21
+2026-02-07,00:00,Union Berlin,Ein Frankfurt,Bundesliga,21
+2026-02-07,00:00,Wolfsburg,Dortmund,Bundesliga,21
+2026-02-07,00:00,FC Koln,RB Leipzig,Bundesliga,21
+2026-02-07,00:00,Freiburg,Werder Bremen,Bundesliga,21
+2026-02-07,00:00,St Pauli,Stuttgart,Bundesliga,21
+2026-02-07,00:00,Mainz,Augsburg,Bundesliga,21
+2026-02-07,00:00,Bayern Munich,Hoffenheim,Bundesliga,21
+2026-02-07,00:00,Heidenheim,Hamburger SV,Bundesliga,21
+2026-02-14,00:00,Werder Bremen,Bayern Munich,Bundesliga,22
+2026-02-14,00:00,Hoffenheim,Freiburg,Bundesliga,22
+2026-02-14,00:00,Dortmund,Mainz,Bundesliga,22
+2026-02-14,00:00,Ein Frankfurt,M'gladbach,Bundesliga,22
+2026-02-14,00:00,RB Leipzig,Wolfsburg,Bundesliga,22
+2026-02-14,00:00,Hamburger SV,Union Berlin,Bundesliga,22
+2026-02-14,00:00,Leverkusen,St Pauli,Bundesliga,22
+2026-02-14,00:00,Augsburg,Heidenheim,Bundesliga,22
+2026-02-14,00:00,Stuttgart,FC Koln,Bundesliga,22
+2026-02-21,00:00,Union Berlin,Leverkusen,Bundesliga,23
+2026-02-21,00:00,Bayern Munich,Ein Frankfurt,Bundesliga,23
+2026-02-21,00:00,RB Leipzig,Dortmund,Bundesliga,23
+2026-02-21,00:00,St Pauli,Werder Bremen,Bundesliga,23
+2026-02-21,00:00,Heidenheim,Stuttgart,Bundesliga,23
+2026-02-21,00:00,Freiburg,M'gladbach,Bundesliga,23
+2026-02-21,00:00,Wolfsburg,Augsburg,Bundesliga,23
+2026-02-21,00:00,FC Koln,Hoffenheim,Bundesliga,23
+2026-02-21,00:00,Mainz,Hamburger SV,Bundesliga,23
+2026-02-28,00:00,Dortmund,Bayern Munich,Bundesliga,24
+2026-02-28,00:00,Ein Frankfurt,Freiburg,Bundesliga,24
+2026-02-28,00:00,Leverkusen,Mainz,Bundesliga,24
+2026-02-28,00:00,Hamburger SV,RB Leipzig,Bundesliga,24
+2026-02-28,00:00,Stuttgart,Wolfsburg,Bundesliga,24
+2026-02-28,00:00,M'gladbach,Union Berlin,Bundesliga,24
+2026-02-28,00:00,Hoffenheim,St Pauli,Bundesliga,24
+2026-02-28,00:00,Werder Bremen,Heidenheim,Bundesliga,24
+2026-02-28,00:00,Augsburg,FC Koln,Bundesliga,24
+2026-03-07,00:00,Freiburg,Leverkusen,Bundesliga,25
+2026-03-07,00:00,St Pauli,Ein Frankfurt,Bundesliga,25
+2026-03-07,00:00,FC Koln,Dortmund,Bundesliga,25
+2026-03-07,00:00,Union Berlin,Werder Bremen,Bundesliga,25
+2026-03-07,00:00,Mainz,Stuttgart,Bundesliga,25
+2026-03-07,00:00,Bayern Munich,M'gladbach,Bundesliga,25
+2026-03-07,00:00,RB Leipzig,Augsburg,Bundesliga,25
+2026-03-07,00:00,Heidenheim,Hoffenheim,Bundesliga,25
+2026-03-07,00:00,Wolfsburg,Hamburger SV,Bundesliga,25
+2026-03-14,00:00,Leverkusen,Bayern Munich,Bundesliga,26
+2026-03-14,00:00,Werder Bremen,Mainz,Bundesliga,26
+2026-03-14,00:00,Stuttgart,RB Leipzig,Bundesliga,26
+2026-03-14,00:00,Hoffenheim,Wolfsburg,Bundesliga,26
+2026-03-14,00:00,Dortmund,Augsburg,Bundesliga,26
+2026-03-14,00:00,Freiburg,Union Berlin,Bundesliga,26
+2026-03-14,00:00,M'gladbach,St Pauli,Bundesliga,26
+2026-03-14,00:00,Ein Frankfurt,Heidenheim,Bundesliga,26
+2026-03-14,00:00,Hamburger SV,FC Koln,Bundesliga,26
+2026-03-21,00:00,Heidenheim,Leverkusen,Bundesliga,27
+2026-03-21,00:00,Mainz,Ein Frankfurt,Bundesliga,27
+2026-03-21,00:00,St Pauli,Freiburg,Bundesliga,27
+2026-03-21,00:00,Wolfsburg,Werder Bremen,Bundesliga,27
+2026-03-21,00:00,Augsburg,Stuttgart,Bundesliga,27
+2026-03-21,00:00,FC Koln,M'gladbach,Bundesliga,27
+2026-03-21,00:00,Bayern Munich,Union Berlin,Bundesliga,27
+2026-03-21,00:00,RB Leipzig,Hoffenheim,Bundesliga,27
+2026-03-21,00:00,Dortmund,Hamburger SV,Bundesliga,27
+2026-04-05,00:00,Freiburg,Bayern Munich,Bundesliga,28
+2026-04-05,00:00,Stuttgart,Dortmund,Bundesliga,28
+2026-04-05,00:00,Hoffenheim,Mainz,Bundesliga,28
+2026-04-05,00:00,Werder Bremen,RB Leipzig,Bundesliga,28
+2026-04-05,00:00,Leverkusen,Wolfsburg,Bundesliga,28
+2026-04-05,00:00,Hamburger SV,Augsburg,Bundesliga,28
+2026-04-05,00:00,Union Berlin,St Pauli,Bundesliga,28
+2026-04-05,00:00,M'gladbach,Heidenheim,Bundesliga,28
+2026-04-05,00:00,Ein Frankfurt,FC Koln,Bundesliga,28
+2026-04-11,00:00,St Pauli,Bayern Munich,Bundesliga,29
+2026-04-11,00:00,Dortmund,Leverkusen,Bundesliga,29
+2026-04-11,00:00,Wolfsburg,Ein Frankfurt,Bundesliga,29
+2026-04-11,00:00,Mainz,Freiburg,Bundesliga,29
+2026-04-11,00:00,FC Koln,Werder Bremen,Bundesliga,29
+2026-04-11,00:00,RB Leipzig,M'gladbach,Bundesliga,29
+2026-04-11,00:00,Heidenheim,Union Berlin,Bundesliga,29
+2026-04-11,00:00,Augsburg,Hoffenheim,Bundesliga,29
+2026-04-11,00:00,Stuttgart,Hamburger SV,Bundesliga,29
+2026-04-18,00:00,Freiburg,Heidenheim,Bundesliga,30
+2026-04-18,00:00,St Pauli,FC Koln,Bundesliga,30
+2026-04-18,00:00,Werder Bremen,Hamburger SV,Bundesliga,30
+2026-04-18,00:00,Leverkusen,Augsburg,Bundesliga,30
+2026-04-18,00:00,Hoffenheim,Dortmund,Bundesliga,30
+2026-04-18,00:00,M'gladbach,Mainz,Bundesliga,30
+2026-04-18,00:00,Ein Frankfurt,RB Leipzig,Bundesliga,30
+2026-04-18,00:00,Bayern Munich,Stuttgart,Bundesliga,30
+2026-04-18,00:00,Union Berlin,Wolfsburg,Bundesliga,30
+2026-04-25,00:00,Mainz,Bayern Munich,Bundesliga,31
+2026-04-25,00:00,FC Koln,Leverkusen,Bundesliga,31
+2026-04-25,00:00,Augsburg,Ein Frankfurt,Bundesliga,31
+2026-04-25,00:00,Dortmund,Freiburg,Bundesliga,31
+2026-04-25,00:00,Stuttgart,Werder Bremen,Bundesliga,31
+2026-04-25,00:00,Wolfsburg,M'gladbach,Bundesliga,31
+2026-04-25,00:00,RB Leipzig,Union Berlin,Bundesliga,31
+2026-04-25,00:00,Heidenheim,St Pauli,Bundesliga,31
+2026-04-25,00:00,Hamburger SV,Hoffenheim,Bundesliga,31
+2026-05-03,00:00,M'gladbach,Dortmund,Bundesliga,32
+2026-05-03,00:00,St Pauli,Mainz,Bundesliga,32
+2026-05-03,00:00,Leverkusen,RB Leipzig,Bundesliga,32
+2026-05-03,00:00,Hoffenheim,Stuttgart,Bundesliga,32
+2026-05-03,00:00,Freiburg,Wolfsburg,Bundesliga,32
+2026-05-03,00:00,Werder Bremen,Augsburg,Bundesliga,32
+2026-05-03,00:00,Bayern Munich,Heidenheim,Bundesliga,32
+2026-05-03,00:00,Union Berlin,FC Koln,Bundesliga,32
+2026-05-03,00:00,Ein Frankfurt,Hamburger SV,Bundesliga,32
+2026-05-09,00:00,Wolfsburg,Bayern Munich,Bundesliga,33
+2026-05-09,00:00,Stuttgart,Leverkusen,Bundesliga,33
+2026-05-09,00:00,Dortmund,Ein Frankfurt,Bundesliga,33
+2026-05-09,00:00,Hamburger SV,Freiburg,Bundesliga,33
+2026-05-09,00:00,Hoffenheim,Werder Bremen,Bundesliga,33
+2026-05-09,00:00,Augsburg,M'gladbach,Bundesliga,33
+2026-05-09,00:00,Mainz,Union Berlin,Bundesliga,33
+2026-05-09,00:00,RB Leipzig,St Pauli,Bundesliga,33
+2026-05-09,00:00,FC Koln,Heidenheim,Bundesliga,33
+2026-05-16,13:30,Werder Bremen,Dortmund,Bundesliga,34
+2026-05-16,13:30,Heidenheim,Mainz,Bundesliga,34
+2026-05-16,13:30,Freiburg,RB Leipzig,Bundesliga,34
+2026-05-16,13:30,Ein Frankfurt,Stuttgart,Bundesliga,34
+2026-05-16,13:30,St Pauli,Wolfsburg,Bundesliga,34
+2026-05-16,13:30,Union Berlin,Augsburg,Bundesliga,34
+2026-05-16,13:30,M'gladbach,Hoffenheim,Bundesliga,34
+2026-05-16,13:30,Bayern Munich,FC Koln,Bundesliga,34
+2026-05-16,13:30,Leverkusen,Hamburger SV,Bundesliga,34
