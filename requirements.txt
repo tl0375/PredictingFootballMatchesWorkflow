@@ -1,0 +1,8 @@
+requests
+pandas
+scikit-learn
+numpy
+torch
+joblib
+xgboost
+fuzzywuzzy
