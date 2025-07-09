@@ -311,4 +311,4 @@ if __name__ == "__main__":
     print("Saved all predictions to results.csv")
 
 with open("football-predictor-ui/last_updated.txt", "w") as f:
-    f.write(datetime.utcnow().strftime("Last updated: %Y-%m-%d %H:%M UTC"))
+    f.write(datetime.utcnow().strftime("Last updated: %d-%m-%Y %H:%M UTC"))
