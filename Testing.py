@@ -315,6 +315,6 @@ uk = pytz.timezone('Europe/London')
 uk_time = datetime.now(uk)
 formatted_time = uk_time.strftime("%Y-%m-%d %H:%M:%S")
 
-with open("last_updated.txt", "w") as f:
+with open("football-predictor-ui/last_updated.txt", "w") as f:
     f.write(formatted_time)
 
