@@ -476,6 +476,15 @@ function getCountryCode(leagueName) {
   }
 }
 
+fetch("last_updated.txt")
+    .then(response => response.text())
+    .then(text => {
+      document.getElementById("last-updated").textContent = text;
+    })
+    .catch(() => {
+      document.getElementById("last-updated").textContent = "Not available";
+    });
+
 window.onload = async () => {
   await initializeMatchweeksFromCSV();
   showPage('about');
