@@ -5,7 +5,7 @@ import torch.nn as nn
 import joblib
 from xgboost import XGBClassifier
 from datetime import datetime
-import pytz
+from zoneinfo import ZoneInfo
 
 # Define device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -311,8 +311,7 @@ if __name__ == "__main__":
     results_df.to_csv("football-predictor-ui/results.csv", index=False)
     print("Saved all predictions to results.csv")
 
-uk = pytz.timezone('Europe/London')
-uk_time = datetime.now(uk)
+uk_time = datetime.now(ZoneInfo("Europe/London"))
 formatted_time = uk_time.strftime("%Y-%m-%d %H:%M:%S")
 
 with open("football-predictor-ui/last_updated.txt", "w") as f:
