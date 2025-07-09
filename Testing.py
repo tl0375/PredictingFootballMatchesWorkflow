@@ -4,6 +4,7 @@ import torch
 import torch.nn as nn
 import joblib
 from xgboost import XGBClassifier
+from datetime import datetime
 
 # Define device
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -309,3 +310,5 @@ if __name__ == "__main__":
     results_df.to_csv("football-predictor-ui/results.csv", index=False)
     print("Saved all predictions to results.csv")
 
+with open("football-predictor-ui/last_updated.txt", "w") as f:
+    f.write(datetime.utcnow().strftime("Last updated: %Y-%m-%d %H:%M UTC"))
