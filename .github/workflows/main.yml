@@ -1,7 +1,9 @@
 name: Run Football Data Pipeline
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 09:00 UTC
+  workflow_dispatch:     # Optional: allows you to also run manually
   push:
     branches:
       - main
