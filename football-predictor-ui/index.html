@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fixture Predictions</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+  <div class="navbar">
+    <div class="nav-left">
+      <div class="dropdown">
+        <button class="dropbtn" id="dropdownToggle">
+          Leagues
+          <span class="arrow">&#9662;</span>
+        </button>
+        <ul class="dropdown-menu">
+          <li onclick="showPage('premierleague')">
+            <img src="logos/countries/eng.png" class="dropdown-cnt" />
+            Premier League
+            <img src="logos/leagues/Premier League.png" class="dropdown-lg" />
+          </li>
+          <li onclick="showPage('laliga')">
+            <img src="logos/countries/esp.png" class="dropdown-cnt" />
+            La Liga
+            <img src="logos/leagues/La Liga.png" class="dropdown-lg" />
+          </li>
+          <li onclick="showPage('seriea')">
+            <img src="logos/countries/ita.png" class="dropdown-cnt" />
+            Serie A
+            <img src="logos/leagues/Serie A.png" class="dropdown-lg" />
+          </li>
+          <li onclick="showPage('bundesliga')">
+            <img src="logos/countries/ger.png" class="dropdown-cnt" />
+            Bundesliga
+            <img src="logos/leagues/Bundesliga.png" class="dropdown-lg" />
+          </li>
+          <li onclick="showPage('ligue1')">
+            <img src="logos/countries/fra.png" class="dropdown-cnt" />
+            Ligue 1
+            <img src="logos/leagues/Ligue 1.png" class="dropdown-lg" />
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="nav-center">
+      <div id="navTitle" class="nav-title">
+        <img id="navIconLeft" class="nav-flag-icon" src="" alt="" />
+        <span id="navTitleText">About</span>
+        <img id="navIconRight" class="nav-league-icon" src="" alt="" />
+      </div>
+    </div>
+
+    <div class="nav-right">
+      <a href="#" class="about-button" onclick="showPage('about')">About</a>
+    </div>
+  </div>
+
+  <div id="matchweek-bar" class="matchweek-nav hidden">
+    <button id="prevWeekBtn" class="arrow-btn">
+      <img src="icons/lar.png" alt="Previous" />
+    </button>
+    <span id="matchweek-label">Matchweek 1</span>
+    <button id="nextWeekBtn" class="arrow-btn">
+      <img src="icons/rar.png" alt="Next" />
+    </button>
+  </div>
+
+
+  <div id="about" class="page">
+  <div class="card">
+    <h3>Overview</h3>
+    <p>This tool predicts football match outcomes using machine learning models trained on past performance data such as form, goals scored, shots and a host of engineered features including a personally desgined ELO rating system.</p>
+  </div>
+
+  <div class="card">
+    <h3>How The Model Works</h3>
+    <p>The model uses a hybrid approach concatenating the final predictions from a LSTM , MLP, and XGBoost algorithm to analyse patterns and generate win/draw/loss probabilities for upcoming matches.
+      The LSTM portion of the model handles individual match data such as shots and goals, creating sequences over the past 10 games to analyse and draw predictions from. 
+      The MLP handles team rating statistics such as the previously mentioned ELO, and a binary flag that identifies promoted teams to aid in predictions. Finally, the XGBoost algorithm
+      analyses a team's form over a number of timeframes to try and extract further meaningful insigths for overall prediction.  
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>How To Use This Website</h3>
+    <p>Select the league to view matches from in the top left corner, this will display the upcoming matchweek from the chosen league, with predictions for each fixture shown
+      as the likelihood of each team winning as a %. Predictions for future matchweeks can be viewed by navigating with the Matchweek navigation bar.</p>
+  </div>
+
+  <div class="card">
+    <h3>Background</h3>
+    <p>This model was initially devised as part of research into how accurate machine learning methods are in predicting football match outcomes. The findings were then
+      benchmarked against the accuracy of leading UK bookmakers (with their odds used as their prediction). This particular model scored favourably in comparison with these bookmakers, 
+      achieving an overall predictive score within 1% of Bet365 and within 3% of William Hill, whilst also outperforming these bookmakers over select leagues.</p>
+  </div>
+  <div class="card">
+    <h3>Leagues Covered</h3>
+    <ul>
+      <li>Premier League</li>
+      <li>La Liga</li>
+      <li>Serie A</li>
+      <li>Bundesliga</li>
+      <li>Ligue 1</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h3>About Me</h3>
+    <p>Hi, I'm Tom a graduate Computer Science student with a keen interest in data and machine learning (and football). Thank you for viewing this project. More of my work, and this project in further detail, can be
+      viewed on my <a href="https://github.com/tl0375?tab=repositories" target="_blank" rel="noopener noreferrer"> Github</a>. 
+      More about me can be found via my <a href="https://www.linkedin.com/in/tom-loomes-296183336" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+    </p>
+  </div>
+</div>
+
+
+  <div id="premierleague" class="page" style="display:none">
+
+  <div id="fixtures-premierleague" class="fixtures-container">
+    <div class="currentMatchweek"></div>
+  </div>
+  </div>
+
+  <div id="laliga" class="page" style="display:none">
+
+  <div id="fixtures-laliga" class="fixtures-container">
+    <div class="currentMatchweek"></div>
+  </div>
+  </div>
+
+  <div id="seriea" class="page" style="display:none">
+
+  <div id="fixtures-seriea" class="fixtures-container">
+    <div class="currentMatchweek"></div>
+  </div>
+  </div>
+
+  <div id="bundesliga" class="page" style="display:none">
+
+  <div id="fixtures-bundesliga" class="fixtures-container">
+    <div class="currentMatchweek"></div>
+  </div>
+    </div>
+
+  <div id="ligue1" class="page" style="display:none">
+
+  <div id="fixtures-ligue1" class="fixtures-container">
+    <div class="currentMatchweek"></div>
+  </div>
+  </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
