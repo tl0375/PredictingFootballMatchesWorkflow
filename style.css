@@ -356,3 +356,12 @@ h1 {
 .card ul {
   padding-left: 20px;
 }
+
+.update-card {
+  height: 50px;
+  position: absolute;
+  top: 60px; /* adjust based on navbar height */
+  left: 20px;
+  width: 170px;
+  z-index: 10;
+}
