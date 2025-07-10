@@ -10,8 +10,8 @@ An extension of the previous predicting football matches project, achieved with 
 - football-predictor-ui - this folder provides all the files neccessary for the creation of the website to display the results, featuring the index.html file with corresponiding CSS and javascript files as well as the created reults.csv and a record of the last data update in last_updated.txt.
 
 ## The Workflow
-Update Dataset.py --> updated the dataset.csv file
-Fixture Scrape.py --> creates the fixtures.csv
-StandardiseFixtures.py --> take fixtures.csv and clean, outputting fixtures_clean.csv
-Testing --> take fixtures_clean.csv and outputs results.csv stored in the website (football-predictor-ui) folder.
-Display website
+- Update Dataset.py --> updated the dataset.csv file
+- Fixture Scrape.py --> creates the fixtures.csv
+- StandardiseFixtures.py --> take fixtures.csv and clean, outputting fixtures_clean.csv
+- Testing --> take fixtures_clean.csv and outputs results.csv stored in the website (football-predictor-ui) folder.
+- Display website
