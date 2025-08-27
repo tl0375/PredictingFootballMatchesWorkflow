@@ -100,13 +100,16 @@ combined_df['FTR'] = label_encoder.fit_transform(combined_df['FTR'])
 # In[41]:
 
 
-key_fields = ["Date", "Home_Team", "Away_Team"]
+key_fields = ["Date", "Season", "Home_Team", "Away_Team"]
 
 # Ensure key columns exist in both DataFrames
 for col in key_fields:
     if col not in combined_df.columns or col not in existing_df.columns:
         print(f"Column '{col}' not found in one of the datasets.")
-        exit()
+        if col == "Season":
+            existing_df["Season"] = season_label
+        else:
+            exit()
 
 combined_key = combined_df[key_fields].astype(str).dropna()
 existing_key = existing_df[key_fields].astype(str).dropna()
