@@ -76,6 +76,7 @@ def build_single_sequence(df, seq_len, lstm_features, elo_features, xgb_features
     if len(df_home) == 0:
         q25_home = df[lstm_features].quantile(0.1).values.astype(np.float32)
         home_features = np.tile(q25_home, (seq_len, 1))
+        print('data missing for' home_team, away_team)
     else:
         home_features = pad_sequence(df_home[lstm_features].values, seq_len, len(lstm_features))
 
