@@ -5,7 +5,7 @@ import glob
 from difflib import get_close_matches
 from sklearn.preprocessing import LabelEncoder
 
-season_prefix = "2425"
+season_prefix = "2526"
 
 # League codes and names
 league_codes = {
