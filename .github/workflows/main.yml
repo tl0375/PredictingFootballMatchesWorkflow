@@ -40,7 +40,7 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
         
         # Stage CSV files inside football_csvs folder
-        git add football_csvs/*.csv dataset.csv football-predictor-ui/last_updated.txt football-predictor-ui/results.csv
+        git add football_csvs/*.csv dataset.csv fixtures.csv football-predictor-ui/last_updated.txt football-predictor-ui/results.csv
         
         # Commit only if there are changes
         git diff --cached --quiet || git commit -m "Update football CSVs [skip ci]"
