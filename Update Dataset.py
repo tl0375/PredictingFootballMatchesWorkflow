@@ -112,9 +112,11 @@ new_matches_mask = merged["_merge"] == "left_only"
 new_matches_df = combined_df.loc[new_matches_mask.values]
 
 print(f"New matches found: {len(new_matches_df)}")
+print(new_matches_df.tail(10))
 
 updated_df = pd.concat([existing_df, new_matches_df], ignore_index=True)
 
+print(updated_df.tail(3))
 
 # In[42]:
 
