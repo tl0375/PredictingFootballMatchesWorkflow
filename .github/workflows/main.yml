@@ -12,6 +12,9 @@ jobs:
   run-scripts:
     runs-on: ubuntu-latest
 
+    permissions:          # <-- required to push commits
+      contents: write
+
     steps:
     - name: Checkout repo
       uses: actions/checkout@v4
@@ -32,6 +35,21 @@ jobs:
         python "Fixture Scrape.py"
         python "StandardiseFixtures.py"
         python "Testing.py"
+
+    - name: Commit and push updated CSVs
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Stage CSV files inside football_csvs folder
+        git add football_csvs/*.csv
+        
+        # Commit only if there are changes
+        git diff --cached --quiet || git commit -m "Update football CSVs [skip ci]"
+        
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Deploy website to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
