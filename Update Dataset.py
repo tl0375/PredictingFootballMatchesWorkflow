@@ -69,7 +69,7 @@ combined_df['Date'] = pd.to_datetime(combined_df['Date'], format='%d/%m/%Y', err
 combined_df['Date'] = combined_df['Date'].dt.strftime('%Y-%m-%d')
 
 combined_df = combined_df.iloc[:, :16]
-combined_df = combined_df.drop(columns=['Referee'])
+combined_df = combined_df.drop(columns=['Referee, Time, HTHG, HTAG, HTR'])
 
 combined_df = combined_df.rename(columns={
     'HomeTeam': 'Home_Team',
