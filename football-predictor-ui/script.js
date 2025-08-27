@@ -161,7 +161,7 @@ function getTeamColor(team) {
     text: "white"
   },
   "Nott'm Forest": { background: "#DD0000", text: "white" },
-  "Sunderland AFC": {
+  "Sunderland": {
     background: "repeating-linear-gradient(90deg, #FF0000, #FF0000 60px, white 60px, white 120px)",
     text: "white"
   },
