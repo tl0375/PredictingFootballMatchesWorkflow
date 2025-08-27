@@ -241,7 +241,7 @@ if __name__ == "__main__":
 
     #Define newly promoted teams
     newly_promoted_teams = {
-        'Sunderland AFC', 'Leeds', 'Burnley',
+        'Sunderland', 'Leeds', 'Burnley',
         'Levante', 'Elche', 'Real Oviedo',
         'Pisa', 'Cremonese', 'Sassuolo',
         'FC Koln', 'Hamburger SV',
