@@ -104,6 +104,7 @@ def build_single_sequence(df, seq_len, lstm_features, elo_features, xgb_features
             # Fallback to 10th percentile if no fixture info at all
             elo = df[elo_features].quantile(0.1).values.astype(np.float32)
             xgb = df[xgb_features].quantile(0.1).values.astype(np.float32)
+            print(home_team, away_team, 'falling back to no fixture info')
         else:
             elo = df_fixture[elo_features].values[0].astype(np.float32)
             xgb = df_fixture[xgb_features].values[0].astype(np.float32)
