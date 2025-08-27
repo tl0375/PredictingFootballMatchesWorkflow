@@ -45,7 +45,7 @@ class DualLSTMWithEloXGBoost(nn.Module):
         home_last = self.layer_norm_home(home_last)
         away_last = self.layer_norm_away(away_last)
         elo_out = self.elo_mlp(elo)
-        combined = torch.cat([home_last, away_last], dim=1)
+        combined = torch.cat([home_last, away_last, elo_out, xgb], dim=1)
         return self.final_layer(combined)
 
 # Functions reused from training script:
