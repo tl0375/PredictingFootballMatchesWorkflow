@@ -77,7 +77,10 @@ combined_df = combined_df.rename(columns={
     'Div': 'League'
 })
 
-
+start_year = "20" + season_prefix[:2]  # "25" -> "2025"
+end_year = "20" + season_prefix[2:]    # "26" -> "2026"
+season_label = f"{start_year}/{end_year}"
+combined_df["Season"] = season_label
 # In[39]:
 
 
