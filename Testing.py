@@ -260,7 +260,18 @@ if __name__ == "__main__":
         match_date_str = row['Date'].strftime('%Y-%m-%d')
         home_promoted = int(home_team in newly_promoted_teams)
         away_promoted = int(away_team in newly_promoted_teams)
-        
+
+        if idx == 0:
+            match_date = pd.to_datetime(match_date_str)
+            df_home = get_team_matches_before_date(df, home_team, match_date, 10)
+            df_away = get_team_matches_before_date(df, away_team, match_date, 10)
+    
+            print(f"\n[DEBUG] Fixture: {home_team} vs {away_team} on {match_date_str}")
+            print("[DEBUG] Home last 10 matches:")
+            print(df_home[['Date', 'Home_Team', 'Away_Team', 'FTHG', 'FTAG']])
+            print("[DEBUG] Away last 10 matches:")
+            print(df_away[['Date', 'Home_Team', 'Away_Team', 'FTHG', 'FTAG']])
+            
 
         try:
             pred_class, probs = predict_fixture(
