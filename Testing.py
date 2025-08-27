@@ -45,7 +45,7 @@ class DualLSTMWithEloXGBoost(nn.Module):
         home_last = self.layer_norm_home(home_last)
         away_last = self.layer_norm_away(away_last)
         elo_out = self.elo_mlp(elo)
-        combined = torch.cat([home_last, away_last, elo_out, xgb], dim=1)
+        combined = torch.cat([home_last, away_last], dim=1)
         return self.final_layer(combined)
 
 # Functions reused from training script:
@@ -104,7 +104,6 @@ def build_single_sequence(df, seq_len, lstm_features, elo_features, xgb_features
             # Fallback to 10th percentile if no fixture info at all
             elo = df[elo_features].quantile(0.1).values.astype(np.float32)
             xgb = df[xgb_features].quantile(0.1).values.astype(np.float32)
-            print(home_team, away_team, 'falling back to no fixture info')
         else:
             elo = df_fixture[elo_features].values[0].astype(np.float32)
             xgb = df_fixture[xgb_features].values[0].astype(np.float32)
