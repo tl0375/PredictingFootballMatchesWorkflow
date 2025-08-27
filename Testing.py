@@ -308,8 +308,8 @@ if __name__ == "__main__":
 
     # Save all predictions to CSV
     results_df = pd.DataFrame(results)
-    results_df.to_csv("football-predictor-ui/results.csv", index=False)
-    print("Saved all predictions to results.csv")
+    results_df.to_csv("football-predictor-ui/Results.csv", index=False)
+    print("Saved all predictions to Results.csv")
 
 uk_time = datetime.now(ZoneInfo("Europe/London"))
 formatted_time = uk_time.strftime("%Y-%m-%d %H:%M:%S")
