@@ -45,15 +45,16 @@ class DualLSTMWithEloXGBoost(nn.Module):
         home_last = self.layer_norm_home(home_last)
         away_last = self.layer_norm_away(away_last)
         elo_out = self.elo_mlp(elo)
+        home_last = home_last 
+        away_last = away_last
         combined = torch.cat([home_last, away_last, elo_out, xgb], dim=1)
         return self.final_layer(combined)
 
-# Functions reused from training script:
 def get_team_matches_before_date(df, team, match_date, n):
     df_team = df[((df['Home_Team'] == team) | (df['Away_Team'] == team)) & (df['Date'] < match_date)]
     df_team = df_team.sort_values(by='Date').tail(n)
     return df_team
-
+        
 def pad_sequence(arr, seq_len, num_feats):
     current_len = arr.shape[0] if arr.size > 0 else 0
     if current_len == seq_len:
@@ -64,53 +65,83 @@ def pad_sequence(arr, seq_len, num_feats):
         padding = np.zeros((seq_len - current_len, num_feats), dtype=arr.dtype)
         return np.concatenate([padding, arr], axis=0)
 
-def build_single_sequence(df, seq_len, lstm_features, elo_features, xgb_features, home_team, away_team, match_date):
-    # Build sequences & features for one fixture
+def build_single_sequence(df, seq_len, lstm_features, elo_features, xgb_features,
+                          home_team, away_team, match_date):
     df_sorted = df.sort_values(by='Date').reset_index(drop=True)
 
-    # Get recent matches for home and away teams
-    df_home = get_team_matches_before_date(df_sorted, home_team, match_date, seq_len)
-    df_away = get_team_matches_before_date(df_sorted, away_team, match_date, seq_len)
+    # --- LSTM sequences ---
+    df_home_seq = get_team_matches_before_date(df_sorted, home_team, match_date, seq_len)
+    df_away_seq = get_team_matches_before_date(df_sorted, away_team, match_date, seq_len)
 
-    # Handle missing sequence data using 10th percentile fallback
-    if len(df_home) == 0:
-        q25_home = df[lstm_features].quantile(0.1).values.astype(np.float32)
-        home_features = np.tile(q25_home, (seq_len, 1))
-        print('data missing for', home_team, away_team)
+
+    if len(df_home_seq) == 0:
+        home_features = np.tile(df[lstm_features].quantile(0.1).values.astype(np.float32), (seq_len, 1))
     else:
-        home_features = pad_sequence(df_home[lstm_features].values, seq_len, len(lstm_features))
+        home_features = pad_sequence(df_home_seq[lstm_features].values, seq_len, len(lstm_features))
 
-    if len(df_away) == 0:
-        q25_away = df[lstm_features].quantile(0.1).values.astype(np.float32)
-        away_features = np.tile(q25_away, (seq_len, 1))
+    if len(df_away_seq) == 0:
+        away_features = np.tile(df[lstm_features].quantile(0.1).values.astype(np.float32), (seq_len, 1))
     else:
-        away_features = pad_sequence(df_away[lstm_features].values, seq_len, len(lstm_features))
+        away_features = pad_sequence(df_away_seq[lstm_features].values, seq_len, len(lstm_features))
 
-    # For Elo and XGB features, try exact match row first
-    df_fixture = df_sorted[
-        (df_sorted['Home_Team'] == home_team) &
-        (df_sorted['Away_Team'] == away_team) &
-        (df_sorted['Date'] == match_date)
-    ]
+    
+    elo = np.zeros(4, dtype=np.float32)
+    xgb = np.zeros(len(xgb_features), dtype=np.float32)
+    
+    # --- Helper: copy streak/points stats ---
+    def map_features(row, team_role_last, team_role_fixture):
+        vals = {}
+        for feat in xgb_features:
+            base = feat[4:]  # strip Home_/Away_
+            last_col = f"{team_role_last}{base}"
+            fixture_col = f"{team_role_fixture}{base}"
+    
+            if last_col in row.index and fixture_col in xgb_features:
+                vals[fixture_col] = row[last_col]
+        return vals
 
-    if len(df_fixture) == 0:
-        # If no exact match, get most recent match between the two before the match_date
-        df_fixture = df_sorted[
-            (df_sorted['Home_Team'] == home_team) &
-            (df_sorted['Away_Team'] == away_team) &
-            (df_sorted['Date'] < match_date)
-        ].tail(1)
-
-        if len(df_fixture) == 0:
-            # Fallback to 10th percentile if no fixture info at all
-            elo = df[elo_features].quantile(0.1).values.astype(np.float32)
-            xgb = df[xgb_features].quantile(0.1).values.astype(np.float32)
+        # --- Home team ---
+    if len(df_home_seq) > 0:
+        home_row = df_home_seq.iloc[-1]
+        if home_row['Home_Team'] == home_team:
+            elo[0] = home_row['Home_ELO']
+            elo[2] = 0 if pd.isna(home_row['Home_Newly_Promoted']) else home_row['Home_Newly_Promoted']
+            mapped = map_features(home_row, "Home", "Home")
         else:
-            elo = df_fixture[elo_features].values[0].astype(np.float32)
-            xgb = df_fixture[xgb_features].values[0].astype(np.float32)
+            elo[0] = home_row['Away_ELO']
+            elo[2] = 0 if pd.isna(home_row['Away_Newly_Promoted']) else home_row['Away_Newly_Promoted']
+            mapped = map_features(home_row, "Away", "Home")
+    
+        for feat, val in mapped.items():
+            xgb[xgb_features.index(feat)] = val
     else:
-        elo = df_fixture[elo_features].values[0].astype(np.float32)
-        xgb = df_fixture[xgb_features].values[0].astype(np.float32)
+        # fallback if no history
+        elo[:2] = df[elo_features].quantile(0.1).values[:2]
+        elo[2] = 0  # promoted flag should always default to 0
+        mapped = {feat: df[xgb_features].quantile(0.1)[feat] for feat in xgb_features if feat.startswith("Home")}
+        for feat, val in mapped.items():
+            xgb[xgb_features.index(feat)] = val
+    
+    # --- Away team ---
+    if len(df_away_seq) > 0:
+        away_row = df_away_seq.iloc[-1]
+        if away_row['Home_Team'] == away_team:
+            elo[1] = away_row['Home_ELO']
+            elo[3] = 0 if pd.isna(away_row['Home_Newly_Promoted']) else away_row['Home_Newly_Promoted']
+            mapped = map_features(away_row, "Home", "Away")
+        else:
+            elo[1] = away_row['Away_ELO']
+            elo[3] = 0 if pd.isna(away_row['Away_Newly_Promoted']) else away_row['Away_Newly_Promoted']
+            mapped = map_features(away_row, "Away", "Away")
+    
+        for feat, val in mapped.items():
+            xgb[xgb_features.index(feat)] = val
+    else:
+        elo[1] = df[elo_features].quantile(0.1).values[1]  # away elo
+        elo[3] = 0  # promoted flag should always default to 0
+        mapped = {feat: df[xgb_features].quantile(0.1)[feat] for feat in xgb_features if feat.startswith("Away")}
+        for feat, val in mapped.items():
+            xgb[xgb_features.index(feat)] = val
 
     return home_features, away_features, elo, xgb
 
@@ -118,37 +149,93 @@ def build_single_sequence(df, seq_len, lstm_features, elo_features, xgb_features
 def predict_fixture(model, xgb_model, scaler_lstm, scaler_elo, scaler_xgb, df, seq_len,
                     lstm_features, elo_features, xgb_features,
                     home_team, away_team, match_date_str,
-                    home_promoted=0, away_promoted=0): 
+                    home_promoted=0, away_promoted=0,
+                    elo_sensitivity=2, xgb_sensitivity=2, temperature=1.4,
+                    first_fixture=False):  # flag to run sensitivity checks if needing superficial probability tweaks
     match_date = pd.to_datetime(match_date_str)
     model.eval()
     
     # Build feature sequences for this fixture
-    home_seq_np, away_seq_np, elo_np, xgb_np = build_single_sequence(df, seq_len, lstm_features, elo_features, xgb_features,
-                                                                     home_team, away_team, match_date)
-    # Scale LSTM features (reshape for scaler)
-    home_seq_scaled = scaler_lstm.transform(home_seq_np.reshape(-1, len(lstm_features))).reshape(seq_len, len(lstm_features))
-    away_seq_scaled = scaler_lstm.transform(away_seq_np.reshape(-1, len(lstm_features))).reshape(seq_len, len(lstm_features))
+    home_seq_np, away_seq_np, elo_np, xgb_np = build_single_sequence(
+        df, seq_len, lstm_features, elo_features, xgb_features,
+        home_team, away_team, match_date
+    )
+
+    if home_seq_np.size == 0:
+        raise ValueError(f"No LSTM features for {home_team} before {match_date_str}")
+    if away_seq_np.size == 0:
+        raise ValueError(f"No LSTM features for {away_team} before {match_date_str}")
+
+    # Scale LSTM features
+    home_seq_scaled = scaler_lstm.transform(
+        home_seq_np.reshape(-1, len(lstm_features))
+    ).reshape(seq_len, len(lstm_features))
+
+    away_seq_scaled = scaler_lstm.transform(
+        away_seq_np.reshape(-1, len(lstm_features))
+    ).reshape(seq_len, len(lstm_features))
+
+
+    # Scale ELO features 
     elo_scaled = scaler_elo.transform(elo_np.reshape(1, -1)).reshape(-1)
+    
+    # Scale XGB features 
     xgb_scaled = scaler_xgb.transform(xgb_np.reshape(1, -1)).reshape(-1)
 
-    # XGBoost prediction for XGB features (must produce proba vector)
+    elo_scaled = elo_scaled * elo_sensitivity + (1 - elo_sensitivity) * 0
+    xgb_scaled = xgb_scaled * xgb_sensitivity + (1 - xgb_sensitivity) * 0
+    
+    # XGBoost prediction (logit scaling to make model more sensitive to changes)
     xgb_pred_proba = xgb_model.predict_proba(xgb_scaled.reshape(1, -1))[0]
 
-    # Convert to torch tensors and add batch dim
+    # Convert to torch tensors
     home_seq_t = torch.tensor(home_seq_scaled, dtype=torch.float32).unsqueeze(0).to(device)
     away_seq_t = torch.tensor(away_seq_scaled, dtype=torch.float32).unsqueeze(0).to(device)
     elo_t = torch.tensor(elo_scaled, dtype=torch.float32).unsqueeze(0).to(device)
     xgb_t = torch.tensor(xgb_pred_proba, dtype=torch.float32).unsqueeze(0).to(device)
 
-    # Forward pass through model
+    # Forward pass
     with torch.no_grad():
         output = model(home_seq_t, away_seq_t, elo_t, xgb_t)
-        probs = torch.softmax(output, dim=1).cpu().numpy()[0]
+        probs = torch.softmax(output / temperature, dim=1).cpu().numpy()[0]
+        # Adjust home probability downward by a factor
+        home_bias_factor = 0.8  # reduce probability of home wins by 20%
+        probs[2] *= home_bias_factor
+        draw_bias_factor = 0.7 # reduce probability of draws by 30%
+        probs[1] *= draw_bias_factor
+        # Re-normalize so all sum to 1
+        probs /= probs.sum()
+
+        #optional sensitivity test, triggered by first_fixture flag
+        if first_fixture:
+            with torch.no_grad():
+                # Baseline logits and probs
+                output = model(home_seq_t, away_seq_t, elo_t, xgb_t)
+                baseline_probs = torch.softmax(output / temperature, dim=1).cpu().numpy()[0]
+                print(f"Baseline probs: {baseline_probs}")
+                test_sensitivities = [0.8, 0.9, 0.95, 1.0, 1.05, 1.1, 1.2]
+                for e_mult in test_sensitivities:
+                    for x_mult in test_sensitivities:
+                        if e_mult == 1.0 and x_mult == 1.0:
+                            continue
+                            
+                        output_test = model(
+                            home_seq_t,
+                            away_seq_t,
+                            elo_t * e_mult,
+                            xgb_t * x_mult
+                        )
+
+                        probs_test = torch.softmax(output_test / temperature, dim=1).cpu().numpy()[0]
+                        delta = probs_test - baseline_probs
+                        print(f"ELO={e_mult}, XGB={x_mult} → probs={probs_test}, Δ={delta}")
+
 
     classes = ['Away Win', 'Draw', 'Home Win']
     pred_class = classes[np.argmax(probs)]
 
     return pred_class, probs
+
 
 def adjust_probs_for_promotion(probs, home_promoted, away_promoted):
     """
@@ -232,9 +319,11 @@ if __name__ == "__main__":
     model.load_state_dict(torch.load(model_path, map_location=device))
     model.eval()
 
+    
     # Load historical match data with all features
     df = pd.read_csv(data_csv)
     df['Date'] = pd.to_datetime(df['Date'])
+    
 
     # Load fixtures to predict
     fixtures = pd.read_csv(fixtures_csv)
@@ -267,12 +356,6 @@ if __name__ == "__main__":
             df_home = get_team_matches_before_date(df, home_team, match_date, 10)
             df_away = get_team_matches_before_date(df, away_team, match_date, 10)
     
-            print(f"\n[DEBUG] Fixture: {home_team} vs {away_team} on {match_date_str}")
-            print("[DEBUG] Home last 10 matches:")
-            print(df_home[['Date', 'Home_Team', 'Away_Team', 'FTHG', 'FTAG']])
-            print("[DEBUG] Away last 10 matches:")
-            print(df_away[['Date', 'Home_Team', 'Away_Team', 'FTHG', 'FTAG']])
-            
 
         try:
             pred_class, probs = predict_fixture(
@@ -318,6 +401,8 @@ if __name__ == "__main__":
                 'Prob_Away_Win': np.nan
             })
 
+
+
     # Save all predictions to CSV
     results_df = pd.DataFrame(results)
     results_df.to_csv("football-predictor-ui/Results.csv", index=False)
@@ -328,4 +413,3 @@ formatted_time = uk_time.strftime("%Y-%m-%d %H:%M:%S")
 
 with open("football-predictor-ui/last_updated.txt", "w") as f:
     f.write(formatted_time)
-
