@@ -236,36 +236,6 @@ def predict_fixture(model, xgb_model, scaler_lstm, scaler_elo, scaler_xgb, df, s
 
     return pred_class, probs
 
-
-def adjust_probs_for_promotion(probs, home_promoted, away_promoted):
-    """
-    probs: np.array or list-like of [away_win_prob, draw_prob, home_win_prob]
-    home_promoted, away_promoted: booleans or 0/1
-    
-    Returns adjusted probs (np.array), still summing to 1.
-    Properly adjusts probabilties fpr newly promoted teams who may not have any existing data
-    """
-    probs = np.array(probs, dtype=float)  # Work on a copy
-
-    adjustment_factor = 0.95  # reduce winning chance by 5% 
-
-    if home_promoted:
-        original_home_win = probs[2]
-        probs[2] *= adjustment_factor  # reduce home win prob
-        leftover = original_home_win - probs[2]  # leftover from reduction
-        probs[0] += leftover  # add to away win
-
-    if away_promoted:
-        original_away_win = probs[0]
-        probs[0] *= adjustment_factor  # reduce away win prob
-        leftover = original_away_win - probs[0]  # leftover from reduction
-        probs[2] += leftover    # add to home win
-
-    # Normalize to sum to 1
-    probs /= probs.sum()
-    return probs
-
-
 if __name__ == "__main__":
     import sys
 
@@ -371,7 +341,6 @@ if __name__ == "__main__":
                 away_promoted=away_promoted    
             )
 
-            probs = adjust_probs_for_promotion(probs, home_promoted, away_promoted)
             # Save prediction in a structured way
             results.append({
                 'Date': match_date_str,
