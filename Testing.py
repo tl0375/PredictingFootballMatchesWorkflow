@@ -247,7 +247,7 @@ def adjust_probs_for_promotion(probs, home_promoted, away_promoted):
     """
     probs = np.array(probs, dtype=float)  # Work on a copy
 
-    adjustment_factor = 0.7  # reduce winning chance by 30% 
+    adjustment_factor = 0.8  # reduce winning chance by 20% 
 
     if home_promoted:
         original_home_win = probs[2]
