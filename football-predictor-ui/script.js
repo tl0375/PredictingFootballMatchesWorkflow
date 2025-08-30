@@ -81,13 +81,40 @@ async function loadFixtures(leagueName) {
 
   // If no fixtures for current matchweek, show all fixtures for league
   const fixturesToShow = matchweekFixtures.length > 0 ? matchweekFixtures : leagueFixtures;
+
   fixturesToShow.forEach(fixture => {
     const homeTeam = fixture["Home_Team"];
     const awayTeam = fixture["Away_Team"];
     const date = fixture["Date"];
-    const homeProb = parseFloat(fixture["Prob_Home_Win"]) || 0;
-    const drawProb = parseFloat(fixture["Prob_Draw"]) || 0;
-    const awayProb = parseFloat(fixture["Prob_Away_Win"]) || 0;
+
+    const probs = [
+      { key: "home", val: parseFloat(fixture["Prob_Home_Win"]) || 0 },
+      { key: "draw", val: parseFloat(fixture["Prob_Draw"]) || 0 },
+      { key: "away", val: parseFloat(fixture["Prob_Away_Win"]) || 0 }
+    ];
+
+    // Convert to percentages (not rounded yet)
+    probs.forEach(p => p.val *= 100);
+
+    // Floor values and track remainders
+    let total = 0;
+    probs.forEach(p => {
+      p.floorVal = Math.floor(p.val);
+      p.remainder = p.val - p.floorVal;
+      total += p.floorVal;
+    });
+
+    // Distribute leftover points
+    let leftover = 100 - total;
+    probs.sort((a, b) => b.remainder - a.remainder);
+    for (let i = 0; i < leftover; i++) {
+      probs[i % probs.length].floorVal += 1;
+    }
+
+    // Assign back to original variable names
+    const homeProb = (probs.find(p => p.key === "home").floorVal) / 100;
+    const drawProb = (probs.find(p => p.key === "draw").floorVal) / 100;
+    const awayProb = (probs.find(p => p.key === "away").floorVal) / 100;
 
     const homeLogo = `logos/teams/${leagueName}/${homeTeam}.png`;
     const awayLogo = `logos/teams/${leagueName}/${awayTeam}.png`;
@@ -161,7 +188,7 @@ function getTeamColor(team) {
     text: "white"
   },
   "Nott'm Forest": { background: "#DD0000", text: "white" },
-  "Sunderland": {
+  "Sunderland AFC": {
     background: "repeating-linear-gradient(90deg, #FF0000, #FF0000 60px, white 60px, white 120px)",
     text: "white"
   },
@@ -213,7 +240,7 @@ function getTeamColor(team) {
     text: "white"
   },
   "Real Madrid": { background: "white", text: "white" },
-  "Oviedo": { background: "#1E40A4", text: "white" },
+  "Real Oviedo": { background: "#1E40A4", text: "white" },
   "Sociedad": {
     background: "repeating-linear-gradient(90deg, #005BAB, #005BAB 60px, white 60px, white 120px)",
     text: "white"
@@ -300,7 +327,7 @@ function getTeamColor(team) {
   "Mainz": { background: "#E2001A", text: "white" },
   "Ein Frankfurt": { background: "#000000", text: "white" },
   "St Pauli": { background: "#632A2A", text: "white" },
-  "Hamburg": { background: "#0059B2", text: "white" },
+  "Hamburger SV": { background: "#0059B2", text: "white" },
   "RB Leipzig": { background: "white", text: "white" },
   "Freiburg": { background: "#DD1C26", text: "white" },
   "Hoffenheim": { background: "#005BAB", text: "white" },
