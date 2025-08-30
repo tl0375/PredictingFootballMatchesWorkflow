@@ -359,8 +359,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T00:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T00:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2025-08-29T16:30:00Z,US Cremonese,US Sassuolo Calcio,Serie A,2
-2025-08-29T18:45:00Z,US Lecce,AC Milan,Serie A,2
 2025-08-30T16:30:00Z,Bologna FC 1909,Como 1907,Serie A,2
 2025-08-30T16:30:00Z,Parma Calcio 1913,Atalanta BC,Serie A,2
 2025-08-30T18:45:00Z,SSC Napoli,Cagliari Calcio,Serie A,2
@@ -729,7 +727,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2025-08-29T18:45:00Z,Racing Club de Lens,Stade Brestois 29,Ligue 1,3
 2025-08-30T15:00:00Z,FC Lorient,Lille OSC,Ligue 1,3
 2025-08-30T17:00:00Z,FC Nantes,AJ Auxerre,Ligue 1,3
 2025-08-30T19:05:00Z,Toulouse FC,Paris Saint-Germain FC,Ligue 1,3
@@ -1017,8 +1014,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-08-29T17:30:00Z,Elche CF,Levante UD,La Liga,3
-2025-08-29T19:30:00Z,Valencia CF,Getafe CF,La Liga,3
 2025-08-30T15:00:00Z,Deportivo Alavés,Club Atlético de Madrid,La Liga,3
 2025-08-30T17:00:00Z,Real Oviedo,Real Sociedad de Fútbol,La Liga,3
 2025-08-30T17:30:00Z,Girona FC,Sevilla FC,La Liga,3
@@ -1376,7 +1371,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-08-29T18:30:00Z,Hamburger SV,FC St. Pauli 1910,Bundesliga,2
 2025-08-30T13:30:00Z,RB Leipzig,1. FC Heidenheim 1846,Bundesliga,2
 2025-08-30T13:30:00Z,SV Werder Bremen,Bayer 04 Leverkusen,Bundesliga,2
 2025-08-30T13:30:00Z,VfB Stuttgart,Borussia Mönchengladbach,Bundesliga,2
