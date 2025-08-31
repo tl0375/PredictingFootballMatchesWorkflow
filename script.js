@@ -188,7 +188,7 @@ function getTeamColor(team) {
     text: "white"
   },
   "Nott'm Forest": { background: "#DD0000", text: "white" },
-  "Sunderland AFC": {
+  "Sunderland": {
     background: "repeating-linear-gradient(90deg, #FF0000, #FF0000 60px, white 60px, white 120px)",
     text: "white"
   },
@@ -240,7 +240,7 @@ function getTeamColor(team) {
     text: "white"
   },
   "Real Madrid": { background: "white", text: "white" },
-  "Real Oviedo": { background: "#1E40A4", text: "white" },
+  "Oviedo": { background: "#1E40A4", text: "white" },
   "Sociedad": {
     background: "repeating-linear-gradient(90deg, #005BAB, #005BAB 60px, white 60px, white 120px)",
     text: "white"
@@ -327,7 +327,7 @@ function getTeamColor(team) {
   "Mainz": { background: "#E2001A", text: "white" },
   "Ein Frankfurt": { background: "#000000", text: "white" },
   "St Pauli": { background: "#632A2A", text: "white" },
-  "Hamburger SV": { background: "#0059B2", text: "white" },
+  "Hamburg": { background: "#0059B2", text: "white" },
   "RB Leipzig": { background: "white", text: "white" },
   "Freiburg": { background: "#DD1C26", text: "white" },
   "Hoffenheim": { background: "#005BAB", text: "white" },
