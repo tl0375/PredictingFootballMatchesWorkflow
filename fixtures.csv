@@ -709,21 +709,8 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2025-09-14T00:00:00Z,AJ Auxerre,AS Monaco FC,Ligue 1,4
-2025-09-14T00:00:00Z,OGC Nice,FC Nantes,Ligue 1,4
-2025-09-14T00:00:00Z,Olympique de Marseille,FC Lorient,Ligue 1,4
-2025-09-14T00:00:00Z,Lille OSC,Toulouse FC,Ligue 1,4
-2025-09-14T00:00:00Z,Paris Saint-Germain FC,Racing Club de Lens,Ligue 1,4
-2025-09-14T00:00:00Z,RC Strasbourg Alsace,Le Havre AC,Ligue 1,4
-2025-09-14T00:00:00Z,Stade Rennais FC 1901,Olympique Lyonnais,Ligue 1,4
 2025-09-14T15:15:00Z,FC Metz,Angers SCO,Ligue 1,4
 2025-09-14T15:15:00Z,Stade Brestois 29,Paris FC,Ligue 1,4
-2025-09-21T00:00:00Z,AS Monaco FC,FC Metz,Ligue 1,5
-2025-09-21T00:00:00Z,FC Nantes,Stade Rennais FC 1901,Ligue 1,5
-2025-09-21T00:00:00Z,Paris FC,RC Strasbourg Alsace,Ligue 1,5
-2025-09-21T00:00:00Z,Olympique Lyonnais,Angers SCO,Ligue 1,5
-2025-09-21T00:00:00Z,Racing Club de Lens,Lille OSC,Ligue 1,5
-2025-09-21T00:00:00Z,Stade Brestois 29,OGC Nice,Ligue 1,5
 2025-09-21T15:15:00Z,Le Havre AC,FC Lorient,Ligue 1,5
 2025-09-21T15:15:00Z,AJ Auxerre,Toulouse FC,Ligue 1,5
 2025-09-21T18:45:00Z,Olympique de Marseille,Paris Saint-Germain FC,Ligue 1,5
@@ -990,13 +977,13 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
 2025-09-12T19:00:00Z,Sevilla FC,Elche CF,La Liga,4
 2025-09-13T12:00:00Z,Getafe CF,Real Oviedo,La Liga,4
-2025-09-13T14:15:00Z,Levante UD,Real Betis Balompié,La Liga,4
+2025-09-13T14:15:00Z,Real Sociedad de Fútbol,Real Madrid CF,La Liga,4
+2025-09-13T16:30:00Z,Athletic Club,Deportivo Alavés,La Liga,4
+2025-09-13T19:00:00Z,Club Atlético de Madrid,Villarreal CF,La Liga,4
 2025-09-14T12:00:00Z,RC Celta de Vigo,Girona FC,La Liga,4
-2025-09-14T16:00:00Z,Club Atlético de Madrid,Villarreal CF,La Liga,4
-2025-09-14T16:00:00Z,FC Barcelona,Valencia CF,La Liga,4
-2025-09-14T16:00:00Z,Athletic Club,Deportivo Alavés,La Liga,4
-2025-09-14T16:00:00Z,Real Sociedad de Fútbol,Real Madrid CF,La Liga,4
+2025-09-14T14:15:00Z,Levante UD,Real Betis Balompié,La Liga,4
 2025-09-14T16:30:00Z,CA Osasuna,Rayo Vallecano de Madrid,La Liga,4
+2025-09-14T19:00:00Z,FC Barcelona,Valencia CF,La Liga,4
 2025-09-15T19:00:00Z,RCD Espanyol de Barcelona,RCD Mallorca,La Liga,4
 2025-09-21T00:00:00Z,Valencia CF,Athletic Club,La Liga,5
 2025-09-21T00:00:00Z,RCD Mallorca,Club Atlético de Madrid,La Liga,5
