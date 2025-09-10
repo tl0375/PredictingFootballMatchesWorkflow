@@ -745,51 +745,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2025-10-05,15:15,Le Havre,Rennes,Ligue 1,7
 2025-10-05,15:15,Monaco,Nice,Ligue 1,7
 2025-10-05,18:45,Lille,Paris SG,Ligue 1,7
-2025-10-19,00:00,Lorient,Brest,Ligue 1,8
-2025-10-19,00:00,Nantes,Lille,Ligue 1,8
-2025-10-19,00:00,Toulouse,Metz,Ligue 1,8
-2025-10-19,00:00,Nice,Lyon,Ligue 1,8
-2025-10-19,00:00,Marseille,Le Havre,Ligue 1,8
-2025-10-19,00:00,Paris SG,Strasbourg,Ligue 1,8
-2025-10-19,00:00,Lens,Paris FC,Ligue 1,8
-2025-10-19,00:00,Angers,Monaco,Ligue 1,8
-2025-10-19,00:00,Rennes,Auxerre,Ligue 1,8
-2025-10-26,00:00,Auxerre,Le Havre,Ligue 1,9
-2025-10-26,00:00,Monaco,Toulouse,Ligue 1,9
-2025-10-26,00:00,Paris FC,Nantes,Ligue 1,9
-2025-10-26,00:00,Lyon,Strasbourg,Ligue 1,9
-2025-10-26,00:00,Lille,Metz,Ligue 1,9
-2025-10-26,00:00,Lens,Marseille,Ligue 1,9
-2025-10-26,00:00,Angers,Lorient,Ligue 1,9
-2025-10-26,00:00,Brest,Paris SG,Ligue 1,9
-2025-10-26,00:00,Rennes,Nice,Ligue 1,9
-2025-10-29,00:00,Le Havre,Brest,Ligue 1,10
-2025-10-29,00:00,Lorient,Paris SG,Ligue 1,10
-2025-10-29,00:00,Metz,Lens,Ligue 1,10
-2025-10-29,00:00,Nantes,Monaco,Ligue 1,10
-2025-10-29,00:00,Paris FC,Lyon,Ligue 1,10
-2025-10-29,00:00,Toulouse,Rennes,Ligue 1,10
-2025-10-29,00:00,Nice,Lille,Ligue 1,10
-2025-10-29,00:00,Marseille,Angers,Ligue 1,10
-2025-10-29,00:00,Strasbourg,Auxerre,Ligue 1,10
-2025-11-02,00:00,Auxerre,Marseille,Ligue 1,11
-2025-11-02,00:00,Monaco,Paris FC,Ligue 1,11
-2025-11-02,00:00,Nantes,Metz,Ligue 1,11
-2025-11-02,00:00,Toulouse,Le Havre,Ligue 1,11
-2025-11-02,00:00,Lille,Angers,Ligue 1,11
-2025-11-02,00:00,Paris SG,Nice,Ligue 1,11
-2025-11-02,00:00,Lens,Lorient,Ligue 1,11
-2025-11-02,00:00,Brest,Lyon,Ligue 1,11
-2025-11-02,00:00,Rennes,Strasbourg,Ligue 1,11
-2025-11-09,00:00,Le Havre,Nantes,Ligue 1,12
-2025-11-09,00:00,Monaco,Lens,Ligue 1,12
-2025-11-09,00:00,Lorient,Toulouse,Ligue 1,12
-2025-11-09,00:00,Metz,Nice,Ligue 1,12
-2025-11-09,00:00,Paris FC,Rennes,Ligue 1,12
-2025-11-09,00:00,Lyon,Paris SG,Ligue 1,12
-2025-11-09,00:00,Marseille,Brest,Ligue 1,12
-2025-11-09,00:00,Strasbourg,Lille,Ligue 1,12
-2025-11-09,00:00,Angers,Auxerre,Ligue 1,12
 2025-11-23,00:00,Auxerre,Lyon,Ligue 1,13
 2025-11-23,00:00,Nantes,Lorient,Ligue 1,13
 2025-11-23,00:00,Toulouse,Angers,Ligue 1,13
@@ -1027,16 +982,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2025-09-28,16:30,Betis,Osasuna,La Liga,7
 2025-09-28,19:00,Barcelona,Sociedad,La Liga,7
 2025-09-29,19:00,Valencia,Oviedo,La Liga,7
-2025-10-05,00:00,Alaves,Elche,La Liga,8
-2025-10-05,00:00,Athletic Club,Mallorca,La Liga,8
-2025-10-05,00:00,Girona,Valencia,La Liga,8
-2025-10-05,00:00,Real Madrid,Villarreal,La Liga,8
-2025-10-05,00:00,Celta,Ath Madrid,La Liga,8
-2025-10-05,00:00,Sevilla,Barcelona,La Liga,8
-2025-10-05,00:00,Espanol,Betis,La Liga,8
-2025-10-05,00:00,Osasuna,Getafe,La Liga,8
-2025-10-05,00:00,Oviedo,Levante,La Liga,8
-2025-10-05,00:00,Sociedad,Vallecano,La Liga,8
 2025-10-19,00:00,Alaves,Valencia,La Liga,9
 2025-10-19,00:00,Ath Madrid,Osasuna,La Liga,9
 2025-10-19,00:00,Barcelona,Girona,La Liga,9

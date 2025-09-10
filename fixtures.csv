@@ -745,51 +745,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-10-05T15:15:00Z,Le Havre AC,Stade Rennais FC 1901,Ligue 1,7
 2025-10-05T15:15:00Z,AS Monaco FC,OGC Nice,Ligue 1,7
 2025-10-05T18:45:00Z,Lille OSC,Paris Saint-Germain FC,Ligue 1,7
-2025-10-19T00:00:00Z,FC Lorient,Stade Brestois 29,Ligue 1,8
-2025-10-19T00:00:00Z,FC Nantes,Lille OSC,Ligue 1,8
-2025-10-19T00:00:00Z,Toulouse FC,FC Metz,Ligue 1,8
-2025-10-19T00:00:00Z,OGC Nice,Olympique Lyonnais,Ligue 1,8
-2025-10-19T00:00:00Z,Olympique de Marseille,Le Havre AC,Ligue 1,8
-2025-10-19T00:00:00Z,Paris Saint-Germain FC,RC Strasbourg Alsace,Ligue 1,8
-2025-10-19T00:00:00Z,Racing Club de Lens,Paris FC,Ligue 1,8
-2025-10-19T00:00:00Z,Angers SCO,AS Monaco FC,Ligue 1,8
-2025-10-19T00:00:00Z,Stade Rennais FC 1901,AJ Auxerre,Ligue 1,8
-2025-10-26T00:00:00Z,AJ Auxerre,Le Havre AC,Ligue 1,9
-2025-10-26T00:00:00Z,AS Monaco FC,Toulouse FC,Ligue 1,9
-2025-10-26T00:00:00Z,Paris FC,FC Nantes,Ligue 1,9
-2025-10-26T00:00:00Z,Olympique Lyonnais,RC Strasbourg Alsace,Ligue 1,9
-2025-10-26T00:00:00Z,Lille OSC,FC Metz,Ligue 1,9
-2025-10-26T00:00:00Z,Racing Club de Lens,Olympique de Marseille,Ligue 1,9
-2025-10-26T00:00:00Z,Angers SCO,FC Lorient,Ligue 1,9
-2025-10-26T00:00:00Z,Stade Brestois 29,Paris Saint-Germain FC,Ligue 1,9
-2025-10-26T00:00:00Z,Stade Rennais FC 1901,OGC Nice,Ligue 1,9
-2025-10-29T00:00:00Z,Le Havre AC,Stade Brestois 29,Ligue 1,10
-2025-10-29T00:00:00Z,FC Lorient,Paris Saint-Germain FC,Ligue 1,10
-2025-10-29T00:00:00Z,FC Metz,Racing Club de Lens,Ligue 1,10
-2025-10-29T00:00:00Z,FC Nantes,AS Monaco FC,Ligue 1,10
-2025-10-29T00:00:00Z,Paris FC,Olympique Lyonnais,Ligue 1,10
-2025-10-29T00:00:00Z,Toulouse FC,Stade Rennais FC 1901,Ligue 1,10
-2025-10-29T00:00:00Z,OGC Nice,Lille OSC,Ligue 1,10
-2025-10-29T00:00:00Z,Olympique de Marseille,Angers SCO,Ligue 1,10
-2025-10-29T00:00:00Z,RC Strasbourg Alsace,AJ Auxerre,Ligue 1,10
-2025-11-02T00:00:00Z,AJ Auxerre,Olympique de Marseille,Ligue 1,11
-2025-11-02T00:00:00Z,AS Monaco FC,Paris FC,Ligue 1,11
-2025-11-02T00:00:00Z,FC Nantes,FC Metz,Ligue 1,11
-2025-11-02T00:00:00Z,Toulouse FC,Le Havre AC,Ligue 1,11
-2025-11-02T00:00:00Z,Lille OSC,Angers SCO,Ligue 1,11
-2025-11-02T00:00:00Z,Paris Saint-Germain FC,OGC Nice,Ligue 1,11
-2025-11-02T00:00:00Z,Racing Club de Lens,FC Lorient,Ligue 1,11
-2025-11-02T00:00:00Z,Stade Brestois 29,Olympique Lyonnais,Ligue 1,11
-2025-11-02T00:00:00Z,Stade Rennais FC 1901,RC Strasbourg Alsace,Ligue 1,11
-2025-11-09T00:00:00Z,Le Havre AC,FC Nantes,Ligue 1,12
-2025-11-09T00:00:00Z,AS Monaco FC,Racing Club de Lens,Ligue 1,12
-2025-11-09T00:00:00Z,FC Lorient,Toulouse FC,Ligue 1,12
-2025-11-09T00:00:00Z,FC Metz,OGC Nice,Ligue 1,12
-2025-11-09T00:00:00Z,Paris FC,Stade Rennais FC 1901,Ligue 1,12
-2025-11-09T00:00:00Z,Olympique Lyonnais,Paris Saint-Germain FC,Ligue 1,12
-2025-11-09T00:00:00Z,Olympique de Marseille,Stade Brestois 29,Ligue 1,12
-2025-11-09T00:00:00Z,RC Strasbourg Alsace,Lille OSC,Ligue 1,12
-2025-11-09T00:00:00Z,Angers SCO,AJ Auxerre,Ligue 1,12
 2025-11-23T00:00:00Z,AJ Auxerre,Olympique Lyonnais,Ligue 1,13
 2025-11-23T00:00:00Z,FC Nantes,FC Lorient,Ligue 1,13
 2025-11-23T00:00:00Z,Toulouse FC,Angers SCO,Ligue 1,13
@@ -1027,16 +982,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-09-28T16:30:00Z,Real Betis Balompié,CA Osasuna,La Liga,7
 2025-09-28T19:00:00Z,FC Barcelona,Real Sociedad de Fútbol,La Liga,7
 2025-09-29T19:00:00Z,Valencia CF,Real Oviedo,La Liga,7
-2025-10-05T00:00:00Z,Deportivo Alavés,Elche CF,La Liga,8
-2025-10-05T00:00:00Z,Athletic Club,RCD Mallorca,La Liga,8
-2025-10-05T00:00:00Z,Girona FC,Valencia CF,La Liga,8
-2025-10-05T00:00:00Z,Real Madrid CF,Villarreal CF,La Liga,8
-2025-10-05T00:00:00Z,RC Celta de Vigo,Club Atlético de Madrid,La Liga,8
-2025-10-05T00:00:00Z,Sevilla FC,FC Barcelona,La Liga,8
-2025-10-05T00:00:00Z,RCD Espanyol de Barcelona,Real Betis Balompié,La Liga,8
-2025-10-05T00:00:00Z,CA Osasuna,Getafe CF,La Liga,8
-2025-10-05T00:00:00Z,Real Oviedo,Levante UD,La Liga,8
-2025-10-05T00:00:00Z,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,La Liga,8
 2025-10-19T00:00:00Z,Deportivo Alavés,Valencia CF,La Liga,9
 2025-10-19T00:00:00Z,Club Atlético de Madrid,CA Osasuna,La Liga,9
 2025-10-19T00:00:00Z,FC Barcelona,Girona FC,La Liga,9
