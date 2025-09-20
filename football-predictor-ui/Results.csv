@@ -339,7 +339,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,Premier League,Nott'm Forest,Bournemouth,Away Win,0.33562714,0.2500194,0.41435343
 2026-05-24,00:00,38,Premier League,Tottenham,Everton,Away Win,0.23025486,0.23244698,0.53729814
 2026-05-24,00:00,38,Premier League,West Ham,Leeds,Home Win,0.46925753,0.24704765,0.28369483
-2025-09-19,18:45,4,Serie A,Lecce,Cagliari,Home Win,0.39854482,0.25179997,0.34965518
 2025-09-20,13:00,4,Serie A,Bologna,Genoa,Home Win,0.533049,0.2370938,0.22985719
 2025-09-20,16:00,4,Serie A,Verona,Juventus,Away Win,0.23556198,0.23407522,0.5303628
 2025-09-20,18:45,4,Serie A,Udinese,Milan,Away Win,0.23828043,0.23483542,0.52688414
@@ -689,7 +688,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,Serie A,Napoli,Udinese,Home Win,0.6880486,0.18942688,0.12252452
 2026-05-24,00:00,38,Serie A,Cremonese,Como,Away Win,0.254869,0.23857453,0.50655645
 2026-05-24,00:00,38,Serie A,Lecce,Genoa,Away Win,0.36756617,0.2518183,0.38061556
-2025-09-19,18:45,5,Ligue 1,Lyon,Angers,Home Win,0.644409,0.20544782,0.15014312
 2025-09-20,15:00,5,Ligue 1,Nantes,Rennes,Away Win,0.36582252,0.25132486,0.38285258
 2025-09-20,17:00,5,Ligue 1,Brest,Nice,Away Win,0.29659352,0.24602792,0.4573786
 2025-09-20,19:05,5,Ligue 1,Lens,Lille,Away Win,0.3036413,0.24656183,0.4497969
@@ -959,7 +957,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-16,00:00,34,Ligue 1,Lille,Auxerre,Home Win,0.63148487,0.20981798,0.15869714
 2026-05-16,00:00,34,Ligue 1,Strasbourg,Monaco,Home Win,0.42137778,0.25052136,0.32810086
 2026-05-16,00:00,34,Ligue 1,Brest,Angers,Home Win,0.43470848,0.25029707,0.3149945
-2025-09-19,19:00,5,La Liga,Betis,Sociedad,Home Win,0.5729219,0.22750281,0.19957532
 2025-09-20,12:00,5,La Liga,Girona,Levante,Away Win,0.3237263,0.2489418,0.42733195
 2025-09-20,14:15,5,La Liga,Real Madrid,Espanol,Home Win,0.62353796,0.21242297,0.16403903
 2025-09-20,16:30,5,La Liga,Villarreal,Osasuna,Home Win,0.5746446,0.22703408,0.19832134
@@ -1298,7 +1295,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.53869283,0.2358083,0.22549888
 2026-05-24,00:00,38,La Liga,Valencia,Barcelona,Away Win,0.262827,0.24019678,0.4969762
 2026-05-24,00:00,38,La Liga,Girona,Elche,Away Win,0.30284163,0.24668002,0.45047835
-2025-09-19,18:30,4,Bundesliga,Stuttgart,St Pauli,Home Win,0.53957534,0.23572072,0.22470391
 2025-09-20,13:30,4,Bundesliga,Werder Bremen,Freiburg,Home Win,0.5043488,0.24196167,0.2536895
 2025-09-20,13:30,4,Bundesliga,Augsburg,Mainz,Home Win,0.40938795,0.25175008,0.33886197
 2025-09-20,13:30,4,Bundesliga,Hoffenheim,Bayern Munich,Away Win,0.22231613,0.2295937,0.54809016
