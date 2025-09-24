@@ -39,46 +39,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-10-26T14:00:00Z,Arsenal FC,Crystal Palace FC,Premier League,9
 2025-10-26T14:00:00Z,Wolverhampton Wanderers FC,Burnley FC,Premier League,9
 2025-10-26T16:30:00Z,Everton FC,Tottenham Hotspur FC,Premier League,9
-2025-11-01T00:00:00Z,Sunderland AFC,Everton FC,Premier League,10
-2025-11-01T00:00:00Z,Brighton & Hove Albion FC,Leeds United FC,Premier League,10
-2025-11-01T00:00:00Z,Crystal Palace FC,Brentford FC,Premier League,10
-2025-11-01T00:00:00Z,Burnley FC,Arsenal FC,Premier League,10
-2025-11-01T00:00:00Z,Fulham FC,Wolverhampton Wanderers FC,Premier League,10
-2025-11-01T00:00:00Z,Liverpool FC,Aston Villa FC,Premier League,10
-2025-11-01T00:00:00Z,Manchester City FC,AFC Bournemouth,Premier League,10
-2025-11-01T00:00:00Z,Nottingham Forest FC,Manchester United FC,Premier League,10
-2025-11-01T00:00:00Z,Tottenham Hotspur FC,Chelsea FC,Premier League,10
-2025-11-01T00:00:00Z,West Ham United FC,Newcastle United FC,Premier League,10
-2025-11-08T00:00:00Z,Sunderland AFC,Arsenal FC,Premier League,11
-2025-11-08T00:00:00Z,Aston Villa FC,AFC Bournemouth,Premier League,11
-2025-11-08T00:00:00Z,Crystal Palace FC,Brighton & Hove Albion FC,Premier League,11
-2025-11-08T00:00:00Z,Brentford FC,Newcastle United FC,Premier League,11
-2025-11-08T00:00:00Z,Chelsea FC,Wolverhampton Wanderers FC,Premier League,11
-2025-11-08T00:00:00Z,Everton FC,Fulham FC,Premier League,11
-2025-11-08T00:00:00Z,Manchester City FC,Liverpool FC,Premier League,11
-2025-11-08T00:00:00Z,Nottingham Forest FC,Leeds United FC,Premier League,11
-2025-11-08T00:00:00Z,Tottenham Hotspur FC,Manchester United FC,Premier League,11
-2025-11-08T00:00:00Z,West Ham United FC,Burnley FC,Premier League,11
-2025-11-22T00:00:00Z,AFC Bournemouth,West Ham United FC,Premier League,12
-2025-11-22T00:00:00Z,Brighton & Hove Albion FC,Brentford FC,Premier League,12
-2025-11-22T00:00:00Z,Arsenal FC,Tottenham Hotspur FC,Premier League,12
-2025-11-22T00:00:00Z,Burnley FC,Chelsea FC,Premier League,12
-2025-11-22T00:00:00Z,Fulham FC,Sunderland AFC,Premier League,12
-2025-11-22T00:00:00Z,Liverpool FC,Nottingham Forest FC,Premier League,12
-2025-11-22T00:00:00Z,Leeds United FC,Aston Villa FC,Premier League,12
-2025-11-22T00:00:00Z,Manchester United FC,Everton FC,Premier League,12
-2025-11-22T00:00:00Z,Newcastle United FC,Manchester City FC,Premier League,12
-2025-11-22T00:00:00Z,Wolverhampton Wanderers FC,Crystal Palace FC,Premier League,12
-2025-11-29T00:00:00Z,Sunderland AFC,AFC Bournemouth,Premier League,13
-2025-11-29T00:00:00Z,Aston Villa FC,Wolverhampton Wanderers FC,Premier League,13
-2025-11-29T00:00:00Z,Crystal Palace FC,Manchester United FC,Premier League,13
-2025-11-29T00:00:00Z,Brentford FC,Burnley FC,Premier League,13
-2025-11-29T00:00:00Z,Chelsea FC,Arsenal FC,Premier League,13
-2025-11-29T00:00:00Z,Everton FC,Newcastle United FC,Premier League,13
-2025-11-29T00:00:00Z,Manchester City FC,Leeds United FC,Premier League,13
-2025-11-29T00:00:00Z,Nottingham Forest FC,Brighton & Hove Albion FC,Premier League,13
-2025-11-29T00:00:00Z,Tottenham Hotspur FC,Fulham FC,Premier League,13
-2025-11-29T00:00:00Z,West Ham United FC,Liverpool FC,Premier League,13
 2025-12-03T00:00:00Z,AFC Bournemouth,Everton FC,Premier League,14
 2025-12-03T00:00:00Z,Brighton & Hove Albion FC,Aston Villa FC,Premier League,14
 2025-12-03T00:00:00Z,Arsenal FC,Brentford FC,Premier League,14
@@ -930,10 +890,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-09-23T17:00:00Z,Athletic Club,Girona FC,La Liga,6
-2025-09-23T17:00:00Z,RCD Espanyol de Barcelona,Valencia CF,La Liga,6
-2025-09-23T19:30:00Z,Levante UD,Real Madrid CF,La Liga,6
-2025-09-23T19:30:00Z,Sevilla FC,Villarreal CF,La Liga,6
 2025-09-24T17:00:00Z,Getafe CF,Deportivo Alavés,La Liga,6
 2025-09-24T19:30:00Z,Club Atlético de Madrid,Rayo Vallecano de Madrid,La Liga,6
 2025-09-24T19:30:00Z,Real Sociedad de Fútbol,RCD Mallorca,La Liga,6
