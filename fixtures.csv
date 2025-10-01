@@ -721,15 +721,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-11-30T16:15:00Z,FC Lorient,OGC Nice,Ligue 1,14
 2025-11-30T16:15:00Z,Angers SCO,Racing Club de Lens,Ligue 1,14
 2025-11-30T19:45:00Z,Olympique Lyonnais,FC Nantes,Ligue 1,14
-2025-12-07T00:00:00Z,Le Havre AC,Paris FC,Ligue 1,15
-2025-12-07T00:00:00Z,AJ Auxerre,FC Metz,Ligue 1,15
-2025-12-07T00:00:00Z,FC Lorient,Olympique Lyonnais,Ligue 1,15
-2025-12-07T00:00:00Z,FC Nantes,Racing Club de Lens,Ligue 1,15
-2025-12-07T00:00:00Z,Toulouse FC,RC Strasbourg Alsace,Ligue 1,15
-2025-12-07T00:00:00Z,OGC Nice,Angers SCO,Ligue 1,15
-2025-12-07T00:00:00Z,Lille OSC,Olympique de Marseille,Ligue 1,15
-2025-12-07T00:00:00Z,Paris Saint-Germain FC,Stade Rennais FC 1901,Ligue 1,15
-2025-12-07T00:00:00Z,Stade Brestois 29,AS Monaco FC,Ligue 1,15
+2025-12-05T18:00:00Z,Stade Brestois 29,AS Monaco FC,Ligue 1,15
+2025-12-05T20:00:00Z,Lille OSC,Olympique de Marseille,Ligue 1,15
+2025-12-06T16:00:00Z,FC Nantes,Racing Club de Lens,Ligue 1,15
+2025-12-06T18:00:00Z,Toulouse FC,RC Strasbourg Alsace,Ligue 1,15
+2025-12-06T20:05:00Z,Paris Saint-Germain FC,Stade Rennais FC 1901,Ligue 1,15
+2025-12-07T14:00:00Z,OGC Nice,Angers SCO,Ligue 1,15
+2025-12-07T16:15:00Z,Le Havre AC,Paris FC,Ligue 1,15
+2025-12-07T16:15:00Z,AJ Auxerre,FC Metz,Ligue 1,15
+2025-12-07T19:45:00Z,FC Lorient,Olympique Lyonnais,Ligue 1,15
 2025-12-14T00:00:00Z,AJ Auxerre,Lille OSC,Ligue 1,16
 2025-12-14T00:00:00Z,FC Metz,Paris Saint-Germain FC,Ligue 1,16
 2025-12-14T00:00:00Z,Paris FC,Toulouse FC,Ligue 1,16
@@ -901,7 +901,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-09-30T18:00:00Z,Valencia CF,Real Oviedo,La Liga,7
 2025-10-03T19:00:00Z,CA Osasuna,Getafe CF,La Liga,8
 2025-10-04T12:00:00Z,Real Oviedo,Levante UD,La Liga,8
 2025-10-04T14:15:00Z,Girona FC,Valencia CF,La Liga,8
