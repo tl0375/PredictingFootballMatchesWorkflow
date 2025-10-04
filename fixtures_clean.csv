@@ -1,5 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2025-10-03,19:00,Bournemouth,Fulham,Premier League,7
 2025-10-04,11:30,Leeds,Tottenham,Premier League,7
 2025-10-04,14:00,Arsenal,West Ham,Premier League,7
 2025-10-04,14:00,Manchester Utd,Sunderland,Premier League,7
@@ -319,7 +318,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,00:00,Tottenham,Everton,Premier League,38
 2026-05-24,00:00,West Ham,Leeds,Premier League,38
-2025-10-03,18:45,Verona,Sassuolo,Serie A,6
 2025-10-04,13:00,Lazio,Torino,Serie A,6
 2025-10-04,13:00,Parma,Lecce,Serie A,6
 2025-10-04,16:00,Inter,Cremonese,Serie A,6
@@ -649,7 +647,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2025-10-03,18:45,Paris FC,Lorient,Ligue 1,7
 2025-10-04,15:00,Metz,Marseille,Ligue 1,7
 2025-10-04,17:00,Brest,Nantes,Ligue 1,7
 2025-10-04,19:05,Auxerre,Lens,Ligue 1,7
@@ -901,7 +898,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,00:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,00:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,00:00,Brest,Angers,Ligue 1,34
-2025-10-03,19:00,Osasuna,Getafe,La Liga,8
 2025-10-04,12:00,Oviedo,Levante,La Liga,8
 2025-10-04,14:15,Girona,Valencia,La Liga,8
 2025-10-04,16:30,Athletic Club,Mallorca,La Liga,8
@@ -931,16 +927,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2025-10-26,17:30,Osasuna,Celta,La Liga,10
 2025-10-26,20:00,Vallecano,Alaves,La Liga,10
 2025-10-27,20:00,Betis,Ath Madrid,La Liga,10
-2025-11-02,00:00,Alaves,Espanol,La Liga,11
-2025-11-02,00:00,Ath Madrid,Sevilla,La Liga,11
-2025-11-02,00:00,Barcelona,Elche,La Liga,11
-2025-11-02,00:00,Betis,Mallorca,La Liga,11
-2025-11-02,00:00,Getafe,Girona,La Liga,11
-2025-11-02,00:00,Real Madrid,Valencia,La Liga,11
-2025-11-02,00:00,Sociedad,Athletic Club,La Liga,11
-2025-11-02,00:00,Levante,Celta,La Liga,11
-2025-11-02,00:00,Oviedo,Osasuna,La Liga,11
-2025-11-02,00:00,Villarreal,Vallecano,La Liga,11
 2025-11-09,00:00,Athletic Club,Oviedo,La Liga,12
 2025-11-09,00:00,Ath Madrid,Levante,La Liga,12
 2025-11-09,00:00,Elche,Sociedad,La Liga,12
@@ -1211,7 +1197,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2025-10-03,18:30,Hoffenheim,FC Koln,Bundesliga,6
 2025-10-04,13:30,Leverkusen,Union Berlin,Bundesliga,6
 2025-10-04,13:30,Dortmund,RB Leipzig,Bundesliga,6
 2025-10-04,13:30,Werder Bremen,St Pauli,Bundesliga,6
