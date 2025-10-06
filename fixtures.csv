@@ -1,9 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2025-10-05T13:00:00Z,Aston Villa FC,Burnley FC,Premier League,7
-2025-10-05T13:00:00Z,Everton FC,Crystal Palace FC,Premier League,7
-2025-10-05T13:00:00Z,Newcastle United FC,Nottingham Forest FC,Premier League,7
-2025-10-05T13:00:00Z,Wolverhampton Wanderers FC,Brighton & Hove Albion FC,Premier League,7
-2025-10-05T15:30:00Z,Brentford FC,Manchester City FC,Premier League,7
 2025-10-18T11:30:00Z,Nottingham Forest FC,Chelsea FC,Premier League,8
 2025-10-18T14:00:00Z,Brighton & Hove Albion FC,Newcastle United FC,Premier League,8
 2025-10-18T14:00:00Z,Crystal Palace FC,AFC Bournemouth,Premier League,8
@@ -314,11 +309,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T00:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T00:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2025-10-05T10:30:00Z,Udinese Calcio,Cagliari Calcio,Serie A,6
-2025-10-05T13:00:00Z,ACF Fiorentina,AS Roma,Serie A,6
-2025-10-05T13:00:00Z,Bologna FC 1909,AC Pisa 1909,Serie A,6
-2025-10-05T16:00:00Z,SSC Napoli,Genoa CFC,Serie A,6
-2025-10-05T18:45:00Z,Juventus FC,AC Milan,Serie A,6
 2025-10-18T13:00:00Z,AC Pisa 1909,Hellas Verona FC,Serie A,7
 2025-10-18T13:00:00Z,US Lecce,US Sassuolo Calcio,Serie A,7
 2025-10-18T16:00:00Z,Torino FC,SSC Napoli,Serie A,7
@@ -342,9 +332,9 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-10-28T17:30:00Z,US Lecce,SSC Napoli,Serie A,9
 2025-10-28T19:45:00Z,Atalanta BC,AC Milan,Serie A,9
 2025-10-29T17:30:00Z,AS Roma,Parma Calcio 1913,Serie A,9
-2025-10-29T17:30:00Z,Como 1907,Hellas Verona FC,Serie A,9
 2025-10-29T17:30:00Z,Juventus FC,Udinese Calcio,Serie A,9
 2025-10-29T19:45:00Z,Genoa CFC,US Cremonese,Serie A,9
+2025-10-29T19:45:00Z,Como 1907,Hellas Verona FC,Serie A,9
 2025-10-29T19:45:00Z,Bologna FC 1909,Torino FC,Serie A,9
 2025-10-29T19:45:00Z,FC Internazionale Milano,ACF Fiorentina,Serie A,9
 2025-10-30T17:30:00Z,Cagliari Calcio,US Sassuolo Calcio,Serie A,9
@@ -639,11 +629,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2025-10-05T13:00:00Z,Olympique Lyonnais,Toulouse FC,Ligue 1,7
-2025-10-05T15:15:00Z,RC Strasbourg Alsace,Angers SCO,Ligue 1,7
-2025-10-05T15:15:00Z,Le Havre AC,Stade Rennais FC 1901,Ligue 1,7
-2025-10-05T15:15:00Z,AS Monaco FC,OGC Nice,Ligue 1,7
-2025-10-05T18:45:00Z,Lille OSC,Paris Saint-Germain FC,Ligue 1,7
 2025-10-17T18:45:00Z,Paris Saint-Germain FC,RC Strasbourg Alsace,Ligue 1,8
 2025-10-18T15:00:00Z,OGC Nice,Olympique Lyonnais,Ligue 1,8
 2025-10-18T17:00:00Z,Angers SCO,AS Monaco FC,Ligue 1,8
@@ -887,11 +872,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-10-05T12:00:00Z,Deportivo Alavés,Elche CF,La Liga,8
-2025-10-05T14:15:00Z,Sevilla FC,FC Barcelona,La Liga,8
-2025-10-05T16:30:00Z,RCD Espanyol de Barcelona,Real Betis Balompié,La Liga,8
-2025-10-05T16:30:00Z,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,La Liga,8
-2025-10-05T19:00:00Z,RC Celta de Vigo,Club Atlético de Madrid,La Liga,8
 2025-10-17T19:00:00Z,Real Oviedo,RCD Espanyol de Barcelona,La Liga,9
 2025-10-18T12:00:00Z,Sevilla FC,RCD Mallorca,La Liga,9
 2025-10-18T14:15:00Z,FC Barcelona,Girona FC,La Liga,9
@@ -1192,9 +1172,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-10-05T13:30:00Z,VfB Stuttgart,1. FC Heidenheim 1846,Bundesliga,6
-2025-10-05T15:30:00Z,Hamburger SV,1. FSV Mainz 05,Bundesliga,6
-2025-10-05T17:30:00Z,Borussia Mönchengladbach,SC Freiburg,Bundesliga,6
 2025-10-17T18:30:00Z,1. FC Union Berlin,Borussia Mönchengladbach,Bundesliga,7
 2025-10-18T13:30:00Z,1. FSV Mainz 05,Bayer 04 Leverkusen,Bundesliga,7
 2025-10-18T13:30:00Z,RB Leipzig,Hamburger SV,Bundesliga,7
