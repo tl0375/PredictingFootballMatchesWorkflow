@@ -369,106 +369,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2025-11-23,19:45,Inter,Milan,Serie A,12
 2025-11-24,17:30,Torino,Como,Serie A,12
 2025-11-24,19:45,Sassuolo,Pisa,Serie A,12
-2025-11-30,00:00,Milan,Lazio,Serie A,13
-2025-11-30,00:00,Roma,Napoli,Serie A,13
-2025-11-30,00:00,Atalanta,Fiorentina,Serie A,13
-2025-11-30,00:00,Genoa,Verona,Serie A,13
-2025-11-30,00:00,Como,Sassuolo,Serie A,13
-2025-11-30,00:00,Bologna,Cremonese,Serie A,13
-2025-11-30,00:00,Juventus,Cagliari,Serie A,13
-2025-11-30,00:00,Parma,Udinese,Serie A,13
-2025-11-30,00:00,Pisa,Inter,Serie A,13
-2025-11-30,00:00,Lecce,Torino,Serie A,13
-2025-12-07,00:00,Cagliari,Roma,Serie A,14
-2025-12-07,00:00,Torino,Milan,Serie A,14
-2025-12-07,00:00,Verona,Atalanta,Serie A,14
-2025-12-07,00:00,Inter,Como,Serie A,14
-2025-12-07,00:00,Lazio,Bologna,Serie A,14
-2025-12-07,00:00,Pisa,Parma,Serie A,14
-2025-12-07,00:00,Sassuolo,Fiorentina,Serie A,14
-2025-12-07,00:00,Napoli,Juventus,Serie A,14
-2025-12-07,00:00,Udinese,Genoa,Serie A,14
-2025-12-07,00:00,Cremonese,Lecce,Serie A,14
-2025-12-14,00:00,Fiorentina,Verona,Serie A,15
-2025-12-14,00:00,Milan,Sassuolo,Serie A,15
-2025-12-14,00:00,Roma,Como,Serie A,15
-2025-12-14,00:00,Atalanta,Cagliari,Serie A,15
-2025-12-14,00:00,Genoa,Inter,Serie A,15
-2025-12-14,00:00,Bologna,Juventus,Serie A,15
-2025-12-14,00:00,Torino,Cremonese,Serie A,15
-2025-12-14,00:00,Parma,Lazio,Serie A,15
-2025-12-14,00:00,Udinese,Napoli,Serie A,15
-2025-12-14,00:00,Lecce,Pisa,Serie A,15
-2025-12-21,00:00,Fiorentina,Udinese,Serie A,16
-2025-12-21,00:00,Cagliari,Pisa,Serie A,16
-2025-12-21,00:00,Genoa,Atalanta,Serie A,16
-2025-12-21,00:00,Como,Milan,Serie A,16
-2025-12-21,00:00,Verona,Bologna,Serie A,16
-2025-12-21,00:00,Inter,Lecce,Serie A,16
-2025-12-21,00:00,Juventus,Roma,Serie A,16
-2025-12-21,00:00,Lazio,Cremonese,Serie A,16
-2025-12-21,00:00,Sassuolo,Torino,Serie A,16
-2025-12-21,00:00,Napoli,Parma,Serie A,16
-2025-12-28,00:00,Milan,Verona,Serie A,17
-2025-12-28,00:00,Roma,Genoa,Serie A,17
-2025-12-28,00:00,Atalanta,Inter,Serie A,17
-2025-12-28,00:00,Bologna,Sassuolo,Serie A,17
-2025-12-28,00:00,Torino,Cagliari,Serie A,17
-2025-12-28,00:00,Parma,Fiorentina,Serie A,17
-2025-12-28,00:00,Pisa,Juventus,Serie A,17
-2025-12-28,00:00,Udinese,Lazio,Serie A,17
-2025-12-28,00:00,Cremonese,Napoli,Serie A,17
-2025-12-28,00:00,Lecce,Como,Serie A,17
-2026-01-03,00:00,Fiorentina,Cremonese,Serie A,18
-2026-01-03,00:00,Atalanta,Roma,Serie A,18
-2026-01-03,00:00,Cagliari,Milan,Serie A,18
-2026-01-03,00:00,Genoa,Pisa,Serie A,18
-2026-01-03,00:00,Como,Udinese,Serie A,18
-2026-01-03,00:00,Verona,Torino,Serie A,18
-2026-01-03,00:00,Inter,Bologna,Serie A,18
-2026-01-03,00:00,Juventus,Lecce,Serie A,18
-2026-01-03,00:00,Lazio,Napoli,Serie A,18
-2026-01-03,00:00,Sassuolo,Parma,Serie A,18
-2026-01-06,00:00,Milan,Genoa,Serie A,19
-2026-01-06,00:00,Bologna,Atalanta,Serie A,19
-2026-01-06,00:00,Torino,Udinese,Serie A,19
-2026-01-06,00:00,Lazio,Fiorentina,Serie A,19
-2026-01-06,00:00,Parma,Inter,Serie A,19
-2026-01-06,00:00,Pisa,Como,Serie A,19
-2026-01-06,00:00,Sassuolo,Juventus,Serie A,19
-2026-01-06,00:00,Napoli,Verona,Serie A,19
-2026-01-06,00:00,Cremonese,Cagliari,Serie A,19
-2026-01-06,00:00,Lecce,Roma,Serie A,19
-2026-01-11,00:00,Fiorentina,Milan,Serie A,20
-2026-01-11,00:00,Roma,Sassuolo,Serie A,20
-2026-01-11,00:00,Atalanta,Torino,Serie A,20
-2026-01-11,00:00,Genoa,Cagliari,Serie A,20
-2026-01-11,00:00,Como,Bologna,Serie A,20
-2026-01-11,00:00,Verona,Lazio,Serie A,20
-2026-01-11,00:00,Inter,Napoli,Serie A,20
-2026-01-11,00:00,Juventus,Cremonese,Serie A,20
-2026-01-11,00:00,Udinese,Pisa,Serie A,20
-2026-01-11,00:00,Lecce,Parma,Serie A,20
-2026-01-18,00:00,Milan,Lecce,Serie A,21
-2026-01-18,00:00,Cagliari,Juventus,Serie A,21
-2026-01-18,00:00,Bologna,Fiorentina,Serie A,21
-2026-01-18,00:00,Torino,Roma,Serie A,21
-2026-01-18,00:00,Lazio,Como,Serie A,21
-2026-01-18,00:00,Parma,Genoa,Serie A,21
-2026-01-18,00:00,Pisa,Atalanta,Serie A,21
-2026-01-18,00:00,Napoli,Sassuolo,Serie A,21
-2026-01-18,00:00,Udinese,Inter,Serie A,21
-2026-01-18,00:00,Cremonese,Verona,Serie A,21
-2026-01-25,00:00,Fiorentina,Cagliari,Serie A,22
-2026-01-25,00:00,Roma,Milan,Serie A,22
-2026-01-25,00:00,Atalanta,Parma,Serie A,22
-2026-01-25,00:00,Genoa,Bologna,Serie A,22
-2026-01-25,00:00,Como,Torino,Serie A,22
-2026-01-25,00:00,Verona,Udinese,Serie A,22
-2026-01-25,00:00,Inter,Pisa,Serie A,22
-2026-01-25,00:00,Juventus,Napoli,Serie A,22
-2026-01-25,00:00,Sassuolo,Cremonese,Serie A,22
-2026-01-25,00:00,Lecce,Lazio,Serie A,22
 2026-02-01,00:00,Cagliari,Verona,Serie A,23
 2026-02-01,00:00,Como,Atalanta,Serie A,23
 2026-02-01,00:00,Bologna,Milan,Serie A,23
@@ -701,23 +601,12 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2025-12-07,16:15,Le Havre,Paris FC,Ligue 1,15
 2025-12-07,16:15,Auxerre,Metz,Ligue 1,15
 2025-12-07,19:45,Lorient,Lyon,Ligue 1,15
-2025-12-14,00:00,Auxerre,Lille,Ligue 1,16
-2025-12-14,00:00,Metz,Paris SG,Ligue 1,16
-2025-12-14,00:00,Paris FC,Toulouse,Ligue 1,16
-2025-12-14,00:00,Lyon,Le Havre,Ligue 1,16
-2025-12-14,00:00,Marseille,Monaco,Ligue 1,16
-2025-12-14,00:00,Strasbourg,Lorient,Ligue 1,16
-2025-12-14,00:00,Lens,Nice,Ligue 1,16
-2025-12-14,00:00,Angers,Nantes,Ligue 1,16
-2025-12-14,00:00,Rennes,Brest,Ligue 1,16
 2026-01-04,00:00,Le Havre,Angers,Ligue 1,17
 2026-01-04,00:00,Monaco,Lyon,Ligue 1,17
 2026-01-04,00:00,Lorient,Metz,Ligue 1,17
 2026-01-04,00:00,Toulouse,Lens,Ligue 1,17
 2026-01-04,00:00,Nice,Strasbourg,Ligue 1,17
-2026-01-04,00:00,Marseille,Nantes,Ligue 1,17
 2026-01-04,00:00,Lille,Rennes,Ligue 1,17
-2026-01-04,00:00,Paris SG,Paris FC,Ligue 1,17
 2026-01-04,00:00,Brest,Auxerre,Ligue 1,17
 2026-01-18,00:00,Monaco,Lorient,Ligue 1,18
 2026-01-18,00:00,Nantes,Paris FC,Ligue 1,18
@@ -902,16 +791,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2025-11-02,17:30,Barcelona,Elche,La Liga,11
 2025-11-02,20:00,Betis,Mallorca,La Liga,11
 2025-11-03,20:00,Oviedo,Osasuna,La Liga,11
-2025-11-09,00:00,Athletic Club,Oviedo,La Liga,12
-2025-11-09,00:00,Ath Madrid,Levante,La Liga,12
-2025-11-09,00:00,Elche,Sociedad,La Liga,12
-2025-11-09,00:00,Espanol,Villarreal,La Liga,12
-2025-11-09,00:00,Vallecano,Real Madrid,La Liga,12
-2025-11-09,00:00,Girona,Alaves,La Liga,12
-2025-11-09,00:00,Celta,Barcelona,La Liga,12
-2025-11-09,00:00,Valencia,Betis,La Liga,12
-2025-11-09,00:00,Mallorca,Getafe,La Liga,12
-2025-11-09,00:00,Sevilla,Osasuna,La Liga,12
 2025-11-23,00:00,Alaves,Celta,La Liga,13
 2025-11-23,00:00,Betis,Girona,La Liga,13
 2025-11-23,00:00,Elche,Real Madrid,La Liga,13
