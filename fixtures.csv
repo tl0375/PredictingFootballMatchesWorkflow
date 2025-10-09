@@ -369,6 +369,106 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-11-23T19:45:00Z,FC Internazionale Milano,AC Milan,Serie A,12
 2025-11-24T17:30:00Z,Torino FC,Como 1907,Serie A,12
 2025-11-24T19:45:00Z,US Sassuolo Calcio,AC Pisa 1909,Serie A,12
+2025-11-28T19:45:00Z,Como 1907,US Sassuolo Calcio,Serie A,13
+2025-11-29T14:00:00Z,Genoa CFC,Hellas Verona FC,Serie A,13
+2025-11-29T14:00:00Z,Parma Calcio 1913,Udinese Calcio,Serie A,13
+2025-11-29T17:00:00Z,Juventus FC,Cagliari Calcio,Serie A,13
+2025-11-29T19:45:00Z,AC Milan,SS Lazio,Serie A,13
+2025-11-30T11:30:00Z,US Lecce,Torino FC,Serie A,13
+2025-11-30T14:00:00Z,AC Pisa 1909,FC Internazionale Milano,Serie A,13
+2025-11-30T17:00:00Z,Atalanta BC,ACF Fiorentina,Serie A,13
+2025-11-30T19:45:00Z,AS Roma,SSC Napoli,Serie A,13
+2025-12-01T19:45:00Z,Bologna FC 1909,US Cremonese,Serie A,13
+2025-12-06T14:00:00Z,US Sassuolo Calcio,ACF Fiorentina,Serie A,14
+2025-12-06T17:00:00Z,FC Internazionale Milano,Como 1907,Serie A,14
+2025-12-06T19:45:00Z,Hellas Verona FC,Atalanta BC,Serie A,14
+2025-12-07T11:30:00Z,US Cremonese,US Lecce,Serie A,14
+2025-12-07T14:00:00Z,Cagliari Calcio,AS Roma,Serie A,14
+2025-12-07T17:00:00Z,SS Lazio,Bologna FC 1909,Serie A,14
+2025-12-07T19:45:00Z,SSC Napoli,Juventus FC,Serie A,14
+2025-12-08T14:00:00Z,AC Pisa 1909,Parma Calcio 1913,Serie A,14
+2025-12-08T17:00:00Z,Udinese Calcio,Genoa CFC,Serie A,14
+2025-12-08T19:45:00Z,Torino FC,AC Milan,Serie A,14
+2025-12-12T19:45:00Z,US Lecce,AC Pisa 1909,Serie A,15
+2025-12-13T14:00:00Z,Torino FC,US Cremonese,Serie A,15
+2025-12-13T17:00:00Z,Parma Calcio 1913,SS Lazio,Serie A,15
+2025-12-13T19:45:00Z,Atalanta BC,Cagliari Calcio,Serie A,15
+2025-12-14T11:30:00Z,AC Milan,US Sassuolo Calcio,Serie A,15
+2025-12-14T14:00:00Z,ACF Fiorentina,Hellas Verona FC,Serie A,15
+2025-12-14T14:00:00Z,Udinese Calcio,SSC Napoli,Serie A,15
+2025-12-14T17:00:00Z,Genoa CFC,FC Internazionale Milano,Serie A,15
+2025-12-14T19:45:00Z,Bologna FC 1909,Juventus FC,Serie A,15
+2025-12-15T19:45:00Z,AS Roma,Como 1907,Serie A,15
+2025-12-20T17:00:00Z,SS Lazio,US Cremonese,Serie A,16
+2025-12-20T19:45:00Z,Juventus FC,AS Roma,Serie A,16
+2025-12-21T11:30:00Z,Cagliari Calcio,AC Pisa 1909,Serie A,16
+2025-12-21T14:00:00Z,US Sassuolo Calcio,Torino FC,Serie A,16
+2025-12-21T17:00:00Z,ACF Fiorentina,Udinese Calcio,Serie A,16
+2025-12-21T19:45:00Z,Genoa CFC,Atalanta BC,Serie A,16
+2025-12-27T11:30:00Z,Parma Calcio 1913,ACF Fiorentina,Serie A,17
+2025-12-27T14:00:00Z,Torino FC,Cagliari Calcio,Serie A,17
+2025-12-27T14:00:00Z,US Lecce,Como 1907,Serie A,17
+2025-12-27T17:00:00Z,Udinese Calcio,SS Lazio,Serie A,17
+2025-12-27T19:45:00Z,AC Pisa 1909,Juventus FC,Serie A,17
+2025-12-28T11:30:00Z,AC Milan,Hellas Verona FC,Serie A,17
+2025-12-28T14:00:00Z,US Cremonese,SSC Napoli,Serie A,17
+2025-12-28T17:00:00Z,Bologna FC 1909,US Sassuolo Calcio,Serie A,17
+2025-12-28T19:45:00Z,Atalanta BC,FC Internazionale Milano,Serie A,17
+2025-12-29T19:45:00Z,AS Roma,Genoa CFC,Serie A,17
+2026-01-02T19:45:00Z,Cagliari Calcio,AC Milan,Serie A,18
+2026-01-03T11:30:00Z,Como 1907,Udinese Calcio,Serie A,18
+2026-01-03T14:00:00Z,Genoa CFC,AC Pisa 1909,Serie A,18
+2026-01-03T14:00:00Z,US Sassuolo Calcio,Parma Calcio 1913,Serie A,18
+2026-01-03T17:00:00Z,Juventus FC,US Lecce,Serie A,18
+2026-01-03T19:45:00Z,Atalanta BC,AS Roma,Serie A,18
+2026-01-04T11:30:00Z,SS Lazio,SSC Napoli,Serie A,18
+2026-01-04T14:00:00Z,ACF Fiorentina,US Cremonese,Serie A,18
+2026-01-04T17:00:00Z,Hellas Verona FC,Torino FC,Serie A,18
+2026-01-04T19:45:00Z,FC Internazionale Milano,Bologna FC 1909,Serie A,18
+2026-01-06T14:00:00Z,AC Pisa 1909,Como 1907,Serie A,19
+2026-01-06T17:00:00Z,US Lecce,AS Roma,Serie A,19
+2026-01-06T19:45:00Z,US Sassuolo Calcio,Juventus FC,Serie A,19
+2026-01-07T17:30:00Z,Bologna FC 1909,Atalanta BC,Serie A,19
+2026-01-07T17:30:00Z,SSC Napoli,Hellas Verona FC,Serie A,19
+2026-01-07T19:45:00Z,Torino FC,Udinese Calcio,Serie A,19
+2026-01-07T19:45:00Z,SS Lazio,ACF Fiorentina,Serie A,19
+2026-01-07T19:45:00Z,Parma Calcio 1913,FC Internazionale Milano,Serie A,19
+2026-01-08T17:30:00Z,US Cremonese,Cagliari Calcio,Serie A,19
+2026-01-08T19:45:00Z,AC Milan,Genoa CFC,Serie A,19
+2026-01-10T14:00:00Z,Como 1907,Bologna FC 1909,Serie A,20
+2026-01-10T14:00:00Z,Udinese Calcio,AC Pisa 1909,Serie A,20
+2026-01-10T17:00:00Z,AS Roma,US Sassuolo Calcio,Serie A,20
+2026-01-10T19:45:00Z,Atalanta BC,Torino FC,Serie A,20
+2026-01-11T11:30:00Z,US Lecce,Parma Calcio 1913,Serie A,20
+2026-01-11T14:00:00Z,ACF Fiorentina,AC Milan,Serie A,20
+2026-01-11T17:00:00Z,Hellas Verona FC,SS Lazio,Serie A,20
+2026-01-11T19:45:00Z,FC Internazionale Milano,SSC Napoli,Serie A,20
+2026-01-12T17:30:00Z,Genoa CFC,Cagliari Calcio,Serie A,20
+2026-01-12T19:45:00Z,Juventus FC,US Cremonese,Serie A,20
+2026-01-14T17:30:00Z,SSC Napoli,Parma Calcio 1913,Serie A,16
+2026-01-14T19:45:00Z,FC Internazionale Milano,US Lecce,Serie A,16
+2026-01-15T17:30:00Z,Hellas Verona FC,Bologna FC 1909,Serie A,16
+2026-01-15T19:45:00Z,Como 1907,AC Milan,Serie A,16
+2026-01-16T19:45:00Z,AC Pisa 1909,Atalanta BC,Serie A,21
+2026-01-17T14:00:00Z,Udinese Calcio,FC Internazionale Milano,Serie A,21
+2026-01-17T17:00:00Z,SSC Napoli,US Sassuolo Calcio,Serie A,21
+2026-01-17T19:45:00Z,Cagliari Calcio,Juventus FC,Serie A,21
+2026-01-18T11:30:00Z,Parma Calcio 1913,Genoa CFC,Serie A,21
+2026-01-18T14:00:00Z,Bologna FC 1909,ACF Fiorentina,Serie A,21
+2026-01-18T17:00:00Z,Torino FC,AS Roma,Serie A,21
+2026-01-18T19:45:00Z,AC Milan,US Lecce,Serie A,21
+2026-01-19T17:30:00Z,US Cremonese,Hellas Verona FC,Serie A,21
+2026-01-19T19:45:00Z,SS Lazio,Como 1907,Serie A,21
+2026-01-23T19:45:00Z,FC Internazionale Milano,AC Pisa 1909,Serie A,22
+2026-01-24T14:00:00Z,Como 1907,Torino FC,Serie A,22
+2026-01-24T17:00:00Z,ACF Fiorentina,Cagliari Calcio,Serie A,22
+2026-01-24T19:45:00Z,US Lecce,SS Lazio,Serie A,22
+2026-01-25T11:30:00Z,US Sassuolo Calcio,US Cremonese,Serie A,22
+2026-01-25T14:00:00Z,Atalanta BC,Parma Calcio 1913,Serie A,22
+2026-01-25T14:00:00Z,Genoa CFC,Bologna FC 1909,Serie A,22
+2026-01-25T17:00:00Z,Juventus FC,SSC Napoli,Serie A,22
+2026-01-25T19:45:00Z,AS Roma,AC Milan,Serie A,22
+2026-01-26T19:45:00Z,Hellas Verona FC,Udinese Calcio,Serie A,22
 2026-02-01T00:00:00Z,Cagliari Calcio,Hellas Verona FC,Serie A,23
 2026-02-01T00:00:00Z,Como 1907,Atalanta BC,Serie A,23
 2026-02-01T00:00:00Z,Bologna FC 1909,AC Milan,Serie A,23
@@ -601,6 +701,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-12-07T16:15:00Z,Le Havre AC,Paris FC,Ligue 1,15
 2025-12-07T16:15:00Z,AJ Auxerre,FC Metz,Ligue 1,15
 2025-12-07T19:45:00Z,FC Lorient,Olympique Lyonnais,Ligue 1,15
+2025-12-12T19:45:00Z,Angers SCO,FC Nantes,Ligue 1,16
+2025-12-13T16:00:00Z,Stade Rennais FC 1901,Stade Brestois 29,Ligue 1,16
+2025-12-13T18:00:00Z,FC Metz,Paris Saint-Germain FC,Ligue 1,16
+2025-12-13T20:05:00Z,Paris FC,Toulouse FC,Ligue 1,16
+2025-12-14T16:15:00Z,AJ Auxerre,Lille OSC,Ligue 1,16
+2025-12-14T16:15:00Z,Olympique Lyonnais,Le Havre AC,Ligue 1,16
+2025-12-14T16:15:00Z,RC Strasbourg Alsace,FC Lorient,Ligue 1,16
+2025-12-14T16:15:00Z,Racing Club de Lens,OGC Nice,Ligue 1,16
+2025-12-14T19:45:00Z,Olympique de Marseille,AS Monaco FC,Ligue 1,16
 2026-01-04T00:00:00Z,Le Havre AC,Angers SCO,Ligue 1,17
 2026-01-04T00:00:00Z,AS Monaco FC,Olympique Lyonnais,Ligue 1,17
 2026-01-04T00:00:00Z,FC Lorient,FC Metz,Ligue 1,17
@@ -791,6 +900,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-11-02T17:30:00Z,FC Barcelona,Elche CF,La Liga,11
 2025-11-02T20:00:00Z,Real Betis Balompié,RCD Mallorca,La Liga,11
 2025-11-03T20:00:00Z,Real Oviedo,CA Osasuna,La Liga,11
+2025-11-07T20:00:00Z,Elche CF,Real Sociedad de Fútbol,La Liga,12
+2025-11-08T13:00:00Z,Girona FC,Deportivo Alavés,La Liga,12
+2025-11-08T15:15:00Z,Sevilla FC,CA Osasuna,La Liga,12
+2025-11-08T17:30:00Z,Club Atlético de Madrid,Levante UD,La Liga,12
+2025-11-08T20:00:00Z,RCD Espanyol de Barcelona,Villarreal CF,La Liga,12
+2025-11-09T13:00:00Z,Athletic Club,Real Oviedo,La Liga,12
+2025-11-09T15:15:00Z,Rayo Vallecano de Madrid,Real Madrid CF,La Liga,12
+2025-11-09T17:30:00Z,Valencia CF,Real Betis Balompié,La Liga,12
+2025-11-09T17:30:00Z,RCD Mallorca,Getafe CF,La Liga,12
+2025-11-09T20:00:00Z,RC Celta de Vigo,FC Barcelona,La Liga,12
 2025-11-23T00:00:00Z,Deportivo Alavés,RC Celta de Vigo,La Liga,13
 2025-11-23T00:00:00Z,Real Betis Balompié,Girona FC,La Liga,13
 2025-11-23T00:00:00Z,Elche CF,Real Madrid CF,La Liga,13
