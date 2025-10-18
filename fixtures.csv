@@ -59,46 +59,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-11-30T14:05:00Z,Nottingham Forest FC,Brighton & Hove Albion FC,Premier League,13
 2025-11-30T14:05:00Z,West Ham United FC,Liverpool FC,Premier League,13
 2025-11-30T16:30:00Z,Chelsea FC,Arsenal FC,Premier League,13
-2025-12-03T00:00:00Z,AFC Bournemouth,Everton FC,Premier League,14
-2025-12-03T00:00:00Z,Brighton & Hove Albion FC,Aston Villa FC,Premier League,14
-2025-12-03T00:00:00Z,Arsenal FC,Brentford FC,Premier League,14
-2025-12-03T00:00:00Z,Burnley FC,Crystal Palace FC,Premier League,14
-2025-12-03T00:00:00Z,Fulham FC,Manchester City FC,Premier League,14
-2025-12-03T00:00:00Z,Liverpool FC,Sunderland AFC,Premier League,14
-2025-12-03T00:00:00Z,Leeds United FC,Chelsea FC,Premier League,14
-2025-12-03T00:00:00Z,Manchester United FC,West Ham United FC,Premier League,14
-2025-12-03T00:00:00Z,Newcastle United FC,Tottenham Hotspur FC,Premier League,14
-2025-12-03T00:00:00Z,Wolverhampton Wanderers FC,Nottingham Forest FC,Premier League,14
-2025-12-06T00:00:00Z,AFC Bournemouth,Chelsea FC,Premier League,15
-2025-12-06T00:00:00Z,Aston Villa FC,Arsenal FC,Premier League,15
-2025-12-06T00:00:00Z,Brighton & Hove Albion FC,West Ham United FC,Premier League,15
-2025-12-06T00:00:00Z,Everton FC,Nottingham Forest FC,Premier League,15
-2025-12-06T00:00:00Z,Fulham FC,Crystal Palace FC,Premier League,15
-2025-12-06T00:00:00Z,Leeds United FC,Liverpool FC,Premier League,15
-2025-12-06T00:00:00Z,Manchester City FC,Sunderland AFC,Premier League,15
-2025-12-06T00:00:00Z,Newcastle United FC,Burnley FC,Premier League,15
-2025-12-06T00:00:00Z,Tottenham Hotspur FC,Brentford FC,Premier League,15
-2025-12-06T00:00:00Z,Wolverhampton Wanderers FC,Manchester United FC,Premier League,15
-2025-12-13T00:00:00Z,Sunderland AFC,Newcastle United FC,Premier League,16
-2025-12-13T00:00:00Z,Crystal Palace FC,Manchester City FC,Premier League,16
-2025-12-13T00:00:00Z,Arsenal FC,Wolverhampton Wanderers FC,Premier League,16
-2025-12-13T00:00:00Z,Brentford FC,Leeds United FC,Premier League,16
-2025-12-13T00:00:00Z,Burnley FC,Fulham FC,Premier League,16
-2025-12-13T00:00:00Z,Chelsea FC,Everton FC,Premier League,16
-2025-12-13T00:00:00Z,Liverpool FC,Brighton & Hove Albion FC,Premier League,16
-2025-12-13T00:00:00Z,Manchester United FC,AFC Bournemouth,Premier League,16
-2025-12-13T00:00:00Z,Nottingham Forest FC,Tottenham Hotspur FC,Premier League,16
-2025-12-13T00:00:00Z,West Ham United FC,Aston Villa FC,Premier League,16
-2025-12-20T00:00:00Z,AFC Bournemouth,Burnley FC,Premier League,17
-2025-12-20T00:00:00Z,Aston Villa FC,Manchester United FC,Premier League,17
-2025-12-20T00:00:00Z,Brighton & Hove Albion FC,Sunderland AFC,Premier League,17
-2025-12-20T00:00:00Z,Everton FC,Arsenal FC,Premier League,17
-2025-12-20T00:00:00Z,Fulham FC,Nottingham Forest FC,Premier League,17
-2025-12-20T00:00:00Z,Leeds United FC,Crystal Palace FC,Premier League,17
-2025-12-20T00:00:00Z,Manchester City FC,West Ham United FC,Premier League,17
-2025-12-20T00:00:00Z,Newcastle United FC,Chelsea FC,Premier League,17
-2025-12-20T00:00:00Z,Tottenham Hotspur FC,Liverpool FC,Premier League,17
-2025-12-20T00:00:00Z,Wolverhampton Wanderers FC,Brentford FC,Premier League,17
 2025-12-27T00:00:00Z,Sunderland AFC,Leeds United FC,Premier League,18
 2025-12-27T00:00:00Z,Crystal Palace FC,Tottenham Hotspur FC,Premier League,18
 2025-12-27T00:00:00Z,Arsenal FC,Brighton & Hove Albion FC,Premier League,18
@@ -629,7 +589,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2025-10-17T18:45:00Z,Paris Saint-Germain FC,RC Strasbourg Alsace,Ligue 1,8
 2025-10-18T15:00:00Z,OGC Nice,Olympique Lyonnais,Ligue 1,8
 2025-10-18T17:00:00Z,Angers SCO,AS Monaco FC,Ligue 1,8
 2025-10-18T19:05:00Z,Olympique de Marseille,Le Havre AC,Ligue 1,8
@@ -870,7 +829,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-10-17T19:00:00Z,Real Oviedo,RCD Espanyol de Barcelona,La Liga,9
 2025-10-18T12:00:00Z,Sevilla FC,RCD Mallorca,La Liga,9
 2025-10-18T14:15:00Z,FC Barcelona,Girona FC,La Liga,9
 2025-10-18T16:30:00Z,Villarreal CF,Real Betis Balompié,La Liga,9
@@ -1170,7 +1128,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-10-17T18:30:00Z,1. FC Union Berlin,Borussia Mönchengladbach,Bundesliga,7
 2025-10-18T13:30:00Z,1. FSV Mainz 05,Bayer 04 Leverkusen,Bundesliga,7
 2025-10-18T13:30:00Z,RB Leipzig,Hamburger SV,Bundesliga,7
 2025-10-18T13:30:00Z,VfL Wolfsburg,VfB Stuttgart,Bundesliga,7
