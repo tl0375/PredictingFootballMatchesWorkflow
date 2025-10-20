@@ -1,6 +1,4 @@
 Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Prob_Draw,Prob_Away_Win
-2025-10-19,13:00,8,Premier League,Tottenham,Aston Villa,Away Win,0.27715716,0.24285915,0.47998366
-2025-10-19,15:30,8,Premier League,Liverpool,Manchester Utd,Home Win,0.65762466,0.2008046,0.14157078
 2025-10-20,19:00,8,Premier League,West Ham,Brentford,Away Win,0.27731115,0.24294712,0.47974172
 2025-10-24,19:00,9,Premier League,Leeds,West Ham,Away Win,0.36872756,0.25160903,0.37966344
 2025-10-25,14:00,9,Premier League,Chelsea,Sunderland,Home Win,0.63298756,0.20931813,0.15769432
@@ -302,11 +300,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,Premier League,Nott'm Forest,Bournemouth,Away Win,0.28222403,0.24404389,0.4737321
 2026-05-24,00:00,38,Premier League,Tottenham,Everton,Away Win,0.296239,0.245859,0.45790198
 2026-05-24,00:00,38,Premier League,West Ham,Leeds,Home Win,0.42331997,0.25069648,0.32598355
-2025-10-19,10:30,7,Serie A,Como,Juventus,Away Win,0.3135617,0.24794354,0.43849474
-2025-10-19,13:00,7,Serie A,Cagliari,Bologna,Away Win,0.30047125,0.24644446,0.45308426
-2025-10-19,13:00,7,Serie A,Genoa,Parma,Home Win,0.39396244,0.25157145,0.35446608
-2025-10-19,16:00,7,Serie A,Atalanta,Lazio,Home Win,0.6076029,0.21744648,0.17495057
-2025-10-19,18:45,7,Serie A,Milan,Fiorentina,Home Win,0.60066116,0.21955507,0.17978376
 2025-10-20,18:45,7,Serie A,Cremonese,Udinese,Home Win,0.49653453,0.24357456,0.2598909
 2025-10-24,18:45,8,Serie A,Milan,Pisa,Home Win,0.66179717,0.19929954,0.1389033
 2025-10-25,13:00,8,Serie A,Parma,Como,Away Win,0.24696285,0.23682667,0.5162105
@@ -618,11 +611,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,Serie A,Napoli,Udinese,Home Win,0.7066048,0.18200782,0.11138739
 2026-05-24,00:00,38,Serie A,Cremonese,Como,Away Win,0.284585,0.24421324,0.47120175
 2026-05-24,00:00,38,Serie A,Lecce,Genoa,Away Win,0.3717236,0.2516993,0.37657708
-2025-10-19,13:00,8,Ligue 1,Lens,Paris FC,Home Win,0.6057146,0.21802886,0.17625655
-2025-10-19,15:15,8,Ligue 1,Lorient,Brest,Away Win,0.33279836,0.24968033,0.41752127
-2025-10-19,15:15,8,Ligue 1,Toulouse,Metz,Home Win,0.54926175,0.23358704,0.21715125
-2025-10-19,15:15,8,Ligue 1,Rennes,Auxerre,Home Win,0.49254504,0.24419855,0.26325646
-2025-10-19,18:45,8,Ligue 1,Nantes,Lille,Away Win,0.251134,0.2379188,0.51094717
 2025-10-24,18:45,9,Ligue 1,Paris FC,Nantes,Home Win,0.38671768,0.25161555,0.36166677
 2025-10-25,15:00,9,Ligue 1,Brest,Paris SG,Away Win,0.23977642,0.23469354,0.52553
 2025-10-25,17:00,9,Ligue 1,Monaco,Toulouse,Home Win,0.5851841,0.22408321,0.19073263
@@ -855,10 +843,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-16,00:00,34,Ligue 1,Lille,Auxerre,Home Win,0.5737086,0.22728516,0.19900621
 2026-05-16,00:00,34,Ligue 1,Strasbourg,Monaco,Home Win,0.40177417,0.25091988,0.34730595
 2026-05-16,00:00,34,Ligue 1,Brest,Angers,Home Win,0.5447933,0.23469032,0.22051634
-2025-10-19,12:00,9,La Liga,Elche,Athletic Club,Away Win,0.3164642,0.24825849,0.4352773
-2025-10-19,14:15,9,La Liga,Celta,Sociedad,Home Win,0.48046145,0.24586545,0.2736731
-2025-10-19,16:30,9,La Liga,Levante,Vallecano,Home Win,0.43013158,0.25053528,0.31933314
-2025-10-19,19:00,9,La Liga,Getafe,Real Madrid,Away Win,0.23341954,0.23320176,0.5333787
 2025-10-20,19:00,9,La Liga,Alaves,Valencia,Away Win,0.3416223,0.25051358,0.40786412
 2025-10-24,19:00,10,La Liga,Sociedad,Sevilla,Away Win,0.31125313,0.24767022,0.4410767
 2025-10-25,12:00,10,La Liga,Girona,Oviedo,Away Win,0.3277335,0.24948852,0.42277792
@@ -1150,8 +1134,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.43026567,0.2507071,0.3190272
 2026-05-24,00:00,38,La Liga,Valencia,Barcelona,Away Win,0.23937213,0.23502968,0.5255982
 2026-05-24,00:00,38,La Liga,Girona,Elche,Away Win,0.28596398,0.24453291,0.4695031
-2025-10-19,13:30,7,Bundesliga,Freiburg,Ein Frankfurt,Away Win,0.3617762,0.25143272,0.38679105
-2025-10-19,15:30,7,Bundesliga,St Pauli,Hoffenheim,Away Win,0.35893777,0.2513629,0.3896994
 2025-10-24,18:30,8,Bundesliga,Werder Bremen,Union Berlin,Home Win,0.42719018,0.25015062,0.32265922
 2025-10-25,13:30,8,Bundesliga,Ein Frankfurt,St Pauli,Home Win,0.61570185,0.2149261,0.16937202
 2025-10-25,13:30,8,Bundesliga,M'gladbach,Bayern Munich,Away Win,0.23554674,0.23386295,0.5305903
