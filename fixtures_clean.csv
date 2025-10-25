@@ -1,5 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2025-10-24,19:00,Leeds,West Ham,Premier League,9
 2025-10-25,14:00,Chelsea,Sunderland,Premier League,9
 2025-10-25,14:00,Newcastle,Fulham,Premier League,9
 2025-10-25,16:30,Manchester Utd,Brighton,Premier League,9
@@ -299,7 +298,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,00:00,Tottenham,Everton,Premier League,38
 2026-05-24,00:00,West Ham,Leeds,Premier League,38
-2025-10-24,18:45,Milan,Pisa,Serie A,8
 2025-10-25,13:00,Parma,Como,Serie A,8
 2025-10-25,13:00,Udinese,Lecce,Serie A,8
 2025-10-25,16:00,Napoli,Inter,Serie A,8
@@ -609,7 +607,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2025-10-24,18:45,Paris FC,Nantes,Ligue 1,9
 2025-10-25,15:00,Brest,Paris SG,Ligue 1,9
 2025-10-25,17:00,Monaco,Toulouse,Ligue 1,9
 2025-10-25,19:05,Lens,Marseille,Ligue 1,9
@@ -841,7 +838,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,00:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,00:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,00:00,Brest,Angers,Ligue 1,34
-2025-10-24,19:00,Sociedad,Sevilla,La Liga,10
 2025-10-25,12:00,Girona,Oviedo,La Liga,10
 2025-10-25,14:15,Espanol,Elche,La Liga,10
 2025-10-25,16:30,Athletic Club,Getafe,La Liga,10
@@ -1131,7 +1127,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2025-10-24,18:30,Werder Bremen,Union Berlin,Bundesliga,8
 2025-10-25,13:30,Ein Frankfurt,St Pauli,Bundesliga,8
 2025-10-25,13:30,M'gladbach,Bayern Munich,Bundesliga,8
 2025-10-25,13:30,Augsburg,RB Leipzig,Bundesliga,8
