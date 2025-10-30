@@ -289,12 +289,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,00:00,Tottenham,Everton,Premier League,38
 2026-05-24,00:00,West Ham,Leeds,Premier League,38
-2025-10-29,17:30,Roma,Parma,Serie A,9
-2025-10-29,17:30,Como,Verona,Serie A,9
-2025-10-29,17:30,Juventus,Udinese,Serie A,9
-2025-10-29,19:45,Genoa,Cremonese,Serie A,9
-2025-10-29,19:45,Bologna,Torino,Serie A,9
-2025-10-29,19:45,Milan,Fiorentina,Serie A,9
 2025-10-30,17:30,Cagliari,Sassuolo,Serie A,9
 2025-10-30,19:45,Pisa,Lazio,Serie A,9
 2025-11-01,14:00,Udinese,Atalanta,Serie A,10
@@ -587,15 +581,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2025-10-29,18:00,Le Havre,Brest,Ligue 1,10
-2025-10-29,18:00,Lorient,Paris SG,Ligue 1,10
-2025-10-29,18:00,Metz,Lens,Ligue 1,10
-2025-10-29,18:00,Nice,Lille,Ligue 1,10
-2025-10-29,20:05,Nantes,Monaco,Ligue 1,10
-2025-10-29,20:05,Paris FC,Lyon,Ligue 1,10
-2025-10-29,20:05,Toulouse,Rennes,Ligue 1,10
-2025-10-29,20:05,Marseille,Angers,Ligue 1,10
-2025-10-29,20:05,Strasbourg,Auxerre,Ligue 1,10
 2025-11-01,16:00,Paris SG,Nice,Ligue 1,11
 2025-11-01,18:00,Monaco,Paris FC,Ligue 1,11
 2025-11-01,20:05,Auxerre,Marseille,Ligue 1,11
