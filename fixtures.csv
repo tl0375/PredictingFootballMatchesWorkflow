@@ -793,7 +793,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-10-31T20:00:00Z,Getafe CF,Girona FC,La Liga,11
 2025-11-01T13:00:00Z,Villarreal CF,Rayo Vallecano de Madrid,La Liga,11
 2025-11-01T15:15:00Z,Club Atlético de Madrid,Sevilla FC,La Liga,11
 2025-11-01T17:30:00Z,Real Sociedad de Fútbol,Athletic Club,La Liga,11
@@ -823,16 +822,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-11-23T17:30:00Z,Getafe CF,Club Atlético de Madrid,La Liga,13
 2025-11-23T20:00:00Z,Elche CF,Real Madrid CF,La Liga,13
 2025-11-24T20:00:00Z,RCD Espanyol de Barcelona,Sevilla FC,La Liga,13
-2025-11-30T00:00:00Z,Club Atlético de Madrid,Real Oviedo,La Liga,14
-2025-11-30T00:00:00Z,RC Celta de Vigo,RCD Espanyol de Barcelona,La Liga,14
-2025-11-30T00:00:00Z,Girona FC,Real Madrid CF,La Liga,14
-2025-11-30T00:00:00Z,RCD Mallorca,CA Osasuna,La Liga,14
-2025-11-30T00:00:00Z,Rayo Vallecano de Madrid,Valencia CF,La Liga,14
-2025-11-30T00:00:00Z,Real Sociedad de Fútbol,Villarreal CF,La Liga,14
-2025-11-30T00:00:00Z,FC Barcelona,Deportivo Alavés,La Liga,14
-2025-11-30T00:00:00Z,Levante UD,Athletic Club,La Liga,14
-2025-11-30T00:00:00Z,Sevilla FC,Real Betis Balompié,La Liga,14
-2025-11-30T00:00:00Z,Getafe CF,Elche CF,La Liga,14
 2025-12-07T00:00:00Z,Deportivo Alavés,Real Sociedad de Fútbol,La Liga,15
 2025-12-07T00:00:00Z,Athletic Club,Club Atlético de Madrid,La Liga,15
 2025-12-07T00:00:00Z,Elche CF,Girona FC,La Liga,15
@@ -873,11 +862,9 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-01-04T00:00:00Z,Rayo Vallecano de Madrid,Getafe CF,La Liga,18
 2026-01-04T00:00:00Z,RCD Mallorca,Girona FC,La Liga,18
 2026-01-04T00:00:00Z,Sevilla FC,Levante UD,La Liga,18
-2026-01-11T00:00:00Z,Athletic Club,Real Madrid CF,La Liga,19
 2026-01-11T00:00:00Z,Getafe CF,Real Sociedad de Fútbol,La Liga,19
 2026-01-11T00:00:00Z,Girona FC,CA Osasuna,La Liga,19
 2026-01-11T00:00:00Z,Villarreal CF,Deportivo Alavés,La Liga,19
-2026-01-11T00:00:00Z,FC Barcelona,Club Atlético de Madrid,La Liga,19
 2026-01-11T00:00:00Z,Real Oviedo,Real Betis Balompié,La Liga,19
 2026-01-11T00:00:00Z,Sevilla FC,RC Celta de Vigo,La Liga,19
 2026-01-11T00:00:00Z,Valencia CF,Elche CF,La Liga,19
@@ -1073,7 +1060,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-10-31T19:30:00Z,FC Augsburg,Borussia Dortmund,Bundesliga,9
 2025-11-01T14:30:00Z,1. FSV Mainz 05,SV Werder Bremen,Bundesliga,9
 2025-11-01T14:30:00Z,RB Leipzig,VfB Stuttgart,Bundesliga,9
 2025-11-01T14:30:00Z,1. FC Union Berlin,SC Freiburg,Bundesliga,9
