@@ -1,11 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2025-11-01T15:00:00Z,Brighton & Hove Albion FC,Leeds United FC,Premier League,10
-2025-11-01T15:00:00Z,Crystal Palace FC,Brentford FC,Premier League,10
-2025-11-01T15:00:00Z,Burnley FC,Arsenal FC,Premier League,10
-2025-11-01T15:00:00Z,Fulham FC,Wolverhampton Wanderers FC,Premier League,10
-2025-11-01T15:00:00Z,Nottingham Forest FC,Manchester United FC,Premier League,10
-2025-11-01T17:30:00Z,Tottenham Hotspur FC,Chelsea FC,Premier League,10
-2025-11-01T20:00:00Z,Liverpool FC,Aston Villa FC,Premier League,10
 2025-11-02T14:00:00Z,West Ham United FC,Newcastle United FC,Premier League,10
 2025-11-02T16:30:00Z,Manchester City FC,AFC Bournemouth,Premier League,10
 2025-11-03T20:00:00Z,Sunderland AFC,Everton FC,Premier League,10
@@ -79,46 +72,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-12-21T14:00:00Z,Leeds United FC,Crystal Palace FC,Premier League,17
 2025-12-21T16:30:00Z,Aston Villa FC,Manchester United FC,Premier League,17
 2025-12-22T20:00:00Z,Fulham FC,Nottingham Forest FC,Premier League,17
-2025-12-27T00:00:00Z,Sunderland AFC,Leeds United FC,Premier League,18
-2025-12-27T00:00:00Z,Crystal Palace FC,Tottenham Hotspur FC,Premier League,18
-2025-12-27T00:00:00Z,Arsenal FC,Brighton & Hove Albion FC,Premier League,18
-2025-12-27T00:00:00Z,Brentford FC,AFC Bournemouth,Premier League,18
-2025-12-27T00:00:00Z,Burnley FC,Everton FC,Premier League,18
-2025-12-27T00:00:00Z,Chelsea FC,Aston Villa FC,Premier League,18
-2025-12-27T00:00:00Z,Liverpool FC,Wolverhampton Wanderers FC,Premier League,18
-2025-12-27T00:00:00Z,Manchester United FC,Newcastle United FC,Premier League,18
-2025-12-27T00:00:00Z,Nottingham Forest FC,Manchester City FC,Premier League,18
-2025-12-27T00:00:00Z,West Ham United FC,Fulham FC,Premier League,18
-2025-12-30T00:00:00Z,Sunderland AFC,Manchester City FC,Premier League,19
-2025-12-30T00:00:00Z,Crystal Palace FC,Fulham FC,Premier League,19
-2025-12-30T00:00:00Z,Arsenal FC,Aston Villa FC,Premier League,19
-2025-12-30T00:00:00Z,Brentford FC,Tottenham Hotspur FC,Premier League,19
-2025-12-30T00:00:00Z,Burnley FC,Newcastle United FC,Premier League,19
-2025-12-30T00:00:00Z,Chelsea FC,AFC Bournemouth,Premier League,19
-2025-12-30T00:00:00Z,Liverpool FC,Leeds United FC,Premier League,19
-2025-12-30T00:00:00Z,Manchester United FC,Wolverhampton Wanderers FC,Premier League,19
-2025-12-30T00:00:00Z,Nottingham Forest FC,Everton FC,Premier League,19
-2025-12-30T00:00:00Z,West Ham United FC,Brighton & Hove Albion FC,Premier League,19
-2026-01-03T00:00:00Z,AFC Bournemouth,Arsenal FC,Premier League,20
-2026-01-03T00:00:00Z,Aston Villa FC,Nottingham Forest FC,Premier League,20
-2026-01-03T00:00:00Z,Brighton & Hove Albion FC,Burnley FC,Premier League,20
-2026-01-03T00:00:00Z,Everton FC,Brentford FC,Premier League,20
-2026-01-03T00:00:00Z,Fulham FC,Liverpool FC,Premier League,20
-2026-01-03T00:00:00Z,Leeds United FC,Manchester United FC,Premier League,20
-2026-01-03T00:00:00Z,Manchester City FC,Chelsea FC,Premier League,20
-2026-01-03T00:00:00Z,Newcastle United FC,Crystal Palace FC,Premier League,20
-2026-01-03T00:00:00Z,Tottenham Hotspur FC,Sunderland AFC,Premier League,20
-2026-01-03T00:00:00Z,Wolverhampton Wanderers FC,West Ham United FC,Premier League,20
-2026-01-07T00:00:00Z,AFC Bournemouth,Tottenham Hotspur FC,Premier League,21
-2026-01-07T00:00:00Z,Crystal Palace FC,Aston Villa FC,Premier League,21
-2026-01-07T00:00:00Z,Arsenal FC,Liverpool FC,Premier League,21
-2026-01-07T00:00:00Z,Brentford FC,Sunderland AFC,Premier League,21
-2026-01-07T00:00:00Z,Burnley FC,Manchester United FC,Premier League,21
-2026-01-07T00:00:00Z,Everton FC,Wolverhampton Wanderers FC,Premier League,21
-2026-01-07T00:00:00Z,Fulham FC,Chelsea FC,Premier League,21
-2026-01-07T00:00:00Z,Manchester City FC,Brighton & Hove Albion FC,Premier League,21
-2026-01-07T00:00:00Z,Newcastle United FC,Leeds United FC,Premier League,21
-2026-01-07T00:00:00Z,West Ham United FC,Nottingham Forest FC,Premier League,21
 2026-01-17T00:00:00Z,Sunderland AFC,Crystal Palace FC,Premier League,22
 2026-01-17T00:00:00Z,Aston Villa FC,Everton FC,Premier League,22
 2026-01-17T00:00:00Z,Brighton & Hove Albion FC,AFC Bournemouth,Premier League,22
@@ -289,9 +242,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T00:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T00:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2025-11-01T14:00:00Z,Udinese Calcio,Atalanta BC,Serie A,10
-2025-11-01T17:00:00Z,SSC Napoli,Como 1907,Serie A,10
-2025-11-01T19:45:00Z,US Cremonese,Juventus FC,Serie A,10
 2025-11-02T11:30:00Z,Hellas Verona FC,FC Internazionale Milano,Serie A,10
 2025-11-02T14:00:00Z,ACF Fiorentina,US Lecce,Serie A,10
 2025-11-02T14:00:00Z,Torino FC,AC Pisa 1909,Serie A,10
@@ -579,9 +529,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2025-11-01T16:00:00Z,Paris Saint-Germain FC,OGC Nice,Ligue 1,11
-2025-11-01T18:00:00Z,AS Monaco FC,Paris FC,Ligue 1,11
-2025-11-01T20:05:00Z,AJ Auxerre,Olympique de Marseille,Ligue 1,11
 2025-11-02T14:00:00Z,Stade Rennais FC 1901,RC Strasbourg Alsace,Ligue 1,11
 2025-11-02T16:15:00Z,FC Nantes,FC Metz,Ligue 1,11
 2025-11-02T16:15:00Z,Toulouse FC,Le Havre AC,Ligue 1,11
@@ -793,10 +740,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-11-01T13:00:00Z,Villarreal CF,Rayo Vallecano de Madrid,La Liga,11
-2025-11-01T15:15:00Z,Club Atlético de Madrid,Sevilla FC,La Liga,11
-2025-11-01T17:30:00Z,Real Sociedad de Fútbol,Athletic Club,La Liga,11
-2025-11-01T20:00:00Z,Real Madrid CF,Valencia CF,La Liga,11
 2025-11-02T13:00:00Z,Levante UD,RC Celta de Vigo,La Liga,11
 2025-11-02T15:15:00Z,Deportivo Alavés,RCD Espanyol de Barcelona,La Liga,11
 2025-11-02T17:30:00Z,FC Barcelona,Elche CF,La Liga,11
@@ -822,6 +765,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-11-23T17:30:00Z,Getafe CF,Club Atlético de Madrid,La Liga,13
 2025-11-23T20:00:00Z,Elche CF,Real Madrid CF,La Liga,13
 2025-11-24T20:00:00Z,RCD Espanyol de Barcelona,Sevilla FC,La Liga,13
+2025-11-28T20:00:00Z,Getafe CF,Elche CF,La Liga,14
+2025-11-29T13:00:00Z,RCD Mallorca,CA Osasuna,La Liga,14
+2025-11-29T15:15:00Z,FC Barcelona,Deportivo Alavés,La Liga,14
+2025-11-29T17:30:00Z,Levante UD,Athletic Club,La Liga,14
+2025-11-29T20:00:00Z,Club Atlético de Madrid,Real Oviedo,La Liga,14
+2025-11-30T13:00:00Z,Real Sociedad de Fútbol,Villarreal CF,La Liga,14
+2025-11-30T15:15:00Z,Sevilla FC,Real Betis Balompié,La Liga,14
+2025-11-30T17:30:00Z,RC Celta de Vigo,RCD Espanyol de Barcelona,La Liga,14
+2025-11-30T20:00:00Z,Girona FC,Real Madrid CF,La Liga,14
+2025-12-01T20:00:00Z,Rayo Vallecano de Madrid,Valencia CF,La Liga,14
 2025-12-07T00:00:00Z,Deportivo Alavés,Real Sociedad de Fútbol,La Liga,15
 2025-12-07T00:00:00Z,Athletic Club,Club Atlético de Madrid,La Liga,15
 2025-12-07T00:00:00Z,Elche CF,Girona FC,La Liga,15
@@ -1060,12 +1013,8 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-11-01T14:30:00Z,1. FSV Mainz 05,SV Werder Bremen,Bundesliga,9
-2025-11-01T14:30:00Z,RB Leipzig,VfB Stuttgart,Bundesliga,9
-2025-11-01T14:30:00Z,1. FC Union Berlin,SC Freiburg,Bundesliga,9
-2025-11-01T14:30:00Z,FC St. Pauli 1910,Borussia Mönchengladbach,Bundesliga,9
-2025-11-01T14:30:00Z,1. FC Heidenheim 1846,Eintracht Frankfurt,Bundesliga,9
-2025-11-01T17:30:00Z,FC Bayern München,Bayer 04 Leverkusen,Bundesliga,9
+2026-12-02T20:00:00Z,FC Barcelona,Club Atlético de Madrid,La Liga,19
+2026-12-03T18:00:00Z,Athletic Club,Real Madrid CF,La Liga,19
 2025-11-02T14:30:00Z,1. FC Köln,Hamburger SV,Bundesliga,9
 2025-11-02T16:30:00Z,VfL Wolfsburg,TSG 1899 Hoffenheim,Bundesliga,9
 2025-11-07T19:30:00Z,SV Werder Bremen,VfL Wolfsburg,Bundesliga,10
