@@ -604,6 +604,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-12-14T16:15:00Z,RC Strasbourg Alsace,FC Lorient,Ligue 1,16
 2025-12-14T16:15:00Z,Racing Club de Lens,OGC Nice,Ligue 1,16
 2025-12-14T19:45:00Z,Olympique de Marseille,AS Monaco FC,Ligue 1,16
+2026-01-02T19:45:00Z,Toulouse FC,Racing Club de Lens,Ligue 1,17
+2026-01-03T16:00:00Z,AS Monaco FC,Olympique Lyonnais,Ligue 1,17
+2026-01-03T18:00:00Z,OGC Nice,RC Strasbourg Alsace,Ligue 1,17
+2026-01-03T20:05:00Z,Lille OSC,Stade Rennais FC 1901,Ligue 1,17
+2026-01-04T14:00:00Z,Olympique de Marseille,FC Nantes,Ligue 1,17
+2026-01-04T16:15:00Z,Le Havre AC,Angers SCO,Ligue 1,17
+2026-01-04T16:15:00Z,FC Lorient,FC Metz,Ligue 1,17
+2026-01-04T16:15:00Z,Stade Brestois 29,AJ Auxerre,Ligue 1,17
+2026-01-04T19:45:00Z,Paris Saint-Germain FC,Paris FC,Ligue 1,17
 2026-01-18T00:00:00Z,AS Monaco FC,FC Lorient,Ligue 1,18
 2026-01-18T00:00:00Z,FC Nantes,Paris FC,Ligue 1,18
 2026-01-18T00:00:00Z,Toulouse FC,OGC Nice,Ligue 1,18
@@ -789,6 +798,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-12-01T20:00:00Z,Rayo Vallecano de Madrid,Valencia CF,La Liga,14
 2025-12-02T20:00:00Z,FC Barcelona,Club Atlético de Madrid,La Liga,19
 2025-12-03T18:00:00Z,Athletic Club,Real Madrid CF,La Liga,19
+2025-12-05T20:00:00Z,Real Oviedo,RCD Mallorca,La Liga,15
+2025-12-06T13:00:00Z,Villarreal CF,Getafe CF,La Liga,15
+2025-12-06T15:15:00Z,Deportivo Alavés,Real Sociedad de Fútbol,La Liga,15
+2025-12-06T17:30:00Z,Real Betis Balompié,FC Barcelona,La Liga,15
+2025-12-06T20:00:00Z,Athletic Club,Club Atlético de Madrid,La Liga,15
+2025-12-07T13:00:00Z,Elche CF,Girona FC,La Liga,15
+2025-12-07T15:15:00Z,Valencia CF,Sevilla FC,La Liga,15
+2025-12-07T17:30:00Z,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,La Liga,15
+2025-12-07T20:00:00Z,Real Madrid CF,RC Celta de Vigo,La Liga,15
+2025-12-08T20:00:00Z,CA Osasuna,Levante UD,La Liga,15
 2025-12-14T00:00:00Z,Deportivo Alavés,Real Madrid CF,La Liga,16
 2025-12-14T00:00:00Z,Club Atlético de Madrid,Valencia CF,La Liga,16
 2025-12-14T00:00:00Z,FC Barcelona,CA Osasuna,La Liga,16
@@ -1044,69 +1063,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-11-30T14:30:00Z,Hamburger SV,VfB Stuttgart,Bundesliga,12
 2025-11-30T16:30:00Z,Eintracht Frankfurt,VfL Wolfsburg,Bundesliga,12
 2025-11-30T18:30:00Z,SC Freiburg,1. FSV Mainz 05,Bundesliga,12
-2025-12-06T00:00:00Z,Borussia Dortmund,TSG 1899 Hoffenheim,Bundesliga,13
-2025-12-06T00:00:00Z,1. FSV Mainz 05,Borussia Mönchengladbach,Bundesliga,13
-2025-12-06T00:00:00Z,RB Leipzig,Eintracht Frankfurt,Bundesliga,13
-2025-12-06T00:00:00Z,VfB Stuttgart,FC Bayern München,Bundesliga,13
-2025-12-06T00:00:00Z,VfL Wolfsburg,1. FC Union Berlin,Bundesliga,13
-2025-12-06T00:00:00Z,1. FC Heidenheim 1846,SC Freiburg,Bundesliga,13
-2025-12-06T00:00:00Z,1. FC Köln,FC St. Pauli 1910,Bundesliga,13
-2025-12-06T00:00:00Z,Hamburger SV,SV Werder Bremen,Bundesliga,13
-2025-12-06T00:00:00Z,FC Augsburg,Bayer 04 Leverkusen,Bundesliga,13
-2025-12-13T00:00:00Z,FC Bayern München,1. FSV Mainz 05,Bundesliga,14
-2025-12-13T00:00:00Z,Bayer 04 Leverkusen,1. FC Köln,Bundesliga,14
-2025-12-13T00:00:00Z,Eintracht Frankfurt,FC Augsburg,Bundesliga,14
-2025-12-13T00:00:00Z,SC Freiburg,Borussia Dortmund,Bundesliga,14
-2025-12-13T00:00:00Z,SV Werder Bremen,VfB Stuttgart,Bundesliga,14
-2025-12-13T00:00:00Z,Borussia Mönchengladbach,VfL Wolfsburg,Bundesliga,14
-2025-12-13T00:00:00Z,1. FC Union Berlin,RB Leipzig,Bundesliga,14
-2025-12-13T00:00:00Z,FC St. Pauli 1910,1. FC Heidenheim 1846,Bundesliga,14
-2025-12-13T00:00:00Z,TSG 1899 Hoffenheim,Hamburger SV,Bundesliga,14
-2025-12-20T00:00:00Z,Borussia Dortmund,Borussia Mönchengladbach,Bundesliga,15
-2025-12-20T00:00:00Z,1. FSV Mainz 05,FC St. Pauli 1910,Bundesliga,15
-2025-12-20T00:00:00Z,RB Leipzig,Bayer 04 Leverkusen,Bundesliga,15
-2025-12-20T00:00:00Z,VfB Stuttgart,TSG 1899 Hoffenheim,Bundesliga,15
-2025-12-20T00:00:00Z,VfL Wolfsburg,SC Freiburg,Bundesliga,15
-2025-12-20T00:00:00Z,FC Augsburg,SV Werder Bremen,Bundesliga,15
-2025-12-20T00:00:00Z,1. FC Heidenheim 1846,FC Bayern München,Bundesliga,15
-2025-12-20T00:00:00Z,1. FC Köln,1. FC Union Berlin,Bundesliga,15
-2025-12-20T00:00:00Z,Hamburger SV,Eintracht Frankfurt,Bundesliga,15
-2026-01-10T00:00:00Z,FC Bayern München,VfL Wolfsburg,Bundesliga,16
-2026-01-10T00:00:00Z,Bayer 04 Leverkusen,VfB Stuttgart,Bundesliga,16
-2026-01-10T00:00:00Z,Eintracht Frankfurt,Borussia Dortmund,Bundesliga,16
-2026-01-10T00:00:00Z,SC Freiburg,Hamburger SV,Bundesliga,16
-2026-01-10T00:00:00Z,SV Werder Bremen,TSG 1899 Hoffenheim,Bundesliga,16
-2026-01-10T00:00:00Z,Borussia Mönchengladbach,FC Augsburg,Bundesliga,16
-2026-01-10T00:00:00Z,1. FC Union Berlin,1. FSV Mainz 05,Bundesliga,16
-2026-01-10T00:00:00Z,FC St. Pauli 1910,RB Leipzig,Bundesliga,16
-2026-01-10T00:00:00Z,1. FC Heidenheim 1846,1. FC Köln,Bundesliga,16
-2026-01-13T00:00:00Z,Borussia Dortmund,SV Werder Bremen,Bundesliga,17
-2026-01-13T00:00:00Z,1. FSV Mainz 05,1. FC Heidenheim 1846,Bundesliga,17
-2026-01-13T00:00:00Z,RB Leipzig,SC Freiburg,Bundesliga,17
-2026-01-13T00:00:00Z,VfB Stuttgart,Eintracht Frankfurt,Bundesliga,17
-2026-01-13T00:00:00Z,VfL Wolfsburg,FC St. Pauli 1910,Bundesliga,17
-2026-01-13T00:00:00Z,FC Augsburg,1. FC Union Berlin,Bundesliga,17
-2026-01-13T00:00:00Z,TSG 1899 Hoffenheim,Borussia Mönchengladbach,Bundesliga,17
-2026-01-13T00:00:00Z,1. FC Köln,FC Bayern München,Bundesliga,17
-2026-01-13T00:00:00Z,Hamburger SV,Bayer 04 Leverkusen,Bundesliga,17
-2026-01-17T00:00:00Z,RB Leipzig,FC Bayern München,Bundesliga,18
-2026-01-17T00:00:00Z,SV Werder Bremen,Eintracht Frankfurt,Bundesliga,18
-2026-01-17T00:00:00Z,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Bundesliga,18
-2026-01-17T00:00:00Z,FC Augsburg,SC Freiburg,Bundesliga,18
-2026-01-17T00:00:00Z,1. FC Köln,1. FSV Mainz 05,Bundesliga,18
-2026-01-17T00:00:00Z,Hamburger SV,Borussia Mönchengladbach,Bundesliga,18
-2026-01-17T00:00:00Z,VfB Stuttgart,1. FC Union Berlin,Bundesliga,18
-2026-01-17T00:00:00Z,Borussia Dortmund,FC St. Pauli 1910,Bundesliga,18
-2026-01-17T00:00:00Z,VfL Wolfsburg,1. FC Heidenheim 1846,Bundesliga,18
-2026-01-24T00:00:00Z,1. FC Union Berlin,Borussia Dortmund,Bundesliga,19
-2026-01-24T00:00:00Z,1. FC Heidenheim 1846,RB Leipzig,Bundesliga,19
-2026-01-24T00:00:00Z,Bayer 04 Leverkusen,SV Werder Bremen,Bundesliga,19
-2026-01-24T00:00:00Z,Borussia Mönchengladbach,VfB Stuttgart,Bundesliga,19
-2026-01-24T00:00:00Z,1. FSV Mainz 05,VfL Wolfsburg,Bundesliga,19
-2026-01-24T00:00:00Z,FC Bayern München,FC Augsburg,Bundesliga,19
-2026-01-24T00:00:00Z,Eintracht Frankfurt,TSG 1899 Hoffenheim,Bundesliga,19
-2026-01-24T00:00:00Z,SC Freiburg,1. FC Köln,Bundesliga,19
-2026-01-24T00:00:00Z,FC St. Pauli 1910,Hamburger SV,Bundesliga,19
 2026-01-31T00:00:00Z,Hamburger SV,FC Bayern München,Bundesliga,20
 2026-01-31T00:00:00Z,Eintracht Frankfurt,Bayer 04 Leverkusen,Bundesliga,20
 2026-01-31T00:00:00Z,VfB Stuttgart,SC Freiburg,Bundesliga,20
