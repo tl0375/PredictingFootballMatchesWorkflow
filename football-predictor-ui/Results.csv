@@ -1063,6 +1063,69 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2025-11-30,14:30,12,Bundesliga,Hamburg,Stuttgart,Away Win,0.23437652,0.2336938,0.5319297
 2025-11-30,16:30,12,Bundesliga,Ein Frankfurt,Wolfsburg,Home Win,0.6150411,0.21513353,0.1698254
 2025-11-30,18:30,12,Bundesliga,Freiburg,Mainz,Home Win,0.53333503,0.23711903,0.22954594
+2025-12-05,19:30,13,Bundesliga,Mainz,M'gladbach,Home Win,0.43370137,0.25030714,0.3159915
+2025-12-06,14:30,13,Bundesliga,Stuttgart,Bayern Munich,Away Win,0.2607664,0.24031712,0.49891654
+2025-12-06,14:30,13,Bundesliga,Wolfsburg,Union Berlin,Away Win,0.33501846,0.24963237,0.41534916
+2025-12-06,14:30,13,Bundesliga,Heidenheim,Freiburg,Away Win,0.2733827,0.24215867,0.48445866
+2025-12-06,14:30,13,Bundesliga,FC Koln,St Pauli,Home Win,0.48327506,0.24543944,0.2712855
+2025-12-06,14:30,13,Bundesliga,Augsburg,Leverkusen,Away Win,0.23032491,0.23227605,0.53739905
+2025-12-06,17:30,13,Bundesliga,RB Leipzig,Ein Frankfurt,Home Win,0.47435963,0.2461954,0.27944496
+2025-12-07,14:30,13,Bundesliga,Hamburg,Werder Bremen,Away Win,0.2791376,0.24332787,0.4775345
+2025-12-07,16:30,13,Bundesliga,Dortmund,Hoffenheim,Home Win,0.6126033,0.21589975,0.17149694
+2025-12-12,19:30,14,Bundesliga,Union Berlin,RB Leipzig,Away Win,0.23540035,0.2338007,0.530799
+2025-12-13,14:30,14,Bundesliga,Ein Frankfurt,Augsburg,Home Win,0.6170244,0.21450676,0.16846886
+2025-12-13,14:30,14,Bundesliga,M'gladbach,Wolfsburg,Away Win,0.330256,0.24967907,0.4200649
+2025-12-13,14:30,14,Bundesliga,St Pauli,Heidenheim,Home Win,0.39476985,0.25164616,0.35358402
+2025-12-13,14:30,14,Bundesliga,Hoffenheim,Hamburg,Home Win,0.50889456,0.24166633,0.24943908
+2025-12-13,17:30,14,Bundesliga,Leverkusen,FC Koln,Home Win,0.6843481,0.19085994,0.124791965
+2025-12-14,14:30,14,Bundesliga,Freiburg,Dortmund,Away Win,0.22956477,0.23199625,0.5384389
+2025-12-14,16:30,14,Bundesliga,Bayern Munich,Mainz,Home Win,0.76032954,0.15841042,0.081260026
+2025-12-14,18:30,14,Bundesliga,Werder Bremen,Stuttgart,Away Win,0.3110165,0.24753395,0.44144952
+2025-12-19,19:30,15,Bundesliga,Dortmund,M'gladbach,Home Win,0.6987298,0.18520187,0.11606831
+2025-12-20,14:30,15,Bundesliga,Stuttgart,Hoffenheim,Home Win,0.5514406,0.23306753,0.21549186
+2025-12-20,14:30,15,Bundesliga,Wolfsburg,Freiburg,Away Win,0.30010322,0.24623644,0.4536603
+2025-12-20,14:30,15,Bundesliga,Augsburg,Werder Bremen,Away Win,0.27320933,0.24238521,0.4844054
+2025-12-20,14:30,15,Bundesliga,FC Koln,Union Berlin,Away Win,0.36807695,0.2515168,0.38040626
+2025-12-20,14:30,15,Bundesliga,Hamburg,Ein Frankfurt,Away Win,0.2652955,0.24101004,0.49369442
+2025-12-20,17:30,15,Bundesliga,RB Leipzig,Leverkusen,Away Win,0.31888637,0.24897343,0.43214017
+2025-12-21,14:30,15,Bundesliga,Mainz,St Pauli,Home Win,0.4254954,0.25071892,0.3237857
+2025-12-21,16:30,15,Bundesliga,Heidenheim,Bayern Munich,Away Win,0.23000315,0.23194978,0.5380471
+2026-01-09,19:30,16,Bundesliga,Ein Frankfurt,Dortmund,Away Win,0.2810505,0.24341746,0.47553208
+2026-01-10,14:30,16,Bundesliga,Freiburg,Hamburg,Home Win,0.5137457,0.24076779,0.24548647
+2026-01-10,14:30,16,Bundesliga,Werder Bremen,Hoffenheim,Home Win,0.48854524,0.24454457,0.2669102
+2026-01-10,14:30,16,Bundesliga,Union Berlin,Mainz,Home Win,0.48679066,0.24506402,0.26814532
+2026-01-10,14:30,16,Bundesliga,St Pauli,RB Leipzig,Away Win,0.22961073,0.23228444,0.53810483
+2026-01-10,14:30,16,Bundesliga,Heidenheim,FC Koln,Away Win,0.3284404,0.24939376,0.42216578
+2026-01-10,17:30,16,Bundesliga,Leverkusen,Stuttgart,Home Win,0.5497438,0.23342705,0.21682912
+2026-01-11,14:30,16,Bundesliga,M'gladbach,Augsburg,Away Win,0.34713575,0.25066292,0.4022013
+2026-01-11,16:30,16,Bundesliga,Bayern Munich,Wolfsburg,Home Win,0.75867295,0.1591876,0.082139425
+2026-01-13,17:30,17,Bundesliga,Stuttgart,Ein Frankfurt,Home Win,0.43120736,0.25018647,0.3186062
+2026-01-13,19:30,17,Bundesliga,Dortmund,Werder Bremen,Home Win,0.5921478,0.22208118,0.18577097
+2026-01-13,19:30,17,Bundesliga,Mainz,Heidenheim,Home Win,0.44049853,0.2496959,0.3098056
+2026-01-13,19:30,17,Bundesliga,Hamburg,Leverkusen,Away Win,0.23102593,0.23261152,0.5363625
+2026-01-14,17:30,17,Bundesliga,Wolfsburg,St Pauli,Home Win,0.44363156,0.24927673,0.30709177
+2026-01-14,19:30,17,Bundesliga,RB Leipzig,Freiburg,Home Win,0.58449286,0.22428001,0.19122711
+2026-01-14,19:30,17,Bundesliga,Hoffenheim,M'gladbach,Home Win,0.5614951,0.2305502,0.20795469
+2026-01-14,19:30,17,Bundesliga,FC Koln,Bayern Munich,Away Win,0.22816022,0.23154831,0.5402914
+2026-01-15,19:30,17,Bundesliga,Augsburg,Union Berlin,Away Win,0.32524237,0.2493779,0.4253797
+2026-01-16,19:30,18,Bundesliga,Werder Bremen,Ein Frankfurt,Away Win,0.36491922,0.25143483,0.38364595
+2026-01-17,14:30,18,Bundesliga,Hoffenheim,Leverkusen,Away Win,0.2328887,0.23305076,0.53406054
+2026-01-17,14:30,18,Bundesliga,FC Koln,Mainz,Home Win,0.44674,0.24949837,0.30376163
+2026-01-17,14:30,18,Bundesliga,Hamburg,M'gladbach,Home Win,0.46679246,0.24711145,0.286096
+2026-01-17,14:30,18,Bundesliga,Dortmund,St Pauli,Home Win,0.70258677,0.18364577,0.1137674
+2026-01-17,14:30,18,Bundesliga,Wolfsburg,Heidenheim,Home Win,0.45821643,0.24800707,0.29377645
+2026-01-17,17:30,18,Bundesliga,RB Leipzig,Bayern Munich,Away Win,0.25991946,0.24000469,0.5000758
+2026-01-18,14:30,18,Bundesliga,Stuttgart,Union Berlin,Home Win,0.58035594,0.2254476,0.19419649
+2026-01-18,16:30,18,Bundesliga,Augsburg,Freiburg,Away Win,0.30252418,0.24695113,0.45052463
+2026-01-23,19:30,19,Bundesliga,St Pauli,Hamburg,Away Win,0.34451133,0.25062293,0.4048657
+2026-01-24,14:30,19,Bundesliga,Heidenheim,RB Leipzig,Away Win,0.22457969,0.23061045,0.5448098
+2026-01-24,14:30,19,Bundesliga,Leverkusen,Werder Bremen,Home Win,0.62303764,0.21258135,0.16438098
+2026-01-24,14:30,19,Bundesliga,Mainz,Wolfsburg,Away Win,0.3734025,0.2519341,0.37466335
+2026-01-24,14:30,19,Bundesliga,Bayern Munich,Augsburg,Home Win,0.76475346,0.15632193,0.07892457
+2026-01-24,14:30,19,Bundesliga,Ein Frankfurt,Hoffenheim,Home Win,0.5454453,0.23432127,0.2202334
+2026-01-24,17:30,19,Bundesliga,Union Berlin,Dortmund,Away Win,0.23271874,0.23289454,0.5343867
+2026-01-25,14:30,19,Bundesliga,M'gladbach,Stuttgart,Away Win,0.23407897,0.23357865,0.5323424
+2026-01-25,16:30,19,Bundesliga,Freiburg,FC Koln,Home Win,0.49300456,0.24395536,0.26304
 2026-01-31,00:00,20,Bundesliga,Hamburg,Bayern Munich,Away Win,0.23307832,0.23302078,0.5339009
 2026-01-31,00:00,20,Bundesliga,Ein Frankfurt,Leverkusen,Away Win,0.26473692,0.24049121,0.49477184
 2026-01-31,00:00,20,Bundesliga,Stuttgart,Freiburg,Home Win,0.5616556,0.23050408,0.20784031
