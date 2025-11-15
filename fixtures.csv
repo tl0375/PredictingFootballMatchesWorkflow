@@ -55,8 +55,8 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-12-20T15:00:00Z,Manchester City FC,West Ham United FC,Premier League,17
 2025-12-20T15:00:00Z,Wolverhampton Wanderers FC,Brentford FC,Premier League,17
 2025-12-20T17:30:00Z,Tottenham Hotspur FC,Liverpool FC,Premier League,17
-2025-12-21T14:00:00Z,Everton FC,Arsenal FC,Premier League,17
-2025-12-21T14:00:00Z,Leeds United FC,Crystal Palace FC,Premier League,17
+2025-12-20T20:00:00Z,Everton FC,Arsenal FC,Premier League,17
+2025-12-20T20:00:00Z,Leeds United FC,Crystal Palace FC,Premier League,17
 2025-12-21T16:30:00Z,Aston Villa FC,Manchester United FC,Premier League,17
 2025-12-22T20:00:00Z,Fulham FC,Nottingham Forest FC,Premier League,17
 2025-12-26T20:00:00Z,Manchester United FC,Newcastle United FC,Premier League,18
@@ -769,16 +769,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2025-12-07T17:30:00Z,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,La Liga,15
 2025-12-07T20:00:00Z,Real Madrid CF,RC Celta de Vigo,La Liga,15
 2025-12-08T20:00:00Z,CA Osasuna,Levante UD,La Liga,15
-2025-12-14T00:00:00Z,Deportivo Alavés,Real Madrid CF,La Liga,16
-2025-12-14T00:00:00Z,Club Atlético de Madrid,Valencia CF,La Liga,16
-2025-12-14T00:00:00Z,FC Barcelona,CA Osasuna,La Liga,16
-2025-12-14T00:00:00Z,Levante UD,Villarreal CF,La Liga,16
-2025-12-14T00:00:00Z,RC Celta de Vigo,Athletic Club,La Liga,16
-2025-12-14T00:00:00Z,Rayo Vallecano de Madrid,Real Betis Balompié,La Liga,16
-2025-12-14T00:00:00Z,RCD Mallorca,Elche CF,La Liga,16
-2025-12-14T00:00:00Z,Getafe CF,RCD Espanyol de Barcelona,La Liga,16
-2025-12-14T00:00:00Z,Real Sociedad de Fútbol,Girona FC,La Liga,16
-2025-12-14T00:00:00Z,Sevilla FC,Real Oviedo,La Liga,16
 2025-12-21T00:00:00Z,Athletic Club,RCD Espanyol de Barcelona,La Liga,17
 2025-12-21T00:00:00Z,Real Betis Balompié,Getafe CF,La Liga,17
 2025-12-21T00:00:00Z,Elche CF,Rayo Vallecano de Madrid,La Liga,17
