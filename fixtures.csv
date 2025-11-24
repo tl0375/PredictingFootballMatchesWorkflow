@@ -1,6 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2025-11-23T14:00:00Z,Leeds United FC,Aston Villa FC,Premier League,12
-2025-11-23T16:30:00Z,Arsenal FC,Tottenham Hotspur FC,Premier League,12
 2025-11-24T20:00:00Z,Manchester United FC,Everton FC,Premier League,12
 2025-11-29T15:00:00Z,Sunderland AFC,AFC Bournemouth,Premier League,13
 2025-11-29T15:00:00Z,Brentford FC,Burnley FC,Premier League,13
@@ -262,10 +260,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T00:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T00:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2025-11-23T11:30:00Z,Hellas Verona FC,Parma Calcio 1913,Serie A,12
-2025-11-23T14:00:00Z,US Cremonese,AS Roma,Serie A,12
-2025-11-23T17:00:00Z,SS Lazio,US Lecce,Serie A,12
-2025-11-23T19:45:00Z,FC Internazionale Milano,AC Milan,Serie A,12
 2025-11-24T17:30:00Z,Torino FC,Como 1907,Serie A,12
 2025-11-24T19:45:00Z,US Sassuolo Calcio,AC Pisa 1909,Serie A,12
 2025-11-28T19:45:00Z,Como 1907,US Sassuolo Calcio,Serie A,13
@@ -528,11 +522,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2025-11-23T14:00:00Z,AJ Auxerre,Olympique Lyonnais,Ligue 1,13
-2025-11-23T16:15:00Z,FC Nantes,FC Lorient,Ligue 1,13
-2025-11-23T16:15:00Z,Toulouse FC,Angers SCO,Ligue 1,13
-2025-11-23T16:15:00Z,Stade Brestois 29,FC Metz,Ligue 1,13
-2025-11-23T19:45:00Z,Lille OSC,Paris FC,Ligue 1,13
 2025-11-28T19:45:00Z,FC Metz,Stade Rennais FC 1901,Ligue 1,14
 2025-11-29T16:00:00Z,AS Monaco FC,Paris Saint-Germain FC,Ligue 1,14
 2025-11-29T18:00:00Z,Paris FC,AJ Auxerre,Ligue 1,14
@@ -722,10 +711,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-11-23T13:00:00Z,Real Oviedo,Rayo Vallecano de Madrid,La Liga,13
-2025-11-23T15:15:00Z,Real Betis Balompié,Girona FC,La Liga,13
-2025-11-23T17:30:00Z,Getafe CF,Club Atlético de Madrid,La Liga,13
-2025-11-23T20:00:00Z,Elche CF,Real Madrid CF,La Liga,13
 2025-11-24T20:00:00Z,RCD Espanyol de Barcelona,Sevilla FC,La Liga,13
 2025-11-28T20:00:00Z,Getafe CF,Elche CF,La Liga,14
 2025-11-29T13:00:00Z,RCD Mallorca,CA Osasuna,La Liga,14
@@ -977,8 +962,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-11-23T14:30:00Z,RB Leipzig,SV Werder Bremen,Bundesliga,11
-2025-11-23T16:30:00Z,FC St. Pauli 1910,1. FC Union Berlin,Bundesliga,11
 2025-11-28T19:30:00Z,Borussia Mönchengladbach,RB Leipzig,Bundesliga,12
 2025-11-29T14:30:00Z,FC Bayern München,FC St. Pauli 1910,Bundesliga,12
 2025-11-29T14:30:00Z,SV Werder Bremen,1. FC Köln,Bundesliga,12
