@@ -100,12 +100,12 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-01-18,16:30,Aston Villa,Everton,Premier League,22
 2026-01-19,20:00,Brighton,Bournemouth,Premier League,22
 2026-01-24,12:30,West Ham,Sunderland,Premier League,23
-2026-01-24,15:00,Brentford,Nott'm Forest,Premier League,23
 2026-01-24,15:00,Burnley,Tottenham,Premier League,23
 2026-01-24,15:00,Fulham,Brighton,Premier League,23
 2026-01-24,15:00,Manchester City,Wolves,Premier League,23
 2026-01-24,17:30,Bournemouth,Liverpool,Premier League,23
 2026-01-25,14:00,Crystal Palace,Chelsea,Premier League,23
+2026-01-25,14:00,Brentford,Nott'm Forest,Premier League,23
 2026-01-25,14:00,Newcastle,Aston Villa,Premier League,23
 2026-01-25,16:30,Arsenal,Manchester Utd,Premier League,23
 2026-01-26,20:00,Everton,Leeds,Premier League,23
@@ -259,7 +259,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,00:00,Tottenham,Everton,Premier League,38
 2026-05-24,00:00,West Ham,Leeds,Premier League,38
-2025-11-28,19:45,Como,Sassuolo,Serie A,13
 2025-11-29,14:00,Genoa,Verona,Serie A,13
 2025-11-29,14:00,Parma,Udinese,Serie A,13
 2025-11-29,17:00,Juventus,Cagliari,Serie A,13
@@ -519,7 +518,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2025-11-28,19:45,Metz,Rennes,Ligue 1,14
 2025-11-29,16:00,Monaco,Paris SG,Ligue 1,14
 2025-11-29,18:00,Paris FC,Auxerre,Ligue 1,14
 2025-11-29,20:05,Marseille,Toulouse,Ligue 1,14
@@ -708,7 +706,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,00:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,00:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,00:00,Brest,Angers,Ligue 1,34
-2025-11-28,20:00,Getafe,Elche,La Liga,14
 2025-11-29,13:00,Mallorca,Osasuna,La Liga,14
 2025-11-29,15:15,Barcelona,Alaves,La Liga,14
 2025-11-29,17:30,Levante,Athletic Club,La Liga,14
@@ -958,7 +955,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2025-11-28,19:30,M'gladbach,RB Leipzig,Bundesliga,12
 2025-11-29,14:30,Bayern Munich,St Pauli,Bundesliga,12
 2025-11-29,14:30,Werder Bremen,FC Koln,Bundesliga,12
 2025-11-29,14:30,Union Berlin,Heidenheim,Bundesliga,12

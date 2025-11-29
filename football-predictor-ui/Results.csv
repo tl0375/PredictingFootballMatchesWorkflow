@@ -100,12 +100,12 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-01-18,16:30,22,Premier League,Aston Villa,Everton,Home Win,0.56907576,0.22854055,0.20238371
 2026-01-19,20:00,22,Premier League,Brighton,Bournemouth,Home Win,0.45444992,0.24791609,0.29763395
 2026-01-24,12:30,23,Premier League,West Ham,Sunderland,Home Win,0.38029045,0.25128177,0.36842778
-2026-01-24,15:00,23,Premier League,Brentford,Nott'm Forest,Home Win,0.5872109,0.2235065,0.18928266
 2026-01-24,15:00,23,Premier League,Burnley,Tottenham,Away Win,0.31027752,0.2475404,0.4421821
 2026-01-24,15:00,23,Premier League,Fulham,Brighton,Away Win,0.27056274,0.24176721,0.48767003
 2026-01-24,15:00,23,Premier League,Manchester City,Wolves,Home Win,0.7413433,0.1671206,0.09153608
 2026-01-24,17:30,23,Premier League,Bournemouth,Liverpool,Home Win,0.38473737,0.2518321,0.36343056
 2026-01-25,14:00,23,Premier League,Crystal Palace,Chelsea,Home Win,0.38574564,0.25051484,0.36373955
+2026-01-25,14:00,23,Premier League,Brentford,Nott'm Forest,Home Win,0.5872109,0.2235065,0.18928266
 2026-01-25,14:00,23,Premier League,Newcastle,Aston Villa,Away Win,0.26041624,0.23957619,0.50000757
 2026-01-25,16:30,23,Premier League,Arsenal,Manchester Utd,Home Win,0.6174501,0.21437791,0.1681719
 2026-01-26,20:00,23,Premier League,Everton,Leeds,Home Win,0.6132969,0.21568318,0.17101985
@@ -259,7 +259,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,Premier League,Nott'm Forest,Bournemouth,Away Win,0.27649215,0.24319722,0.4803106
 2026-05-24,00:00,38,Premier League,Tottenham,Everton,Home Win,0.3754962,0.2515036,0.3730002
 2026-05-24,00:00,38,Premier League,West Ham,Leeds,Home Win,0.49611697,0.24336736,0.26051563
-2025-11-28,19:45,13,Serie A,Como,Sassuolo,Home Win,0.5900372,0.2226932,0.18726951
 2025-11-29,14:00,13,Serie A,Genoa,Verona,Home Win,0.42358962,0.25051114,0.32589924
 2025-11-29,14:00,13,Serie A,Parma,Udinese,Away Win,0.332783,0.24985695,0.41735998
 2025-11-29,17:00,13,Serie A,Juventus,Cagliari,Home Win,0.6348207,0.20870492,0.15647443
@@ -519,7 +518,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,Serie A,Napoli,Udinese,Home Win,0.65255904,0.20260262,0.1448383
 2026-05-24,00:00,38,Serie A,Cremonese,Como,Away Win,0.25103074,0.23798133,0.5109879
 2026-05-24,00:00,38,Serie A,Lecce,Genoa,Home Win,0.39437327,0.2516179,0.35400885
-2025-11-28,19:45,14,Ligue 1,Metz,Rennes,Away Win,0.2807074,0.24357814,0.47571447
 2025-11-29,16:00,14,Ligue 1,Monaco,Paris SG,Away Win,0.27098155,0.24140413,0.4876143
 2025-11-29,18:00,14,Ligue 1,Paris FC,Auxerre,Home Win,0.48389116,0.24491094,0.2711979
 2025-11-29,20:05,14,Ligue 1,Marseille,Toulouse,Home Win,0.60767215,0.21742658,0.17490125
@@ -708,7 +706,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-16,00:00,34,Ligue 1,Lille,Auxerre,Home Win,0.62193567,0.21293545,0.16512892
 2026-05-16,00:00,34,Ligue 1,Strasbourg,Monaco,Home Win,0.4701384,0.24647829,0.2833833
 2026-05-16,00:00,34,Ligue 1,Brest,Angers,Home Win,0.41063762,0.2514557,0.3379067
-2025-11-28,20:00,14,La Liga,Getafe,Elche,Away Win,0.36399433,0.25098282,0.3850228
 2025-11-29,13:00,14,La Liga,Mallorca,Osasuna,Home Win,0.37450886,0.25144175,0.3740494
 2025-11-29,15:15,14,La Liga,Barcelona,Alaves,Home Win,0.65598726,0.20139134,0.14262143
 2025-11-29,17:30,14,La Liga,Levante,Athletic Club,Away Win,0.2897388,0.24495216,0.46530902
@@ -958,7 +955,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.4095103,0.2514797,0.33901006
 2026-05-24,00:00,38,La Liga,Valencia,Barcelona,Away Win,0.23805404,0.23451085,0.5274351
 2026-05-24,00:00,38,La Liga,Girona,Elche,Away Win,0.32088527,0.24862501,0.43048975
-2025-11-28,19:30,12,Bundesliga,M'gladbach,RB Leipzig,Away Win,0.23538323,0.23408514,0.5305316
 2025-11-29,14:30,12,Bundesliga,Bayern Munich,St Pauli,Home Win,0.8002388,0.13870703,0.061054207
 2025-11-29,14:30,12,Bundesliga,Werder Bremen,FC Koln,Home Win,0.5524403,0.23284686,0.2147129
 2025-11-29,14:30,12,Bundesliga,Union Berlin,Heidenheim,Home Win,0.53158695,0.23745808,0.23095493
