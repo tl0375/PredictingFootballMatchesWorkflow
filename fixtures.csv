@@ -1,9 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2025-11-29T15:00:00Z,Sunderland AFC,AFC Bournemouth,Premier League,13
-2025-11-29T15:00:00Z,Brentford FC,Burnley FC,Premier League,13
-2025-11-29T15:00:00Z,Manchester City FC,Leeds United FC,Premier League,13
-2025-11-29T17:30:00Z,Everton FC,Newcastle United FC,Premier League,13
-2025-11-29T20:00:00Z,Tottenham Hotspur FC,Fulham FC,Premier League,13
 2025-11-30T12:00:00Z,Crystal Palace FC,Manchester United FC,Premier League,13
 2025-11-30T14:05:00Z,Aston Villa FC,Wolverhampton Wanderers FC,Premier League,13
 2025-11-30T14:05:00Z,Nottingham Forest FC,Brighton & Hove Albion FC,Premier League,13
@@ -259,10 +254,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T00:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T00:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2025-11-29T14:00:00Z,Genoa CFC,Hellas Verona FC,Serie A,13
-2025-11-29T14:00:00Z,Parma Calcio 1913,Udinese Calcio,Serie A,13
-2025-11-29T17:00:00Z,Juventus FC,Cagliari Calcio,Serie A,13
-2025-11-29T19:45:00Z,AC Milan,SS Lazio,Serie A,13
 2025-11-30T11:30:00Z,US Lecce,Torino FC,Serie A,13
 2025-11-30T14:00:00Z,AC Pisa 1909,FC Internazionale Milano,Serie A,13
 2025-11-30T17:00:00Z,Atalanta BC,ACF Fiorentina,Serie A,13
@@ -518,9 +509,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2025-11-29T16:00:00Z,AS Monaco FC,Paris Saint-Germain FC,Ligue 1,14
-2025-11-29T18:00:00Z,Paris FC,AJ Auxerre,Ligue 1,14
-2025-11-29T20:05:00Z,Olympique de Marseille,Toulouse FC,Ligue 1,14
 2025-11-30T14:00:00Z,RC Strasbourg Alsace,Stade Brestois 29,Ligue 1,14
 2025-11-30T16:15:00Z,Le Havre AC,Lille OSC,Ligue 1,14
 2025-11-30T16:15:00Z,FC Lorient,OGC Nice,Ligue 1,14
@@ -706,10 +694,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-11-29T13:00:00Z,RCD Mallorca,CA Osasuna,La Liga,14
-2025-11-29T15:15:00Z,FC Barcelona,Deportivo Alavés,La Liga,14
-2025-11-29T17:30:00Z,Levante UD,Athletic Club,La Liga,14
-2025-11-29T20:00:00Z,Club Atlético de Madrid,Real Oviedo,La Liga,14
 2025-11-30T13:00:00Z,Real Sociedad de Fútbol,Villarreal CF,La Liga,14
 2025-11-30T15:15:00Z,Sevilla FC,Real Betis Balompié,La Liga,14
 2025-11-30T17:30:00Z,RC Celta de Vigo,RCD Espanyol de Barcelona,La Liga,14
@@ -955,11 +939,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-11-29T14:30:00Z,FC Bayern München,FC St. Pauli 1910,Bundesliga,12
-2025-11-29T14:30:00Z,SV Werder Bremen,1. FC Köln,Bundesliga,12
-2025-11-29T14:30:00Z,1. FC Union Berlin,1. FC Heidenheim 1846,Bundesliga,12
-2025-11-29T14:30:00Z,TSG 1899 Hoffenheim,FC Augsburg,Bundesliga,12
-2025-11-29T17:30:00Z,Bayer 04 Leverkusen,Borussia Dortmund,Bundesliga,12
 2025-11-30T14:30:00Z,Hamburger SV,VfB Stuttgart,Bundesliga,12
 2025-11-30T16:30:00Z,Eintracht Frankfurt,VfL Wolfsburg,Bundesliga,12
 2025-11-30T18:30:00Z,SC Freiburg,1. FSV Mainz 05,Bundesliga,12
