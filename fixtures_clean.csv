@@ -1,7 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2025-12-02,19:30,Bournemouth,Everton,Premier League,14
-2025-12-02,19:30,Fulham,Manchester City,Premier League,14
-2025-12-02,20:15,Newcastle,Tottenham,Premier League,14
 2025-12-03,19:30,Brighton,Aston Villa,Premier League,14
 2025-12-03,19:30,Arsenal,Brentford,Premier League,14
 2025-12-03,19:30,Burnley,Crystal Palace,Premier League,14
@@ -679,7 +676,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,00:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,00:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,00:00,Brest,Angers,Ligue 1,34
-2025-12-02,20:00,Barcelona,Ath Madrid,La Liga,19
 2025-12-03,18:00,Athletic Club,Real Madrid,La Liga,19
 2025-12-05,20:00,Oviedo,Mallorca,La Liga,15
 2025-12-06,13:00,Villarreal,Getafe,La Liga,15
@@ -711,16 +707,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2025-12-21,17:30,Elche,Vallecano,La Liga,17
 2025-12-21,20:00,Betis,Getafe,La Liga,17
 2025-12-22,20:00,Athletic Club,Espanol,La Liga,17
-2026-01-04,00:00,Alaves,Oviedo,La Liga,18
-2026-01-04,00:00,Celta,Valencia,La Liga,18
-2026-01-04,00:00,Elche,Villarreal,La Liga,18
-2026-01-04,00:00,Osasuna,Athletic Club,La Liga,18
-2026-01-04,00:00,Sociedad,Ath Madrid,La Liga,18
-2026-01-04,00:00,Espanol,Barcelona,La Liga,18
-2026-01-04,00:00,Real Madrid,Betis,La Liga,18
-2026-01-04,00:00,Vallecano,Getafe,La Liga,18
-2026-01-04,00:00,Mallorca,Girona,La Liga,18
-2026-01-04,00:00,Sevilla,Levante,La Liga,18
 2026-01-11,00:00,Getafe,Sociedad,La Liga,19
 2026-01-11,00:00,Girona,Osasuna,La Liga,19
 2026-01-11,00:00,Villarreal,Alaves,La Liga,19
