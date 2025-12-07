@@ -1,11 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2025-12-06,12:30,Aston Villa,Arsenal,Premier League,15
-2025-12-06,15:00,Bournemouth,Chelsea,Premier League,15
-2025-12-06,15:00,Everton,Nott'm Forest,Premier League,15
-2025-12-06,15:00,Manchester City,Sunderland,Premier League,15
-2025-12-06,15:00,Newcastle,Burnley,Premier League,15
-2025-12-06,15:00,Tottenham,Brentford,Premier League,15
-2025-12-06,17:30,Leeds,Liverpool,Premier League,15
 2025-12-07,14:00,Brighton,West Ham,Premier League,15
 2025-12-07,16:30,Fulham,Crystal Palace,Premier League,15
 2025-12-08,20:00,Wolves,Manchester Utd,Premier League,15
@@ -239,9 +232,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,00:00,Tottenham,Everton,Premier League,38
 2026-05-24,00:00,West Ham,Leeds,Premier League,38
-2025-12-06,14:00,Sassuolo,Fiorentina,Serie A,14
-2025-12-06,17:00,Inter,Como,Serie A,14
-2025-12-06,19:45,Verona,Atalanta,Serie A,14
 2025-12-07,11:30,Cremonese,Lecce,Serie A,14
 2025-12-07,14:00,Cagliari,Roma,Serie A,14
 2025-12-07,17:00,Lazio,Bologna,Serie A,14
@@ -489,9 +479,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2025-12-06,16:00,Nantes,Lens,Ligue 1,15
-2025-12-06,18:00,Toulouse,Strasbourg,Ligue 1,15
-2025-12-06,20:05,Paris SG,Rennes,Ligue 1,15
 2025-12-07,14:00,Nice,Angers,Ligue 1,15
 2025-12-07,16:15,Le Havre,Paris FC,Ligue 1,15
 2025-12-07,16:15,Auxerre,Metz,Ligue 1,15
@@ -667,10 +654,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,00:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,00:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,00:00,Brest,Angers,Ligue 1,34
-2025-12-06,13:00,Villarreal,Getafe,La Liga,15
-2025-12-06,15:15,Alaves,Sociedad,La Liga,15
-2025-12-06,17:30,Betis,Barcelona,La Liga,15
-2025-12-06,20:00,Athletic Club,Ath Madrid,La Liga,15
 2025-12-07,13:00,Elche,Girona,La Liga,15
 2025-12-07,15:15,Valencia,Sevilla,La Liga,15
 2025-12-07,17:30,Espanol,Vallecano,La Liga,15
@@ -904,12 +887,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2025-12-06,14:30,Stuttgart,Bayern Munich,Bundesliga,13
-2025-12-06,14:30,Wolfsburg,Union Berlin,Bundesliga,13
-2025-12-06,14:30,Heidenheim,Freiburg,Bundesliga,13
-2025-12-06,14:30,FC Koln,St Pauli,Bundesliga,13
-2025-12-06,14:30,Augsburg,Leverkusen,Bundesliga,13
-2025-12-06,17:30,RB Leipzig,Ein Frankfurt,Bundesliga,13
 2025-12-07,14:30,Hamburg,Werder Bremen,Bundesliga,13
 2025-12-07,16:30,Dortmund,Hoffenheim,Bundesliga,13
 2025-12-12,19:30,Union Berlin,RB Leipzig,Bundesliga,14
