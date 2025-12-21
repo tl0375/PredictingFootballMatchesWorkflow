@@ -1,12 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2025-12-20,12:30,Newcastle,Chelsea,Premier League,17
-2025-12-20,15:00,Bournemouth,Burnley,Premier League,17
-2025-12-20,15:00,Brighton,Sunderland,Premier League,17
-2025-12-20,15:00,Manchester City,West Ham,Premier League,17
-2025-12-20,15:00,Wolves,Brentford,Premier League,17
-2025-12-20,17:30,Tottenham,Liverpool,Premier League,17
-2025-12-20,20:00,Everton,Arsenal,Premier League,17
-2025-12-20,20:00,Leeds,Crystal Palace,Premier League,17
 2025-12-21,16:30,Aston Villa,Manchester Utd,Premier League,17
 2025-12-22,20:00,Fulham,Nott'm Forest,Premier League,17
 2025-12-26,20:00,Manchester Utd,Newcastle,Premier League,18
@@ -77,8 +69,48 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-01,14:00,Aston Villa,Brentford,Premier League,24
 2026-02-01,14:00,Manchester Utd,Fulham,Premier League,24
 2026-02-01,14:00,Nott'm Forest,Crystal Palace,Premier League,24
+2026-02-01,14:00,Fulham,Tottenham,Premier League,28
 2026-02-01,16:30,Tottenham,Manchester City,Premier League,24
+2026-02-01,16:30,Arsenal,Chelsea,Premier League,28
 2026-02-02,20:00,Sunderland,Burnley,Premier League,24
+2026-02-06,20:00,Leeds,Nott'm Forest,Premier League,25
+2026-02-07,12:30,Manchester Utd,Tottenham,Premier League,25
+2026-02-07,15:00,Bournemouth,Aston Villa,Premier League,25
+2026-02-07,15:00,Arsenal,Sunderland,Premier League,25
+2026-02-07,15:00,Burnley,West Ham,Premier League,25
+2026-02-07,15:00,Fulham,Everton,Premier League,25
+2026-02-07,15:00,Wolves,Chelsea,Premier League,25
+2026-02-07,17:30,Newcastle,Brentford,Premier League,25
+2026-02-08,14:00,Brighton,Crystal Palace,Premier League,25
+2026-02-08,16:30,Liverpool,Manchester City,Premier League,25
+2026-02-10,19:30,Chelsea,Leeds,Premier League,26
+2026-02-10,19:30,Everton,Bournemouth,Premier League,26
+2026-02-10,19:30,Tottenham,Newcastle,Premier League,26
+2026-02-10,20:15,West Ham,Manchester Utd,Premier League,26
+2026-02-11,19:30,Aston Villa,Brighton,Premier League,26
+2026-02-11,19:30,Crystal Palace,Burnley,Premier League,26
+2026-02-11,19:30,Manchester City,Fulham,Premier League,26
+2026-02-11,19:30,Nott'm Forest,Wolves,Premier League,26
+2026-02-11,20:15,Sunderland,Liverpool,Premier League,26
+2026-02-12,20:00,Brentford,Arsenal,Premier League,26
+2026-02-21,12:30,Manchester City,Newcastle,Premier League,27
+2026-02-21,15:00,Aston Villa,Leeds,Premier League,27
+2026-02-21,15:00,Crystal Palace,Wolves,Premier League,27
+2026-02-21,15:00,Brentford,Brighton,Premier League,27
+2026-02-21,15:00,Chelsea,Burnley,Premier League,27
+2026-02-21,15:00,Nott'm Forest,Liverpool,Premier League,27
+2026-02-21,17:30,West Ham,Bournemouth,Premier League,27
+2026-02-22,14:00,Sunderland,Fulham,Premier League,27
+2026-02-22,16:30,Tottenham,Arsenal,Premier League,27
+2026-02-23,20:00,Everton,Manchester Utd,Premier League,27
+2026-02-27,20:00,Wolves,Aston Villa,Premier League,28
+2026-02-28,12:30,Bournemouth,Sunderland,Premier League,28
+2026-02-28,15:00,Brighton,Nott'm Forest,Premier League,28
+2026-02-28,15:00,Burnley,Brentford,Premier League,28
+2026-02-28,15:00,Liverpool,West Ham,Premier League,28
+2026-02-28,15:00,Manchester Utd,Crystal Palace,Premier League,28
+2026-02-28,15:00,Newcastle,Everton,Premier League,28
+2026-02-28,17:30,Leeds,Manchester City,Premier League,28
 2026-03-04,00:00,Bournemouth,Brentford,Premier League,29
 2026-03-04,00:00,Aston Villa,Chelsea,Premier League,29
 2026-03-04,00:00,Brighton,Arsenal,Premier League,29
@@ -179,8 +211,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,00:00,Tottenham,Everton,Premier League,38
 2026-05-24,00:00,West Ham,Leeds,Premier League,38
-2025-12-20,17:00,Lazio,Cremonese,Serie A,16
-2025-12-20,19:45,Juventus,Roma,Serie A,16
 2025-12-21,11:30,Cagliari,Pisa,Serie A,16
 2025-12-21,14:00,Sassuolo,Torino,Serie A,16
 2025-12-21,17:00,Fiorentina,Udinese,Serie A,16
@@ -571,10 +601,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,00:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,00:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,00:00,Brest,Angers,Ligue 1,34
-2025-12-20,13:00,Oviedo,Celta,La Liga,17
-2025-12-20,15:15,Levante,Sociedad,La Liga,17
-2025-12-20,17:30,Osasuna,Alaves,La Liga,17
-2025-12-20,20:00,Real Madrid,Sevilla,La Liga,17
 2025-12-21,13:00,Girona,Ath Madrid,La Liga,17
 2025-12-21,15:15,Villarreal,Barcelona,La Liga,17
 2025-12-21,17:30,Elche,Vallecano,La Liga,17
@@ -590,6 +616,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-01-04,17:30,Alaves,Oviedo,La Liga,18
 2026-01-04,17:30,Mallorca,Girona,La Liga,18
 2026-01-04,20:00,Sociedad,Ath Madrid,La Liga,18
+2026-01-09,20:00,Getafe,Sociedad,La Liga,19
+2026-01-10,13:00,Oviedo,Betis,La Liga,19
+2026-01-10,15:15,Villarreal,Alaves,La Liga,19
+2026-01-10,17:30,Girona,Osasuna,La Liga,19
+2026-01-10,20:00,Valencia,Elche,La Liga,19
+2026-01-11,13:00,Vallecano,Mallorca,La Liga,19
+2026-01-11,15:15,Levante,Espanol,La Liga,19
+2026-01-12,20:00,Sevilla,Celta,La Liga,19
 2026-01-18,00:00,Betis,Villarreal,La Liga,20
 2026-01-18,00:00,Celta,Vallecano,La Liga,20
 2026-01-18,00:00,Elche,Sevilla,La Liga,20
@@ -780,12 +814,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2025-12-20,14:30,Stuttgart,Hoffenheim,Bundesliga,15
-2025-12-20,14:30,Wolfsburg,Freiburg,Bundesliga,15
-2025-12-20,14:30,Augsburg,Werder Bremen,Bundesliga,15
-2025-12-20,14:30,FC Koln,Union Berlin,Bundesliga,15
-2025-12-20,14:30,Hamburg,Ein Frankfurt,Bundesliga,15
-2025-12-20,17:30,RB Leipzig,Leverkusen,Bundesliga,15
 2025-12-21,14:30,Mainz,St Pauli,Bundesliga,15
 2025-12-21,16:30,Heidenheim,Bayern Munich,Bundesliga,15
 2026-01-09,19:30,Ein Frankfurt,Dortmund,Bundesliga,16
@@ -824,6 +852,51 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-01-24,17:30,Union Berlin,Dortmund,Bundesliga,19
 2026-01-25,14:30,M'gladbach,Stuttgart,Bundesliga,19
 2026-01-25,16:30,Freiburg,FC Koln,Bundesliga,19
+2026-01-30,19:30,FC Koln,Wolfsburg,Bundesliga,20
+2026-01-31,14:30,Ein Frankfurt,Leverkusen,Bundesliga,20
+2026-01-31,14:30,RB Leipzig,Mainz,Bundesliga,20
+2026-01-31,14:30,Werder Bremen,M'gladbach,Bundesliga,20
+2026-01-31,14:30,Hoffenheim,Union Berlin,Bundesliga,20
+2026-01-31,14:30,Augsburg,St Pauli,Bundesliga,20
+2026-01-31,17:30,Hamburg,Bayern Munich,Bundesliga,20
+2026-02-01,14:30,Stuttgart,Freiburg,Bundesliga,20
+2026-02-01,16:30,Dortmund,Heidenheim,Bundesliga,20
+2026-02-06,19:30,Union Berlin,Ein Frankfurt,Bundesliga,21
+2026-02-07,14:30,Wolfsburg,Dortmund,Bundesliga,21
+2026-02-07,14:30,Freiburg,Werder Bremen,Bundesliga,21
+2026-02-07,14:30,St Pauli,Stuttgart,Bundesliga,21
+2026-02-07,14:30,Mainz,Augsburg,Bundesliga,21
+2026-02-07,14:30,Heidenheim,Hamburg,Bundesliga,21
+2026-02-07,17:30,M'gladbach,Leverkusen,Bundesliga,21
+2026-02-08,14:30,FC Koln,RB Leipzig,Bundesliga,21
+2026-02-08,16:30,Bayern Munich,Hoffenheim,Bundesliga,21
+2026-02-13,19:30,Dortmund,Mainz,Bundesliga,22
+2026-02-14,14:30,Werder Bremen,Bayern Munich,Bundesliga,22
+2026-02-14,14:30,Hoffenheim,Freiburg,Bundesliga,22
+2026-02-14,14:30,Ein Frankfurt,M'gladbach,Bundesliga,22
+2026-02-14,14:30,Hamburg,Union Berlin,Bundesliga,22
+2026-02-14,14:30,Leverkusen,St Pauli,Bundesliga,22
+2026-02-14,17:30,Stuttgart,FC Koln,Bundesliga,22
+2026-02-15,14:30,Augsburg,Heidenheim,Bundesliga,22
+2026-02-15,16:30,RB Leipzig,Wolfsburg,Bundesliga,22
+2026-02-20,19:30,Mainz,Hamburg,Bundesliga,23
+2026-02-21,14:30,Union Berlin,Leverkusen,Bundesliga,23
+2026-02-21,14:30,Bayern Munich,Ein Frankfurt,Bundesliga,23
+2026-02-21,14:30,Wolfsburg,Augsburg,Bundesliga,23
+2026-02-21,14:30,FC Koln,Hoffenheim,Bundesliga,23
+2026-02-21,17:30,RB Leipzig,Dortmund,Bundesliga,23
+2026-02-22,14:30,Freiburg,M'gladbach,Bundesliga,23
+2026-02-22,16:30,St Pauli,Werder Bremen,Bundesliga,23
+2026-02-22,18:30,Heidenheim,Stuttgart,Bundesliga,23
+2026-02-27,19:30,Augsburg,FC Koln,Bundesliga,24
+2026-02-28,14:30,Leverkusen,Mainz,Bundesliga,24
+2026-02-28,14:30,M'gladbach,Union Berlin,Bundesliga,24
+2026-02-28,14:30,Hoffenheim,St Pauli,Bundesliga,24
+2026-02-28,14:30,Werder Bremen,Heidenheim,Bundesliga,24
+2026-02-28,17:30,Dortmund,Bayern Munich,Bundesliga,24
+2026-03-01,14:30,Stuttgart,Wolfsburg,Bundesliga,24
+2026-03-01,16:30,Ein Frankfurt,Freiburg,Bundesliga,24
+2026-03-01,18:30,Hamburg,RB Leipzig,Bundesliga,24
 2026-03-07,00:00,Freiburg,Leverkusen,Bundesliga,25
 2026-03-07,00:00,St Pauli,Ein Frankfurt,Bundesliga,25
 2026-03-07,00:00,FC Koln,Dortmund,Bundesliga,25
