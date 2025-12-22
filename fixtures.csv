@@ -1,5 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2025-12-21T16:30:00Z,Aston Villa FC,Manchester United FC,Premier League,17
 2025-12-22T20:00:00Z,Fulham FC,Nottingham Forest FC,Premier League,17
 2025-12-26T20:00:00Z,Manchester United FC,Newcastle United FC,Premier League,18
 2025-12-27T12:30:00Z,Nottingham Forest FC,Manchester City FC,Premier League,18
@@ -211,10 +210,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T00:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T00:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2025-12-21T11:30:00Z,Cagliari Calcio,AC Pisa 1909,Serie A,16
-2025-12-21T14:00:00Z,US Sassuolo Calcio,Torino FC,Serie A,16
-2025-12-21T17:00:00Z,ACF Fiorentina,Udinese Calcio,Serie A,16
-2025-12-21T19:45:00Z,Genoa CFC,Atalanta BC,Serie A,16
 2025-12-27T11:30:00Z,Parma Calcio 1913,ACF Fiorentina,Serie A,17
 2025-12-27T14:00:00Z,Torino FC,Cagliari Calcio,Serie A,17
 2025-12-27T14:00:00Z,US Lecce,Como 1907,Serie A,17
@@ -601,10 +596,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T00:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T00:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T00:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2025-12-21T13:00:00Z,Girona FC,Club Atlético de Madrid,La Liga,17
-2025-12-21T15:15:00Z,Villarreal CF,FC Barcelona,La Liga,17
-2025-12-21T17:30:00Z,Elche CF,Rayo Vallecano de Madrid,La Liga,17
-2025-12-21T20:00:00Z,Real Betis Balompié,Getafe CF,La Liga,17
 2025-12-22T20:00:00Z,Athletic Club,RCD Espanyol de Barcelona,La Liga,17
 2026-01-02T20:00:00Z,Rayo Vallecano de Madrid,Getafe CF,La Liga,18
 2026-01-03T13:00:00Z,RC Celta de Vigo,Valencia CF,La Liga,18
@@ -814,8 +805,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2025-12-21T14:30:00Z,1. FSV Mainz 05,FC St. Pauli 1910,Bundesliga,15
-2025-12-21T16:30:00Z,1. FC Heidenheim 1846,FC Bayern München,Bundesliga,15
 2026-01-09T19:30:00Z,Eintracht Frankfurt,Borussia Dortmund,Bundesliga,16
 2026-01-10T14:30:00Z,SC Freiburg,Hamburger SV,Bundesliga,16
 2026-01-10T14:30:00Z,SV Werder Bremen,TSG 1899 Hoffenheim,Bundesliga,16
