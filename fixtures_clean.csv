@@ -1,10 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2025-12-30,19:30,Burnley,Newcastle,Premier League,19
-2025-12-30,19:30,Chelsea,Bournemouth,Premier League,19
-2025-12-30,19:30,Nott'm Forest,Everton,Premier League,19
-2025-12-30,19:30,West Ham,Brighton,Premier League,19
-2025-12-30,20:15,Arsenal,Aston Villa,Premier League,19
-2025-12-30,20:15,Manchester Utd,Wolves,Premier League,19
 2026-01-01,17:30,Crystal Palace,Fulham,Premier League,19
 2026-01-01,17:30,Liverpool,Leeds,Premier League,19
 2026-01-01,20:00,Sunderland,Manchester City,Premier League,19
@@ -57,9 +51,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-01,14:00,Aston Villa,Brentford,Premier League,24
 2026-02-01,14:00,Manchester Utd,Fulham,Premier League,24
 2026-02-01,14:00,Nott'm Forest,Crystal Palace,Premier League,24
-2026-02-01,14:00,Fulham,Tottenham,Premier League,28
 2026-02-01,16:30,Tottenham,Manchester City,Premier League,24
-2026-02-01,16:30,Arsenal,Chelsea,Premier League,28
 2026-02-02,20:00,Sunderland,Burnley,Premier League,24
 2026-02-06,20:00,Leeds,Nott'm Forest,Premier League,25
 2026-02-07,12:30,Manchester Utd,Tottenham,Premier League,25
@@ -99,6 +91,108 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-28,15:00,Manchester Utd,Crystal Palace,Premier League,28
 2026-02-28,15:00,Newcastle,Everton,Premier League,28
 2026-02-28,17:30,Leeds,Manchester City,Premier League,28
+2026-03-01,14:00,Fulham,Tottenham,Premier League,28
+2026-03-01,16:30,Arsenal,Chelsea,Premier League,28
+2026-03-04,20:00,Bournemouth,Brentford,Premier League,29
+2026-03-04,20:00,Aston Villa,Chelsea,Premier League,29
+2026-03-04,20:00,Brighton,Arsenal,Premier League,29
+2026-03-04,20:00,Everton,Burnley,Premier League,29
+2026-03-04,20:00,Fulham,West Ham,Premier League,29
+2026-03-04,20:00,Leeds,Sunderland,Premier League,29
+2026-03-04,20:00,Manchester City,Nott'm Forest,Premier League,29
+2026-03-04,20:00,Newcastle,Manchester Utd,Premier League,29
+2026-03-04,20:00,Tottenham,Crystal Palace,Premier League,29
+2026-03-04,20:00,Wolves,Liverpool,Premier League,29
+2026-03-14,15:00,Sunderland,Brighton,Premier League,30
+2026-03-14,15:00,Crystal Palace,Leeds,Premier League,30
+2026-03-14,15:00,Arsenal,Everton,Premier League,30
+2026-03-14,15:00,Brentford,Wolves,Premier League,30
+2026-03-14,15:00,Burnley,Bournemouth,Premier League,30
+2026-03-14,15:00,Chelsea,Newcastle,Premier League,30
+2026-03-14,15:00,Liverpool,Tottenham,Premier League,30
+2026-03-14,15:00,Manchester Utd,Aston Villa,Premier League,30
+2026-03-14,15:00,Nott'm Forest,Fulham,Premier League,30
+2026-03-14,15:00,West Ham,Manchester City,Premier League,30
+2026-03-21,15:00,Bournemouth,Manchester Utd,Premier League,31
+2026-03-21,15:00,Aston Villa,West Ham,Premier League,31
+2026-03-21,15:00,Brighton,Liverpool,Premier League,31
+2026-03-21,15:00,Everton,Chelsea,Premier League,31
+2026-03-21,15:00,Fulham,Burnley,Premier League,31
+2026-03-21,15:00,Leeds,Brentford,Premier League,31
+2026-03-21,15:00,Manchester City,Crystal Palace,Premier League,31
+2026-03-21,15:00,Newcastle,Sunderland,Premier League,31
+2026-03-21,15:00,Tottenham,Nott'm Forest,Premier League,31
+2026-03-21,15:00,Wolves,Arsenal,Premier League,31
+2026-04-11,14:00,Sunderland,Tottenham,Premier League,32
+2026-04-11,14:00,Crystal Palace,Newcastle,Premier League,32
+2026-04-11,14:00,Arsenal,Bournemouth,Premier League,32
+2026-04-11,14:00,Brentford,Everton,Premier League,32
+2026-04-11,14:00,Burnley,Brighton,Premier League,32
+2026-04-11,14:00,Chelsea,Manchester City,Premier League,32
+2026-04-11,14:00,Liverpool,Fulham,Premier League,32
+2026-04-11,14:00,Manchester Utd,Leeds,Premier League,32
+2026-04-11,14:00,Nott'm Forest,Aston Villa,Premier League,32
+2026-04-11,14:00,West Ham,Wolves,Premier League,32
+2026-04-18,14:00,Newcastle,Bournemouth,Premier League,33
+2026-04-18,14:00,Nott'm Forest,Burnley,Premier League,33
+2026-04-18,14:00,Tottenham,Brighton,Premier League,33
+2026-04-18,14:00,Aston Villa,Sunderland,Premier League,33
+2026-04-18,14:00,Crystal Palace,West Ham,Premier League,33
+2026-04-18,14:00,Brentford,Fulham,Premier League,33
+2026-04-18,14:00,Chelsea,Manchester Utd,Premier League,33
+2026-04-18,14:00,Everton,Liverpool,Premier League,33
+2026-04-18,14:00,Leeds,Wolves,Premier League,33
+2026-04-18,14:00,Manchester City,Arsenal,Premier League,33
+2026-04-25,14:00,Bournemouth,Leeds,Premier League,34
+2026-04-25,14:00,Sunderland,Nott'm Forest,Premier League,34
+2026-04-25,14:00,Brighton,Chelsea,Premier League,34
+2026-04-25,14:00,Arsenal,Newcastle,Premier League,34
+2026-04-25,14:00,Burnley,Manchester City,Premier League,34
+2026-04-25,14:00,Fulham,Aston Villa,Premier League,34
+2026-04-25,14:00,Liverpool,Crystal Palace,Premier League,34
+2026-04-25,14:00,Manchester Utd,Brentford,Premier League,34
+2026-04-25,14:00,West Ham,Everton,Premier League,34
+2026-04-25,14:00,Wolves,Tottenham,Premier League,34
+2026-05-02,14:00,Bournemouth,Crystal Palace,Premier League,35
+2026-05-02,14:00,Aston Villa,Tottenham,Premier League,35
+2026-05-02,14:00,Arsenal,Fulham,Premier League,35
+2026-05-02,14:00,Brentford,West Ham,Premier League,35
+2026-05-02,14:00,Chelsea,Nott'm Forest,Premier League,35
+2026-05-02,14:00,Everton,Manchester City,Premier League,35
+2026-05-02,14:00,Leeds,Burnley,Premier League,35
+2026-05-02,14:00,Manchester Utd,Liverpool,Premier League,35
+2026-05-02,14:00,Newcastle,Brighton,Premier League,35
+2026-05-02,14:00,Wolves,Sunderland,Premier League,35
+2026-05-09,14:00,Sunderland,Manchester Utd,Premier League,36
+2026-05-09,14:00,Brighton,Wolves,Premier League,36
+2026-05-09,14:00,Crystal Palace,Everton,Premier League,36
+2026-05-09,14:00,Burnley,Aston Villa,Premier League,36
+2026-05-09,14:00,Fulham,Bournemouth,Premier League,36
+2026-05-09,14:00,Liverpool,Chelsea,Premier League,36
+2026-05-09,14:00,Manchester City,Brentford,Premier League,36
+2026-05-09,14:00,Nott'm Forest,Newcastle,Premier League,36
+2026-05-09,14:00,Tottenham,Leeds,Premier League,36
+2026-05-09,14:00,West Ham,Arsenal,Premier League,36
+2026-05-17,14:00,Bournemouth,Manchester City,Premier League,37
+2026-05-17,14:00,Aston Villa,Liverpool,Premier League,37
+2026-05-17,14:00,Arsenal,Burnley,Premier League,37
+2026-05-17,14:00,Brentford,Crystal Palace,Premier League,37
+2026-05-17,14:00,Chelsea,Tottenham,Premier League,37
+2026-05-17,14:00,Everton,Sunderland,Premier League,37
+2026-05-17,14:00,Leeds,Brighton,Premier League,37
+2026-05-17,14:00,Manchester Utd,Nott'm Forest,Premier League,37
+2026-05-17,14:00,Newcastle,West Ham,Premier League,37
+2026-05-17,14:00,Wolves,Fulham,Premier League,37
+2026-05-24,15:00,Sunderland,Chelsea,Premier League,38
+2026-05-24,15:00,Brighton,Manchester Utd,Premier League,38
+2026-05-24,15:00,Crystal Palace,Arsenal,Premier League,38
+2026-05-24,15:00,Burnley,Wolves,Premier League,38
+2026-05-24,15:00,Fulham,Newcastle,Premier League,38
+2026-05-24,15:00,Liverpool,Brentford,Premier League,38
+2026-05-24,15:00,Manchester City,Aston Villa,Premier League,38
+2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
+2026-05-24,15:00,Tottenham,Everton,Premier League,38
+2026-05-24,15:00,West Ham,Leeds,Premier League,38
 2026-01-02,19:45,Cagliari,Milan,Serie A,18
 2026-01-03,11:30,Como,Udinese,Serie A,18
 2026-01-03,14:00,Genoa,Pisa,Serie A,18
@@ -457,6 +551,24 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-03,00:00,Lille,Le Havre,Ligue 1,32
 2026-05-03,00:00,Paris SG,Lorient,Ligue 1,32
 2026-05-03,00:00,Strasbourg,Toulouse,Ligue 1,32
+2026-05-09,19:00,Le Havre,Marseille,Ligue 1,33
+2026-05-09,19:00,Auxerre,Nice,Ligue 1,33
+2026-05-09,19:00,Monaco,Lille,Ligue 1,33
+2026-05-09,19:00,Metz,Lorient,Ligue 1,33
+2026-05-09,19:00,Toulouse,Lyon,Ligue 1,33
+2026-05-09,19:00,Paris SG,Brest,Ligue 1,33
+2026-05-09,19:00,Lens,Nantes,Ligue 1,33
+2026-05-09,19:00,Angers,Strasbourg,Ligue 1,33
+2026-05-09,19:00,Rennes,Paris FC,Ligue 1,33
+2026-05-16,19:00,Lorient,Le Havre,Ligue 1,34
+2026-05-16,19:00,Nantes,Toulouse,Ligue 1,34
+2026-05-16,19:00,Paris FC,Paris SG,Ligue 1,34
+2026-05-16,19:00,Nice,Metz,Ligue 1,34
+2026-05-16,19:00,Lyon,Lens,Ligue 1,34
+2026-05-16,19:00,Marseille,Rennes,Ligue 1,34
+2026-05-16,19:00,Lille,Auxerre,Ligue 1,34
+2026-05-16,19:00,Strasbourg,Monaco,Ligue 1,34
+2026-05-16,19:00,Brest,Angers,Ligue 1,34
 2026-01-02,20:00,Vallecano,Getafe,La Liga,18
 2026-01-03,13:00,Celta,Valencia,La Liga,18
 2026-01-03,15:15,Osasuna,Athletic Club,La Liga,18
