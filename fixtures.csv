@@ -1,8 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2026-01-03T12:30:00Z,Aston Villa FC,Nottingham Forest FC,Premier League,20
-2026-01-03T15:00:00Z,Brighton & Hove Albion FC,Burnley FC,Premier League,20
-2026-01-03T15:00:00Z,Wolverhampton Wanderers FC,West Ham United FC,Premier League,20
-2026-01-03T17:30:00Z,AFC Bournemouth,Arsenal FC,Premier League,20
 2026-01-04T12:30:00Z,Leeds United FC,Manchester United FC,Premier League,20
 2026-01-04T15:00:00Z,Everton FC,Brentford FC,Premier League,20
 2026-01-04T15:00:00Z,Fulham FC,Liverpool FC,Premier League,20
@@ -189,11 +185,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-01-03T11:30:00Z,Como 1907,Udinese Calcio,Serie A,18
-2026-01-03T14:00:00Z,Genoa CFC,AC Pisa 1909,Serie A,18
-2026-01-03T14:00:00Z,US Sassuolo Calcio,Parma Calcio 1913,Serie A,18
-2026-01-03T17:00:00Z,Juventus FC,US Lecce,Serie A,18
-2026-01-03T19:45:00Z,Atalanta BC,AS Roma,Serie A,18
 2026-01-04T11:30:00Z,SS Lazio,SSC Napoli,Serie A,18
 2026-01-04T14:00:00Z,ACF Fiorentina,US Cremonese,Serie A,18
 2026-01-04T17:00:00Z,Hellas Verona FC,Torino FC,Serie A,18
@@ -402,9 +393,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2026-01-03T16:00:00Z,AS Monaco FC,Olympique Lyonnais,Ligue 1,17
-2026-01-03T18:00:00Z,OGC Nice,RC Strasbourg Alsace,Ligue 1,17
-2026-01-03T20:05:00Z,Lille OSC,Stade Rennais FC 1901,Ligue 1,17
 2026-01-04T14:00:00Z,Olympique de Marseille,FC Nantes,Ligue 1,17
 2026-01-04T16:15:00Z,Le Havre AC,Angers SCO,Ligue 1,17
 2026-01-04T16:15:00Z,FC Lorient,FC Metz,Ligue 1,17
@@ -563,10 +551,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T19:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T19:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T19:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2026-01-03T13:00:00Z,RC Celta de Vigo,Valencia CF,La Liga,18
-2026-01-03T15:15:00Z,CA Osasuna,Athletic Club,La Liga,18
-2026-01-03T17:30:00Z,Elche CF,Villarreal CF,La Liga,18
-2026-01-03T20:00:00Z,RCD Espanyol de Barcelona,FC Barcelona,La Liga,18
 2026-01-04T13:00:00Z,Sevilla FC,Levante UD,La Liga,18
 2026-01-04T15:15:00Z,Real Madrid CF,Real Betis Balompié,La Liga,18
 2026-01-04T17:30:00Z,Deportivo Alavés,Real Oviedo,La Liga,18
