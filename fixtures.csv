@@ -1,5 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2026-01-06T20:00:00Z,West Ham United FC,Nottingham Forest FC,Premier League,21
 2026-01-07T19:30:00Z,AFC Bournemouth,Tottenham Hotspur FC,Premier League,21
 2026-01-07T19:30:00Z,Crystal Palace FC,Aston Villa FC,Premier League,21
 2026-01-07T19:30:00Z,Brentford FC,Sunderland AFC,Premier League,21
@@ -179,9 +178,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-01-06T14:00:00Z,AC Pisa 1909,Como 1907,Serie A,19
-2026-01-06T17:00:00Z,US Lecce,AS Roma,Serie A,19
-2026-01-06T19:45:00Z,US Sassuolo Calcio,Juventus FC,Serie A,19
 2026-01-07T17:30:00Z,Bologna FC 1909,Atalanta BC,Serie A,19
 2026-01-07T17:30:00Z,SSC Napoli,Hellas Verona FC,Serie A,19
 2026-01-07T19:45:00Z,Torino FC,Udinese Calcio,Serie A,19
@@ -554,6 +550,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-01-18T17:30:00Z,RC Celta de Vigo,Rayo Vallecano de Madrid,La Liga,20
 2026-01-18T20:00:00Z,Real Sociedad de Fútbol,FC Barcelona,La Liga,20
 2026-01-19T20:00:00Z,Elche CF,Sevilla FC,La Liga,20
+2026-01-23T20:00:00Z,Levante UD,Elche CF,La Liga,21
+2026-01-24T13:00:00Z,Rayo Vallecano de Madrid,CA Osasuna,La Liga,21
+2026-01-24T15:15:00Z,Valencia CF,RCD Espanyol de Barcelona,La Liga,21
+2026-01-24T17:30:00Z,Sevilla FC,Athletic Club,La Liga,21
+2026-01-24T20:00:00Z,Villarreal CF,Real Madrid CF,La Liga,21
+2026-01-25T13:00:00Z,Club Atlético de Madrid,RCD Mallorca,La Liga,21
+2026-01-25T15:15:00Z,FC Barcelona,Real Oviedo,La Liga,21
+2026-01-25T17:30:00Z,Real Sociedad de Fútbol,RC Celta de Vigo,La Liga,21
+2026-01-25T20:00:00Z,Deportivo Alavés,Real Betis Balompié,La Liga,21
+2026-01-26T20:00:00Z,Girona FC,Getafe CF,La Liga,21
 2026-02-01T00:00:00Z,Athletic Club,Real Sociedad de Fútbol,La Liga,22
 2026-02-01T00:00:00Z,Real Betis Balompié,Valencia CF,La Liga,22
 2026-02-01T00:00:00Z,RCD Mallorca,Sevilla FC,La Liga,22
@@ -832,15 +838,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-03-21T00:00:00Z,FC Bayern München,1. FC Union Berlin,Bundesliga,27
 2026-03-21T00:00:00Z,RB Leipzig,TSG 1899 Hoffenheim,Bundesliga,27
 2026-03-21T00:00:00Z,Borussia Dortmund,Hamburger SV,Bundesliga,27
-2026-04-05T00:00:00Z,SC Freiburg,FC Bayern München,Bundesliga,28
-2026-04-05T00:00:00Z,VfB Stuttgart,Borussia Dortmund,Bundesliga,28
-2026-04-05T00:00:00Z,TSG 1899 Hoffenheim,1. FSV Mainz 05,Bundesliga,28
-2026-04-05T00:00:00Z,SV Werder Bremen,RB Leipzig,Bundesliga,28
-2026-04-05T00:00:00Z,Bayer 04 Leverkusen,VfL Wolfsburg,Bundesliga,28
-2026-04-05T00:00:00Z,Hamburger SV,FC Augsburg,Bundesliga,28
-2026-04-05T00:00:00Z,1. FC Union Berlin,FC St. Pauli 1910,Bundesliga,28
-2026-04-05T00:00:00Z,Borussia Mönchengladbach,1. FC Heidenheim 1846,Bundesliga,28
-2026-04-05T00:00:00Z,Eintracht Frankfurt,1. FC Köln,Bundesliga,28
+2026-04-04T00:00:00Z,SC Freiburg,FC Bayern München,Bundesliga,28
+2026-04-04T00:00:00Z,VfB Stuttgart,Borussia Dortmund,Bundesliga,28
+2026-04-04T00:00:00Z,TSG 1899 Hoffenheim,1. FSV Mainz 05,Bundesliga,28
+2026-04-04T00:00:00Z,SV Werder Bremen,RB Leipzig,Bundesliga,28
+2026-04-04T00:00:00Z,Bayer 04 Leverkusen,VfL Wolfsburg,Bundesliga,28
+2026-04-04T00:00:00Z,Hamburger SV,FC Augsburg,Bundesliga,28
+2026-04-04T00:00:00Z,1. FC Union Berlin,FC St. Pauli 1910,Bundesliga,28
+2026-04-04T00:00:00Z,Borussia Mönchengladbach,1. FC Heidenheim 1846,Bundesliga,28
+2026-04-04T00:00:00Z,Eintracht Frankfurt,1. FC Köln,Bundesliga,28
 2026-04-11T00:00:00Z,FC St. Pauli 1910,FC Bayern München,Bundesliga,29
 2026-04-11T00:00:00Z,Borussia Dortmund,Bayer 04 Leverkusen,Bundesliga,29
 2026-04-11T00:00:00Z,VfL Wolfsburg,Eintracht Frankfurt,Bundesliga,29
@@ -868,15 +874,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-04-25T00:00:00Z,RB Leipzig,1. FC Union Berlin,Bundesliga,31
 2026-04-25T00:00:00Z,1. FC Heidenheim 1846,FC St. Pauli 1910,Bundesliga,31
 2026-04-25T00:00:00Z,Hamburger SV,TSG 1899 Hoffenheim,Bundesliga,31
-2026-05-03T00:00:00Z,Borussia Mönchengladbach,Borussia Dortmund,Bundesliga,32
-2026-05-03T00:00:00Z,FC St. Pauli 1910,1. FSV Mainz 05,Bundesliga,32
-2026-05-03T00:00:00Z,Bayer 04 Leverkusen,RB Leipzig,Bundesliga,32
-2026-05-03T00:00:00Z,TSG 1899 Hoffenheim,VfB Stuttgart,Bundesliga,32
-2026-05-03T00:00:00Z,SC Freiburg,VfL Wolfsburg,Bundesliga,32
-2026-05-03T00:00:00Z,SV Werder Bremen,FC Augsburg,Bundesliga,32
-2026-05-03T00:00:00Z,FC Bayern München,1. FC Heidenheim 1846,Bundesliga,32
-2026-05-03T00:00:00Z,1. FC Union Berlin,1. FC Köln,Bundesliga,32
-2026-05-03T00:00:00Z,Eintracht Frankfurt,Hamburger SV,Bundesliga,32
+2026-05-02T00:00:00Z,Borussia Mönchengladbach,Borussia Dortmund,Bundesliga,32
+2026-05-02T00:00:00Z,FC St. Pauli 1910,1. FSV Mainz 05,Bundesliga,32
+2026-05-02T00:00:00Z,Bayer 04 Leverkusen,RB Leipzig,Bundesliga,32
+2026-05-02T00:00:00Z,TSG 1899 Hoffenheim,VfB Stuttgart,Bundesliga,32
+2026-05-02T00:00:00Z,SC Freiburg,VfL Wolfsburg,Bundesliga,32
+2026-05-02T00:00:00Z,SV Werder Bremen,FC Augsburg,Bundesliga,32
+2026-05-02T00:00:00Z,FC Bayern München,1. FC Heidenheim 1846,Bundesliga,32
+2026-05-02T00:00:00Z,1. FC Union Berlin,1. FC Köln,Bundesliga,32
+2026-05-02T00:00:00Z,Eintracht Frankfurt,Hamburger SV,Bundesliga,32
 2026-05-09T00:00:00Z,VfL Wolfsburg,FC Bayern München,Bundesliga,33
 2026-05-09T00:00:00Z,VfB Stuttgart,Bayer 04 Leverkusen,Bundesliga,33
 2026-05-09T00:00:00Z,Borussia Dortmund,Eintracht Frankfurt,Bundesliga,33
