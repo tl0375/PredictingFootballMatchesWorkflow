@@ -1,12 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-01-07,19:30,Bournemouth,Tottenham,Premier League,21
-2026-01-07,19:30,Crystal Palace,Aston Villa,Premier League,21
-2026-01-07,19:30,Brentford,Sunderland,Premier League,21
-2026-01-07,19:30,Everton,Wolves,Premier League,21
-2026-01-07,19:30,Fulham,Chelsea,Premier League,21
-2026-01-07,19:30,Manchester City,Brighton,Premier League,21
-2026-01-07,20:15,Burnley,Manchester Utd,Premier League,21
-2026-01-07,20:15,Newcastle,Leeds,Premier League,21
 2026-01-08,20:00,Arsenal,Liverpool,Premier League,21
 2026-01-17,12:30,Manchester Utd,Manchester City,Premier League,22
 2026-01-17,15:00,Sunderland,Crystal Palace,Premier League,22
@@ -178,11 +170,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-01-07,17:30,Bologna,Atalanta,Serie A,19
-2026-01-07,17:30,Napoli,Verona,Serie A,19
-2026-01-07,19:45,Torino,Udinese,Serie A,19
-2026-01-07,19:45,Lazio,Fiorentina,Serie A,19
-2026-01-07,19:45,Parma,Milan,Serie A,19
 2026-01-08,17:30,Cremonese,Cagliari,Serie A,19
 2026-01-08,19:45,Milan,Genoa,Serie A,19
 2026-01-10,14:00,Como,Bologna,Serie A,20
