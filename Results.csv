@@ -1,382 +1,379 @@
 Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Prob_Draw,Prob_Away_Win
-2026-01-08,20:00,21,Premier League,Arsenal,Liverpool,Home Win,0.5955315,0.2210952,0.18337329
-2026-01-17,12:30,22,Premier League,Manchester Utd,Manchester City,Away Win,0.2452217,0.23655078,0.5182275
-2026-01-17,15:00,22,Premier League,Sunderland,Crystal Palace,Away Win,0.37329045,0.25167552,0.375034
-2026-01-17,15:00,22,Premier League,Chelsea,Brentford,Home Win,0.49419788,0.2437519,0.26205024
-2026-01-17,15:00,22,Premier League,Liverpool,Burnley,Home Win,0.6439455,0.20560737,0.15044715
-2026-01-17,15:00,22,Premier League,Leeds,Fulham,Away Win,0.29595524,0.24589472,0.45815006
-2026-01-17,15:00,22,Premier League,Tottenham,West Ham,Home Win,0.51453716,0.24065472,0.24480815
-2026-01-17,17:30,22,Premier League,Nott'm Forest,Arsenal,Away Win,0.22000687,0.22891282,0.5510803
-2026-01-18,14:00,22,Premier League,Wolves,Newcastle,Away Win,0.26252338,0.24021696,0.4972597
-2026-01-18,16:30,22,Premier League,Aston Villa,Everton,Home Win,0.5992102,0.21999373,0.18079604
-2026-01-19,20:00,22,Premier League,Brighton,Bournemouth,Home Win,0.49356687,0.24374343,0.2626897
-2026-01-24,12:30,23,Premier League,West Ham,Sunderland,Away Win,0.29511645,0.2455685,0.45931506
-2026-01-24,15:00,23,Premier League,Burnley,Tottenham,Away Win,0.30108857,0.24641655,0.45249483
-2026-01-24,15:00,23,Premier League,Fulham,Brighton,Home Win,0.43288425,0.25003558,0.31708014
-2026-01-24,15:00,23,Premier League,Manchester City,Wolves,Home Win,0.75752425,0.15972461,0.08275115
-2026-01-24,17:30,23,Premier League,Bournemouth,Liverpool,Away Win,0.251384,0.23819667,0.51041937
-2026-01-25,14:00,23,Premier League,Crystal Palace,Chelsea,Away Win,0.29656148,0.24589077,0.4575477
-2026-01-25,14:00,23,Premier League,Brentford,Nott'm Forest,Home Win,0.5407486,0.23551138,0.22374006
-2026-01-25,14:00,23,Premier League,Newcastle,Aston Villa,Away Win,0.23678087,0.23424906,0.5289701
-2026-01-25,16:30,23,Premier League,Arsenal,Manchester Utd,Home Win,0.6269176,0.21132627,0.16175613
-2026-01-26,20:00,23,Premier League,Everton,Leeds,Home Win,0.5493035,0.23359452,0.21710202
-2026-01-31,15:00,24,Premier League,Brighton,Everton,Away Win,0.3634061,0.25101447,0.38557938
-2026-01-31,15:00,24,Premier League,Leeds,Arsenal,Away Win,0.22051303,0.22911163,0.55037534
-2026-01-31,15:00,24,Premier League,Wolves,Bournemouth,Away Win,0.30687296,0.2473644,0.44576263
-2026-01-31,17:30,24,Premier League,Chelsea,West Ham,Home Win,0.6005949,0.21957777,0.1798274
-2026-01-31,20:00,24,Premier League,Liverpool,Newcastle,Home Win,0.5360502,0.23643613,0.2275137
-2026-02-01,14:00,24,Premier League,Aston Villa,Brentford,Home Win,0.6205559,0.21338262,0.16606148
-2026-02-01,14:00,24,Premier League,Manchester Utd,Fulham,Home Win,0.457289,0.24794143,0.29476956
-2026-02-01,14:00,24,Premier League,Nott'm Forest,Crystal Palace,Away Win,0.30036122,0.24621363,0.45342517
-2026-02-01,16:30,24,Premier League,Tottenham,Manchester City,Away Win,0.23610397,0.23391391,0.5299821
-2026-02-02,20:00,24,Premier League,Sunderland,Burnley,Home Win,0.52662146,0.23854789,0.23483062
-2026-02-06,20:00,25,Premier League,Leeds,Nott'm Forest,Home Win,0.44553152,0.24932751,0.30514094
-2026-02-07,12:30,25,Premier League,Manchester Utd,Tottenham,Home Win,0.53393304,0.23687862,0.22918834
-2026-02-07,15:00,25,Premier League,Bournemouth,Aston Villa,Away Win,0.24554457,0.23682545,0.51763
-2026-02-07,15:00,25,Premier League,Arsenal,Sunderland,Home Win,0.68896645,0.18906835,0.12196524
-2026-02-07,15:00,25,Premier League,Burnley,West Ham,Away Win,0.36567983,0.25167462,0.38264558
-2026-02-07,15:00,25,Premier League,Fulham,Everton,Away Win,0.3621695,0.2509786,0.38685197
-2026-02-07,15:00,25,Premier League,Wolves,Chelsea,Away Win,0.24776903,0.23726098,0.51497
-2026-02-07,17:30,25,Premier League,Newcastle,Brentford,Home Win,0.4108008,0.25114372,0.3380555
-2026-02-08,14:00,25,Premier League,Brighton,Crystal Palace,Home Win,0.42245594,0.2503424,0.32720163
-2026-02-08,16:30,25,Premier League,Liverpool,Manchester City,Away Win,0.263407,0.24071144,0.4958816
-2026-02-10,19:30,26,Premier League,Chelsea,Leeds,Home Win,0.56347966,0.23002909,0.20649117
-2026-02-10,19:30,26,Premier League,Everton,Bournemouth,Home Win,0.54829866,0.23375595,0.21794546
-2026-02-10,19:30,26,Premier League,Tottenham,Newcastle,Away Win,0.33527562,0.24986276,0.4148616
-2026-02-10,20:15,26,Premier League,West Ham,Manchester Utd,Away Win,0.25814164,0.23943727,0.50242114
-2026-02-11,19:30,26,Premier League,Aston Villa,Brighton,Home Win,0.63094497,0.20999666,0.15905838
-2026-02-11,19:30,26,Premier League,Crystal Palace,Burnley,Home Win,0.5440643,0.23478122,0.22115456
-2026-02-11,19:30,26,Premier League,Manchester City,Fulham,Home Win,0.6422634,0.2061913,0.15154532
-2026-02-11,19:30,26,Premier League,Nott'm Forest,Wolves,Home Win,0.5139732,0.24037251,0.24565426
-2026-02-11,20:15,26,Premier League,Sunderland,Liverpool,Away Win,0.26755205,0.24132672,0.49112126
-2026-02-12,20:00,26,Premier League,Brentford,Arsenal,Away Win,0.23412317,0.23323327,0.53264356
-2026-02-21,12:30,27,Premier League,Manchester City,Newcastle,Home Win,0.635641,0.2084336,0.15592538
-2026-02-21,15:00,27,Premier League,Aston Villa,Leeds,Home Win,0.66452944,0.19830583,0.1371647
-2026-02-21,15:00,27,Premier League,Crystal Palace,Wolves,Home Win,0.5862393,0.22378916,0.18997155
-2026-02-21,15:00,27,Premier League,Brentford,Brighton,Home Win,0.42965922,0.25012967,0.3202111
-2026-02-21,15:00,27,Premier League,Chelsea,Burnley,Home Win,0.6122387,0.21601264,0.17174861
-2026-02-21,15:00,27,Premier League,Nott'm Forest,Liverpool,Away Win,0.23337962,0.23340826,0.5332121
-2026-02-21,17:30,27,Premier League,West Ham,Bournemouth,Away Win,0.32810488,0.2493875,0.42250755
-2026-02-22,14:00,27,Premier League,Sunderland,Fulham,Away Win,0.33815438,0.2503728,0.41147286
-2026-02-22,16:30,27,Premier League,Tottenham,Arsenal,Away Win,0.22446936,0.23043306,0.5450976
-2026-02-23,20:00,27,Premier League,Everton,Manchester Utd,Home Win,0.41419896,0.25072554,0.33507553
-2026-02-27,20:00,28,Premier League,Wolves,Aston Villa,Away Win,0.24093206,0.23542203,0.5236459
-2026-02-28,12:30,28,Premier League,Bournemouth,Sunderland,Away Win,0.3522509,0.25097078,0.39677826
-2026-02-28,15:00,28,Premier League,Brighton,Nott'm Forest,Home Win,0.5107751,0.2412092,0.24801569
-2026-02-28,15:00,28,Premier League,Burnley,Brentford,Away Win,0.26840335,0.24133419,0.49026242
-2026-02-28,15:00,28,Premier League,Liverpool,West Ham,Home Win,0.6372015,0.20790456,0.15489393
-2026-02-28,15:00,28,Premier League,Manchester Utd,Crystal Palace,Home Win,0.51718235,0.2400332,0.24278446
-2026-02-28,15:00,28,Premier League,Newcastle,Everton,Away Win,0.36395708,0.25082695,0.38521594
-2026-02-28,17:30,28,Premier League,Leeds,Manchester City,Away Win,0.2290004,0.23184627,0.53915334
-2026-03-01,14:00,28,Premier League,Fulham,Tottenham,Home Win,0.48625985,0.24492683,0.26881328
-2026-03-01,16:30,28,Premier League,Arsenal,Chelsea,Home Win,0.61724466,0.21444148,0.16831386
-2026-03-04,20:00,29,Premier League,Bournemouth,Brentford,Away Win,0.30106395,0.24679646,0.4521396
-2026-03-04,20:00,29,Premier League,Aston Villa,Chelsea,Home Win,0.58893925,0.22301033,0.18805043
-2026-03-04,20:00,29,Premier League,Brighton,Arsenal,Away Win,0.22343187,0.23012526,0.5464428
-2026-03-04,20:00,29,Premier League,Everton,Burnley,Home Win,0.6077821,0.21739177,0.17482603
-2026-03-04,20:00,29,Premier League,Fulham,West Ham,Home Win,0.5712908,0.22794472,0.2007645
-2026-03-04,20:00,29,Premier League,Leeds,Sunderland,Home Win,0.37782943,0.25154114,0.37062946
-2026-03-04,20:00,29,Premier League,Manchester City,Nott'm Forest,Home Win,0.70571655,0.18237233,0.111911125
-2026-03-04,20:00,29,Premier League,Newcastle,Manchester Utd,Away Win,0.3615922,0.25089172,0.38751614
-2026-03-04,20:00,29,Premier League,Tottenham,Crystal Palace,Away Win,0.37369063,0.25133818,0.37497118
-2026-03-04,20:00,29,Premier League,Wolves,Liverpool,Away Win,0.2383329,0.23484467,0.5268224
-2026-03-14,15:00,30,Premier League,Sunderland,Brighton,Away Win,0.35024408,0.25111187,0.3986441
-2026-03-14,15:00,30,Premier League,Crystal Palace,Leeds,Home Win,0.4768407,0.24622896,0.2769304
-2026-03-14,15:00,30,Premier League,Arsenal,Everton,Home Win,0.6294445,0.21049635,0.16005918
-2026-03-14,15:00,30,Premier League,Brentford,Wolves,Home Win,0.62682503,0.21135496,0.16182
-2026-03-14,15:00,30,Premier League,Burnley,Bournemouth,Away Win,0.3247443,0.2491677,0.42608798
-2026-03-14,15:00,30,Premier League,Chelsea,Newcastle,Home Win,0.48110142,0.24536361,0.27353498
-2026-03-14,15:00,30,Premier League,Liverpool,Tottenham,Home Win,0.5812122,0.22520751,0.19358027
-2026-03-14,15:00,30,Premier League,Manchester Utd,Aston Villa,Away Win,0.24979651,0.2376003,0.5126032
-2026-03-14,15:00,30,Premier League,Nott'm Forest,Fulham,Away Win,0.27898017,0.24313678,0.47788304
-2026-03-14,15:00,30,Premier League,West Ham,Manchester City,Away Win,0.24051663,0.23523115,0.52425224
-2026-03-21,15:00,31,Premier League,Bournemouth,Manchester Utd,Away Win,0.2815726,0.24388368,0.47454372
-2026-03-21,15:00,31,Premier League,Aston Villa,West Ham,Home Win,0.69609845,0.1862513,0.117650226
-2026-03-21,15:00,31,Premier League,Brighton,Liverpool,Away Win,0.27064523,0.241494,0.4878608
-2026-03-21,15:00,31,Premier League,Everton,Chelsea,Home Win,0.3869985,0.25128457,0.36171696
-2026-03-21,15:00,31,Premier League,Fulham,Burnley,Home Win,0.580432,0.22542864,0.1941394
-2026-03-21,15:00,31,Premier League,Leeds,Brentford,Away Win,0.31625536,0.24851434,0.43523026
-2026-03-21,15:00,31,Premier League,Manchester City,Crystal Palace,Home Win,0.6664564,0.19760223,0.13594131
-2026-03-21,15:00,31,Premier League,Newcastle,Sunderland,Home Win,0.48005638,0.24544993,0.27449366
-2026-03-21,15:00,31,Premier League,Tottenham,Nott'm Forest,Home Win,0.4746442,0.2463877,0.27896807
-2026-03-21,15:00,31,Premier League,Wolves,Arsenal,Away Win,0.2277389,0.23142248,0.5408386
-2026-04-11,14:00,32,Premier League,Sunderland,Tottenham,Home Win,0.4100193,0.2514597,0.33852097
-2026-04-11,14:00,32,Premier League,Crystal Palace,Newcastle,Away Win,0.36316183,0.25135732,0.38548085
-2026-04-11,14:00,32,Premier League,Arsenal,Bournemouth,Home Win,0.6938938,0.187129,0.118977174
-2026-04-11,14:00,32,Premier League,Brentford,Everton,Home Win,0.3822192,0.25124243,0.36653844
-2026-04-11,14:00,32,Premier League,Burnley,Brighton,Away Win,0.2738414,0.2423226,0.483836
-2026-04-11,14:00,32,Premier League,Chelsea,Manchester City,Away Win,0.2466288,0.23689945,0.51647174
-2026-04-11,14:00,32,Premier League,Liverpool,Fulham,Home Win,0.5201572,0.23957564,0.24026714
-2026-04-11,14:00,32,Premier League,Manchester Utd,Leeds,Home Win,0.55853903,0.23131473,0.21014619
-2026-04-11,14:00,32,Premier League,Nott'm Forest,Aston Villa,Away Win,0.23154671,0.23269413,0.53575915
-2026-04-11,14:00,32,Premier League,West Ham,Wolves,Home Win,0.46309352,0.2475194,0.2893871
-2026-04-18,14:00,33,Premier League,Newcastle,Bournemouth,Home Win,0.51003736,0.2412554,0.2487072
-2026-04-18,14:00,33,Premier League,Nott'm Forest,Burnley,Home Win,0.45848596,0.2478288,0.29368523
-2026-04-18,14:00,33,Premier League,Tottenham,Brighton,Away Win,0.35157472,0.25086346,0.39756182
-2026-04-18,14:00,33,Premier League,Aston Villa,Sunderland,Home Win,0.65837103,0.20053564,0.14109331
-2026-04-18,14:00,33,Premier League,Crystal Palace,West Ham,Home Win,0.52813315,0.23818254,0.23368427
-2026-04-18,14:00,33,Premier League,Brentford,Fulham,Home Win,0.41077068,0.25083557,0.3383937
-2026-04-18,14:00,33,Premier League,Chelsea,Manchester Utd,Home Win,0.45078886,0.24849023,0.30072093
-2026-04-18,14:00,33,Premier League,Everton,Liverpool,Away Win,0.33592913,0.2495911,0.4144798
-2026-04-18,14:00,33,Premier League,Leeds,Wolves,Home Win,0.55436397,0.2323608,0.2132752
-2026-04-18,14:00,33,Premier League,Manchester City,Arsenal,Home Win,0.43194515,0.2503525,0.31770235
-2026-04-25,14:00,34,Premier League,Bournemouth,Leeds,Home Win,0.4071681,0.25167066,0.3411612
-2026-04-25,14:00,34,Premier League,Sunderland,Nott'm Forest,Home Win,0.47029498,0.24717683,0.2825282
-2026-04-25,14:00,34,Premier League,Brighton,Chelsea,Away Win,0.32600158,0.24890894,0.42508945
-2026-04-25,14:00,34,Premier League,Arsenal,Newcastle,Home Win,0.6486424,0.20398101,0.14737654
-2026-04-25,14:00,34,Premier League,Burnley,Manchester City,Away Win,0.24085261,0.23522623,0.52392113
-2026-04-25,14:00,34,Premier League,Fulham,Aston Villa,Away Win,0.24968687,0.2375073,0.5128058
-2026-04-25,14:00,34,Premier League,Liverpool,Crystal Palace,Home Win,0.5752258,0.22687119,0.19790298
-2026-04-25,14:00,34,Premier League,Manchester Utd,Brentford,Home Win,0.47917226,0.24575,0.27507773
-2026-04-25,14:00,34,Premier League,West Ham,Everton,Away Win,0.2665451,0.24114144,0.49231347
-2026-04-25,14:00,34,Premier League,Wolves,Tottenham,Away Win,0.28538993,0.24429636,0.4703137
-2026-05-02,14:00,35,Premier League,Bournemouth,Crystal Palace,Away Win,0.31779152,0.24850224,0.43370625
-2026-05-02,14:00,35,Premier League,Aston Villa,Tottenham,Home Win,0.651849,0.2028552,0.14529587
-2026-05-02,14:00,35,Premier League,Arsenal,Fulham,Home Win,0.65330243,0.20234749,0.14435013
-2026-05-02,14:00,35,Premier League,Brentford,West Ham,Home Win,0.569628,0.22839534,0.20197661
-2026-05-02,14:00,35,Premier League,Chelsea,Nott'm Forest,Home Win,0.5799896,0.22555217,0.19445822
-2026-05-02,14:00,35,Premier League,Everton,Manchester City,Away Win,0.25270426,0.23813647,0.5091592
-2026-05-02,14:00,35,Premier League,Leeds,Burnley,Home Win,0.51479423,0.24060415,0.24460164
-2026-05-02,14:00,35,Premier League,Manchester Utd,Liverpool,Away Win,0.35799035,0.2510856,0.39092404
-2026-05-02,14:00,35,Premier League,Newcastle,Brighton,Home Win,0.4246343,0.25044948,0.3249162
-2026-05-02,14:00,35,Premier League,Wolves,Sunderland,Away Win,0.27848595,0.24321063,0.47830346
-2026-05-09,14:00,36,Premier League,Sunderland,Manchester Utd,Away Win,0.31616616,0.2483774,0.43545637
-2026-05-09,14:00,36,Premier League,Brighton,Wolves,Home Win,0.60283494,0.21890745,0.17825761
-2026-05-09,14:00,36,Premier League,Crystal Palace,Everton,Away Win,0.3273887,0.2491514,0.42345992
-2026-05-09,14:00,36,Premier League,Burnley,Aston Villa,Away Win,0.24001388,0.23515056,0.5248355
-2026-05-09,14:00,36,Premier League,Fulham,Bournemouth,Home Win,0.51022714,0.24122588,0.24854697
-2026-05-09,14:00,36,Premier League,Liverpool,Chelsea,Home Win,0.46876228,0.24688265,0.2843551
-2026-05-09,14:00,36,Premier League,Manchester City,Brentford,Home Win,0.6440049,0.20559146,0.15040371
-2026-05-09,14:00,36,Premier League,Nott'm Forest,Newcastle,Away Win,0.29125413,0.24508744,0.4636584
-2026-05-09,14:00,36,Premier League,Tottenham,Leeds,Home Win,0.4582689,0.24817736,0.29355377
-2026-05-09,14:00,36,Premier League,West Ham,Arsenal,Away Win,0.22573994,0.23088297,0.54337704
-2026-05-17,14:00,37,Premier League,Bournemouth,Manchester City,Away Win,0.24241872,0.23592387,0.5216574
-2026-05-17,14:00,37,Premier League,Aston Villa,Liverpool,Home Win,0.5619505,0.23043716,0.20761238
-2026-05-17,14:00,37,Premier League,Arsenal,Burnley,Home Win,0.7342891,0.17025238,0.0954585
-2026-05-17,14:00,37,Premier League,Brentford,Crystal Palace,Home Win,0.45131415,0.24842404,0.30026186
-2026-05-17,14:00,37,Premier League,Chelsea,Tottenham,Home Win,0.54367787,0.23482072,0.22150141
-2026-05-17,14:00,37,Premier League,Everton,Sunderland,Home Win,0.5349041,0.23666224,0.22843364
-2026-05-17,14:00,37,Premier League,Leeds,Brighton,Away Win,0.3279227,0.24948008,0.42259717
-2026-05-17,14:00,37,Premier League,Manchester Utd,Nott'm Forest,Home Win,0.57701623,0.2263777,0.1966061
-2026-05-17,14:00,37,Premier League,Newcastle,West Ham,Home Win,0.56481445,0.22967876,0.20550686
-2026-05-17,14:00,37,Premier League,Wolves,Fulham,Away Win,0.26693192,0.24123046,0.49183762
-2026-05-24,15:00,38,Premier League,Sunderland,Chelsea,Away Win,0.30532467,0.24723828,0.44743702
-2026-05-24,15:00,38,Premier League,Brighton,Manchester Utd,Away Win,0.35319698,0.25064456,0.39615846
-2026-05-24,15:00,38,Premier League,Crystal Palace,Arsenal,Away Win,0.22421473,0.2303124,0.54547286
-2026-05-24,15:00,38,Premier League,Burnley,Wolves,Home Win,0.43635535,0.24991485,0.31372973
-2026-05-24,15:00,38,Premier League,Fulham,Newcastle,Home Win,0.4095478,0.251125,0.33932716
-2026-05-24,15:00,38,Premier League,Liverpool,Brentford,Home Win,0.5409851,0.23549101,0.22352383
-2026-05-24,15:00,38,Premier League,Manchester City,Aston Villa,Home Win,0.47501332,0.24598911,0.27899754
-2026-05-24,15:00,38,Premier League,Nott'm Forest,Bournemouth,Home Win,0.3771517,0.25138742,0.3714609
-2026-05-24,15:00,38,Premier League,Tottenham,Everton,Away Win,0.29395017,0.24536079,0.46068904
-2026-05-24,15:00,38,Premier League,West Ham,Leeds,Away Win,0.34418988,0.25082985,0.40498024
-2026-01-08,17:30,19,Serie A,Cremonese,Cagliari,Home Win,0.4453827,0.2493806,0.30523667
-2026-01-08,19:45,19,Serie A,Milan,Genoa,Home Win,0.7053983,0.1825019,0.112099744
-2026-01-10,14:00,20,Serie A,Como,Bologna,Home Win,0.525329,0.23855473,0.23611629
-2026-01-10,14:00,20,Serie A,Udinese,Pisa,Home Win,0.47442675,0.24660094,0.2789723
-2026-01-10,17:00,20,Serie A,Roma,Sassuolo,Home Win,0.60504127,0.2182319,0.17672686
-2026-01-10,19:45,20,Serie A,Atalanta,Torino,Home Win,0.49479523,0.24375996,0.26144484
-2026-01-11,11:30,20,Serie A,Lecce,Parma,Home Win,0.37412792,0.25199804,0.37387404
-2026-01-11,14:00,20,Serie A,Fiorentina,Milan,Away Win,0.22438407,0.2303425,0.54527336
-2026-01-11,17:00,20,Serie A,Verona,Lazio,Away Win,0.27257848,0.24215786,0.48526365
-2026-01-11,19:45,20,Serie A,Milan,Napoli,Home Win,0.50024897,0.24301322,0.2567378
+2026-01-17,12:30,22,Premier League,Manchester Utd,Manchester City,Away Win,0.24088635,0.23527102,0.52384263
+2026-01-17,15:00,22,Premier League,Sunderland,Crystal Palace,Home Win,0.44781333,0.24925117,0.30293542
+2026-01-17,15:00,22,Premier League,Chelsea,Brentford,Home Win,0.4069914,0.25087482,0.3421338
+2026-01-17,15:00,22,Premier League,Liverpool,Burnley,Home Win,0.6512939,0.20305046,0.14565563
+2026-01-17,15:00,22,Premier League,Leeds,Fulham,Away Win,0.30591848,0.24725084,0.44683072
+2026-01-17,15:00,22,Premier League,Tottenham,West Ham,Home Win,0.5413816,0.23531309,0.22330537
+2026-01-17,17:30,22,Premier League,Nott'm Forest,Arsenal,Away Win,0.21781883,0.2281255,0.5540557
+2026-01-18,14:00,22,Premier League,Wolves,Newcastle,Away Win,0.26907757,0.2415751,0.48934737
+2026-01-18,16:30,22,Premier League,Aston Villa,Everton,Home Win,0.61888343,0.21391723,0.1671993
+2026-01-19,20:00,22,Premier League,Brighton,Bournemouth,Home Win,0.54109836,0.23542075,0.22348087
+2026-01-24,12:30,23,Premier League,West Ham,Sunderland,Away Win,0.2973762,0.24609931,0.45652452
+2026-01-24,15:00,23,Premier League,Burnley,Tottenham,Away Win,0.29532135,0.2457778,0.45890084
+2026-01-24,15:00,23,Premier League,Fulham,Brighton,Home Win,0.40854827,0.25120854,0.34024322
+2026-01-24,15:00,23,Premier League,Manchester City,Wolves,Home Win,0.73437244,0.17021595,0.09541158
+2026-01-24,17:30,23,Premier League,Bournemouth,Liverpool,Away Win,0.24336734,0.2364143,0.5202183
+2026-01-25,14:00,23,Premier League,Crystal Palace,Chelsea,Away Win,0.2789362,0.24347737,0.47758636
+2026-01-25,14:00,23,Premier League,Brentford,Nott'm Forest,Home Win,0.6022653,0.21907441,0.17866027
+2026-01-25,14:00,23,Premier League,Newcastle,Aston Villa,Away Win,0.26261052,0.23995239,0.4974371
+2026-01-25,16:30,23,Premier League,Arsenal,Manchester Utd,Home Win,0.62708336,0.21126795,0.16164865
+2026-01-26,20:00,23,Premier League,Everton,Leeds,Home Win,0.488083,0.24470286,0.26721412
+2026-01-31,15:00,24,Premier League,Brighton,Everton,Home Win,0.41882232,0.25044385,0.3307338
+2026-01-31,15:00,24,Premier League,Leeds,Arsenal,Away Win,0.21870959,0.22849178,0.5527986
+2026-01-31,15:00,24,Premier League,Wolves,Bournemouth,Away Win,0.3433167,0.25061262,0.40607074
+2026-01-31,17:30,24,Premier League,Chelsea,West Ham,Home Win,0.6216937,0.2130189,0.16528746
+2026-01-31,20:00,24,Premier League,Liverpool,Newcastle,Home Win,0.499294,0.2430229,0.25768307
+2026-02-01,14:00,24,Premier League,Aston Villa,Brentford,Home Win,0.56591225,0.22938046,0.2047073
+2026-02-01,14:00,24,Premier League,Manchester Utd,Fulham,Home Win,0.44774085,0.24881132,0.3034478
+2026-02-01,14:00,24,Premier League,Nott'm Forest,Crystal Palace,Away Win,0.32983235,0.2492083,0.42095935
+2026-02-01,16:30,24,Premier League,Tottenham,Manchester City,Away Win,0.23108107,0.23239727,0.5365217
+2026-02-02,20:00,24,Premier League,Sunderland,Burnley,Home Win,0.55023724,0.23342387,0.21633892
+2026-02-06,20:00,25,Premier League,Leeds,Nott'm Forest,Home Win,0.4454715,0.24939322,0.30513528
+2026-02-07,12:30,25,Premier League,Manchester Utd,Tottenham,Home Win,0.5147578,0.24048704,0.24475521
+2026-02-07,15:00,25,Premier League,Bournemouth,Aston Villa,Away Win,0.23486376,0.23370571,0.53143054
+2026-02-07,15:00,25,Premier League,Arsenal,Sunderland,Home Win,0.6756166,0.1941929,0.13019046
+2026-02-07,15:00,25,Premier League,Burnley,West Ham,Away Win,0.36989516,0.25171965,0.37838525
+2026-02-07,15:00,25,Premier League,Fulham,Everton,Home Win,0.42261583,0.25040314,0.326981
+2026-02-07,15:00,25,Premier League,Wolves,Chelsea,Away Win,0.2642732,0.24080834,0.49491844
+2026-02-07,17:30,25,Premier League,Newcastle,Brentford,Home Win,0.40548065,0.2508768,0.3436425
+2026-02-08,14:00,25,Premier League,Brighton,Crystal Palace,Home Win,0.49688864,0.24322616,0.2598852
+2026-02-08,16:30,25,Premier League,Liverpool,Manchester City,Away Win,0.27870324,0.24357486,0.47772193
+2026-02-10,19:30,26,Premier League,Chelsea,Leeds,Home Win,0.5601608,0.23089863,0.20894055
+2026-02-10,19:30,26,Premier League,Everton,Bournemouth,Home Win,0.5159708,0.24040528,0.24362384
+2026-02-10,19:30,26,Premier League,Tottenham,Newcastle,Away Win,0.29827213,0.24617912,0.45554876
+2026-02-10,20:15,26,Premier League,West Ham,Manchester Utd,Away Win,0.26271123,0.24040142,0.49688736
+2026-02-11,19:30,26,Premier League,Aston Villa,Brighton,Home Win,0.6099603,0.21672063,0.17331906
+2026-02-11,19:30,26,Premier League,Crystal Palace,Burnley,Home Win,0.5130889,0.24092627,0.24598478
+2026-02-11,19:30,26,Premier League,Manchester City,Fulham,Home Win,0.6349938,0.2086548,0.15635139
+2026-02-11,19:30,26,Premier League,Nott'm Forest,Wolves,Home Win,0.4757442,0.24585877,0.27839708
+2026-02-11,20:15,26,Premier League,Sunderland,Liverpool,Away Win,0.2784579,0.24336796,0.47817415
+2026-02-12,20:00,26,Premier League,Brentford,Arsenal,Away Win,0.27927372,0.24333304,0.47739324
+2026-02-21,12:30,27,Premier League,Manchester City,Newcastle,Home Win,0.6092118,0.21695445,0.1738337
+2026-02-21,15:00,27,Premier League,Aston Villa,Leeds,Home Win,0.6507844,0.20323132,0.1459843
+2026-02-21,15:00,27,Premier League,Crystal Palace,Wolves,Home Win,0.51991737,0.23960568,0.240477
+2026-02-21,15:00,27,Premier League,Brentford,Brighton,Home Win,0.49824205,0.24332842,0.25842953
+2026-02-21,15:00,27,Premier League,Chelsea,Burnley,Home Win,0.61824286,0.21412325,0.16763388
+2026-02-21,15:00,27,Premier League,Nott'm Forest,Liverpool,Away Win,0.23013707,0.2325367,0.5373262
+2026-02-21,17:30,27,Premier League,West Ham,Bournemouth,Away Win,0.34625036,0.250702,0.40304768
+2026-02-22,14:00,27,Premier League,Sunderland,Fulham,Away Win,0.35678837,0.2514755,0.39173612
+2026-02-22,16:30,27,Premier League,Tottenham,Arsenal,Away Win,0.22717178,0.23117982,0.5416484
+2026-02-23,20:00,27,Premier League,Everton,Manchester Utd,Away Win,0.34241554,0.25016809,0.4074164
+2026-02-27,20:00,28,Premier League,Wolves,Aston Villa,Away Win,0.2313785,0.2325639,0.5360576
+2026-02-28,12:30,28,Premier League,Bournemouth,Sunderland,Away Win,0.34418768,0.2507058,0.40510657
+2026-02-28,15:00,28,Premier League,Brighton,Nott'm Forest,Home Win,0.5379877,0.23604928,0.22596303
+2026-02-28,15:00,28,Premier League,Burnley,Brentford,Away Win,0.27386415,0.24269989,0.48343596
+2026-02-28,15:00,28,Premier League,Liverpool,West Ham,Home Win,0.6542527,0.20200497,0.14374232
+2026-02-28,15:00,28,Premier League,Manchester Utd,Crystal Palace,Home Win,0.5310725,0.23742951,0.23149799
+2026-02-28,15:00,28,Premier League,Newcastle,Everton,Home Win,0.49072486,0.24414325,0.2651319
+2026-02-28,17:30,28,Premier League,Leeds,Manchester City,Away Win,0.21967982,0.22892228,0.5513979
+2026-03-01,14:00,28,Premier League,Fulham,Tottenham,Home Win,0.4819541,0.24540327,0.27264258
+2026-03-01,16:30,28,Premier League,Arsenal,Chelsea,Home Win,0.60980004,0.21676962,0.17343037
+2026-03-04,20:00,29,Premier League,Bournemouth,Brentford,Away Win,0.27475622,0.24299195,0.48225176
+2026-03-04,20:00,29,Premier League,Aston Villa,Chelsea,Home Win,0.5546767,0.23210289,0.2132204
+2026-03-04,20:00,29,Premier League,Brighton,Arsenal,Away Win,0.22249329,0.22980514,0.54770154
+2026-03-04,20:00,29,Premier League,Everton,Burnley,Home Win,0.56315887,0.23011523,0.20672593
+2026-03-04,20:00,29,Premier League,Fulham,West Ham,Home Win,0.59293723,0.22184849,0.18521424
+2026-03-04,20:00,29,Premier League,Leeds,Sunderland,Away Win,0.37148684,0.251393,0.37712017
+2026-03-04,20:00,29,Premier League,Manchester City,Nott'm Forest,Home Win,0.70788026,0.18148513,0.11063462
+2026-03-04,20:00,29,Premier League,Newcastle,Manchester Utd,Home Win,0.4356787,0.2495596,0.31476176
+2026-03-04,20:00,29,Premier League,Tottenham,Crystal Palace,Home Win,0.4246809,0.25048834,0.3248308
+2026-03-04,20:00,29,Premier League,Wolves,Liverpool,Away Win,0.23700422,0.2344169,0.5285789
+2026-03-14,15:00,30,Premier League,Sunderland,Brighton,Away Win,0.36347705,0.25172198,0.384801
+2026-03-14,15:00,30,Premier League,Crystal Palace,Leeds,Home Win,0.42506495,0.2507483,0.32418668
+2026-03-14,15:00,30,Premier League,Arsenal,Everton,Home Win,0.66739845,0.19725522,0.13534635
+2026-03-14,15:00,30,Premier League,Brentford,Wolves,Home Win,0.6388849,0.20733926,0.15377583
+2026-03-14,15:00,30,Premier League,Burnley,Bournemouth,Away Win,0.33273587,0.2500497,0.41721445
+2026-03-14,15:00,30,Premier League,Chelsea,Newcastle,Home Win,0.42926612,0.24996969,0.3207642
+2026-03-14,15:00,30,Premier League,Liverpool,Tottenham,Home Win,0.57800037,0.22610356,0.19589612
+2026-03-14,15:00,30,Premier League,Manchester Utd,Aston Villa,Away Win,0.26187456,0.24006498,0.49806046
+2026-03-14,15:00,30,Premier League,Nott'm Forest,Fulham,Away Win,0.28449094,0.24418518,0.4713239
+2026-03-14,15:00,30,Premier League,West Ham,Manchester City,Away Win,0.23036063,0.23235804,0.5372813
+2026-03-21,15:00,31,Premier League,Bournemouth,Manchester Utd,Away Win,0.27807188,0.24342166,0.47850645
+2026-03-21,15:00,31,Premier League,Aston Villa,West Ham,Home Win,0.7026844,0.18360683,0.11370879
+2026-03-21,15:00,31,Premier League,Brighton,Liverpool,Away Win,0.28155854,0.2431333,0.47530818
+2026-03-21,15:00,31,Premier League,Everton,Chelsea,Away Win,0.3150405,0.24810939,0.43685007
+2026-03-21,15:00,31,Premier League,Fulham,Burnley,Home Win,0.58980876,0.22275917,0.18743208
+2026-03-21,15:00,31,Premier League,Leeds,Brentford,Away Win,0.2722561,0.24208215,0.48566177
+2026-03-21,15:00,31,Premier League,Manchester City,Crystal Palace,Home Win,0.68119717,0.19207175,0.12673108
+2026-03-21,15:00,31,Premier League,Newcastle,Sunderland,Home Win,0.53303623,0.23698844,0.22997533
+2026-03-21,15:00,31,Premier League,Tottenham,Nott'm Forest,Home Win,0.47664002,0.24618915,0.27717084
+2026-03-21,15:00,31,Premier League,Wolves,Arsenal,Away Win,0.22524732,0.2306469,0.54410577
+2026-04-11,14:00,32,Premier League,Sunderland,Tottenham,Home Win,0.42442447,0.25084603,0.32472947
+2026-04-11,14:00,32,Premier League,Crystal Palace,Newcastle,Away Win,0.29043493,0.24520472,0.4643603
+2026-04-11,14:00,32,Premier League,Arsenal,Bournemouth,Home Win,0.7088142,0.18110156,0.110084236
+2026-04-11,14:00,32,Premier League,Brentford,Everton,Home Win,0.5164664,0.24024358,0.24329007
+2026-04-11,14:00,32,Premier League,Burnley,Brighton,Away Win,0.26324382,0.24040641,0.49634975
+2026-04-11,14:00,32,Premier League,Chelsea,Manchester City,Away Win,0.24146579,0.23554409,0.5229901
+2026-04-11,14:00,32,Premier League,Liverpool,Fulham,Home Win,0.52798843,0.23819192,0.23381966
+2026-04-11,14:00,32,Premier League,Manchester Utd,Leeds,Home Win,0.5441662,0.23480041,0.2210334
+2026-04-11,14:00,32,Premier League,Nott'm Forest,Aston Villa,Away Win,0.2211167,0.22939058,0.5494928
+2026-04-11,14:00,32,Premier League,West Ham,Wolves,Home Win,0.38624334,0.25164658,0.3621101
+2026-04-18,14:00,33,Premier League,Newcastle,Bournemouth,Home Win,0.5758508,0.2267004,0.19744885
+2026-04-18,14:00,33,Premier League,Nott'm Forest,Burnley,Home Win,0.45877877,0.247796,0.29342523
+2026-04-18,14:00,33,Premier League,Tottenham,Brighton,Away Win,0.31976297,0.24870688,0.43153015
+2026-04-18,14:00,33,Premier League,Aston Villa,Sunderland,Home Win,0.6278968,0.21100284,0.16110042
+2026-04-18,14:00,33,Premier League,Crystal Palace,West Ham,Home Win,0.51640445,0.24030627,0.24328926
+2026-04-18,14:00,33,Premier League,Brentford,Fulham,Home Win,0.49013713,0.24441472,0.26544818
+2026-04-18,14:00,33,Premier League,Chelsea,Manchester Utd,Home Win,0.45961675,0.24775475,0.2926285
+2026-04-18,14:00,33,Premier League,Everton,Liverpool,Away Win,0.26849052,0.24123393,0.49027556
+2026-04-18,14:00,33,Premier League,Leeds,Wolves,Home Win,0.516494,0.24026768,0.24323836
+2026-04-18,14:00,33,Premier League,Manchester City,Arsenal,Home Win,0.4141465,0.2512904,0.3345631
+2026-04-25,14:00,34,Premier League,Bournemouth,Leeds,Home Win,0.38498077,0.25210792,0.3629113
+2026-04-25,14:00,34,Premier League,Sunderland,Nott'm Forest,Home Win,0.50465685,0.2425038,0.25283933
+2026-04-25,14:00,34,Premier League,Brighton,Chelsea,Away Win,0.34470847,0.25026926,0.40502226
+2026-04-25,14:00,34,Premier League,Arsenal,Newcastle,Home Win,0.6298606,0.2103579,0.15978149
+2026-04-25,14:00,34,Premier League,Burnley,Manchester City,Away Win,0.2351433,0.2337411,0.5311156
+2026-04-25,14:00,34,Premier League,Fulham,Aston Villa,Away Win,0.2546638,0.2384587,0.50687754
+2026-04-25,14:00,34,Premier League,Liverpool,Crystal Palace,Home Win,0.5920235,0.22211203,0.18586448
+2026-04-25,14:00,34,Premier League,Manchester Utd,Brentford,Home Win,0.3798426,0.2512237,0.36893365
+2026-04-25,14:00,34,Premier League,West Ham,Everton,Away Win,0.27354282,0.24222451,0.48423263
+2026-04-25,14:00,34,Premier League,Wolves,Tottenham,Away Win,0.29957506,0.24623713,0.45418778
+2026-05-02,14:00,35,Premier League,Bournemouth,Crystal Palace,Away Win,0.35826305,0.2514229,0.39031407
+2026-05-02,14:00,35,Premier League,Aston Villa,Tottenham,Home Win,0.63291216,0.20934361,0.15774423
+2026-05-02,14:00,35,Premier League,Arsenal,Fulham,Home Win,0.6520347,0.20279549,0.14516978
+2026-05-02,14:00,35,Premier League,Brentford,West Ham,Home Win,0.63635,0.20819426,0.15545578
+2026-05-02,14:00,35,Premier League,Chelsea,Nott'm Forest,Home Win,0.5800382,0.22554114,0.19442064
+2026-05-02,14:00,35,Premier League,Everton,Manchester City,Away Win,0.22837636,0.23171832,0.53990537
+2026-05-02,14:00,35,Premier League,Leeds,Burnley,Home Win,0.5095666,0.24156171,0.24887168
+2026-05-02,14:00,35,Premier League,Manchester Utd,Liverpool,Away Win,0.33777213,0.24985275,0.41237512
+2026-05-02,14:00,35,Premier League,Newcastle,Brighton,Home Win,0.4728629,0.24654964,0.28058746
+2026-05-02,14:00,35,Premier League,Wolves,Sunderland,Away Win,0.30462986,0.24705371,0.44831645
+2026-05-09,14:00,36,Premier League,Sunderland,Manchester Utd,Away Win,0.3423452,0.2506371,0.40701774
+2026-05-09,14:00,36,Premier League,Brighton,Wolves,Home Win,0.5890194,0.22298856,0.18799199
+2026-05-09,14:00,36,Premier League,Crystal Palace,Everton,Away Win,0.31912112,0.24849065,0.43238825
+2026-05-09,14:00,36,Premier League,Burnley,Aston Villa,Away Win,0.2344085,0.23345692,0.5321346
+2026-05-09,14:00,36,Premier League,Fulham,Bournemouth,Home Win,0.54253286,0.23516798,0.22229916
+2026-05-09,14:00,36,Premier League,Liverpool,Chelsea,Home Win,0.47435617,0.24612029,0.27952355
+2026-05-09,14:00,36,Premier League,Manchester City,Brentford,Home Win,0.60085577,0.21950032,0.17964397
+2026-05-09,14:00,36,Premier League,Nott'm Forest,Newcastle,Away Win,0.2736987,0.2423778,0.48392352
+2026-05-09,14:00,36,Premier League,Tottenham,Leeds,Home Win,0.44747686,0.24911387,0.30340925
+2026-05-09,14:00,36,Premier League,West Ham,Arsenal,Away Win,0.22473226,0.23051073,0.544757
+2026-05-17,14:00,37,Premier League,Bournemouth,Manchester City,Away Win,0.23512359,0.23392095,0.53095543
+2026-05-17,14:00,37,Premier League,Aston Villa,Liverpool,Home Win,0.53959274,0.23574123,0.22466606
+2026-05-17,14:00,37,Premier League,Arsenal,Burnley,Home Win,0.7399857,0.16772813,0.09228616
+2026-05-17,14:00,37,Premier League,Brentford,Crystal Palace,Home Win,0.56102365,0.23067258,0.20830376
+2026-05-17,14:00,37,Premier League,Chelsea,Tottenham,Home Win,0.53448075,0.23674417,0.22877505
+2026-05-17,14:00,37,Premier League,Everton,Sunderland,Home Win,0.44820595,0.24873696,0.30305707
+2026-05-17,14:00,37,Premier League,Leeds,Brighton,Away Win,0.30865675,0.24765752,0.44368574
+2026-05-17,14:00,37,Premier League,Manchester Utd,Nott'm Forest,Home Win,0.5678745,0.22886494,0.20326056
+2026-05-17,14:00,37,Premier League,Newcastle,West Ham,Home Win,0.62354016,0.21242121,0.1640386
+2026-05-17,14:00,37,Premier League,Wolves,Fulham,Away Win,0.27708748,0.24298944,0.4799231
+2026-05-24,15:00,38,Premier League,Sunderland,Chelsea,Away Win,0.33402953,0.25013116,0.41583928
+2026-05-24,15:00,38,Premier League,Brighton,Manchester Utd,Away Win,0.37311992,0.25118914,0.3756909
+2026-05-24,15:00,38,Premier League,Crystal Palace,Arsenal,Away Win,0.22610971,0.2309338,0.54295653
+2026-05-24,15:00,38,Premier League,Burnley,Wolves,Home Win,0.3784968,0.25176442,0.36973873
+2026-05-24,15:00,38,Premier League,Fulham,Newcastle,Home Win,0.37793177,0.25150594,0.37056223
+2026-05-24,15:00,38,Premier League,Liverpool,Brentford,Home Win,0.46997887,0.2467121,0.28330904
+2026-05-24,15:00,38,Premier League,Manchester City,Aston Villa,Home Win,0.48942927,0.24454544,0.26602525
+2026-05-24,15:00,38,Premier League,Nott'm Forest,Bournemouth,Home Win,0.39277774,0.25155076,0.35567153
+2026-05-24,15:00,38,Premier League,Tottenham,Everton,Away Win,0.34380776,0.2502914,0.4059009
+2026-05-24,15:00,38,Premier League,West Ham,Leeds,Away Win,0.32719415,0.2493146,0.42349124
+2026-01-10,14:00,20,Serie A,Como,Bologna,Home Win,0.5600373,0.23092565,0.20903705
+2026-01-10,14:00,20,Serie A,Udinese,Pisa,Home Win,0.436098,0.2501151,0.3137869
+2026-01-10,17:00,20,Serie A,Roma,Sassuolo,Home Win,0.5752976,0.22685203,0.19785039
+2026-01-10,19:45,20,Serie A,Atalanta,Torino,Home Win,0.49411026,0.24382402,0.26206577
+2026-01-11,11:30,20,Serie A,Lecce,Parma,Home Win,0.39177456,0.2519191,0.35630628
+2026-01-11,14:00,20,Serie A,Fiorentina,Milan,Away Win,0.2282799,0.23190014,0.53982
+2026-01-11,17:00,20,Serie A,Verona,Lazio,Away Win,0.2911175,0.24528144,0.4636011
+2026-01-11,19:45,20,Serie A,Inter,Napoli,Home Win,0.5008523,0.24267066,0.25647706
 2026-01-12,17:30,20,Serie A,Genoa,Cagliari,Away Win,0.37128103,0.25175375,0.3769652
-2026-01-12,19:45,20,Serie A,Juventus,Cremonese,Home Win,0.64615417,0.20484447,0.14900133
-2026-01-14,17:30,16,Serie A,Napoli,Parma,Home Win,0.64412653,0.20554812,0.15032536
-2026-01-14,19:45,16,Serie A,Milan,Lecce,Home Win,0.70270485,0.18359853,0.11369665
-2026-01-15,17:30,16,Serie A,Verona,Bologna,Away Win,0.2688401,0.24143949,0.48972034
-2026-01-15,19:45,16,Serie A,Como,Milan,Away Win,0.27973992,0.24334168,0.4769184
-2026-01-16,19:45,21,Serie A,Pisa,Atalanta,Away Win,0.28055087,0.2434573,0.4759918
-2026-01-17,14:00,21,Serie A,Udinese,Milan,Away Win,0.2176198,0.22804525,0.55433494
-2026-01-17,17:00,21,Serie A,Napoli,Sassuolo,Home Win,0.64175534,0.2063615,0.15188313
-2026-01-17,19:45,21,Serie A,Cagliari,Juventus,Away Win,0.2234368,0.23022269,0.54634047
-2026-01-18,11:30,21,Serie A,Parma,Genoa,Home Win,0.4399857,0.24980818,0.3102061
-2026-01-18,14:00,21,Serie A,Bologna,Fiorentina,Home Win,0.57380146,0.22726338,0.1989352
-2026-01-18,17:00,21,Serie A,Torino,Roma,Away Win,0.24596508,0.23643228,0.5176027
-2026-01-18,19:45,21,Serie A,Milan,Lecce,Home Win,0.70270485,0.18359853,0.11369665
-2026-01-19,17:30,21,Serie A,Cremonese,Verona,Home Win,0.48425373,0.24525866,0.27048767
-2026-01-19,19:45,21,Serie A,Lazio,Como,Away Win,0.29532385,0.24504595,0.45963025
-2026-01-23,19:45,22,Serie A,Milan,Pisa,Home Win,0.7142909,0.1788288,0.106880225
-2026-01-24,14:00,22,Serie A,Como,Torino,Home Win,0.61116475,0.21634667,0.17248851
-2026-01-24,17:00,22,Serie A,Fiorentina,Cagliari,Away Win,0.3682645,0.25161374,0.38012177
-2026-01-24,19:45,22,Serie A,Lecce,Lazio,Away Win,0.28435183,0.2442421,0.4714061
-2026-01-25,11:30,22,Serie A,Sassuolo,Cremonese,Home Win,0.41955683,0.2509111,0.32953203
-2026-01-25,14:00,22,Serie A,Atalanta,Parma,Home Win,0.49492753,0.24351177,0.2615607
-2026-01-25,14:00,22,Serie A,Genoa,Bologna,Away Win,0.27146888,0.24193054,0.48660058
-2026-01-25,17:00,22,Serie A,Juventus,Napoli,Home Win,0.42278782,0.25097233,0.32623985
-2026-01-25,19:45,22,Serie A,Roma,Milan,Away Win,0.33577403,0.24980396,0.41442204
-2026-01-26,19:45,22,Serie A,Verona,Udinese,Away Win,0.3519752,0.25081918,0.3972056
-2026-02-01,00:00,23,Serie A,Cagliari,Verona,Home Win,0.46191043,0.24783279,0.29025683
-2026-02-01,00:00,23,Serie A,Como,Atalanta,Home Win,0.57167333,0.2278412,0.20048553
-2026-02-01,00:00,23,Serie A,Bologna,Milan,Away Win,0.22991247,0.23214228,0.5379453
-2026-02-01,00:00,23,Serie A,Torino,Lecce,Home Win,0.45074555,0.24854332,0.30071113
-2026-02-01,00:00,23,Serie A,Lazio,Genoa,Home Win,0.5662251,0.22930595,0.20446888
-2026-02-01,00:00,23,Serie A,Parma,Juventus,Away Win,0.22837952,0.2318072,0.5398133
-2026-02-01,00:00,23,Serie A,Pisa,Sassuolo,Away Win,0.32152432,0.24886192,0.42961374
-2026-02-01,00:00,23,Serie A,Napoli,Fiorentina,Home Win,0.67158425,0.19570293,0.13271278
-2026-02-01,00:00,23,Serie A,Udinese,Roma,Away Win,0.25199214,0.23781693,0.5101909
-2026-02-01,00:00,23,Serie A,Cremonese,Milan,Away Win,0.21959423,0.22880828,0.55159754
-2026-02-08,00:00,24,Serie A,Fiorentina,Torino,Away Win,0.33690766,0.25012514,0.41296726
-2026-02-08,00:00,24,Serie A,Milan,Como,Home Win,0.55206174,0.23281181,0.2151265
-2026-02-08,00:00,24,Serie A,Roma,Cagliari,Home Win,0.6140859,0.2154329,0.17048122
-2026-02-08,00:00,24,Serie A,Atalanta,Cremonese,Home Win,0.4900777,0.24438237,0.26553994
-2026-02-08,00:00,24,Serie A,Genoa,Napoli,Away Win,0.22034349,0.22909263,0.5505639
-2026-02-08,00:00,24,Serie A,Bologna,Parma,Home Win,0.5364513,0.23626393,0.22728482
-2026-02-08,00:00,24,Serie A,Verona,Pisa,Home Win,0.43469828,0.24996096,0.3153408
-2026-02-08,00:00,24,Serie A,Juventus,Lazio,Home Win,0.57360536,0.22731449,0.19908017
-2026-02-08,00:00,24,Serie A,Sassuolo,Milan,Away Win,0.22010686,0.22895962,0.5509335
-2026-02-08,00:00,24,Serie A,Lecce,Udinese,Home Win,0.38453484,0.25189275,0.36357242
-2026-02-15,00:00,25,Serie A,Cagliari,Lecce,Home Win,0.44110048,0.24952033,0.3093792
-2026-02-15,00:00,25,Serie A,Como,Fiorentina,Home Win,0.6379407,0.20765568,0.15440367
-2026-02-15,00:00,25,Serie A,Torino,Bologna,Away Win,0.2881311,0.24475004,0.46711886
-2026-02-15,00:00,25,Serie A,Milan,Juventus,Home Win,0.4985767,0.24291761,0.25850564
-2026-02-15,00:00,25,Serie A,Lazio,Atalanta,Home Win,0.4580239,0.24795812,0.294018
-2026-02-15,00:00,25,Serie A,Parma,Verona,Home Win,0.45660508,0.24845055,0.29494435
-2026-02-15,00:00,25,Serie A,Pisa,Milan,Away Win,0.23019353,0.23228575,0.5375207
-2026-02-15,00:00,25,Serie A,Napoli,Roma,Home Win,0.51185477,0.24094608,0.24719918
-2026-02-15,00:00,25,Serie A,Udinese,Sassuolo,Away Win,0.37344736,0.25198084,0.37457177
+2026-01-12,19:45,20,Serie A,Juventus,Cremonese,Home Win,0.6261518,0.2115713,0.16227691
+2026-01-14,17:30,16,Serie A,Napoli,Parma,Home Win,0.68904495,0.18903558,0.12191947
+2026-01-14,19:45,16,Serie A,Inter,Lecce,Home Win,0.7152071,0.17844525,0.10634761
+2026-01-15,17:30,16,Serie A,Verona,Bologna,Away Win,0.28650868,0.24452844,0.46896285
+2026-01-15,19:45,16,Serie A,Como,Milan,Away Win,0.2842634,0.24407324,0.4716633
+2026-01-16,19:45,21,Serie A,Pisa,Atalanta,Away Win,0.26581982,0.24086761,0.49331254
+2026-01-17,14:00,21,Serie A,Udinese,Inter,Away Win,0.23724456,0.23416096,0.52859455
+2026-01-17,17:00,21,Serie A,Napoli,Sassuolo,Home Win,0.6766462,0.19380052,0.12955327
+2026-01-17,19:45,21,Serie A,Cagliari,Juventus,Away Win,0.22283787,0.23001407,0.54714805
+2026-01-18,11:30,21,Serie A,Parma,Genoa,Home Win,0.44119707,0.24977715,0.3090257
+2026-01-18,14:00,21,Serie A,Bologna,Fiorentina,Home Win,0.53760725,0.2361282,0.2262645
+2026-01-18,17:00,21,Serie A,Torino,Roma,Away Win,0.2696903,0.2414623,0.48884735
+2026-01-18,19:45,21,Serie A,Milan,Lecce,Home Win,0.6963537,0.18615268,0.11749363
+2026-01-19,17:30,21,Serie A,Cremonese,Verona,Home Win,0.5019513,0.24265327,0.25539544
+2026-01-19,19:45,21,Serie A,Lazio,Como,Away Win,0.26280192,0.23997822,0.4972199
+2026-01-23,19:45,22,Serie A,Inter,Pisa,Home Win,0.7360288,0.16948408,0.09448712
+2026-01-24,14:00,22,Serie A,Como,Torino,Home Win,0.58757806,0.22340246,0.18901944
+2026-01-24,17:00,22,Serie A,Fiorentina,Cagliari,Home Win,0.39210224,0.25163007,0.3562677
+2026-01-24,19:45,22,Serie A,Lecce,Lazio,Away Win,0.33473498,0.2502186,0.41504636
+2026-01-25,11:30,22,Serie A,Sassuolo,Cremonese,Home Win,0.42674914,0.2505775,0.3226733
+2026-01-25,14:00,22,Serie A,Atalanta,Parma,Home Win,0.5429927,0.2349186,0.22208866
+2026-01-25,14:00,22,Serie A,Genoa,Bologna,Away Win,0.29547074,0.24586913,0.45866016
+2026-01-25,17:00,22,Serie A,Juventus,Napoli,Away Win,0.364593,0.25172743,0.3836795
+2026-01-25,19:45,22,Serie A,Roma,Milan,Away Win,0.30257505,0.24674168,0.45068333
+2026-01-26,19:45,22,Serie A,Verona,Udinese,Away Win,0.37061673,0.2516081,0.3777752
+2026-02-01,00:00,23,Serie A,Cagliari,Verona,Home Win,0.48083603,0.24563816,0.27352586
+2026-02-01,00:00,23,Serie A,Como,Atalanta,Home Win,0.54480606,0.23463252,0.22056144
+2026-02-01,00:00,23,Serie A,Bologna,Milan,Away Win,0.22427988,0.23045397,0.5452661
+2026-02-01,00:00,23,Serie A,Torino,Lecce,Home Win,0.48828873,0.24452911,0.26718214
+2026-02-01,00:00,23,Serie A,Lazio,Genoa,Home Win,0.5406803,0.23540957,0.22391011
+2026-02-01,00:00,23,Serie A,Parma,Juventus,Away Win,0.21939255,0.22881442,0.551793
+2026-02-01,00:00,23,Serie A,Pisa,Sassuolo,Away Win,0.31104317,0.247691,0.44126582
+2026-02-01,00:00,23,Serie A,Napoli,Fiorentina,Home Win,0.6914168,0.18810377,0.120479405
+2026-02-01,00:00,23,Serie A,Udinese,Roma,Away Win,0.25232178,0.2379073,0.50977093
+2026-02-01,00:00,23,Serie A,Cremonese,Inter,Away Win,0.22704342,0.231239,0.5417175
+2026-02-08,00:00,24,Serie A,Fiorentina,Torino,Away Win,0.32435483,0.24912561,0.4265196
+2026-02-08,00:00,24,Serie A,Milan,Como,Home Win,0.55802083,0.2314566,0.21052255
+2026-02-08,00:00,24,Serie A,Roma,Cagliari,Home Win,0.58581036,0.22390698,0.19028261
+2026-02-08,00:00,24,Serie A,Atalanta,Cremonese,Home Win,0.5279974,0.23805471,0.23394789
+2026-02-08,00:00,24,Serie A,Genoa,Napoli,Away Win,0.22072934,0.22921574,0.55005497
+2026-02-08,00:00,24,Serie A,Bologna,Parma,Home Win,0.5254552,0.238404,0.23614085
+2026-02-08,00:00,24,Serie A,Verona,Pisa,Home Win,0.4013712,0.25155976,0.347069
+2026-02-08,00:00,24,Serie A,Juventus,Lazio,Home Win,0.590759,0.22248061,0.18676046
+2026-02-08,00:00,24,Serie A,Sassuolo,Inter,Away Win,0.23015371,0.23221876,0.5376275
+2026-02-08,00:00,24,Serie A,Lecce,Udinese,Home Win,0.43139955,0.25042185,0.31817856
+2026-02-15,00:00,25,Serie A,Cagliari,Lecce,Home Win,0.4308592,0.2501832,0.3189576
+2026-02-15,00:00,25,Serie A,Como,Fiorentina,Home Win,0.63001317,0.2103042,0.15968266
+2026-02-15,00:00,25,Serie A,Torino,Bologna,Away Win,0.3508836,0.25100794,0.39810845
+2026-02-15,00:00,25,Serie A,Inter,Juventus,Home Win,0.56023234,0.23088515,0.20888254
+2026-02-15,00:00,25,Serie A,Lazio,Atalanta,Home Win,0.37744564,0.25145754,0.37109682
+2026-02-15,00:00,25,Serie A,Parma,Verona,Home Win,0.47573182,0.2463748,0.27789333
+2026-02-15,00:00,25,Serie A,Pisa,Milan,Away Win,0.22594659,0.230892,0.5431614
+2026-02-15,00:00,25,Serie A,Napoli,Roma,Home Win,0.5873761,0.22345632,0.18916753
+2026-02-15,00:00,25,Serie A,Udinese,Sassuolo,Away Win,0.34421074,0.25081354,0.40497574
 2026-02-15,00:00,25,Serie A,Cremonese,Genoa,Home Win,0.46991694,0.2469616,0.28312144
-2026-02-22,00:00,26,Serie A,Fiorentina,Pisa,Home Win,0.43609756,0.2497039,0.31419855
-2026-02-22,00:00,26,Serie A,Milan,Parma,Home Win,0.678244,0.19319998,0.128556
-2026-02-22,00:00,26,Serie A,Roma,Cremonese,Home Win,0.60837126,0.21721041,0.1744183
-2026-02-22,00:00,26,Serie A,Atalanta,Napoli,Away Win,0.2404905,0.23494945,0.52456003
-2026-02-22,00:00,26,Serie A,Cagliari,Lazio,Away Win,0.29327443,0.2455581,0.4611675
-2026-02-22,00:00,26,Serie A,Genoa,Torino,Away Win,0.34730494,0.25086415,0.40183094
-2026-02-22,00:00,26,Serie A,Bologna,Udinese,Home Win,0.5511754,0.23303887,0.21578567
-2026-02-22,00:00,26,Serie A,Juventus,Como,Home Win,0.4940077,0.2436726,0.2623197
-2026-02-22,00:00,26,Serie A,Sassuolo,Verona,Home Win,0.48569742,0.2450523,0.26925027
-2026-02-22,00:00,26,Serie A,Lecce,Milan,Away Win,0.21855892,0.22840524,0.5530358
-2026-03-01,00:00,27,Serie A,Roma,Juventus,Home Win,0.39555842,0.25115296,0.3532887
-2026-03-01,00:00,27,Serie A,Como,Lecce,Home Win,0.6386435,0.20741878,0.15393773
-2026-03-01,00:00,27,Serie A,Torino,Lazio,Away Win,0.2905227,0.24511649,0.4643609
-2026-03-01,00:00,27,Serie A,Verona,Napoli,Away Win,0.2221715,0.22970042,0.548128
-2026-03-01,00:00,27,Serie A,Milan,Genoa,Home Win,0.7053983,0.1825019,0.112099744
-2026-03-01,00:00,27,Serie A,Parma,Cagliari,Home Win,0.40846968,0.25158623,0.33994403
-2026-03-01,00:00,27,Serie A,Pisa,Bologna,Away Win,0.26747346,0.24124594,0.49128065
-2026-03-01,00:00,27,Serie A,Sassuolo,Atalanta,Away Win,0.33116484,0.24974163,0.41909352
-2026-03-01,00:00,27,Serie A,Udinese,Fiorentina,Home Win,0.43844894,0.2500834,0.3114677
+2026-02-22,00:00,26,Serie A,Fiorentina,Pisa,Home Win,0.45994553,0.24775857,0.29229587
+2026-02-22,00:00,26,Serie A,Milan,Parma,Home Win,0.68589836,0.19026418,0.123837434
+2026-02-22,00:00,26,Serie A,Roma,Cremonese,Home Win,0.5807197,0.22534676,0.19393355
+2026-02-22,00:00,26,Serie A,Atalanta,Napoli,Away Win,0.23060852,0.23246853,0.53692293
+2026-02-22,00:00,26,Serie A,Cagliari,Lazio,Away Win,0.33253193,0.25001416,0.41745389
+2026-02-22,00:00,26,Serie A,Genoa,Torino,Away Win,0.3185126,0.24871376,0.4327737
+2026-02-22,00:00,26,Serie A,Bologna,Udinese,Home Win,0.5505378,0.23319335,0.21626888
+2026-02-22,00:00,26,Serie A,Juventus,Como,Home Win,0.47076094,0.24706338,0.2821757
+2026-02-22,00:00,26,Serie A,Sassuolo,Verona,Home Win,0.5068001,0.24190843,0.25129145
+2026-02-22,00:00,26,Serie A,Lecce,Inter,Away Win,0.22672455,0.23109508,0.54218036
+2026-03-01,00:00,27,Serie A,Roma,Juventus,Away Win,0.3463786,0.2504688,0.40315264
+2026-03-01,00:00,27,Serie A,Como,Lecce,Home Win,0.6299569,0.21032424,0.15971883
+2026-03-01,00:00,27,Serie A,Torino,Lazio,Away Win,0.3676077,0.25162813,0.38076416
+2026-03-01,00:00,27,Serie A,Verona,Napoli,Away Win,0.22529477,0.23072524,0.54398
+2026-03-01,00:00,27,Serie A,Inter,Genoa,Home Win,0.72520006,0.1742036,0.10059638
+2026-03-01,00:00,27,Serie A,Parma,Cagliari,Home Win,0.41195157,0.25151637,0.33653206
+2026-03-01,00:00,27,Serie A,Pisa,Bologna,Away Win,0.2781247,0.24315147,0.47872385
+2026-03-01,00:00,27,Serie A,Sassuolo,Atalanta,Away Win,0.3113892,0.2480479,0.44056284
+2026-03-01,00:00,27,Serie A,Udinese,Fiorentina,Home Win,0.3842566,0.2521261,0.36361727
 2026-03-01,00:00,27,Serie A,Cremonese,Milan,Away Win,0.21959423,0.22880828,0.55159754
-2026-03-08,00:00,28,Serie A,Cagliari,Como,Away Win,0.22770213,0.23172383,0.540574
-2026-03-08,00:00,28,Serie A,Genoa,Roma,Away Win,0.2379555,0.23440963,0.5276349
-2026-03-08,00:00,28,Serie A,Bologna,Verona,Home Win,0.5740941,0.22718436,0.19872147
-2026-03-08,00:00,28,Serie A,Juventus,Pisa,Home Win,0.68352115,0.19117928,0.1252996
-2026-03-08,00:00,28,Serie A,Lazio,Sassuolo,Home Win,0.52395654,0.23881125,0.23723215
-2026-03-08,00:00,28,Serie A,Napoli,Torino,Home Win,0.64690876,0.20458552,0.14850578
-2026-03-08,00:00,28,Serie A,Lecce,Cremonese,Away Win,0.35810545,0.25152063,0.39037398
-2026-03-08,00:00,28,Serie A,Fiorentina,Parma,Away Win,0.36055285,0.25119495,0.38825217
-2026-03-08,00:00,28,Serie A,Milan,Milan,Home Win,0.43601906,0.24958168,0.31439933
-2026-03-08,00:00,28,Serie A,Atalanta,Udinese,Home Win,0.5145777,0.24044311,0.24497923
-2026-03-15,00:00,29,Serie A,Como,Roma,Home Win,0.43278554,0.24994056,0.31727389
-2026-03-15,00:00,29,Serie A,Torino,Parma,Home Win,0.42307904,0.25052133,0.32639965
-2026-03-15,00:00,29,Serie A,Verona,Genoa,Away Win,0.36492577,0.25132725,0.383747
-2026-03-15,00:00,29,Serie A,Milan,Atalanta,Home Win,0.64358485,0.20573404,0.15068115
-2026-03-15,00:00,29,Serie A,Lazio,Milan,Away Win,0.2259424,0.23099746,0.5430601
-2026-03-15,00:00,29,Serie A,Pisa,Cagliari,Away Win,0.34593928,0.2507557,0.40330496
-2026-03-15,00:00,29,Serie A,Sassuolo,Bologna,Away Win,0.29468542,0.24569906,0.4596155
-2026-03-15,00:00,29,Serie A,Napoli,Lecce,Home Win,0.6728561,0.19522849,0.13191538
-2026-03-15,00:00,29,Serie A,Udinese,Juventus,Away Win,0.22104187,0.22940071,0.54955745
-2026-03-15,00:00,29,Serie A,Cremonese,Fiorentina,Home Win,0.48766387,0.2448576,0.26747856
-2026-03-22,00:00,30,Serie A,Fiorentina,Milan,Away Win,0.22438407,0.2303425,0.54527336
-2026-03-22,00:00,30,Serie A,Milan,Torino,Home Win,0.6776162,0.19343747,0.1289463
-2026-03-22,00:00,30,Serie A,Roma,Lecce,Home Win,0.63547796,0.20848633,0.15603577
-2026-03-22,00:00,30,Serie A,Atalanta,Verona,Home Win,0.54341733,0.23488998,0.22169274
-2026-03-22,00:00,30,Serie A,Cagliari,Napoli,Away Win,0.22442298,0.23047361,0.5451034
-2026-03-22,00:00,30,Serie A,Genoa,Udinese,Away Win,0.37205192,0.25143647,0.37651166
-2026-03-22,00:00,30,Serie A,Como,Pisa,Home Win,0.6559217,0.20141192,0.14266638
-2026-03-22,00:00,30,Serie A,Bologna,Lazio,Home Win,0.40889904,0.25092643,0.34017453
-2026-03-22,00:00,30,Serie A,Juventus,Sassuolo,Home Win,0.6444033,0.2054496,0.15014715
-2026-03-22,00:00,30,Serie A,Parma,Cremonese,Home Win,0.38080847,0.25191268,0.36727887
-2026-04-04,00:00,31,Serie A,Verona,Fiorentina,Home Win,0.4035247,0.2515946,0.34488073
-2026-04-04,00:00,31,Serie A,Milan,Roma,Home Win,0.55682296,0.23176076,0.21141627
-2026-04-04,00:00,31,Serie A,Juventus,Genoa,Home Win,0.67487884,0.19446748,0.13065366
-2026-04-04,00:00,31,Serie A,Lazio,Parma,Home Win,0.5365335,0.23626423,0.22720233
-2026-04-04,00:00,31,Serie A,Pisa,Torino,Away Win,0.32922295,0.24954857,0.42122844
-2026-04-04,00:00,31,Serie A,Sassuolo,Cagliari,Home Win,0.44954488,0.24904141,0.30141377
-2026-04-04,00:00,31,Serie A,Napoli,Milan,Home Win,0.3981308,0.2513442,0.35052496
-2026-04-04,00:00,31,Serie A,Udinese,Como,Away Win,0.22431782,0.23062427,0.5450579
-2026-04-04,00:00,31,Serie A,Cremonese,Bologna,Away Win,0.29607117,0.24591672,0.45801204
-2026-04-04,00:00,31,Serie A,Lecce,Atalanta,Away Win,0.30705142,0.24753901,0.44540957
-2026-04-12,00:00,32,Serie A,Fiorentina,Lazio,Away Win,0.2738075,0.24239996,0.48379254
-2026-04-12,00:00,32,Serie A,Milan,Udinese,Home Win,0.6951589,0.18662885,0.11821225
-2026-04-12,00:00,32,Serie A,Roma,Pisa,Home Win,0.6490533,0.20383765,0.1471091
-2026-04-12,00:00,32,Serie A,Atalanta,Juventus,Away Win,0.23446321,0.23356642,0.53197044
+2026-03-08,00:00,28,Serie A,Cagliari,Como,Away Win,0.23831975,0.23469779,0.5269825
+2026-03-08,00:00,28,Serie A,Genoa,Roma,Away Win,0.24193653,0.23543961,0.52262384
+2026-03-08,00:00,28,Serie A,Bologna,Verona,Home Win,0.56956977,0.22841193,0.20201837
+2026-03-08,00:00,28,Serie A,Juventus,Pisa,Home Win,0.67190814,0.19558083,0.13251105
+2026-03-08,00:00,28,Serie A,Lazio,Sassuolo,Home Win,0.4895144,0.24429153,0.26619408
+2026-03-08,00:00,28,Serie A,Napoli,Torino,Home Win,0.6643642,0.1983645,0.13727129
+2026-03-08,00:00,28,Serie A,Lecce,Cremonese,Away Win,0.36900175,0.2518253,0.37917298
+2026-03-08,00:00,28,Serie A,Fiorentina,Parma,Home Win,0.38844857,0.25140753,0.36014393
+2026-03-08,00:00,28,Serie A,Milan,Inter,Home Win,0.38227162,0.25174114,0.36598727
+2026-03-08,00:00,28,Serie A,Atalanta,Udinese,Home Win,0.5645348,0.22975326,0.20571192
+2026-03-15,00:00,29,Serie A,Como,Roma,Home Win,0.47710723,0.24570236,0.27719048
+2026-03-15,00:00,29,Serie A,Torino,Parma,Home Win,0.47843635,0.24587762,0.27568603
+2026-03-15,00:00,29,Serie A,Verona,Genoa,Away Win,0.346766,0.2507021,0.4025319
+2026-03-15,00:00,29,Serie A,Inter,Atalanta,Home Win,0.6453146,0.20513833,0.14954707
+2026-03-15,00:00,29,Serie A,Lazio,Milan,Away Win,0.22117889,0.22941837,0.5494027
+2026-03-15,00:00,29,Serie A,Pisa,Cagliari,Away Win,0.3428202,0.2504883,0.40669146
+2026-03-15,00:00,29,Serie A,Sassuolo,Bologna,Away Win,0.33045977,0.2498515,0.41968867
+2026-03-15,00:00,29,Serie A,Napoli,Lecce,Home Win,0.69762504,0.18564187,0.11673306
+2026-03-15,00:00,29,Serie A,Udinese,Juventus,Away Win,0.22481093,0.23064962,0.54453945
+2026-03-15,00:00,29,Serie A,Cremonese,Fiorentina,Home Win,0.45841008,0.24827106,0.29331884
+2026-03-22,00:00,30,Serie A,Fiorentina,Inter,Away Win,0.23530294,0.23394187,0.5307552
+2026-03-22,00:00,30,Serie A,Milan,Torino,Home Win,0.660459,0.19978714,0.1397538
+2026-03-22,00:00,30,Serie A,Roma,Lecce,Home Win,0.60384625,0.21859547,0.17755827
+2026-03-22,00:00,30,Serie A,Atalanta,Verona,Home Win,0.58590674,0.22388187,0.19021136
+2026-03-22,00:00,30,Serie A,Cagliari,Napoli,Away Win,0.22131503,0.22946352,0.54922146
+2026-03-22,00:00,30,Serie A,Genoa,Udinese,Home Win,0.4104427,0.25114614,0.33841112
+2026-03-22,00:00,30,Serie A,Como,Pisa,Home Win,0.65641207,0.20123708,0.14235081
+2026-03-22,00:00,30,Serie A,Bologna,Lazio,Home Win,0.4302458,0.2501621,0.3195921
+2026-03-22,00:00,30,Serie A,Juventus,Sassuolo,Home Win,0.6243912,0.21214367,0.16346516
+2026-03-22,00:00,30,Serie A,Parma,Cremonese,Home Win,0.38344833,0.2519588,0.36459288
+2026-04-04,00:00,31,Serie A,Verona,Fiorentina,Away Win,0.34523585,0.2506501,0.40411404
+2026-04-04,00:00,31,Serie A,Inter,Roma,Home Win,0.6117191,0.21617624,0.17210472
+2026-04-04,00:00,31,Serie A,Juventus,Genoa,Home Win,0.6595871,0.2000973,0.14031556
+2026-04-04,00:00,31,Serie A,Lazio,Parma,Home Win,0.5190109,0.23961921,0.2413699
+2026-04-04,00:00,31,Serie A,Pisa,Torino,Away Win,0.3018623,0.24671935,0.45141834
+2026-04-04,00:00,31,Serie A,Sassuolo,Cagliari,Home Win,0.45303866,0.24875689,0.2982045
+2026-04-04,00:00,31,Serie A,Napoli,Milan,Home Win,0.41225946,0.2510687,0.33667183
+2026-04-04,00:00,31,Serie A,Udinese,Como,Away Win,0.23475395,0.23374216,0.5315039
+2026-04-04,00:00,31,Serie A,Cremonese,Bologna,Away Win,0.33409032,0.25012064,0.41578904
+2026-04-04,00:00,31,Serie A,Lecce,Atalanta,Away Win,0.3037798,0.24715924,0.44906092
+2026-04-12,00:00,32,Serie A,Fiorentina,Lazio,Away Win,0.29583275,0.24587674,0.4582905
+2026-04-12,00:00,32,Serie A,Milan,Udinese,Home Win,0.7035215,0.1832669,0.11321158
+2026-04-12,00:00,32,Serie A,Roma,Pisa,Home Win,0.62719244,0.21123347,0.16157413
+2026-04-12,00:00,32,Serie A,Atalanta,Juventus,Away Win,0.24628314,0.23623729,0.51747954
 2026-04-12,00:00,32,Serie A,Cagliari,Cremonese,Home Win,0.3900768,0.25178015,0.35814303
-2026-04-12,00:00,32,Serie A,Genoa,Sassuolo,Away Win,0.33943474,0.250358,0.41020727
-2026-04-12,00:00,32,Serie A,Como,Milan,Away Win,0.27973992,0.24334168,0.4769184
-2026-04-12,00:00,32,Serie A,Bologna,Lecce,Home Win,0.5639777,0.2299004,0.20612195
-2026-04-12,00:00,32,Serie A,Torino,Verona,Home Win,0.4736153,0.24641533,0.2799694
-2026-04-12,00:00,32,Serie A,Parma,Napoli,Away Win,0.2339547,0.23322015,0.5328252
-2026-04-19,00:00,33,Serie A,Roma,Atalanta,Home Win,0.56939214,0.22845545,0.20215236
-2026-04-19,00:00,33,Serie A,Verona,Milan,Away Win,0.22007976,0.22893944,0.5509808
-2026-04-19,00:00,33,Serie A,Milan,Cagliari,Home Win,0.68058753,0.19230671,0.12710574
-2026-04-19,00:00,33,Serie A,Juventus,Bologna,Home Win,0.5702093,0.22823621,0.20155449
-2026-04-19,00:00,33,Serie A,Pisa,Genoa,Away Win,0.34165055,0.25033668,0.40801284
-2026-04-19,00:00,33,Serie A,Sassuolo,Como,Away Win,0.2266161,0.23135145,0.5420325
-2026-04-19,00:00,33,Serie A,Napoli,Lazio,Home Win,0.578887,0.2258583,0.19525476
-2026-04-19,00:00,33,Serie A,Udinese,Parma,Home Win,0.3904647,0.25196138,0.35757393
-2026-04-19,00:00,33,Serie A,Cremonese,Torino,Home Win,0.42332515,0.25084728,0.32582757
-2026-04-19,00:00,33,Serie A,Lecce,Fiorentina,Home Win,0.4158403,0.25139993,0.33275974
-2026-04-26,00:00,34,Serie A,Fiorentina,Sassuolo,Away Win,0.32808316,0.24942656,0.42249033
-2026-04-26,00:00,34,Serie A,Milan,Juventus,Home Win,0.4985767,0.24291761,0.25850564
-2026-04-26,00:00,34,Serie A,Cagliari,Atalanta,Away Win,0.32043314,0.24891572,0.43065113
-2026-04-26,00:00,34,Serie A,Genoa,Como,Away Win,0.22263941,0.23007232,0.5472883
-2026-04-26,00:00,34,Serie A,Bologna,Roma,Away Win,0.32150453,0.2483754,0.43012008
-2026-04-26,00:00,34,Serie A,Torino,Milan,Away Win,0.21807025,0.22822872,0.5537009
-2026-04-26,00:00,34,Serie A,Verona,Lecce,Away Win,0.36473802,0.25124416,0.3840178
-2026-04-26,00:00,34,Serie A,Lazio,Udinese,Home Win,0.5511814,0.23305127,0.21576744
-2026-04-26,00:00,34,Serie A,Parma,Pisa,Home Win,0.49133906,0.2443419,0.26431903
-2026-04-26,00:00,34,Serie A,Napoli,Cremonese,Home Win,0.64498127,0.20525232,0.14976646
-2026-05-03,00:00,35,Serie A,Roma,Fiorentina,Home Win,0.63156754,0.20979086,0.1586416
-2026-05-03,00:00,35,Serie A,Atalanta,Genoa,Home Win,0.53321373,0.2370404,0.2297459
-2026-05-03,00:00,35,Serie A,Como,Napoli,Away Win,0.33739284,0.25010276,0.41250443
-2026-05-03,00:00,35,Serie A,Bologna,Cagliari,Home Win,0.5432774,0.23488651,0.22183612
-2026-05-03,00:00,35,Serie A,Milan,Parma,Home Win,0.678244,0.19319998,0.128556
-2026-05-03,00:00,35,Serie A,Juventus,Verona,Home Win,0.6761494,0.19398925,0.12986134
-2026-05-03,00:00,35,Serie A,Pisa,Lecce,Away Win,0.34154078,0.25023955,0.40821972
-2026-05-03,00:00,35,Serie A,Sassuolo,Milan,Away Win,0.22010686,0.22895962,0.5509335
-2026-05-03,00:00,35,Serie A,Udinese,Torino,Home Win,0.38016334,0.25210392,0.36773273
-2026-05-03,00:00,35,Serie A,Cremonese,Lazio,Away Win,0.2976333,0.24612369,0.45624298
-2026-05-10,00:00,36,Serie A,Fiorentina,Genoa,Home Win,0.37460038,0.25135294,0.37404668
-2026-05-10,00:00,36,Serie A,Milan,Atalanta,Home Win,0.64358485,0.20573404,0.15068115
-2026-05-10,00:00,36,Serie A,Cagliari,Udinese,Home Win,0.4287489,0.25033426,0.32091683
-2026-05-10,00:00,36,Serie A,Torino,Sassuolo,Home Win,0.39754903,0.25154448,0.35090652
-2026-05-10,00:00,36,Serie A,Verona,Como,Away Win,0.22486417,0.2307816,0.54435426
-2026-05-10,00:00,36,Serie A,Lazio,Milan,Away Win,0.2259424,0.23099746,0.5430601
-2026-05-10,00:00,36,Serie A,Parma,Roma,Away Win,0.2601774,0.23961866,0.5002039
-2026-05-10,00:00,36,Serie A,Napoli,Bologna,Home Win,0.5766131,0.22648883,0.19689801
-2026-05-10,00:00,36,Serie A,Cremonese,Pisa,Home Win,0.5219667,0.23929715,0.23873617
-2026-05-10,00:00,36,Serie A,Lecce,Juventus,Away Win,0.22273724,0.22994982,0.547313
-2026-05-17,00:00,37,Serie A,Roma,Lazio,Home Win,0.5249007,0.2384665,0.23663285
-2026-05-17,00:00,37,Serie A,Atalanta,Bologna,Away Win,0.33948636,0.24992831,0.41058525
-2026-05-17,00:00,37,Serie A,Cagliari,Torino,Home Win,0.39679956,0.25178984,0.35141057
+2026-04-12,00:00,32,Serie A,Genoa,Sassuolo,Away Win,0.33520034,0.2500391,0.41476056
+2026-04-12,00:00,32,Serie A,Como,Inter,Away Win,0.25812873,0.23951551,0.5023557
+2026-04-12,00:00,32,Serie A,Bologna,Lecce,Home Win,0.5383662,0.23580201,0.22583179
+2026-04-12,00:00,32,Serie A,Torino,Verona,Home Win,0.53372544,0.23693179,0.2293428
+2026-04-12,00:00,32,Serie A,Parma,Napoli,Away Win,0.21990223,0.22894904,0.5511487
+2026-04-19,00:00,33,Serie A,Roma,Atalanta,Home Win,0.50422424,0.24225113,0.25352463
+2026-04-19,00:00,33,Serie A,Verona,Milan,Away Win,0.22144036,0.22943419,0.5491255
+2026-04-19,00:00,33,Serie A,Inter,Cagliari,Home Win,0.69875354,0.18519221,0.11605424
+2026-04-19,00:00,33,Serie A,Juventus,Bologna,Home Win,0.58088833,0.22529729,0.19381435
+2026-04-19,00:00,33,Serie A,Pisa,Genoa,Away Win,0.33893725,0.25007907,0.41098368
+2026-04-19,00:00,33,Serie A,Sassuolo,Como,Away Win,0.24463005,0.23626286,0.5191071
+2026-04-19,00:00,33,Serie A,Napoli,Lazio,Home Win,0.6465155,0.20471731,0.14876719
+2026-04-19,00:00,33,Serie A,Udinese,Parma,Away Win,0.37217107,0.25183666,0.37599227
+2026-04-19,00:00,33,Serie A,Cremonese,Torino,Home Win,0.37711066,0.25189212,0.37099722
+2026-04-19,00:00,33,Serie A,Lecce,Fiorentina,Home Win,0.40648648,0.25176346,0.34175003
+2026-04-26,00:00,34,Serie A,Fiorentina,Sassuolo,Away Win,0.3483935,0.2506321,0.40097433
+2026-04-26,00:00,34,Serie A,Milan,Juventus,Home Win,0.519094,0.23976877,0.24113728
+2026-04-26,00:00,34,Serie A,Cagliari,Atalanta,Away Win,0.30731687,0.24756853,0.44511464
+2026-04-26,00:00,34,Serie A,Genoa,Como,Away Win,0.22957581,0.23225617,0.538168
+2026-04-26,00:00,34,Serie A,Bologna,Roma,Away Win,0.32342452,0.24838825,0.42818722
+2026-04-26,00:00,34,Serie A,Torino,Inter,Away Win,0.22541355,0.23077902,0.54380745
+2026-04-26,00:00,34,Serie A,Verona,Lecce,Away Win,0.34232345,0.25044337,0.40723312
+2026-04-26,00:00,34,Serie A,Lazio,Udinese,Home Win,0.5459055,0.23424393,0.21985058
+2026-04-26,00:00,34,Serie A,Parma,Pisa,Home Win,0.4879746,0.24481452,0.2672109
+2026-04-26,00:00,34,Serie A,Napoli,Cremonese,Home Win,0.6777527,0.19338192,0.12886536
+2026-05-03,00:00,35,Serie A,Roma,Fiorentina,Home Win,0.596951,0.22066571,0.18238324
+2026-05-03,00:00,35,Serie A,Atalanta,Genoa,Home Win,0.5649237,0.22965035,0.20542595
+2026-05-03,00:00,35,Serie A,Como,Napoli,Away Win,0.29278126,0.24553235,0.46168643
+2026-05-03,00:00,35,Serie A,Bologna,Cagliari,Home Win,0.5265961,0.2382924,0.23511145
+2026-05-03,00:00,35,Serie A,Inter,Parma,Home Win,0.70562094,0.18241246,0.11196655
+2026-05-03,00:00,35,Serie A,Juventus,Verona,Home Win,0.67543375,0.19425926,0.13030702
+2026-05-03,00:00,35,Serie A,Pisa,Lecce,Away Win,0.33619618,0.24988747,0.41391635
+2026-05-03,00:00,35,Serie A,Sassuolo,Milan,Away Win,0.22094996,0.22927336,0.5497767
+2026-05-03,00:00,35,Serie A,Udinese,Torino,Away Win,0.33239356,0.2501417,0.41746476
+2026-05-03,00:00,35,Serie A,Cremonese,Lazio,Away Win,0.34227517,0.25070104,0.40702376
+2026-05-10,00:00,36,Serie A,Fiorentina,Genoa,Home Win,0.40222725,0.25115392,0.34661877
+2026-05-10,00:00,36,Serie A,Milan,Atalanta,Home Win,0.62411386,0.21223795,0.16364822
+2026-05-10,00:00,36,Serie A,Cagliari,Udinese,Home Win,0.46105206,0.24783674,0.29111126
+2026-05-10,00:00,36,Serie A,Torino,Sassuolo,Home Win,0.44187894,0.2494522,0.30866885
+2026-05-10,00:00,36,Serie A,Verona,Como,Away Win,0.23078705,0.2326386,0.5365743
+2026-05-10,00:00,36,Serie A,Lazio,Inter,Away Win,0.22984907,0.23223521,0.5379157
+2026-05-10,00:00,36,Serie A,Parma,Roma,Away Win,0.25861105,0.23926187,0.50212705
+2026-05-10,00:00,36,Serie A,Napoli,Bologna,Home Win,0.63797134,0.20764321,0.15438543
+2026-05-10,00:00,36,Serie A,Cremonese,Pisa,Home Win,0.5177146,0.24005912,0.24222626
+2026-05-10,00:00,36,Serie A,Lecce,Juventus,Away Win,0.22141516,0.22951216,0.5490726
+2026-05-17,00:00,37,Serie A,Roma,Lazio,Home Win,0.53288054,0.23717627,0.2299432
+2026-05-17,00:00,37,Serie A,Atalanta,Bologna,Home Win,0.4354815,0.24984857,0.3146699
+2026-05-17,00:00,37,Serie A,Cagliari,Torino,Away Win,0.35408175,0.2513547,0.3945636
 2026-05-17,00:00,37,Serie A,Genoa,Milan,Away Win,0.21759266,0.22802888,0.55437845
-2026-05-17,00:00,37,Serie A,Como,Parma,Home Win,0.6100291,0.21669927,0.17327161
-2026-05-17,00:00,37,Serie A,Milan,Verona,Home Win,0.70690674,0.18188517,0.111208156
-2026-05-17,00:00,37,Serie A,Juventus,Fiorentina,Home Win,0.6673125,0.19728366,0.13540381
-2026-05-17,00:00,37,Serie A,Pisa,Napoli,Away Win,0.23404999,0.2333684,0.53258157
-2026-05-17,00:00,37,Serie A,Sassuolo,Lecce,Home Win,0.4686691,0.24699353,0.28433743
-2026-05-17,00:00,37,Serie A,Udinese,Cremonese,Home Win,0.3743823,0.25194415,0.3736735
-2026-05-24,00:00,38,Serie A,Fiorentina,Atalanta,Away Win,0.2798389,0.2433315,0.4768296
+2026-05-17,00:00,37,Serie A,Como,Parma,Home Win,0.618235,0.21412368,0.16764134
+2026-05-17,00:00,37,Serie A,Inter,Verona,Home Win,0.73831964,0.16846871,0.09321166
+2026-05-17,00:00,37,Serie A,Juventus,Fiorentina,Home Win,0.6475225,0.20436846,0.14810902
+2026-05-17,00:00,37,Serie A,Pisa,Napoli,Away Win,0.23080029,0.23235655,0.5368432
+2026-05-17,00:00,37,Serie A,Sassuolo,Lecce,Home Win,0.46541625,0.24732473,0.28725904
+2026-05-17,00:00,37,Serie A,Udinese,Cremonese,Away Win,0.3523246,0.2512317,0.3964437
+2026-05-24,00:00,38,Serie A,Fiorentina,Atalanta,Away Win,0.27608803,0.24278745,0.4811245
 2026-05-24,00:00,38,Serie A,Milan,Cagliari,Home Win,0.68058753,0.19230671,0.12710574
-2026-05-24,00:00,38,Serie A,Bologna,Milan,Away Win,0.22991247,0.23214228,0.5379453
-2026-05-24,00:00,38,Serie A,Torino,Juventus,Away Win,0.22218001,0.22976722,0.5480527
-2026-05-24,00:00,38,Serie A,Verona,Roma,Away Win,0.23973872,0.2348676,0.52539366
-2026-05-24,00:00,38,Serie A,Lazio,Pisa,Home Win,0.59325784,0.22175547,0.18498668
-2026-05-24,00:00,38,Serie A,Parma,Sassuolo,Home Win,0.37850925,0.2519641,0.36952668
-2026-05-24,00:00,38,Serie A,Napoli,Udinese,Home Win,0.6647848,0.19821441,0.13700074
-2026-05-24,00:00,38,Serie A,Cremonese,Como,Away Win,0.22988267,0.23230891,0.53780836
-2026-05-24,00:00,38,Serie A,Lecce,Genoa,Home Win,0.39965773,0.25186136,0.3484809
+2026-05-24,00:00,38,Serie A,Bologna,Inter,Away Win,0.23468176,0.23362385,0.5316944
+2026-05-24,00:00,38,Serie A,Torino,Juventus,Away Win,0.22700399,0.23138212,0.54161394
+2026-05-24,00:00,38,Serie A,Verona,Roma,Away Win,0.24167761,0.23541886,0.5229035
+2026-05-24,00:00,38,Serie A,Lazio,Pisa,Home Win,0.56834966,0.22873932,0.20291097
+2026-05-24,00:00,38,Serie A,Parma,Sassuolo,Home Win,0.3743481,0.25187898,0.3737729
+2026-05-24,00:00,38,Serie A,Napoli,Udinese,Home Win,0.7036999,0.1831917,0.11310841
+2026-05-24,00:00,38,Serie A,Cremonese,Como,Away Win,0.24071914,0.23527023,0.52401066
+2026-05-24,00:00,38,Serie A,Lecce,Genoa,Home Win,0.41920474,0.25115332,0.32964194
 2026-01-16,18:00,18,Ligue 1,Monaco,Lorient,Home Win,0.4495229,0.2488905,0.3015866
-2026-01-16,20:00,18,Ligue 1,Paris SG,Lille,Home Win,0.55232584,0.23264626,0.2150279
+2026-01-16,20:00,18,Ligue 1,Paris SG,Lille,Home Win,0.55232584,0.23264623,0.21502793
 2026-01-17,16:00,18,Ligue 1,Lens,Auxerre,Home Win,0.68571335,0.19033234,0.12395431
-2026-01-17,18:00,18,Ligue 1,Toulouse,Nice,Home Win,0.55104744,0.23315123,0.21580128
+2026-01-17,18:00,18,Ligue 1,Toulouse,Nice,Home Win,0.55104744,0.23315121,0.2158013
 2026-01-17,20:05,18,Ligue 1,Angers,Marseille,Away Win,0.24549744,0.23658828,0.51791424
 2026-01-18,14:00,18,Ligue 1,Strasbourg,Metz,Home Win,0.54129976,0.23535773,0.2233425
 2026-01-18,16:15,18,Ligue 1,Nantes,Paris FC,Away Win,0.3679784,0.25170535,0.38031623
-2026-01-18,16:15,18,Ligue 1,Rennes,Le Havre,Home Win,0.60123605,0.21938625,0.17937775
+2026-01-18,16:15,18,Ligue 1,Rennes,Le Havre,Home Win,0.601236,0.21938626,0.17937778
 2026-01-18,19:45,18,Ligue 1,Lyon,Brest,Home Win,0.5100128,0.24134092,0.24864624
-2026-01-23,19:00,19,Ligue 1,Auxerre,Paris SG,Away Win,0.225095,0.23072337,0.54418164
-2026-01-24,16:00,19,Ligue 1,Rennes,Lorient,Home Win,0.55657864,0.23176138,0.21166003
+2026-01-23,19:00,19,Ligue 1,Auxerre,Paris SG,Away Win,0.22509499,0.23072335,0.5441817
+2026-01-24,16:00,19,Ligue 1,Rennes,Lorient,Home Win,0.5565786,0.23176135,0.21166003
 2026-01-24,18:00,19,Ligue 1,Le Havre,Monaco,Away Win,0.32148698,0.24884124,0.4296718
 2026-01-24,20:05,19,Ligue 1,Marseille,Lens,Home Win,0.40776476,0.25161278,0.34062248
 2026-01-25,14:00,19,Ligue 1,Nantes,Nice,Away Win,0.32590163,0.24912061,0.42497784
@@ -388,18 +385,18 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-01-31,16:00,20,Ligue 1,Paris FC,Marseille,Away Win,0.22848707,0.23171952,0.5397934
 2026-01-31,18:00,20,Ligue 1,Lorient,Nantes,Home Win,0.5407346,0.23549639,0.22376907
 2026-01-31,20:05,20,Ligue 1,Monaco,Rennes,Away Win,0.31412882,0.24831058,0.4375606
-2026-02-01,14:00,20,Ligue 1,Lyon,Lille,Away Win,0.27143264,0.24159864,0.48696876
+2026-02-01,14:00,20,Ligue 1,Lyon,Lille,Away Win,0.27143258,0.24159864,0.48696876
 2026-02-01,16:15,20,Ligue 1,Toulouse,Auxerre,Home Win,0.58659786,0.2236828,0.18971936
-2026-02-01,16:15,20,Ligue 1,Nice,Brest,Away Win,0.34046203,0.2506843,0.4088537
+2026-02-01,16:15,20,Ligue 1,Nice,Brest,Away Win,0.34046203,0.2506843,0.40885374
 2026-02-01,16:15,20,Ligue 1,Angers,Metz,Home Win,0.572881,0.22751366,0.19960533
 2026-02-01,19:45,20,Ligue 1,Strasbourg,Paris SG,Away Win,0.22910751,0.23197368,0.53891873
-2026-02-08,00:00,21,Ligue 1,Le Havre,Strasbourg,Away Win,0.31632796,0.24856016,0.43511194
+2026-02-08,00:00,21,Ligue 1,Le Havre,Strasbourg,Away Win,0.3163279,0.24856016,0.43511188
 2026-02-08,00:00,21,Ligue 1,Auxerre,Paris FC,Home Win,0.40433338,0.2515312,0.34413537
 2026-02-08,00:00,21,Ligue 1,Metz,Lille,Away Win,0.23987204,0.23497763,0.52515036
 2026-02-08,00:00,21,Ligue 1,Nantes,Lyon,Away Win,0.254235,0.23855262,0.5072124
 2026-02-08,00:00,21,Ligue 1,Nice,Monaco,Away Win,0.32495162,0.24914423,0.42590412
-2026-02-08,00:00,21,Ligue 1,Paris SG,Marseille,Home Win,0.5463508,0.2340324,0.21961688
-2026-02-08,00:00,21,Ligue 1,Lens,Rennes,Home Win,0.55737233,0.23161899,0.21100868
+2026-02-08,00:00,21,Ligue 1,Paris SG,Marseille,Home Win,0.54635066,0.23403236,0.21961692
+2026-02-08,00:00,21,Ligue 1,Lens,Rennes,Home Win,0.55737233,0.231619,0.21100868
 2026-02-08,00:00,21,Ligue 1,Angers,Toulouse,Away Win,0.34638557,0.25037104,0.4032434
 2026-02-08,00:00,21,Ligue 1,Brest,Lorient,Home Win,0.4484743,0.24885073,0.30267498
 2026-02-15,00:00,22,Ligue 1,Le Havre,Toulouse,Away Win,0.27372676,0.24238922,0.483884
@@ -408,24 +405,24 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-02-15,00:00,22,Ligue 1,Metz,Auxerre,Away Win,0.35879716,0.251368,0.3898349
 2026-02-15,00:00,22,Ligue 1,Paris FC,Lens,Away Win,0.22610977,0.23093769,0.5429526
 2026-02-15,00:00,22,Ligue 1,Lyon,Nice,Home Win,0.55359495,0.23249912,0.21390599
-2026-02-15,00:00,22,Ligue 1,Marseille,Strasbourg,Home Win,0.62774813,0.21104822,0.16120364
-2026-02-15,00:00,22,Ligue 1,Lille,Brest,Home Win,0.5936322,0.22164488,0.18472295
+2026-02-15,00:00,22,Ligue 1,Marseille,Strasbourg,Home Win,0.6277481,0.21104823,0.16120367
+2026-02-15,00:00,22,Ligue 1,Lille,Brest,Home Win,0.59363216,0.2216449,0.18472297
 2026-02-15,00:00,22,Ligue 1,Rennes,Paris SG,Away Win,0.25715125,0.23926596,0.50358284
 2026-02-22,00:00,23,Ligue 1,Auxerre,Rennes,Away Win,0.27184683,0.24225119,0.485902
 2026-02-22,00:00,23,Ligue 1,Nantes,Le Havre,Away Win,0.35437796,0.25119665,0.39442536
-2026-02-22,00:00,23,Ligue 1,Toulouse,Paris FC,Home Win,0.5952739,0.22116023,0.18356583
-2026-02-22,00:00,23,Ligue 1,Nice,Lorient,Away Win,0.37378478,0.25186536,0.37434983
+2026-02-22,00:00,23,Ligue 1,Toulouse,Paris FC,Home Win,0.5952739,0.22116022,0.18356587
+2026-02-22,00:00,23,Ligue 1,Nice,Lorient,Away Win,0.37378478,0.25186536,0.3743499
 2026-02-22,00:00,23,Ligue 1,Paris SG,Metz,Home Win,0.7441463,0.16586061,0.08999311
-2026-02-22,00:00,23,Ligue 1,Strasbourg,Lyon,Away Win,0.34423095,0.2505363,0.40523273
+2026-02-22,00:00,23,Ligue 1,Strasbourg,Lyon,Away Win,0.34423095,0.2505363,0.4052327
 2026-02-22,00:00,23,Ligue 1,Lens,Monaco,Home Win,0.6191778,0.21382059,0.16700158
 2026-02-22,00:00,23,Ligue 1,Angers,Lille,Away Win,0.24842256,0.23722629,0.5143511
-2026-02-22,00:00,23,Ligue 1,Brest,Marseille,Away Win,0.23364396,0.23333377,0.5330223
-2026-03-01,00:00,24,Ligue 1,Le Havre,Paris SG,Away Win,0.22339924,0.23005693,0.54654384
-2026-03-01,00:00,24,Ligue 1,Monaco,Angers,Home Win,0.37697455,0.25157088,0.3714545
-2026-03-01,00:00,24,Ligue 1,Lorient,Auxerre,Home Win,0.49411133,0.24390516,0.2619835
+2026-02-22,00:00,23,Ligue 1,Brest,Marseille,Away Win,0.23364395,0.23333374,0.5330223
+2026-03-01,00:00,24,Ligue 1,Le Havre,Paris SG,Away Win,0.22339922,0.23005694,0.54654384
+2026-03-01,00:00,24,Ligue 1,Monaco,Angers,Home Win,0.37697455,0.25157088,0.37145454
+2026-03-01,00:00,24,Ligue 1,Lorient,Auxerre,Home Win,0.49411133,0.24390517,0.2619835
 2026-03-01,00:00,24,Ligue 1,Metz,Brest,Away Win,0.31365123,0.24811251,0.4382363
 2026-03-01,00:00,24,Ligue 1,Paris FC,Nice,Away Win,0.34172276,0.25021654,0.4080607
-2026-03-01,00:00,24,Ligue 1,Marseille,Lyon,Home Win,0.5739063,0.2272346,0.19885918
+2026-03-01,00:00,24,Ligue 1,Marseille,Lyon,Home Win,0.5739063,0.2272346,0.19885914
 2026-03-01,00:00,24,Ligue 1,Lille,Nantes,Home Win,0.6847983,0.19068547,0.12451627
 2026-03-01,00:00,24,Ligue 1,Strasbourg,Lens,Away Win,0.23309606,0.23316604,0.53373796
 2026-03-01,00:00,24,Ligue 1,Rennes,Toulouse,Home Win,0.47702658,0.24564679,0.27732658
@@ -435,48 +432,48 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-03-08,00:00,25,Ligue 1,Nice,Rennes,Away Win,0.27229342,0.24220805,0.48549852
 2026-03-08,00:00,25,Ligue 1,Lyon,Paris FC,Home Win,0.5946255,0.22135119,0.18402337
 2026-03-08,00:00,25,Ligue 1,Lille,Lorient,Home Win,0.5990036,0.22005232,0.18094407
-2026-03-08,00:00,25,Ligue 1,Paris SG,Monaco,Home Win,0.67620474,0.19396947,0.12982579
-2026-03-08,00:00,25,Ligue 1,Lens,Metz,Home Win,0.69812846,0.18544172,0.116429836
-2026-03-08,00:00,25,Ligue 1,Brest,Le Havre,Home Win,0.5094265,0.24151348,0.24906
+2026-03-08,00:00,25,Ligue 1,Paris SG,Monaco,Home Win,0.67620474,0.19396944,0.12982579
+2026-03-08,00:00,25,Ligue 1,Lens,Metz,Home Win,0.6981285,0.1854417,0.116429806
+2026-03-08,00:00,25,Ligue 1,Brest,Le Havre,Home Win,0.5094265,0.24151349,0.24906
 2026-03-15,00:00,26,Ligue 1,Le Havre,Lyon,Away Win,0.27804932,0.24322726,0.4787234
-2026-03-15,00:00,26,Ligue 1,Monaco,Brest,Home Win,0.42581952,0.25076056,0.32342
+2026-03-15,00:00,26,Ligue 1,Monaco,Brest,Home Win,0.42581952,0.2507605,0.32341996
 2026-03-15,00:00,26,Ligue 1,Lorient,Lens,Away Win,0.23314829,0.23307975,0.53377193
 2026-03-15,00:00,26,Ligue 1,Metz,Toulouse,Away Win,0.26148957,0.24008465,0.49842578
 2026-03-15,00:00,26,Ligue 1,Marseille,Auxerre,Home Win,0.67609954,0.19400851,0.12989195
-2026-03-15,00:00,26,Ligue 1,Paris SG,Nantes,Home Win,0.7551259,0.1608387,0.084035434
+2026-03-15,00:00,26,Ligue 1,Paris SG,Nantes,Home Win,0.7551259,0.16083868,0.084035434
 2026-03-15,00:00,26,Ligue 1,Strasbourg,Paris FC,Home Win,0.5210587,0.2394516,0.23948966
 2026-03-15,00:00,26,Ligue 1,Angers,Nice,Home Win,0.50728196,0.24172752,0.25099054
 2026-03-15,00:00,26,Ligue 1,Rennes,Lille,Away Win,0.33596706,0.24943492,0.41459802
 2026-03-22,00:00,27,Ligue 1,Auxerre,Brest,Away Win,0.31580362,0.24839944,0.43579692
 2026-03-22,00:00,27,Ligue 1,Nantes,Strasbourg,Away Win,0.27560735,0.24254338,0.48184928
-2026-03-22,00:00,27,Ligue 1,Paris FC,Le Havre,Away Win,0.37233558,0.25166792,0.37599653
-2026-03-22,00:00,27,Ligue 1,Toulouse,Lorient,Home Win,0.50492626,0.24204645,0.2530273
-2026-03-22,00:00,27,Ligue 1,Nice,Paris SG,Away Win,0.23032036,0.23209675,0.5375829
+2026-03-22,00:00,27,Ligue 1,Paris FC,Le Havre,Away Win,0.37233558,0.25166795,0.37599653
+2026-03-22,00:00,27,Ligue 1,Toulouse,Lorient,Home Win,0.50492626,0.24204645,0.25302732
+2026-03-22,00:00,27,Ligue 1,Nice,Paris SG,Away Win,0.23032036,0.23209678,0.5375829
 2026-03-22,00:00,27,Ligue 1,Lyon,Monaco,Home Win,0.5081202,0.24142286,0.250457
-2026-03-22,00:00,27,Ligue 1,Marseille,Lille,Home Win,0.44682863,0.24905105,0.30412027
-2026-03-22,00:00,27,Ligue 1,Lens,Angers,Home Win,0.6025714,0.21898703,0.1784415
-2026-03-22,00:00,27,Ligue 1,Rennes,Metz,Home Win,0.6378231,0.20769879,0.15447813
-2026-04-05,00:00,28,Ligue 1,Le Havre,Auxerre,Home Win,0.44075853,0.24981375,0.30942768
+2026-03-22,00:00,27,Ligue 1,Marseille,Lille,Home Win,0.44682866,0.24905106,0.30412027
+2026-03-22,00:00,27,Ligue 1,Lens,Angers,Home Win,0.6025714,0.21898702,0.17844152
+2026-03-22,00:00,27,Ligue 1,Rennes,Metz,Home Win,0.6378231,0.20769879,0.15447815
+2026-04-05,00:00,28,Ligue 1,Le Havre,Auxerre,Home Win,0.44075856,0.24981374,0.3094277
 2026-04-05,00:00,28,Ligue 1,Monaco,Marseille,Away Win,0.2432508,0.23582761,0.5209216
-2026-04-05,00:00,28,Ligue 1,Lorient,Paris FC,Home Win,0.5103082,0.2414164,0.24827543
-2026-04-05,00:00,28,Ligue 1,Metz,Nantes,Home Win,0.39398307,0.25156203,0.35445493
+2026-04-05,00:00,28,Ligue 1,Lorient,Paris FC,Home Win,0.5103082,0.24141638,0.24827541
+2026-04-05,00:00,28,Ligue 1,Metz,Nantes,Home Win,0.393983,0.25156203,0.35445493
 2026-04-05,00:00,28,Ligue 1,Lille,Lens,Home Win,0.3758493,0.25217512,0.3719756
-2026-04-05,00:00,28,Ligue 1,Paris SG,Toulouse,Home Win,0.6363696,0.20818982,0.15544061
-2026-04-05,00:00,28,Ligue 1,Strasbourg,Nice,Home Win,0.4595378,0.2476728,0.29278937
+2026-04-05,00:00,28,Ligue 1,Paris SG,Toulouse,Home Win,0.6363696,0.20818982,0.15544063
+2026-04-05,00:00,28,Ligue 1,Strasbourg,Nice,Home Win,0.4595378,0.24767284,0.29278934
 2026-04-05,00:00,28,Ligue 1,Angers,Lyon,Away Win,0.36155948,0.25124693,0.38719362
 2026-04-05,00:00,28,Ligue 1,Brest,Rennes,Away Win,0.28433087,0.24421372,0.47145543
-2026-04-12,00:00,29,Ligue 1,Auxerre,Nantes,Home Win,0.43631765,0.24977274,0.31390968
-2026-04-12,00:00,29,Ligue 1,Paris FC,Monaco,Away Win,0.3025598,0.24663389,0.4508063
-2026-04-12,00:00,29,Ligue 1,Toulouse,Lille,Away Win,0.27294132,0.24221583,0.4848429
+2026-04-12,00:00,29,Ligue 1,Auxerre,Nantes,Home Win,0.43631765,0.24977271,0.31390968
+2026-04-12,00:00,29,Ligue 1,Paris FC,Monaco,Away Win,0.3025598,0.2466339,0.4508063
+2026-04-12,00:00,29,Ligue 1,Toulouse,Lille,Away Win,0.2729413,0.2422158,0.4848429
 2026-04-12,00:00,29,Ligue 1,Nice,Le Havre,Home Win,0.42949048,0.25055522,0.3199543
 2026-04-12,00:00,29,Ligue 1,Lyon,Lorient,Home Win,0.5192085,0.23958594,0.24120563
-2026-04-12,00:00,29,Ligue 1,Marseille,Metz,Home Win,0.689413,0.18889256,0.121694416
+2026-04-12,00:00,29,Ligue 1,Marseille,Metz,Home Win,0.689413,0.18889257,0.12169442
 2026-04-12,00:00,29,Ligue 1,Lens,Paris SG,Away Win,0.34439117,0.2509376,0.4046712
 2026-04-12,00:00,29,Ligue 1,Brest,Strasbourg,Home Win,0.4028804,0.25124756,0.345872
 2026-04-12,00:00,29,Ligue 1,Rennes,Angers,Home Win,0.52205396,0.23907408,0.23887199
 2026-04-19,00:00,30,Ligue 1,Monaco,Auxerre,Home Win,0.5273382,0.23837367,0.23428816
 2026-04-19,00:00,30,Ligue 1,Lorient,Marseille,Away Win,0.23019382,0.23234361,0.5374626
-2026-04-19,00:00,30,Ligue 1,Metz,Paris FC,Away Win,0.37265795,0.2517217,0.37562037
+2026-04-19,00:00,30,Ligue 1,Metz,Paris FC,Away Win,0.37265795,0.2517217,0.37562034
 2026-04-19,00:00,30,Ligue 1,Nantes,Brest,Away Win,0.3060953,0.24736583,0.4465388
 2026-04-19,00:00,30,Ligue 1,Lille,Nice,Home Win,0.63648546,0.20814592,0.15536861
 2026-04-19,00:00,30,Ligue 1,Paris SG,Lyon,Home Win,0.6393948,0.20716673,0.15343839
@@ -489,35 +486,35 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-04-26,00:00,31,Ligue 1,Toulouse,Monaco,Home Win,0.50752175,0.24166062,0.2508176
 2026-04-26,00:00,31,Ligue 1,Lyon,Auxerre,Home Win,0.5887105,0.22307575,0.18821377
 2026-04-26,00:00,31,Ligue 1,Marseille,Nice,Home Win,0.65683943,0.20108368,0.14207685
-2026-04-26,00:00,31,Ligue 1,Angers,Paris SG,Away Win,0.23641689,0.23399305,0.52959013
+2026-04-26,00:00,31,Ligue 1,Angers,Paris SG,Away Win,0.23641686,0.23399304,0.52959013
 2026-04-26,00:00,31,Ligue 1,Brest,Lens,Away Win,0.23316494,0.23308691,0.5337482
-2026-04-26,00:00,31,Ligue 1,Rennes,Nantes,Home Win,0.6530559,0.20243093,0.14451317
+2026-04-26,00:00,31,Ligue 1,Rennes,Nantes,Home Win,0.6530559,0.20243087,0.14451316
 2026-05-03,00:00,32,Ligue 1,Auxerre,Angers,Away Win,0.2880812,0.24474347,0.4671753
-2026-05-03,00:00,32,Ligue 1,Metz,Monaco,Away Win,0.29993066,0.2463792,0.45369008
+2026-05-03,00:00,32,Ligue 1,Metz,Monaco,Away Win,0.2999307,0.2463792,0.45369008
 2026-05-03,00:00,32,Ligue 1,Nantes,Marseille,Away Win,0.23045807,0.23235591,0.53718597
-2026-05-03,00:00,32,Ligue 1,Paris FC,Brest,Away Win,0.3124776,0.24802612,0.43949628
-2026-05-03,00:00,32,Ligue 1,Nice,Lens,Away Win,0.2336139,0.23313715,0.53324896
+2026-05-03,00:00,32,Ligue 1,Paris FC,Brest,Away Win,0.31247765,0.24802612,0.4394963
+2026-05-03,00:00,32,Ligue 1,Nice,Lens,Away Win,0.23361386,0.23313715,0.53324896
 2026-05-03,00:00,32,Ligue 1,Lyon,Rennes,Home Win,0.38431185,0.25162244,0.36406565
 2026-05-03,00:00,32,Ligue 1,Lille,Le Havre,Home Win,0.6438231,0.20564835,0.15052854
-2026-05-03,00:00,32,Ligue 1,Paris SG,Lorient,Home Win,0.6841493,0.19093835,0.12491237
+2026-05-03,00:00,32,Ligue 1,Paris SG,Lorient,Home Win,0.68414927,0.19093834,0.124912396
 2026-05-03,00:00,32,Ligue 1,Strasbourg,Toulouse,Away Win,0.3567749,0.25108472,0.3921404
 2026-05-09,19:00,33,Ligue 1,Le Havre,Marseille,Away Win,0.22973159,0.23218974,0.53807867
 2026-05-09,19:00,33,Ligue 1,Auxerre,Nice,Away Win,0.34696585,0.25052908,0.402505
-2026-05-09,19:00,33,Ligue 1,Monaco,Lille,Away Win,0.25595146,0.23899119,0.5050574
+2026-05-09,19:00,33,Ligue 1,Monaco,Lille,Away Win,0.2559515,0.23899119,0.5050574
 2026-05-09,19:00,33,Ligue 1,Metz,Lorient,Away Win,0.32563323,0.24914722,0.4252196
 2026-05-09,19:00,33,Ligue 1,Toulouse,Lyon,Home Win,0.42828104,0.25037527,0.32134363
-2026-05-09,19:00,33,Ligue 1,Paris SG,Brest,Home Win,0.6788205,0.1929812,0.12819828
-2026-05-09,19:00,33,Ligue 1,Lens,Nantes,Home Win,0.7114643,0.18000416,0.1085315
-2026-05-09,19:00,33,Ligue 1,Angers,Strasbourg,Home Win,0.44045198,0.24947098,0.31007698
+2026-05-09,19:00,33,Ligue 1,Paris SG,Brest,Home Win,0.6788205,0.1929812,0.1281983
+2026-05-09,19:00,33,Ligue 1,Lens,Nantes,Home Win,0.7114643,0.18000416,0.10853152
+2026-05-09,19:00,33,Ligue 1,Angers,Strasbourg,Home Win,0.44045204,0.24947101,0.310077
 2026-05-09,19:00,33,Ligue 1,Rennes,Paris FC,Home Win,0.6288203,0.2106992,0.16048048
 2026-05-16,19:00,34,Ligue 1,Lorient,Le Havre,Home Win,0.47751772,0.24614178,0.2763405
-2026-05-16,19:00,34,Ligue 1,Nantes,Toulouse,Away Win,0.2612329,0.24010606,0.498661
+2026-05-16,19:00,34,Ligue 1,Nantes,Toulouse,Away Win,0.2612329,0.24010608,0.498661
 2026-05-16,19:00,34,Ligue 1,Paris FC,Paris SG,Away Win,0.22266826,0.22972909,0.54760265
 2026-05-16,19:00,34,Ligue 1,Nice,Metz,Home Win,0.4802164,0.24578533,0.2739983
 2026-05-16,19:00,34,Ligue 1,Lyon,Lens,Away Win,0.24894047,0.23725975,0.5137998
 2026-05-16,19:00,34,Ligue 1,Marseille,Rennes,Home Win,0.5385536,0.23610444,0.22534199
 2026-05-16,19:00,34,Ligue 1,Lille,Auxerre,Home Win,0.6578214,0.20073132,0.14144723
-2026-05-16,19:00,34,Ligue 1,Strasbourg,Monaco,Home Win,0.4025661,0.25113687,0.34629706
+2026-05-16,19:00,34,Ligue 1,Strasbourg,Monaco,Home Win,0.40256608,0.25113684,0.34629706
 2026-05-16,19:00,34,Ligue 1,Brest,Angers,Away Win,0.35704494,0.2508265,0.3921285
 2026-01-09,20:00,19,La Liga,Getafe,Sociedad,Home Win,0.38449568,0.25175446,0.36374977
 2026-01-10,13:00,19,La Liga,Oviedo,Betis,Away Win,0.26919943,0.241809,0.48899162
@@ -525,46 +522,46 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-01-10,17:30,19,La Liga,Girona,Osasuna,Away Win,0.3402802,0.2503155,0.40940425
 2026-01-10,20:00,19,La Liga,Valencia,Elche,Away Win,0.3433644,0.2501316,0.406504
 2026-01-11,13:00,19,La Liga,Vallecano,Mallorca,Away Win,0.36467472,0.25175092,0.3835744
-2026-01-11,15:15,19,La Liga,Levante,Espanol,Away Win,0.23188834,0.2331362,0.5349754
-2026-01-12,20:00,19,La Liga,Sevilla,Celta,Away Win,0.28329077,0.2440925,0.4726167
-2026-01-16,20:00,20,La Liga,Espanol,Girona,Home Win,0.6339554,0.20899543,0.15704915
+2026-01-11,15:15,19,La Liga,Levante,Espanol,Away Win,0.23188834,0.23313622,0.53497547
+2026-01-12,20:00,19,La Liga,Sevilla,Celta,Away Win,0.2832908,0.2440925,0.4726167
+2026-01-16,20:00,20,La Liga,Espanol,Girona,Home Win,0.6339554,0.20899543,0.15704912
 2026-01-17,13:00,20,La Liga,Real Madrid,Levante,Home Win,0.708014,0.18143035,0.11055562
 2026-01-17,15:15,20,La Liga,Mallorca,Athletic Club,Away Win,0.3697733,0.25132224,0.37890443
 2026-01-17,17:30,20,La Liga,Osasuna,Oviedo,Home Win,0.5397501,0.23569311,0.22455679
 2026-01-17,20:00,20,La Liga,Betis,Villarreal,Away Win,0.28373167,0.24376178,0.47250655
 2026-01-18,13:00,20,La Liga,Getafe,Valencia,Away Win,0.37078217,0.25200418,0.37721363
-2026-01-18,15:15,20,La Liga,Ath Madrid,Alaves,Home Win,0.6607215,0.19968946,0.13958909
-2026-01-18,17:30,20,La Liga,Celta,Vallecano,Home Win,0.571305,0.22794329,0.20075172
+2026-01-18,15:15,20,La Liga,Ath Madrid,Alaves,Home Win,0.6607215,0.19968943,0.13958904
+2026-01-18,17:30,20,La Liga,Celta,Vallecano,Home Win,0.571305,0.22794329,0.2007517
 2026-01-18,20:00,20,La Liga,Sociedad,Barcelona,Away Win,0.2211546,0.2292237,0.5496217
 2026-01-19,20:00,20,La Liga,Elche,Sevilla,Home Win,0.462537,0.24777499,0.289688
 2026-01-23,20:00,21,La Liga,Levante,Elche,Away Win,0.30045378,0.24638069,0.45316556
-2026-01-24,13:00,21,La Liga,Vallecano,Osasuna,Away Win,0.36429316,0.2517289,0.38397798
+2026-01-24,13:00,21,La Liga,Vallecano,Osasuna,Away Win,0.36429316,0.2517289,0.38397795
 2026-01-24,15:15,21,La Liga,Valencia,Espanol,Away Win,0.23442443,0.2337489,0.5318267
 2026-01-24,17:30,21,La Liga,Sevilla,Athletic Club,Away Win,0.36222777,0.251451,0.38632128
 2026-01-24,20:00,21,La Liga,Villarreal,Real Madrid,Home Win,0.43313769,0.2503362,0.31652614
 2026-01-25,13:00,21,La Liga,Ath Madrid,Mallorca,Home Win,0.6243899,0.21214586,0.16346423
 2026-01-25,15:15,21,La Liga,Barcelona,Oviedo,Home Win,0.7609261,0.15813017,0.08094373
-2026-01-25,17:30,21,La Liga,Sociedad,Celta,Away Win,0.28001684,0.24356109,0.47642207
+2026-01-25,17:30,21,La Liga,Sociedad,Celta,Away Win,0.28001684,0.2435611,0.47642207
 2026-01-25,20:00,21,La Liga,Alaves,Betis,Away Win,0.26884806,0.2415413,0.48961064
 2026-01-26,20:00,21,La Liga,Girona,Getafe,Home Win,0.38556197,0.25177702,0.36266097
 2026-02-01,00:00,22,La Liga,Athletic Club,Sociedad,Home Win,0.478159,0.24590641,0.27593458
 2026-02-01,00:00,22,La Liga,Betis,Valencia,Home Win,0.5973844,0.22053769,0.1820779
 2026-02-01,00:00,22,La Liga,Mallorca,Sevilla,Home Win,0.4311864,0.25019103,0.31862262
-2026-02-01,00:00,22,La Liga,Osasuna,Villarreal,Away Win,0.22786425,0.23154458,0.5405911
-2026-02-01,00:00,22,La Liga,Espanol,Alaves,Home Win,0.61605066,0.2148128,0.16913657
+2026-02-01,00:00,22,La Liga,Osasuna,Villarreal,Away Win,0.22786424,0.2315446,0.5405912
+2026-02-01,00:00,22,La Liga,Espanol,Alaves,Home Win,0.61605066,0.2148128,0.16913658
 2026-02-01,00:00,22,La Liga,Levante,Ath Madrid,Away Win,0.2305721,0.23247941,0.53694844
 2026-02-01,00:00,22,La Liga,Elche,Barcelona,Away Win,0.23567598,0.23356909,0.5307549
 2026-02-01,00:00,22,La Liga,Getafe,Celta,Away Win,0.27595764,0.24295084,0.4810915
-2026-02-01,00:00,22,La Liga,Oviedo,Girona,Away Win,0.3411543,0.25035495,0.40849075
-2026-02-01,00:00,22,La Liga,Real Madrid,Vallecano,Home Win,0.6602325,0.19986743,0.13990007
-2026-02-08,00:00,23,La Liga,Alaves,Getafe,Home Win,0.40967026,0.25156835,0.33876142
+2026-02-01,00:00,22,La Liga,Oviedo,Girona,Away Win,0.3411543,0.25035495,0.40849078
+2026-02-01,00:00,22,La Liga,Real Madrid,Vallecano,Home Win,0.6602325,0.19986743,0.13990009
+2026-02-08,00:00,23,La Liga,Alaves,Getafe,Home Win,0.40967026,0.25156835,0.3387614
 2026-02-08,00:00,23,La Liga,Athletic Club,Levante,Home Win,0.53786945,0.23608324,0.22604732
-2026-02-08,00:00,23,La Liga,Ath Madrid,Betis,Home Win,0.50132513,0.24233851,0.25633633
-2026-02-08,00:00,23,La Liga,Barcelona,Mallorca,Home Win,0.7058897,0.18230173,0.11180857
+2026-02-08,00:00,23,La Liga,Ath Madrid,Betis,Home Win,0.50132513,0.24233851,0.2563363
+2026-02-08,00:00,23,La Liga,Barcelona,Mallorca,Home Win,0.7058897,0.18230173,0.11180854
 2026-02-08,00:00,23,La Liga,Celta,Osasuna,Home Win,0.5296479,0.23780441,0.23254772
 2026-02-08,00:00,23,La Liga,Sociedad,Elche,Away Win,0.33408406,0.24989185,0.4160241
 2026-02-08,00:00,23,La Liga,Villarreal,Espanol,Home Win,0.5271363,0.238303,0.23456067
-2026-02-08,00:00,23,La Liga,Sevilla,Girona,Home Win,0.46200147,0.24770066,0.29029784
+2026-02-08,00:00,23,La Liga,Sevilla,Girona,Home Win,0.46200147,0.24770066,0.29029787
 2026-02-08,00:00,23,La Liga,Valencia,Real Madrid,Away Win,0.22937694,0.23212981,0.5384932
 2026-02-08,00:00,23,La Liga,Vallecano,Oviedo,Home Win,0.47590452,0.24642418,0.27767128
 2026-02-15,00:00,24,La Liga,Elche,Osasuna,Home Win,0.42983767,0.2503292,0.31983313
@@ -575,82 +572,82 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-02-15,00:00,24,La Liga,Oviedo,Athletic Club,Away Win,0.30225104,0.2466058,0.45114318
 2026-02-15,00:00,24,La Liga,Vallecano,Ath Madrid,Away Win,0.22489832,0.23071381,0.5443879
 2026-02-15,00:00,24,La Liga,Girona,Barcelona,Away Win,0.21878639,0.22838993,0.55282366
-2026-02-15,00:00,24,La Liga,Mallorca,Betis,Away Win,0.27472988,0.24240275,0.48286736
-2026-02-15,00:00,24,La Liga,Espanol,Celta,Home Win,0.48935175,0.24474397,0.26590434
+2026-02-15,00:00,24,La Liga,Mallorca,Betis,Away Win,0.2747299,0.24240273,0.48286733
+2026-02-15,00:00,24,La Liga,Espanol,Celta,Home Win,0.48935166,0.24474397,0.2659043
 2026-02-22,00:00,25,La Liga,Alaves,Girona,Home Win,0.41761,0.25110167,0.3312883
-2026-02-22,00:00,25,La Liga,Athletic Club,Elche,Home Win,0.3946779,0.25143293,0.3538892
-2026-02-22,00:00,25,La Liga,Ath Madrid,Espanol,Home Win,0.50642127,0.24200384,0.25157484
-2026-02-22,00:00,25,La Liga,Barcelona,Levante,Home Win,0.7652774,0.15607189,0.07865073
-2026-02-22,00:00,25,La Liga,Betis,Vallecano,Home Win,0.60269564,0.21894503,0.17835934
+2026-02-22,00:00,25,La Liga,Athletic Club,Elche,Home Win,0.39467788,0.2514329,0.35388917
+2026-02-22,00:00,25,La Liga,Ath Madrid,Espanol,Home Win,0.50642127,0.24200384,0.2515748
+2026-02-22,00:00,25,La Liga,Barcelona,Levante,Home Win,0.76527745,0.15607187,0.07865072
+2026-02-22,00:00,25,La Liga,Betis,Vallecano,Home Win,0.6026957,0.21894503,0.17835933
 2026-02-22,00:00,25,La Liga,Celta,Mallorca,Home Win,0.5456262,0.23443937,0.21993439
-2026-02-22,00:00,25,La Liga,Getafe,Sevilla,Home Win,0.37679484,0.2518942,0.37131092
+2026-02-22,00:00,25,La Liga,Getafe,Sevilla,Home Win,0.37679484,0.25189424,0.37131092
 2026-02-22,00:00,25,La Liga,Osasuna,Real Madrid,Away Win,0.22856808,0.23173983,0.5396921
-2026-02-22,00:00,25,La Liga,Villarreal,Valencia,Home Win,0.65971506,0.20005189,0.1402331
+2026-02-22,00:00,25,La Liga,Villarreal,Valencia,Home Win,0.659715,0.20005187,0.1402331
 2026-02-22,00:00,25,La Liga,Sociedad,Oviedo,Home Win,0.436593,0.24978817,0.3136189
 2026-03-01,00:00,26,La Liga,Barcelona,Villarreal,Home Win,0.55262315,0.23275879,0.21461806
-2026-03-01,00:00,26,La Liga,Betis,Sevilla,Home Win,0.5908112,0.22246885,0.18671997
+2026-03-01,00:00,26,La Liga,Betis,Sevilla,Home Win,0.5908112,0.22246885,0.18671992
 2026-03-01,00:00,26,La Liga,Elche,Espanol,Away Win,0.25276628,0.2379299,0.50930375
-2026-03-01,00:00,26,La Liga,Mallorca,Sociedad,Home Win,0.4460518,0.2488251,0.3051231
-2026-03-01,00:00,26,La Liga,Levante,Alaves,Away Win,0.35351485,0.25101262,0.39547256
+2026-03-01,00:00,26,La Liga,Mallorca,Sociedad,Home Win,0.44605184,0.2488251,0.3051231
+2026-03-01,00:00,26,La Liga,Levante,Alaves,Away Win,0.3535148,0.25101262,0.3954725
 2026-03-01,00:00,26,La Liga,Vallecano,Athletic Club,Away Win,0.3519867,0.2512527,0.3967606
 2026-03-01,00:00,26,La Liga,Oviedo,Ath Madrid,Away Win,0.23413128,0.23343912,0.53242964
 2026-03-01,00:00,26,La Liga,Girona,Celta,Away Win,0.272093,0.24212101,0.485786
 2026-03-01,00:00,26,La Liga,Real Madrid,Getafe,Home Win,0.6752338,0.19433539,0.13043086
 2026-03-01,00:00,26,La Liga,Valencia,Osasuna,Away Win,0.3644265,0.25124902,0.38432446
 2026-03-08,00:00,27,La Liga,Athletic Club,Barcelona,Away Win,0.22497201,0.23053294,0.54449505
-2026-03-08,00:00,27,La Liga,Ath Madrid,Sociedad,Home Win,0.667156,0.1973433,0.13550068
+2026-03-08,00:00,27,La Liga,Ath Madrid,Sociedad,Home Win,0.667156,0.19734329,0.13550068
 2026-03-08,00:00,27,La Liga,Celta,Real Madrid,Away Win,0.26490504,0.24070193,0.49439302
 2026-03-08,00:00,27,La Liga,Espanol,Oviedo,Home Win,0.64876074,0.2039374,0.14730187
 2026-03-08,00:00,27,La Liga,Valencia,Alaves,Home Win,0.4389827,0.2494783,0.31153902
-2026-03-08,00:00,27,La Liga,Getafe,Betis,Away Win,0.26677752,0.24123299,0.49198943
-2026-03-08,00:00,27,La Liga,Villarreal,Elche,Home Win,0.6086796,0.21711673,0.17420374
-2026-03-08,00:00,27,La Liga,Levante,Girona,Away Win,0.34051514,0.2503207,0.40916413
-2026-03-08,00:00,27,La Liga,Osasuna,Mallorca,Home Win,0.4279949,0.25045696,0.3215481
-2026-03-08,00:00,27,La Liga,Sevilla,Vallecano,Home Win,0.43082002,0.25027746,0.31890252
+2026-03-08,00:00,27,La Liga,Getafe,Betis,Away Win,0.26677752,0.241233,0.49198943
+2026-03-08,00:00,27,La Liga,Villarreal,Elche,Home Win,0.60867953,0.21711673,0.17420375
+2026-03-08,00:00,27,La Liga,Levante,Girona,Away Win,0.34051517,0.25032067,0.40916416
+2026-03-08,00:00,27,La Liga,Osasuna,Mallorca,Home Win,0.42799488,0.25045702,0.3215481
+2026-03-08,00:00,27,La Liga,Sevilla,Vallecano,Home Win,0.43082,0.25027746,0.31890252
 2026-03-15,00:00,28,La Liga,Alaves,Villarreal,Away Win,0.23212896,0.23269236,0.5351787
-2026-03-15,00:00,28,La Liga,Ath Madrid,Getafe,Home Win,0.6626817,0.1989785,0.13833985
+2026-03-15,00:00,28,La Liga,Ath Madrid,Getafe,Home Win,0.6626817,0.1989785,0.13833983
 2026-03-15,00:00,28,La Liga,Barcelona,Sevilla,Home Win,0.71716475,0.17762303,0.10521224
-2026-03-15,00:00,28,La Liga,Betis,Celta,Home Win,0.4729151,0.24646215,0.28062272
+2026-03-15,00:00,28,La Liga,Betis,Celta,Home Win,0.47291508,0.24646215,0.28062272
 2026-03-15,00:00,28,La Liga,Oviedo,Valencia,Away Win,0.33161795,0.24999933,0.4183827
 2026-03-15,00:00,28,La Liga,Girona,Athletic Club,Away Win,0.32622772,0.2492084,0.42456388
-2026-03-15,00:00,28,La Liga,Real Madrid,Elche,Home Win,0.61065125,0.2165068,0.17284195
-2026-03-15,00:00,28,La Liga,Mallorca,Espanol,Away Win,0.22843426,0.23173398,0.5398317
+2026-03-15,00:00,28,La Liga,Real Madrid,Elche,Home Win,0.61065125,0.21650682,0.17284198
+2026-03-15,00:00,28,La Liga,Mallorca,Espanol,Away Win,0.2284343,0.23173398,0.5398317
 2026-03-15,00:00,28,La Liga,Vallecano,Levante,Home Win,0.47903034,0.24606657,0.27490303
 2026-03-15,00:00,28,La Liga,Sociedad,Osasuna,Away Win,0.34975046,0.25098085,0.3992687
 2026-03-22,00:00,29,La Liga,Athletic Club,Betis,Away Win,0.27499765,0.24257472,0.48242757
 2026-03-22,00:00,29,La Liga,Barcelona,Vallecano,Home Win,0.7230257,0.17513701,0.1018373
 2026-03-22,00:00,29,La Liga,Elche,Mallorca,Home Win,0.43850517,0.24977322,0.31172162
-2026-03-22,00:00,29,La Liga,Espanol,Getafe,Home Win,0.61758864,0.21432517,0.16808625
+2026-03-22,00:00,29,La Liga,Espanol,Getafe,Home Win,0.6175886,0.21432514,0.1680862
 2026-03-22,00:00,29,La Liga,Levante,Oviedo,Away Win,0.36946693,0.25157094,0.37896204
-2026-03-22,00:00,29,La Liga,Sevilla,Valencia,Home Win,0.41225898,0.25151426,0.33622676
+2026-03-22,00:00,29,La Liga,Sevilla,Valencia,Home Win,0.41225898,0.2515143,0.33622673
 2026-03-22,00:00,29,La Liga,Celta,Alaves,Home Win,0.5776909,0.22619417,0.19611497
-2026-03-22,00:00,29,La Liga,Real Madrid,Ath Madrid,Home Win,0.44760922,0.24906279,0.30332795
+2026-03-22,00:00,29,La Liga,Real Madrid,Ath Madrid,Home Win,0.44760922,0.2490628,0.30332795
 2026-03-22,00:00,29,La Liga,Osasuna,Girona,Home Win,0.49696678,0.24336036,0.25967282
 2026-03-22,00:00,29,La Liga,Villarreal,Sociedad,Home Win,0.6803941,0.19237898,0.12722693
-2026-04-05,00:00,30,La Liga,Alaves,Osasuna,Away Win,0.3597929,0.2514927,0.38871434
+2026-04-05,00:00,30,La Liga,Alaves,Osasuna,Away Win,0.3597929,0.2514927,0.38871437
 2026-04-05,00:00,30,La Liga,Ath Madrid,Barcelona,Away Win,0.32279322,0.2496163,0.42759043
 2026-04-05,00:00,30,La Liga,Betis,Espanol,Home Win,0.37860227,0.25089124,0.3705065
-2026-04-05,00:00,30,La Liga,Girona,Villarreal,Away Win,0.2222551,0.22966944,0.5480755
-2026-04-05,00:00,30,La Liga,Mallorca,Real Madrid,Away Win,0.22414663,0.23034137,0.545512
+2026-04-05,00:00,30,La Liga,Girona,Villarreal,Away Win,0.2222551,0.22966944,0.54807544
+2026-04-05,00:00,30,La Liga,Mallorca,Real Madrid,Away Win,0.2241466,0.23034139,0.54551196
 2026-04-05,00:00,30,La Liga,Oviedo,Sevilla,Away Win,0.34827265,0.25082472,0.40090266
 2026-04-05,00:00,30,La Liga,Getafe,Athletic Club,Away Win,0.33397466,0.2500364,0.4159889
 2026-04-05,00:00,30,La Liga,Valencia,Celta,Away Win,0.28164762,0.24384269,0.4745097
 2026-04-05,00:00,30,La Liga,Vallecano,Elche,Away Win,0.3421656,0.25056052,0.40727392
 2026-04-05,00:00,30,La Liga,Sociedad,Levante,Home Win,0.43759948,0.24969178,0.3127087
-2026-04-12,00:00,31,La Liga,Barcelona,Espanol,Home Win,0.6106645,0.21651097,0.17282456
+2026-04-12,00:00,31,La Liga,Barcelona,Espanol,Home Win,0.6106645,0.21651098,0.17282456
 2026-04-12,00:00,31,La Liga,Celta,Oviedo,Home Win,0.6207755,0.21331328,0.16591124
 2026-04-12,00:00,31,La Liga,Elche,Valencia,Home Win,0.45500323,0.24855879,0.29643795
-2026-04-12,00:00,31,La Liga,Mallorca,Vallecano,Home Win,0.42985615,0.24996804,0.3201758
+2026-04-12,00:00,31,La Liga,Mallorca,Vallecano,Home Win,0.42985618,0.24996805,0.3201758
 2026-04-12,00:00,31,La Liga,Sociedad,Alaves,Home Win,0.39658684,0.25169256,0.3517206
 2026-04-12,00:00,31,La Liga,Sevilla,Ath Madrid,Away Win,0.22767387,0.23148802,0.5408381
-2026-04-12,00:00,31,La Liga,Osasuna,Betis,Away Win,0.2754348,0.24259748,0.48196772
+2026-04-12,00:00,31,La Liga,Osasuna,Betis,Away Win,0.2754348,0.24259746,0.4819677
 2026-04-12,00:00,31,La Liga,Levante,Getafe,Away Win,0.35154527,0.25094932,0.3975054
 2026-04-12,00:00,31,La Liga,Real Madrid,Girona,Home Win,0.6900873,0.18863001,0.12128264
-2026-04-12,00:00,31,La Liga,Athletic Club,Villarreal,Away Win,0.22903298,0.23187439,0.5390926
+2026-04-12,00:00,31,La Liga,Athletic Club,Villarreal,Away Win,0.229033,0.23187439,0.53909266
 2026-04-19,00:00,32,La Liga,Alaves,Mallorca,Away Win,0.36040664,0.25158665,0.38800675
 2026-04-19,00:00,32,La Liga,Betis,Real Madrid,Away Win,0.28908682,0.24467416,0.46623898
-2026-04-19,00:00,32,La Liga,Espanol,Levante,Home Win,0.65391505,0.20212382,0.1439611
-2026-04-19,00:00,32,La Liga,Osasuna,Sevilla,Home Win,0.45182553,0.24881598,0.29935846
+2026-04-19,00:00,32,La Liga,Espanol,Levante,Home Win,0.65391505,0.20212382,0.14396113
+2026-04-19,00:00,32,La Liga,Osasuna,Sevilla,Home Win,0.4518255,0.24881601,0.2993585
 2026-04-19,00:00,32,La Liga,Vallecano,Sociedad,Home Win,0.41272122,0.25141215,0.33586666
 2026-04-19,00:00,32,La Liga,Ath Madrid,Athletic Club,Home Win,0.6226107,0.21271993,0.16466936
 2026-04-19,00:00,32,La Liga,Getafe,Barcelona,Away Win,0.225002,0.23057012,0.5444279
@@ -659,20 +656,20 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-04-19,00:00,32,La Liga,Valencia,Girona,Home Win,0.44664022,0.24881177,0.304548
 2026-04-22,00:00,33,La Liga,Athletic Club,Osasuna,Home Win,0.42233428,0.2507634,0.32690236
 2026-04-22,00:00,33,La Liga,Barcelona,Celta,Home Win,0.65362465,0.20223331,0.14414199
-2026-04-22,00:00,33,La Liga,Levante,Sevilla,Away Win,0.34792718,0.25081232,0.40126052
-2026-04-22,00:00,33,La Liga,Mallorca,Valencia,Home Win,0.42515552,0.2505446,0.32429987
+2026-04-22,00:00,33,La Liga,Levante,Sevilla,Away Win,0.34792715,0.25081232,0.40126055
+2026-04-22,00:00,33,La Liga,Mallorca,Valencia,Home Win,0.42515552,0.2505446,0.32429984
 2026-04-22,00:00,33,La Liga,Oviedo,Villarreal,Away Win,0.23765187,0.23437403,0.52797407
-2026-04-22,00:00,33,La Liga,Real Madrid,Alaves,Home Win,0.6734614,0.19500148,0.13153712
+2026-04-22,00:00,33,La Liga,Real Madrid,Alaves,Home Win,0.6734614,0.19500148,0.13153715
 2026-04-22,00:00,33,La Liga,Elche,Ath Madrid,Away Win,0.24290426,0.23560132,0.5214944
 2026-04-22,00:00,33,La Liga,Girona,Betis,Away Win,0.2633921,0.24032728,0.4962806
 2026-04-22,00:00,33,La Liga,Vallecano,Espanol,Away Win,0.22771592,0.2317034,0.5405807
 2026-04-22,00:00,33,La Liga,Sociedad,Getafe,Home Win,0.3922654,0.25176755,0.35596696
 2026-05-03,00:00,34,La Liga,Alaves,Athletic Club,Away Win,0.3477228,0.25096878,0.4013084
-2026-05-03,00:00,34,La Liga,Betis,Oviedo,Home Win,0.6528251,0.202512,0.14466284
+2026-05-03,00:00,34,La Liga,Betis,Oviedo,Home Win,0.6528252,0.20251198,0.14466284
 2026-05-03,00:00,34,La Liga,Celta,Elche,Home Win,0.51418805,0.24053417,0.24527779
 2026-05-03,00:00,34,La Liga,Espanol,Real Madrid,Away Win,0.316981,0.24909407,0.4339249
 2026-05-03,00:00,34,La Liga,Getafe,Vallecano,Away Win,0.37229052,0.25169903,0.37601045
-2026-05-03,00:00,34,La Liga,Girona,Mallorca,Away Win,0.33437866,0.24988204,0.41573936
+2026-05-03,00:00,34,La Liga,Girona,Mallorca,Away Win,0.33437866,0.24988203,0.41573936
 2026-05-03,00:00,34,La Liga,Valencia,Ath Madrid,Away Win,0.23047847,0.23250164,0.53701985
 2026-05-03,00:00,34,La Liga,Osasuna,Barcelona,Away Win,0.22393017,0.23021501,0.5458548
 2026-05-03,00:00,34,La Liga,Villarreal,Levante,Home Win,0.70881647,0.18109903,0.11008454
@@ -681,62 +678,62 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-10,00:00,35,La Liga,Ath Madrid,Celta,Home Win,0.5639838,0.22990108,0.20611517
 2026-05-10,00:00,35,La Liga,Barcelona,Real Madrid,Home Win,0.5527149,0.23274629,0.21453886
 2026-05-10,00:00,35,La Liga,Levante,Osasuna,Away Win,0.3134976,0.24798074,0.43852165
-2026-05-10,00:00,35,La Liga,Mallorca,Villarreal,Away Win,0.22339971,0.23010093,0.5464994
+2026-05-10,00:00,35,La Liga,Mallorca,Villarreal,Away Win,0.22339971,0.23010091,0.5464994
 2026-05-10,00:00,35,La Liga,Elche,Alaves,Home Win,0.49817494,0.24322066,0.2586044
-2026-05-10,00:00,35,La Liga,Sociedad,Betis,Away Win,0.26634076,0.2410303,0.49262893
-2026-05-10,00:00,35,La Liga,Sevilla,Espanol,Away Win,0.23115996,0.2326472,0.53619283
+2026-05-10,00:00,35,La Liga,Sociedad,Betis,Away Win,0.26634076,0.2410303,0.4926289
+2026-05-10,00:00,35,La Liga,Sevilla,Espanol,Away Win,0.23115993,0.2326472,0.53619283
 2026-05-10,00:00,35,La Liga,Oviedo,Getafe,Away Win,0.3509137,0.25097254,0.3981137
 2026-05-10,00:00,35,La Liga,Vallecano,Girona,Home Win,0.4381781,0.2499702,0.31185168
 2026-05-13,00:00,36,La Liga,Alaves,Barcelona,Away Win,0.22781625,0.23131679,0.5408669
-2026-05-13,00:00,36,La Liga,Betis,Elche,Home Win,0.54856765,0.23365195,0.21778035
+2026-05-13,00:00,36,La Liga,Betis,Elche,Home Win,0.54856765,0.233652,0.21778035
 2026-05-13,00:00,36,La Liga,Celta,Levante,Home Win,0.6237717,0.21234742,0.16388081
 2026-05-13,00:00,36,La Liga,Getafe,Mallorca,Away Win,0.34314284,0.2506741,0.406183
 2026-05-13,00:00,36,La Liga,Girona,Sociedad,Away Win,0.3638181,0.25138637,0.38479552
 2026-05-13,00:00,36,La Liga,Espanol,Athletic Club,Home Win,0.57703644,0.2263695,0.1965941
-2026-05-13,00:00,36,La Liga,Osasuna,Ath Madrid,Away Win,0.23022065,0.23226379,0.5375155
+2026-05-13,00:00,36,La Liga,Osasuna,Ath Madrid,Away Win,0.23022066,0.2322638,0.5375155
 2026-05-13,00:00,36,La Liga,Valencia,Vallecano,Home Win,0.41088662,0.25095066,0.33816272
-2026-05-13,00:00,36,La Liga,Villarreal,Sevilla,Home Win,0.6527512,0.20253704,0.14471173
-2026-05-13,00:00,36,La Liga,Real Madrid,Oviedo,Home Win,0.703067,0.18345153,0.11348145
+2026-05-13,00:00,36,La Liga,Villarreal,Sevilla,Home Win,0.6527512,0.20253706,0.14471173
+2026-05-13,00:00,36,La Liga,Real Madrid,Oviedo,Home Win,0.70306695,0.18345155,0.11348144
 2026-05-17,00:00,37,La Liga,Athletic Club,Celta,Away Win,0.2962182,0.2459941,0.4577877
-2026-05-17,00:00,37,La Liga,Ath Madrid,Girona,Home Win,0.6767382,0.19376943,0.12949231
+2026-05-17,00:00,37,La Liga,Ath Madrid,Girona,Home Win,0.67673826,0.19376941,0.12949233
 2026-05-17,00:00,37,La Liga,Barcelona,Betis,Home Win,0.61698824,0.21451938,0.16849239
 2026-05-17,00:00,37,La Liga,Elche,Getafe,Home Win,0.49772522,0.24336182,0.25891292
 2026-05-17,00:00,37,La Liga,Levante,Mallorca,Away Win,0.31172422,0.24788071,0.44039506
 2026-05-17,00:00,37,La Liga,Vallecano,Villarreal,Away Win,0.22312339,0.23009947,0.54677707
 2026-05-17,00:00,37,La Liga,Sociedad,Valencia,Away Win,0.36997533,0.25181323,0.3782114
-2026-05-17,00:00,37,La Liga,Oviedo,Alaves,Away Win,0.35369328,0.25105968,0.39524704
-2026-05-17,00:00,37,La Liga,Osasuna,Espanol,Away Win,0.23722704,0.23425746,0.52851546
+2026-05-17,00:00,37,La Liga,Oviedo,Alaves,Away Win,0.35369328,0.25105965,0.39524704
+2026-05-17,00:00,37,La Liga,Osasuna,Espanol,Away Win,0.23722705,0.23425746,0.5285155
 2026-05-17,00:00,37,La Liga,Sevilla,Real Madrid,Away Win,0.2253755,0.23074633,0.5438782
 2026-05-24,00:00,38,La Liga,Alaves,Vallecano,Home Win,0.39074022,0.2519473,0.3573124
 2026-05-24,00:00,38,La Liga,Betis,Levante,Home Win,0.65289176,0.20248857,0.14461964
 2026-05-24,00:00,38,La Liga,Celta,Sevilla,Home Win,0.55918825,0.23115051,0.20966126
 2026-05-24,00:00,38,La Liga,Espanol,Sociedad,Home Win,0.6233387,0.2124843,0.16417702
-2026-05-24,00:00,38,La Liga,Getafe,Osasuna,Away Win,0.34349105,0.25070798,0.405801
-2026-05-24,00:00,38,La Liga,Mallorca,Oviedo,Home Win,0.5181534,0.23974268,0.24210389
-2026-05-24,00:00,38,La Liga,Real Madrid,Athletic Club,Home Win,0.6364825,0.20814838,0.15536916
-2026-05-24,00:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.44267946,0.24954934,0.30777118
-2026-05-24,00:00,38,La Liga,Valencia,Barcelona,Away Win,0.22517,0.23078069,0.54404926
+2026-05-24,00:00,38,La Liga,Getafe,Osasuna,Away Win,0.34349105,0.25070795,0.405801
+2026-05-24,00:00,38,La Liga,Mallorca,Oviedo,Home Win,0.5181534,0.23974267,0.24210392
+2026-05-24,00:00,38,La Liga,Real Madrid,Athletic Club,Home Win,0.6364825,0.20814835,0.15536916
+2026-05-24,00:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.44267946,0.24954936,0.3077712
+2026-05-24,00:00,38,La Liga,Valencia,Barcelona,Away Win,0.22517,0.2307807,0.5440493
 2026-05-24,00:00,38,La Liga,Girona,Elche,Away Win,0.3180877,0.24831668,0.43359566
-2026-01-09,19:30,16,Bundesliga,Ein Frankfurt,Dortmund,Away Win,0.29405528,0.24574962,0.4601951
-2026-01-10,14:30,16,Bundesliga,Freiburg,Hamburg,Home Win,0.5148472,0.24057657,0.24457619
+2026-01-09,19:30,16,Bundesliga,Ein Frankfurt,Dortmund,Away Win,0.29405528,0.24574961,0.4601951
+2026-01-10,14:30,16,Bundesliga,Freiburg,Hamburg,Home Win,0.5148472,0.24057655,0.24457619
 2026-01-10,14:30,16,Bundesliga,Werder Bremen,Hoffenheim,Away Win,0.25750396,0.23921539,0.50328064
 2026-01-10,14:30,16,Bundesliga,Union Berlin,Mainz,Home Win,0.511164,0.24125245,0.24758351
 2026-01-10,14:30,16,Bundesliga,St Pauli,RB Leipzig,Away Win,0.24452354,0.23684667,0.51862985
-2026-01-10,14:30,16,Bundesliga,Heidenheim,FC Koln,Home Win,0.39115137,0.25188714,0.3569615
+2026-01-10,14:30,16,Bundesliga,Heidenheim,FC Koln,Home Win,0.39115134,0.25188714,0.35696146
 2026-01-10,17:30,16,Bundesliga,Leverkusen,Stuttgart,Home Win,0.47958302,0.24542606,0.2749909
-2026-01-11,14:30,16,Bundesliga,M'gladbach,Augsburg,Home Win,0.45868024,0.24803784,0.29328197
-2026-01-11,16:30,16,Bundesliga,Bayern Munich,Wolfsburg,Home Win,0.75162435,0.16245474,0.085920915
-2026-01-13,17:30,17,Bundesliga,Stuttgart,Ein Frankfurt,Home Win,0.41785854,0.25071198,0.33142945
-2026-01-13,19:30,17,Bundesliga,Dortmund,Werder Bremen,Home Win,0.681101,0.19210958,0.12678935
+2026-01-11,14:30,16,Bundesliga,M'gladbach,Augsburg,Home Win,0.45868024,0.24803784,0.2932819
+2026-01-11,16:30,16,Bundesliga,Bayern Munich,Wolfsburg,Home Win,0.75162435,0.16245475,0.085920915
+2026-01-13,17:30,17,Bundesliga,Stuttgart,Ein Frankfurt,Home Win,0.41785854,0.250712,0.33142945
+2026-01-13,19:30,17,Bundesliga,Dortmund,Werder Bremen,Home Win,0.6811011,0.19210958,0.12678932
 2026-01-13,19:30,17,Bundesliga,Mainz,Heidenheim,Home Win,0.37750146,0.25152135,0.3709772
 2026-01-13,19:30,17,Bundesliga,Hamburg,Leverkusen,Away Win,0.22851801,0.231943,0.539539
 2026-01-14,17:30,17,Bundesliga,Wolfsburg,St Pauli,Home Win,0.5259688,0.23831384,0.2357174
 2026-01-14,19:30,17,Bundesliga,RB Leipzig,Freiburg,Home Win,0.587844,0.22332112,0.18883485
 2026-01-14,19:30,17,Bundesliga,Hoffenheim,M'gladbach,Home Win,0.56474805,0.22969532,0.20555669
-2026-01-14,19:30,17,Bundesliga,FC Koln,Bayern Munich,Away Win,0.22288758,0.22987132,0.54724115
+2026-01-14,19:30,17,Bundesliga,FC Koln,Bayern Munich,Away Win,0.22288753,0.22987132,0.54724115
 2026-01-15,19:30,17,Bundesliga,Augsburg,Union Berlin,Away Win,0.34803954,0.25064087,0.4013196
 2026-01-16,19:30,18,Bundesliga,Werder Bremen,Ein Frankfurt,Away Win,0.25929192,0.23953602,0.50117207
-2026-01-17,14:30,18,Bundesliga,Hoffenheim,Leverkusen,Away Win,0.35564288,0.25100312,0.393354
+2026-01-17,14:30,18,Bundesliga,Hoffenheim,Leverkusen,Away Win,0.35564288,0.25100312,0.39335394
 2026-01-17,14:30,18,Bundesliga,FC Koln,Mainz,Home Win,0.43408924,0.2502167,0.31569403
 2026-01-17,14:30,18,Bundesliga,Hamburg,M'gladbach,Away Win,0.35393882,0.251104,0.39495713
 2026-01-17,14:30,18,Bundesliga,Dortmund,St Pauli,Home Win,0.7310328,0.17167795,0.09728924
@@ -746,81 +743,81 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-01-18,16:30,18,Bundesliga,Augsburg,Freiburg,Away Win,0.29230717,0.24514724,0.46254557
 2026-01-23,19:30,19,Bundesliga,St Pauli,Hamburg,Away Win,0.3330092,0.24997148,0.41701928
 2026-01-24,14:30,19,Bundesliga,Heidenheim,RB Leipzig,Away Win,0.2357541,0.2342105,0.53003544
-2026-01-24,14:30,19,Bundesliga,Leverkusen,Werder Bremen,Home Win,0.6162759,0.21474327,0.16898082
+2026-01-24,14:30,19,Bundesliga,Leverkusen,Werder Bremen,Home Win,0.61627597,0.21474329,0.16898082
 2026-01-24,14:30,19,Bundesliga,Mainz,Wolfsburg,Away Win,0.33763674,0.25027472,0.41208854
 2026-01-24,14:30,19,Bundesliga,Bayern Munich,Augsburg,Home Win,0.762142,0.15755603,0.08030202
 2026-01-24,14:30,19,Bundesliga,Ein Frankfurt,Hoffenheim,Home Win,0.3872023,0.25158226,0.36121538
-2026-01-24,17:30,19,Bundesliga,Union Berlin,Dortmund,Away Win,0.22417794,0.23037359,0.5454484
+2026-01-24,17:30,19,Bundesliga,Union Berlin,Dortmund,Away Win,0.22417794,0.23037362,0.5454485
 2026-01-25,14:30,19,Bundesliga,M'gladbach,Stuttgart,Away Win,0.27594858,0.24274404,0.4813074
-2026-01-25,16:30,19,Bundesliga,Freiburg,FC Koln,Home Win,0.5361121,0.2365262,0.2273616
+2026-01-25,16:30,19,Bundesliga,Freiburg,FC Koln,Home Win,0.5361121,0.23652622,0.22736165
 2026-01-30,19:30,20,Bundesliga,FC Koln,Wolfsburg,Away Win,0.3602484,0.25164708,0.38810444
 2026-01-31,14:30,20,Bundesliga,Ein Frankfurt,Leverkusen,Away Win,0.34173408,0.25062665,0.4076392
-2026-01-31,14:30,20,Bundesliga,RB Leipzig,Mainz,Home Win,0.65844005,0.20051005,0.14104994
+2026-01-31,14:30,20,Bundesliga,RB Leipzig,Mainz,Home Win,0.65844005,0.20051005,0.1410499
 2026-01-31,14:30,20,Bundesliga,Werder Bremen,M'gladbach,Home Win,0.38115224,0.25196812,0.36687964
 2026-01-31,14:30,20,Bundesliga,Hoffenheim,Union Berlin,Home Win,0.5762427,0.22659232,0.19716497
-2026-01-31,14:30,20,Bundesliga,Augsburg,St Pauli,Home Win,0.4765303,0.24589582,0.27757385
+2026-01-31,14:30,20,Bundesliga,Augsburg,St Pauli,Home Win,0.4765303,0.24589586,0.27757388
 2026-01-31,17:30,20,Bundesliga,Hamburg,Bayern Munich,Away Win,0.2180354,0.22815536,0.5538093
 2026-02-01,14:30,20,Bundesliga,Stuttgart,Freiburg,Home Win,0.5332342,0.23700236,0.2297635
-2026-02-01,16:30,20,Bundesliga,Dortmund,Heidenheim,Home Win,0.71716535,0.17762266,0.10521199
+2026-02-01,16:30,20,Bundesliga,Dortmund,Heidenheim,Home Win,0.7171654,0.17762263,0.105211996
 2026-02-06,19:30,21,Bundesliga,Union Berlin,Ein Frankfurt,Away Win,0.254635,0.2384484,0.50691664
-2026-02-07,14:30,21,Bundesliga,Wolfsburg,Dortmund,Away Win,0.22414336,0.23037554,0.54548115
-2026-02-07,14:30,21,Bundesliga,Freiburg,Werder Bremen,Home Win,0.48335835,0.2450663,0.2715753
-2026-02-07,14:30,21,Bundesliga,St Pauli,Stuttgart,Away Win,0.24591148,0.23689409,0.5171944
+2026-02-07,14:30,21,Bundesliga,Wolfsburg,Dortmund,Away Win,0.22414331,0.23037554,0.54548115
+2026-02-07,14:30,21,Bundesliga,Freiburg,Werder Bremen,Home Win,0.48335832,0.24506634,0.2715753
+2026-02-07,14:30,21,Bundesliga,St Pauli,Stuttgart,Away Win,0.24591146,0.23689409,0.51719445
 2026-02-07,14:30,21,Bundesliga,Mainz,Augsburg,Away Win,0.36092585,0.2514888,0.38758528
 2026-02-07,14:30,21,Bundesliga,Heidenheim,Hamburg,Away Win,0.3596976,0.2514094,0.38889295
 2026-02-07,17:30,21,Bundesliga,M'gladbach,Leverkusen,Away Win,0.24690415,0.23681763,0.5162782
-2026-02-08,14:30,21,Bundesliga,FC Koln,RB Leipzig,Away Win,0.24661037,0.23718856,0.5162011
-2026-02-08,16:30,21,Bundesliga,Bayern Munich,Hoffenheim,Home Win,0.65137297,0.20303051,0.14559649
-2026-02-13,19:30,22,Bundesliga,Dortmund,Mainz,Home Win,0.7067645,0.18194425,0.11129124
-2026-02-14,14:30,22,Bundesliga,Werder Bremen,Bayern Munich,Away Win,0.22179145,0.22960776,0.5486008
-2026-02-14,14:30,22,Bundesliga,Hoffenheim,Freiburg,Home Win,0.5371076,0.23618816,0.22670421
-2026-02-14,14:30,22,Bundesliga,Ein Frankfurt,M'gladbach,Home Win,0.562237,0.23035342,0.20740955
-2026-02-14,14:30,22,Bundesliga,Hamburg,Union Berlin,Away Win,0.35284048,0.2509863,0.39617324
-2026-02-14,14:30,22,Bundesliga,Leverkusen,St Pauli,Home Win,0.67897326,0.19291978,0.12810695
-2026-02-14,17:30,22,Bundesliga,Stuttgart,FC Koln,Home Win,0.6058615,0.21797892,0.1761596
+2026-02-08,14:30,21,Bundesliga,FC Koln,RB Leipzig,Away Win,0.24661036,0.23718856,0.5162011
+2026-02-08,16:30,21,Bundesliga,Bayern Munich,Hoffenheim,Home Win,0.651373,0.20303053,0.14559646
+2026-02-13,19:30,22,Bundesliga,Dortmund,Mainz,Home Win,0.70676446,0.18194427,0.11129126
+2026-02-14,14:30,22,Bundesliga,Werder Bremen,Bayern Munich,Away Win,0.22179145,0.22960773,0.5486008
+2026-02-14,14:30,22,Bundesliga,Hoffenheim,Freiburg,Home Win,0.5371076,0.23618822,0.22670422
+2026-02-14,14:30,22,Bundesliga,Ein Frankfurt,M'gladbach,Home Win,0.56223696,0.2303534,0.20740958
+2026-02-14,14:30,22,Bundesliga,Hamburg,Union Berlin,Away Win,0.35284048,0.2509863,0.39617327
+2026-02-14,14:30,22,Bundesliga,Leverkusen,St Pauli,Home Win,0.67897326,0.19291978,0.12810694
+2026-02-14,17:30,22,Bundesliga,Stuttgart,FC Koln,Home Win,0.6058615,0.21797891,0.1761596
 2026-02-15,14:30,22,Bundesliga,Augsburg,Heidenheim,Home Win,0.43557394,0.24970898,0.31471708
-2026-02-15,16:30,22,Bundesliga,RB Leipzig,Wolfsburg,Home Win,0.6202874,0.2134651,0.16624746
+2026-02-15,16:30,22,Bundesliga,RB Leipzig,Wolfsburg,Home Win,0.6202874,0.2134651,0.16624744
 2026-02-20,19:30,23,Bundesliga,Mainz,Hamburg,Away Win,0.3536521,0.25108784,0.39526004
 2026-02-21,14:30,23,Bundesliga,Union Berlin,Leverkusen,Away Win,0.23111233,0.23266056,0.5362271
-2026-02-21,14:30,23,Bundesliga,Bayern Munich,Ein Frankfurt,Home Win,0.6713438,0.19580072,0.13285546
+2026-02-21,14:30,23,Bundesliga,Bayern Munich,Ein Frankfurt,Home Win,0.67134386,0.19580074,0.13285545
 2026-02-21,14:30,23,Bundesliga,Wolfsburg,Augsburg,Home Win,0.4562653,0.2482211,0.29551357
 2026-02-21,14:30,23,Bundesliga,FC Koln,Hoffenheim,Away Win,0.24206981,0.23575018,0.52218
 2026-02-21,17:30,23,Bundesliga,RB Leipzig,Dortmund,Away Win,0.3250368,0.24896747,0.42599574
-2026-02-22,14:30,23,Bundesliga,Freiburg,M'gladbach,Home Win,0.47663411,0.2461736,0.2771923
+2026-02-22,14:30,23,Bundesliga,Freiburg,M'gladbach,Home Win,0.47663411,0.2461736,0.27719226
 2026-02-22,16:30,23,Bundesliga,St Pauli,Werder Bremen,Away Win,0.28230003,0.24348049,0.47421947
 2026-02-22,18:30,23,Bundesliga,Heidenheim,Stuttgart,Away Win,0.23729792,0.23441187,0.5282902
 2026-02-27,19:30,24,Bundesliga,Augsburg,FC Koln,Home Win,0.43203825,0.25018165,0.31778014
-2026-02-28,14:30,24,Bundesliga,Leverkusen,Mainz,Home Win,0.6546191,0.20187578,0.14350517
+2026-02-28,14:30,24,Bundesliga,Leverkusen,Mainz,Home Win,0.654619,0.20187582,0.14350517
 2026-02-28,14:30,24,Bundesliga,M'gladbach,Union Berlin,Home Win,0.39951593,0.25138363,0.34910044
 2026-02-28,14:30,24,Bundesliga,Hoffenheim,St Pauli,Home Win,0.65102136,0.20314664,0.145832
-2026-02-28,14:30,24,Bundesliga,Werder Bremen,Heidenheim,Home Win,0.47885522,0.24594371,0.27520102
+2026-02-28,14:30,24,Bundesliga,Werder Bremen,Heidenheim,Home Win,0.47885528,0.24594375,0.27520102
 2026-02-28,17:30,24,Bundesliga,Dortmund,Bayern Munich,Away Win,0.3155016,0.24851523,0.43598318
-2026-03-01,14:30,24,Bundesliga,Stuttgart,Wolfsburg,Home Win,0.5761057,0.22662725,0.19726704
-2026-03-01,16:30,24,Bundesliga,Ein Frankfurt,Freiburg,Home Win,0.52814966,0.23803179,0.23381858
+2026-03-01,14:30,24,Bundesliga,Stuttgart,Wolfsburg,Home Win,0.5761057,0.22662729,0.19726706
+2026-03-01,16:30,24,Bundesliga,Ein Frankfurt,Freiburg,Home Win,0.5281496,0.23803176,0.2338186
 2026-03-01,18:30,24,Bundesliga,Hamburg,RB Leipzig,Away Win,0.2377876,0.23468249,0.52752995
 2026-03-07,00:00,25,Bundesliga,Freiburg,Leverkusen,Away Win,0.28013897,0.24354446,0.47631654
 2026-03-07,00:00,25,Bundesliga,St Pauli,Ein Frankfurt,Away Win,0.24165016,0.23575138,0.5225985
 2026-03-07,00:00,25,Bundesliga,FC Koln,Dortmund,Away Win,0.22702117,0.23125432,0.5417245
 2026-03-07,00:00,25,Bundesliga,Union Berlin,Werder Bremen,Home Win,0.40932602,0.25104344,0.33963057
 2026-03-07,00:00,25,Bundesliga,Mainz,Stuttgart,Away Win,0.2500641,0.23786591,0.51207
-2026-03-07,00:00,25,Bundesliga,Bayern Munich,M'gladbach,Home Win,0.74405426,0.16590287,0.09004283
+2026-03-07,00:00,25,Bundesliga,Bayern Munich,M'gladbach,Home Win,0.74405426,0.16590287,0.09004284
 2026-03-07,00:00,25,Bundesliga,RB Leipzig,Augsburg,Home Win,0.63455474,0.20879298,0.15665226
 2026-03-07,00:00,25,Bundesliga,Heidenheim,Hoffenheim,Away Win,0.23417813,0.23355107,0.5322707
 2026-03-07,00:00,25,Bundesliga,Wolfsburg,Hamburg,Home Win,0.4465369,0.24895334,0.30450976
 2026-03-14,00:00,26,Bundesliga,Leverkusen,Bayern Munich,Away Win,0.26681677,0.24142545,0.4917578
-2026-03-14,00:00,26,Bundesliga,Werder Bremen,Mainz,Home Win,0.4756017,0.24659017,0.27780813
+2026-03-14,00:00,26,Bundesliga,Werder Bremen,Mainz,Home Win,0.4756017,0.24659014,0.27780813
 2026-03-14,00:00,26,Bundesliga,Stuttgart,RB Leipzig,Away Win,0.29967922,0.24591349,0.4544073
-2026-03-14,00:00,26,Bundesliga,Hoffenheim,Wolfsburg,Home Win,0.5764451,0.22653691,0.19701801
+2026-03-14,00:00,26,Bundesliga,Hoffenheim,Wolfsburg,Home Win,0.5764451,0.22653691,0.19701803
 2026-03-14,00:00,26,Bundesliga,Dortmund,Augsburg,Home Win,0.6886991,0.18917122,0.122129664
-2026-03-14,00:00,26,Bundesliga,Freiburg,Union Berlin,Home Win,0.49104038,0.24431515,0.26464447
-2026-03-14,00:00,26,Bundesliga,M'gladbach,St Pauli,Home Win,0.526942,0.2381722,0.23488577
+2026-03-14,00:00,26,Bundesliga,Freiburg,Union Berlin,Home Win,0.49104038,0.24431515,0.26464444
+2026-03-14,00:00,26,Bundesliga,M'gladbach,St Pauli,Home Win,0.526942,0.2381722,0.23488581
 2026-03-14,00:00,26,Bundesliga,Ein Frankfurt,Heidenheim,Home Win,0.62166685,0.21302362,0.16530953
 2026-03-14,00:00,26,Bundesliga,Hamburg,FC Koln,Home Win,0.43845758,0.24984783,0.3116946
-2026-03-21,00:00,27,Bundesliga,Heidenheim,Leverkusen,Away Win,0.2232115,0.23024547,0.546543
+2026-03-21,00:00,27,Bundesliga,Heidenheim,Leverkusen,Away Win,0.22321148,0.23024546,0.54654306
 2026-03-21,00:00,27,Bundesliga,Mainz,Ein Frankfurt,Away Win,0.24932401,0.23758939,0.51308656
 2026-03-21,00:00,27,Bundesliga,St Pauli,Freiburg,Away Win,0.27347532,0.24225244,0.48427227
 2026-03-21,00:00,27,Bundesliga,Wolfsburg,Werder Bremen,Home Win,0.40070364,0.2510059,0.34829047
-2026-03-21,00:00,27,Bundesliga,Augsburg,Stuttgart,Away Win,0.24904813,0.23732474,0.5136271
+2026-03-21,00:00,27,Bundesliga,Augsburg,Stuttgart,Away Win,0.24904813,0.23732476,0.5136272
 2026-03-21,00:00,27,Bundesliga,FC Koln,M'gladbach,Away Win,0.34584945,0.25095147,0.40319908
 2026-03-21,00:00,27,Bundesliga,Bayern Munich,Union Berlin,Home Win,0.7548041,0.16098768,0.08420826
 2026-03-21,00:00,27,Bundesliga,RB Leipzig,Hoffenheim,Home Win,0.47945654,0.24547836,0.27506512
@@ -829,38 +826,38 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-04-04,00:00,28,Bundesliga,Stuttgart,Dortmund,Away Win,0.27954748,0.24318857,0.4772639
 2026-04-04,00:00,28,Bundesliga,Hoffenheim,Mainz,Home Win,0.6223567,0.21280354,0.16483979
 2026-04-04,00:00,28,Bundesliga,Werder Bremen,RB Leipzig,Away Win,0.25172126,0.23835778,0.50992095
-2026-04-04,00:00,28,Bundesliga,Leverkusen,Wolfsburg,Home Win,0.61059535,0.21652319,0.17288151
+2026-04-04,00:00,28,Bundesliga,Leverkusen,Wolfsburg,Home Win,0.61059535,0.21652316,0.17288151
 2026-04-04,00:00,28,Bundesliga,Hamburg,Augsburg,Home Win,0.41249263,0.25130782,0.3361995
 2026-04-04,00:00,28,Bundesliga,Union Berlin,St Pauli,Home Win,0.5306085,0.23758008,0.23181146
 2026-04-04,00:00,28,Bundesliga,M'gladbach,Heidenheim,Home Win,0.49393532,0.24370149,0.26236317
 2026-04-04,00:00,28,Bundesliga,Ein Frankfurt,FC Koln,Home Win,0.5992168,0.21998882,0.1807944
 2026-04-11,00:00,29,Bundesliga,St Pauli,Bayern Munich,Away Win,0.22553673,0.23088159,0.54358166
-2026-04-11,00:00,29,Bundesliga,Dortmund,Leverkusen,Home Win,0.5325842,0.23710674,0.23030908
-2026-04-11,00:00,29,Bundesliga,Wolfsburg,Ein Frankfurt,Away Win,0.24824356,0.23704821,0.5147083
+2026-04-11,00:00,29,Bundesliga,Dortmund,Leverkusen,Home Win,0.53258413,0.23710673,0.23030913
+2026-04-11,00:00,29,Bundesliga,Wolfsburg,Ein Frankfurt,Away Win,0.24824356,0.23704822,0.5147083
 2026-04-11,00:00,29,Bundesliga,Mainz,Freiburg,Away Win,0.29095525,0.24524269,0.4638021
 2026-04-11,00:00,29,Bundesliga,FC Koln,Werder Bremen,Away Win,0.3331509,0.24971874,0.41713038
-2026-04-11,00:00,29,Bundesliga,RB Leipzig,M'gladbach,Home Win,0.61028206,0.2166198,0.17309822
+2026-04-11,00:00,29,Bundesliga,RB Leipzig,M'gladbach,Home Win,0.61028206,0.21661977,0.17309822
 2026-04-11,00:00,29,Bundesliga,Heidenheim,Union Berlin,Away Win,0.3279778,0.24940825,0.42261395
 2026-04-11,00:00,29,Bundesliga,Augsburg,Hoffenheim,Away Win,0.24406607,0.23617484,0.51975906
 2026-04-11,00:00,29,Bundesliga,Stuttgart,Hamburg,Home Win,0.5917255,0.22219834,0.18607618
-2026-04-18,00:00,30,Bundesliga,Freiburg,Heidenheim,Home Win,0.56063765,0.23077463,0.20858766
+2026-04-18,00:00,30,Bundesliga,Freiburg,Heidenheim,Home Win,0.5606377,0.23077463,0.20858768
 2026-04-18,00:00,30,Bundesliga,St Pauli,FC Koln,Away Win,0.35142165,0.25111422,0.3974641
-2026-04-18,00:00,30,Bundesliga,Werder Bremen,Hamburg,Home Win,0.43408462,0.2502827,0.31563264
-2026-04-18,00:00,30,Bundesliga,Leverkusen,Augsburg,Home Win,0.6268034,0.21135761,0.16183902
+2026-04-18,00:00,30,Bundesliga,Werder Bremen,Hamburg,Home Win,0.4340847,0.2502827,0.31563264
+2026-04-18,00:00,30,Bundesliga,Leverkusen,Augsburg,Home Win,0.62680334,0.21135764,0.16183904
 2026-04-18,00:00,30,Bundesliga,Hoffenheim,Dortmund,Away Win,0.2708963,0.24198152,0.48712218
-2026-04-18,00:00,30,Bundesliga,M'gladbach,Mainz,Home Win,0.50611544,0.24193463,0.25194994
+2026-04-18,00:00,30,Bundesliga,M'gladbach,Mainz,Home Win,0.5061155,0.24193461,0.25194994
 2026-04-18,00:00,30,Bundesliga,Ein Frankfurt,RB Leipzig,Away Win,0.30193344,0.24636328,0.45170334
-2026-04-18,00:00,30,Bundesliga,Bayern Munich,Stuttgart,Home Win,0.6690382,0.19665445,0.1343074
+2026-04-18,00:00,30,Bundesliga,Bayern Munich,Stuttgart,Home Win,0.66903806,0.19665448,0.13430743
 2026-04-18,00:00,30,Bundesliga,Union Berlin,Wolfsburg,Home Win,0.42654988,0.2507586,0.32269153
 2026-04-25,00:00,31,Bundesliga,Mainz,Bayern Munich,Away Win,0.23112038,0.23246989,0.53640974
-2026-04-25,00:00,31,Bundesliga,FC Koln,Leverkusen,Away Win,0.23111098,0.23275438,0.53613466
+2026-04-25,00:00,31,Bundesliga,FC Koln,Leverkusen,Away Win,0.23111099,0.23275438,0.53613466
 2026-04-25,00:00,31,Bundesliga,Augsburg,Ein Frankfurt,Away Win,0.24649742,0.23670958,0.5167931
-2026-04-25,00:00,31,Bundesliga,Dortmund,Freiburg,Home Win,0.64542544,0.2050968,0.14947781
-2026-04-25,00:00,31,Bundesliga,Stuttgart,Werder Bremen,Home Win,0.58074296,0.22533853,0.19391845
+2026-04-25,00:00,31,Bundesliga,Dortmund,Freiburg,Home Win,0.6454254,0.20509681,0.1494778
+2026-04-25,00:00,31,Bundesliga,Stuttgart,Werder Bremen,Home Win,0.580743,0.2253385,0.19391847
 2026-04-25,00:00,31,Bundesliga,Wolfsburg,M'gladbach,Home Win,0.4029673,0.25126854,0.34576422
-2026-04-25,00:00,31,Bundesliga,RB Leipzig,Union Berlin,Home Win,0.6241112,0.21223381,0.163655
+2026-04-25,00:00,31,Bundesliga,RB Leipzig,Union Berlin,Home Win,0.6241112,0.21223383,0.163655
 2026-04-25,00:00,31,Bundesliga,Heidenheim,St Pauli,Home Win,0.41727498,0.25095975,0.33176526
-2026-04-25,00:00,31,Bundesliga,Hamburg,Hoffenheim,Away Win,0.24111572,0.23541816,0.5234661
+2026-04-25,00:00,31,Bundesliga,Hamburg,Hoffenheim,Away Win,0.24111569,0.23541816,0.5234661
 2026-05-02,00:00,32,Bundesliga,M'gladbach,Dortmund,Away Win,0.23639588,0.23396304,0.52964103
 2026-05-02,00:00,32,Bundesliga,St Pauli,Mainz,Away Win,0.35546193,0.25130886,0.39322925
 2026-05-02,00:00,32,Bundesliga,Leverkusen,RB Leipzig,Away Win,0.3550292,0.250188,0.3947828
@@ -868,9 +865,9 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-02,00:00,32,Bundesliga,Freiburg,Wolfsburg,Home Win,0.4952077,0.24389344,0.26089883
 2026-05-02,00:00,32,Bundesliga,Werder Bremen,Augsburg,Home Win,0.43715695,0.25012782,0.31271523
 2026-05-02,00:00,32,Bundesliga,Bayern Munich,Heidenheim,Home Win,0.7858793,0.1460206,0.068100095
-2026-05-02,00:00,32,Bundesliga,Union Berlin,FC Koln,Home Win,0.48643243,0.2450185,0.26854905
-2026-05-02,00:00,32,Bundesliga,Ein Frankfurt,Hamburg,Home Win,0.58572584,0.22392882,0.19034532
-2026-05-09,00:00,33,Bundesliga,Wolfsburg,Bayern Munich,Away Win,0.22003293,0.22892646,0.55104065
+2026-05-02,00:00,32,Bundesliga,Union Berlin,FC Koln,Home Win,0.48643243,0.2450185,0.26854903
+2026-05-02,00:00,32,Bundesliga,Ein Frankfurt,Hamburg,Home Win,0.58572584,0.22392884,0.19034536
+2026-05-09,00:00,33,Bundesliga,Wolfsburg,Bayern Munich,Away Win,0.22003292,0.22892644,0.55104065
 2026-05-09,00:00,33,Bundesliga,Stuttgart,Leverkusen,Away Win,0.33422112,0.24981153,0.41596735
 2026-05-09,00:00,33,Bundesliga,Dortmund,Ein Frankfurt,Home Win,0.5867384,0.22364847,0.18961312
 2026-05-09,00:00,33,Bundesliga,Hamburg,Freiburg,Away Win,0.30162823,0.2464676,0.45190415
@@ -881,10 +878,10 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-09,00:00,33,Bundesliga,FC Koln,Heidenheim,Home Win,0.42251915,0.2507576,0.32672328
 2026-05-16,13:30,34,Bundesliga,Werder Bremen,Dortmund,Away Win,0.23079623,0.23245749,0.5367463
 2026-05-16,13:30,34,Bundesliga,Heidenheim,Mainz,Home Win,0.40301085,0.25157693,0.3454122
-2026-05-16,13:30,34,Bundesliga,Freiburg,RB Leipzig,Away Win,0.24883333,0.2375095,0.51365715
+2026-05-16,13:30,34,Bundesliga,Freiburg,RB Leipzig,Away Win,0.24883334,0.23750953,0.51365715
 2026-05-16,13:30,34,Bundesliga,Ein Frankfurt,Stuttgart,Home Win,0.4142889,0.2510952,0.33461586
 2026-05-16,13:30,34,Bundesliga,St Pauli,Wolfsburg,Away Win,0.32139847,0.24904469,0.42955682
 2026-05-16,13:30,34,Bundesliga,Union Berlin,Augsburg,Home Win,0.4664271,0.24740268,0.28617024
 2026-05-16,13:30,34,Bundesliga,M'gladbach,Hoffenheim,Away Win,0.2581746,0.23927605,0.5025494
 2026-05-16,13:30,34,Bundesliga,Bayern Munich,FC Koln,Home Win,0.77315366,0.15228897,0.07455738
-2026-05-16,13:30,34,Bundesliga,Leverkusen,Hamburg,Home Win,0.62537146,0.21182512,0.16280341
+2026-05-16,13:30,34,Bundesliga,Leverkusen,Hamburg,Home Win,0.6253715,0.2118251,0.16280335
