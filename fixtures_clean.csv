@@ -169,10 +169,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-01-10,14:00,Como,Bologna,Serie A,20
-2026-01-10,14:00,Udinese,Pisa,Serie A,20
-2026-01-10,17:00,Roma,Sassuolo,Serie A,20
-2026-01-10,19:45,Atalanta,Torino,Serie A,20
 2026-01-11,11:30,Lecce,Parma,Serie A,20
 2026-01-11,14:00,Fiorentina,Milan,Serie A,20
 2026-01-11,17:00,Verona,Lazio,Serie A,20
@@ -516,10 +512,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,19:00,Brest,Angers,Ligue 1,34
-2026-01-10,13:00,Oviedo,Betis,La Liga,19
-2026-01-10,15:15,Villarreal,Alaves,La Liga,19
-2026-01-10,17:30,Girona,Osasuna,La Liga,19
-2026-01-10,20:00,Valencia,Elche,La Liga,19
 2026-01-11,13:00,Vallecano,Mallorca,La Liga,19
 2026-01-11,15:15,Levante,Espanol,La Liga,19
 2026-01-12,20:00,Sevilla,Celta,La Liga,19
@@ -543,16 +535,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-01-25,17:30,Sociedad,Celta,La Liga,21
 2026-01-25,20:00,Alaves,Betis,La Liga,21
 2026-01-26,20:00,Girona,Getafe,La Liga,21
-2026-02-01,00:00,Athletic Club,Sociedad,La Liga,22
-2026-02-01,00:00,Betis,Valencia,La Liga,22
-2026-02-01,00:00,Mallorca,Sevilla,La Liga,22
-2026-02-01,00:00,Osasuna,Villarreal,La Liga,22
-2026-02-01,00:00,Espanol,Alaves,La Liga,22
-2026-02-01,00:00,Levante,Ath Madrid,La Liga,22
-2026-02-01,00:00,Elche,Barcelona,La Liga,22
-2026-02-01,00:00,Getafe,Celta,La Liga,22
-2026-02-01,00:00,Oviedo,Girona,La Liga,22
-2026-02-01,00:00,Real Madrid,Vallecano,La Liga,22
 2026-02-08,00:00,Alaves,Getafe,La Liga,23
 2026-02-08,00:00,Athletic Club,Levante,La Liga,23
 2026-02-08,00:00,Ath Madrid,Betis,La Liga,23
@@ -713,10 +695,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2026-01-10,14:30,Freiburg,Hamburg,Bundesliga,16
-2026-01-10,14:30,Union Berlin,Mainz,Bundesliga,16
-2026-01-10,14:30,Heidenheim,FC Koln,Bundesliga,16
-2026-01-10,17:30,Leverkusen,Stuttgart,Bundesliga,16
 2026-01-11,14:30,M'gladbach,Augsburg,Bundesliga,16
 2026-01-11,16:30,Bayern Munich,Wolfsburg,Bundesliga,16
 2026-01-13,17:30,Stuttgart,Ein Frankfurt,Bundesliga,17
