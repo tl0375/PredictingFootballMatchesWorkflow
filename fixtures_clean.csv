@@ -170,11 +170,11 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
 2026-01-14,17:30,Napoli,Parma,Serie A,16
-2026-01-14,19:45,Inter,Lecce,Serie A,16
+2026-01-14,19:45,Milan,Lecce,Serie A,16
 2026-01-15,17:30,Verona,Bologna,Serie A,16
 2026-01-15,19:45,Como,Milan,Serie A,16
 2026-01-16,19:45,Pisa,Atalanta,Serie A,21
-2026-01-17,14:00,Udinese,Inter,Serie A,21
+2026-01-17,14:00,Udinese,Milan,Serie A,21
 2026-01-17,17:00,Napoli,Sassuolo,Serie A,21
 2026-01-17,19:45,Cagliari,Juventus,Serie A,21
 2026-01-18,11:30,Parma,Genoa,Serie A,21
@@ -183,7 +183,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-01-18,19:45,Milan,Lecce,Serie A,21
 2026-01-19,17:30,Cremonese,Verona,Serie A,21
 2026-01-19,19:45,Lazio,Como,Serie A,21
-2026-01-23,19:45,Inter,Pisa,Serie A,22
+2026-01-23,19:45,Milan,Pisa,Serie A,22
 2026-01-24,14:00,Como,Torino,Serie A,22
 2026-01-24,17:00,Fiorentina,Cagliari,Serie A,22
 2026-01-24,19:45,Lecce,Lazio,Serie A,22
@@ -202,7 +202,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-01,00:00,Pisa,Sassuolo,Serie A,23
 2026-02-01,00:00,Napoli,Fiorentina,Serie A,23
 2026-02-01,00:00,Udinese,Roma,Serie A,23
-2026-02-01,00:00,Cremonese,Inter,Serie A,23
+2026-02-01,00:00,Cremonese,Milan,Serie A,23
 2026-02-08,00:00,Fiorentina,Torino,Serie A,24
 2026-02-08,00:00,Milan,Como,Serie A,24
 2026-02-08,00:00,Roma,Cagliari,Serie A,24
@@ -211,12 +211,12 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-08,00:00,Bologna,Parma,Serie A,24
 2026-02-08,00:00,Verona,Pisa,Serie A,24
 2026-02-08,00:00,Juventus,Lazio,Serie A,24
-2026-02-08,00:00,Sassuolo,Inter,Serie A,24
+2026-02-08,00:00,Sassuolo,Milan,Serie A,24
 2026-02-08,00:00,Lecce,Udinese,Serie A,24
 2026-02-15,00:00,Cagliari,Lecce,Serie A,25
 2026-02-15,00:00,Como,Fiorentina,Serie A,25
 2026-02-15,00:00,Torino,Bologna,Serie A,25
-2026-02-15,00:00,Inter,Juventus,Serie A,25
+2026-02-15,00:00,Milan,Juventus,Serie A,25
 2026-02-15,00:00,Lazio,Atalanta,Serie A,25
 2026-02-15,00:00,Parma,Verona,Serie A,25
 2026-02-15,00:00,Pisa,Milan,Serie A,25
@@ -232,12 +232,12 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-22,00:00,Bologna,Udinese,Serie A,26
 2026-02-22,00:00,Juventus,Como,Serie A,26
 2026-02-22,00:00,Sassuolo,Verona,Serie A,26
-2026-02-22,00:00,Lecce,Inter,Serie A,26
+2026-02-22,00:00,Lecce,Milan,Serie A,26
 2026-03-01,00:00,Roma,Juventus,Serie A,27
 2026-03-01,00:00,Como,Lecce,Serie A,27
 2026-03-01,00:00,Torino,Lazio,Serie A,27
 2026-03-01,00:00,Verona,Napoli,Serie A,27
-2026-03-01,00:00,Inter,Genoa,Serie A,27
+2026-03-01,00:00,Milan,Genoa,Serie A,27
 2026-03-01,00:00,Parma,Cagliari,Serie A,27
 2026-03-01,00:00,Pisa,Bologna,Serie A,27
 2026-03-01,00:00,Sassuolo,Atalanta,Serie A,27
@@ -251,19 +251,19 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-03-08,00:00,Napoli,Torino,Serie A,28
 2026-03-08,00:00,Lecce,Cremonese,Serie A,28
 2026-03-08,00:00,Fiorentina,Parma,Serie A,28
-2026-03-08,00:00,Milan,Inter,Serie A,28
+2026-03-08,00:00,Milan,Milan,Serie A,28
 2026-03-08,00:00,Atalanta,Udinese,Serie A,28
 2026-03-15,00:00,Como,Roma,Serie A,29
 2026-03-15,00:00,Torino,Parma,Serie A,29
 2026-03-15,00:00,Verona,Genoa,Serie A,29
-2026-03-15,00:00,Inter,Atalanta,Serie A,29
+2026-03-15,00:00,Milan,Atalanta,Serie A,29
 2026-03-15,00:00,Lazio,Milan,Serie A,29
 2026-03-15,00:00,Pisa,Cagliari,Serie A,29
 2026-03-15,00:00,Sassuolo,Bologna,Serie A,29
 2026-03-15,00:00,Napoli,Lecce,Serie A,29
 2026-03-15,00:00,Udinese,Juventus,Serie A,29
 2026-03-15,00:00,Cremonese,Fiorentina,Serie A,29
-2026-03-22,00:00,Fiorentina,Inter,Serie A,30
+2026-03-22,00:00,Fiorentina,Milan,Serie A,30
 2026-03-22,00:00,Milan,Torino,Serie A,30
 2026-03-22,00:00,Roma,Lecce,Serie A,30
 2026-03-22,00:00,Atalanta,Verona,Serie A,30
@@ -274,7 +274,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-03-22,00:00,Juventus,Sassuolo,Serie A,30
 2026-03-22,00:00,Parma,Cremonese,Serie A,30
 2026-04-04,00:00,Verona,Fiorentina,Serie A,31
-2026-04-04,00:00,Inter,Roma,Serie A,31
+2026-04-04,00:00,Milan,Roma,Serie A,31
 2026-04-04,00:00,Juventus,Genoa,Serie A,31
 2026-04-04,00:00,Lazio,Parma,Serie A,31
 2026-04-04,00:00,Pisa,Torino,Serie A,31
@@ -289,13 +289,13 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-12,00:00,Atalanta,Juventus,Serie A,32
 2026-04-12,00:00,Cagliari,Cremonese,Serie A,32
 2026-04-12,00:00,Genoa,Sassuolo,Serie A,32
-2026-04-12,00:00,Como,Inter,Serie A,32
+2026-04-12,00:00,Como,Milan,Serie A,32
 2026-04-12,00:00,Bologna,Lecce,Serie A,32
 2026-04-12,00:00,Torino,Verona,Serie A,32
 2026-04-12,00:00,Parma,Napoli,Serie A,32
 2026-04-19,00:00,Roma,Atalanta,Serie A,33
 2026-04-19,00:00,Verona,Milan,Serie A,33
-2026-04-19,00:00,Inter,Cagliari,Serie A,33
+2026-04-19,00:00,Milan,Cagliari,Serie A,33
 2026-04-19,00:00,Juventus,Bologna,Serie A,33
 2026-04-19,00:00,Pisa,Genoa,Serie A,33
 2026-04-19,00:00,Sassuolo,Como,Serie A,33
@@ -308,7 +308,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-26,00:00,Cagliari,Atalanta,Serie A,34
 2026-04-26,00:00,Genoa,Como,Serie A,34
 2026-04-26,00:00,Bologna,Roma,Serie A,34
-2026-04-26,00:00,Torino,Inter,Serie A,34
+2026-04-26,00:00,Torino,Milan,Serie A,34
 2026-04-26,00:00,Verona,Lecce,Serie A,34
 2026-04-26,00:00,Lazio,Udinese,Serie A,34
 2026-04-26,00:00,Parma,Pisa,Serie A,34
@@ -317,7 +317,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-03,00:00,Atalanta,Genoa,Serie A,35
 2026-05-03,00:00,Como,Napoli,Serie A,35
 2026-05-03,00:00,Bologna,Cagliari,Serie A,35
-2026-05-03,00:00,Inter,Parma,Serie A,35
+2026-05-03,00:00,Milan,Parma,Serie A,35
 2026-05-03,00:00,Juventus,Verona,Serie A,35
 2026-05-03,00:00,Pisa,Lecce,Serie A,35
 2026-05-03,00:00,Sassuolo,Milan,Serie A,35
@@ -328,7 +328,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-10,00:00,Cagliari,Udinese,Serie A,36
 2026-05-10,00:00,Torino,Sassuolo,Serie A,36
 2026-05-10,00:00,Verona,Como,Serie A,36
-2026-05-10,00:00,Lazio,Inter,Serie A,36
+2026-05-10,00:00,Lazio,Milan,Serie A,36
 2026-05-10,00:00,Parma,Roma,Serie A,36
 2026-05-10,00:00,Napoli,Bologna,Serie A,36
 2026-05-10,00:00,Cremonese,Pisa,Serie A,36
@@ -338,14 +338,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-17,00:00,Cagliari,Torino,Serie A,37
 2026-05-17,00:00,Genoa,Milan,Serie A,37
 2026-05-17,00:00,Como,Parma,Serie A,37
-2026-05-17,00:00,Inter,Verona,Serie A,37
+2026-05-17,00:00,Milan,Verona,Serie A,37
 2026-05-17,00:00,Juventus,Fiorentina,Serie A,37
 2026-05-17,00:00,Pisa,Napoli,Serie A,37
 2026-05-17,00:00,Sassuolo,Lecce,Serie A,37
 2026-05-17,00:00,Udinese,Cremonese,Serie A,37
 2026-05-24,00:00,Fiorentina,Atalanta,Serie A,38
 2026-05-24,00:00,Milan,Cagliari,Serie A,38
-2026-05-24,00:00,Bologna,Inter,Serie A,38
+2026-05-24,00:00,Bologna,Milan,Serie A,38
 2026-05-24,00:00,Torino,Juventus,Serie A,38
 2026-05-24,00:00,Verona,Roma,Serie A,38
 2026-05-24,00:00,Lazio,Pisa,Serie A,38
@@ -696,10 +696,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2026-01-13,17:30,Stuttgart,Ein Frankfurt,Bundesliga,17
-2026-01-13,19:30,Dortmund,Werder Bremen,Bundesliga,17
-2026-01-13,19:30,Mainz,Heidenheim,Bundesliga,17
-2026-01-13,19:30,Hamburg,Leverkusen,Bundesliga,17
 2026-01-14,17:30,Wolfsburg,St Pauli,Bundesliga,17
 2026-01-14,19:30,RB Leipzig,Freiburg,Bundesliga,17
 2026-01-14,19:30,Hoffenheim,M'gladbach,Bundesliga,17
