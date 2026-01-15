@@ -169,8 +169,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-01-14T17:30:00Z,SSC Napoli,Parma Calcio 1913,Serie A,16
-2026-01-14T19:45:00Z,FC Internazionale Milano,US Lecce,Serie A,16
 2026-01-15T17:30:00Z,Hellas Verona FC,Bologna FC 1909,Serie A,16
 2026-01-15T19:45:00Z,Como 1907,AC Milan,Serie A,16
 2026-01-16T19:45:00Z,AC Pisa 1909,Atalanta BC,Serie A,21
@@ -193,26 +191,7 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-01-25T17:00:00Z,Juventus FC,SSC Napoli,Serie A,22
 2026-01-25T19:45:00Z,AS Roma,AC Milan,Serie A,22
 2026-01-26T19:45:00Z,Hellas Verona FC,Udinese Calcio,Serie A,22
-2026-02-01T00:00:00Z,Cagliari Calcio,Hellas Verona FC,Serie A,23
-2026-02-01T00:00:00Z,Como 1907,Atalanta BC,Serie A,23
-2026-02-01T00:00:00Z,Bologna FC 1909,AC Milan,Serie A,23
-2026-02-01T00:00:00Z,Torino FC,US Lecce,Serie A,23
-2026-02-01T00:00:00Z,SS Lazio,Genoa CFC,Serie A,23
-2026-02-01T00:00:00Z,Parma Calcio 1913,Juventus FC,Serie A,23
-2026-02-01T00:00:00Z,AC Pisa 1909,US Sassuolo Calcio,Serie A,23
-2026-02-01T00:00:00Z,SSC Napoli,ACF Fiorentina,Serie A,23
-2026-02-01T00:00:00Z,Udinese Calcio,AS Roma,Serie A,23
-2026-02-01T00:00:00Z,US Cremonese,FC Internazionale Milano,Serie A,23
-2026-02-08T00:00:00Z,ACF Fiorentina,Torino FC,Serie A,24
 2026-02-08T00:00:00Z,AC Milan,Como 1907,Serie A,24
-2026-02-08T00:00:00Z,AS Roma,Cagliari Calcio,Serie A,24
-2026-02-08T00:00:00Z,Atalanta BC,US Cremonese,Serie A,24
-2026-02-08T00:00:00Z,Genoa CFC,SSC Napoli,Serie A,24
-2026-02-08T00:00:00Z,Bologna FC 1909,Parma Calcio 1913,Serie A,24
-2026-02-08T00:00:00Z,Hellas Verona FC,AC Pisa 1909,Serie A,24
-2026-02-08T00:00:00Z,Juventus FC,SS Lazio,Serie A,24
-2026-02-08T00:00:00Z,US Sassuolo Calcio,FC Internazionale Milano,Serie A,24
-2026-02-08T00:00:00Z,US Lecce,Udinese Calcio,Serie A,24
 2026-02-15T00:00:00Z,Cagliari Calcio,US Lecce,Serie A,25
 2026-02-15T00:00:00Z,Como 1907,ACF Fiorentina,Serie A,25
 2026-02-15T00:00:00Z,Torino FC,Bologna FC 1909,Serie A,25
@@ -696,10 +675,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2026-01-14T17:30:00Z,VfL Wolfsburg,FC St. Pauli 1910,Bundesliga,17
-2026-01-14T19:30:00Z,RB Leipzig,SC Freiburg,Bundesliga,17
-2026-01-14T19:30:00Z,TSG 1899 Hoffenheim,Borussia Mönchengladbach,Bundesliga,17
-2026-01-14T19:30:00Z,1. FC Köln,FC Bayern München,Bundesliga,17
 2026-01-15T19:30:00Z,FC Augsburg,1. FC Union Berlin,Bundesliga,17
 2026-01-16T19:30:00Z,SV Werder Bremen,Eintracht Frankfurt,Bundesliga,18
 2026-01-17T14:30:00Z,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Bundesliga,18
@@ -719,6 +694,8 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-01-24T17:30:00Z,1. FC Union Berlin,Borussia Dortmund,Bundesliga,19
 2026-01-25T14:30:00Z,Borussia Mönchengladbach,VfB Stuttgart,Bundesliga,19
 2026-01-25T16:30:00Z,SC Freiburg,1. FC Köln,Bundesliga,19
+2026-01-27T19:30:00Z,SV Werder Bremen,TSG 1899 Hoffenheim,Bundesliga,16
+2026-01-27T19:30:00Z,FC St. Pauli 1910,RB Leipzig,Bundesliga,16
 2026-01-30T19:30:00Z,1. FC Köln,VfL Wolfsburg,Bundesliga,20
 2026-01-31T14:30:00Z,Eintracht Frankfurt,Bayer 04 Leverkusen,Bundesliga,20
 2026-01-31T14:30:00Z,RB Leipzig,1. FSV Mainz 05,Bundesliga,20
