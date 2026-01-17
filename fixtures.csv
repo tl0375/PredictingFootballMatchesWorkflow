@@ -169,7 +169,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-01-16T19:45:00Z,AC Pisa 1909,Atalanta BC,Serie A,21
 2026-01-17T14:00:00Z,Udinese Calcio,FC Internazionale Milano,Serie A,21
 2026-01-17T17:00:00Z,SSC Napoli,US Sassuolo Calcio,Serie A,21
 2026-01-17T19:45:00Z,Cagliari Calcio,Juventus FC,Serie A,21
@@ -349,8 +348,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2026-01-16T18:00:00Z,AS Monaco FC,FC Lorient,Ligue 1,18
-2026-01-16T20:00:00Z,Paris Saint-Germain FC,Lille OSC,Ligue 1,18
 2026-01-17T16:00:00Z,Racing Club de Lens,AJ Auxerre,Ligue 1,18
 2026-01-17T18:00:00Z,Toulouse FC,OGC Nice,Ligue 1,18
 2026-01-17T20:05:00Z,Angers SCO,Olympique de Marseille,Ligue 1,18
@@ -376,6 +373,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-02-01T16:15:00Z,OGC Nice,Stade Brestois 29,Ligue 1,20
 2026-02-01T16:15:00Z,Angers SCO,FC Metz,Ligue 1,20
 2026-02-01T19:45:00Z,RC Strasbourg Alsace,Paris Saint-Germain FC,Ligue 1,20
+2026-02-06T19:45:00Z,FC Metz,Lille OSC,Ligue 1,21
+2026-02-07T16:00:00Z,Racing Club de Lens,Stade Rennais FC 1901,Ligue 1,21
+2026-02-07T18:00:00Z,Stade Brestois 29,FC Lorient,Ligue 1,21
+2026-02-07T20:05:00Z,FC Nantes,Olympique Lyonnais,Ligue 1,21
+2026-02-08T14:00:00Z,OGC Nice,AS Monaco FC,Ligue 1,21
+2026-02-08T16:15:00Z,Le Havre AC,RC Strasbourg Alsace,Ligue 1,21
+2026-02-08T16:15:00Z,AJ Auxerre,Paris FC,Ligue 1,21
+2026-02-08T16:15:00Z,Angers SCO,Toulouse FC,Ligue 1,21
+2026-02-08T19:45:00Z,Paris Saint-Germain FC,Olympique de Marseille,Ligue 1,21
 2026-02-15T00:00:00Z,Le Havre AC,Toulouse FC,Ligue 1,22
 2026-02-15T00:00:00Z,AS Monaco FC,FC Nantes,Ligue 1,22
 2026-02-15T00:00:00Z,FC Lorient,Angers SCO,Ligue 1,22
@@ -493,7 +499,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T19:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T19:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T19:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2026-01-16T20:00:00Z,RCD Espanyol de Barcelona,Girona FC,La Liga,20
 2026-01-17T13:00:00Z,Real Madrid CF,Levante UD,La Liga,20
 2026-01-17T15:15:00Z,RCD Mallorca,Athletic Club,La Liga,20
 2026-01-17T17:30:00Z,CA Osasuna,Real Oviedo,La Liga,20
@@ -683,7 +688,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2026-01-16T19:30:00Z,SV Werder Bremen,Eintracht Frankfurt,Bundesliga,18
 2026-01-17T14:30:00Z,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Bundesliga,18
 2026-01-17T14:30:00Z,1. FC Köln,1. FSV Mainz 05,Bundesliga,18
 2026-01-17T14:30:00Z,Hamburger SV,Borussia Mönchengladbach,Bundesliga,18
