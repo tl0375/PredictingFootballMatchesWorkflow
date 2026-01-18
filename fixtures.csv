@@ -1,11 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2026-01-17T12:30:00Z,Manchester United FC,Manchester City FC,Premier League,22
-2026-01-17T15:00:00Z,Sunderland AFC,Crystal Palace FC,Premier League,22
-2026-01-17T15:00:00Z,Chelsea FC,Brentford FC,Premier League,22
-2026-01-17T15:00:00Z,Liverpool FC,Burnley FC,Premier League,22
-2026-01-17T15:00:00Z,Leeds United FC,Fulham FC,Premier League,22
-2026-01-17T15:00:00Z,Tottenham Hotspur FC,West Ham United FC,Premier League,22
-2026-01-17T17:30:00Z,Nottingham Forest FC,Arsenal FC,Premier League,22
 2026-01-18T14:00:00Z,Wolverhampton Wanderers FC,Newcastle United FC,Premier League,22
 2026-01-18T16:30:00Z,Aston Villa FC,Everton FC,Premier League,22
 2026-01-19T20:00:00Z,Brighton & Hove Albion FC,AFC Bournemouth,Premier League,22
@@ -169,9 +162,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-01-17T14:00:00Z,Udinese Calcio,FC Internazionale Milano,Serie A,21
-2026-01-17T17:00:00Z,SSC Napoli,US Sassuolo Calcio,Serie A,21
-2026-01-17T19:45:00Z,Cagliari Calcio,Juventus FC,Serie A,21
 2026-01-18T11:30:00Z,Parma Calcio 1913,Genoa CFC,Serie A,21
 2026-01-18T14:00:00Z,Bologna FC 1909,ACF Fiorentina,Serie A,21
 2026-01-18T17:00:00Z,Torino FC,AS Roma,Serie A,21
@@ -348,9 +338,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2026-01-17T16:00:00Z,Racing Club de Lens,AJ Auxerre,Ligue 1,18
-2026-01-17T18:00:00Z,Toulouse FC,OGC Nice,Ligue 1,18
-2026-01-17T20:05:00Z,Angers SCO,Olympique de Marseille,Ligue 1,18
 2026-01-18T14:00:00Z,RC Strasbourg Alsace,FC Metz,Ligue 1,18
 2026-01-18T16:15:00Z,FC Nantes,Paris FC,Ligue 1,18
 2026-01-18T16:15:00Z,Stade Rennais FC 1901,Le Havre AC,Ligue 1,18
@@ -499,10 +486,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T19:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T19:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T19:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2026-01-17T13:00:00Z,Real Madrid CF,Levante UD,La Liga,20
-2026-01-17T15:15:00Z,RCD Mallorca,Athletic Club,La Liga,20
-2026-01-17T17:30:00Z,CA Osasuna,Real Oviedo,La Liga,20
-2026-01-17T20:00:00Z,Real Betis Balompié,Villarreal CF,La Liga,20
 2026-01-18T13:00:00Z,Getafe CF,Valencia CF,La Liga,20
 2026-01-18T15:15:00Z,Club Atlético de Madrid,Deportivo Alavés,La Liga,20
 2026-01-18T17:30:00Z,RC Celta de Vigo,Rayo Vallecano de Madrid,La Liga,20
@@ -688,12 +671,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2026-01-17T14:30:00Z,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Bundesliga,18
-2026-01-17T14:30:00Z,1. FC Köln,1. FSV Mainz 05,Bundesliga,18
-2026-01-17T14:30:00Z,Hamburger SV,Borussia Mönchengladbach,Bundesliga,18
-2026-01-17T14:30:00Z,Borussia Dortmund,FC St. Pauli 1910,Bundesliga,18
-2026-01-17T14:30:00Z,VfL Wolfsburg,1. FC Heidenheim 1846,Bundesliga,18
-2026-01-17T17:30:00Z,RB Leipzig,FC Bayern München,Bundesliga,18
 2026-01-18T14:30:00Z,VfB Stuttgart,1. FC Union Berlin,Bundesliga,18
 2026-01-18T16:30:00Z,FC Augsburg,SC Freiburg,Bundesliga,18
 2026-01-23T19:30:00Z,FC St. Pauli 1910,Hamburger SV,Bundesliga,19
@@ -752,6 +729,7 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-03-01T14:30:00Z,VfB Stuttgart,VfL Wolfsburg,Bundesliga,24
 2026-03-01T16:30:00Z,Eintracht Frankfurt,SC Freiburg,Bundesliga,24
 2026-03-01T18:30:00Z,Hamburger SV,RB Leipzig,Bundesliga,24
+2026-03-04T19:30:00Z,Hamburger SV,Bayer 04 Leverkusen,Bundesliga,17
 2026-03-07T00:00:00Z,SC Freiburg,Bayer 04 Leverkusen,Bundesliga,25
 2026-03-07T00:00:00Z,FC St. Pauli 1910,Eintracht Frankfurt,Bundesliga,25
 2026-03-07T00:00:00Z,1. FC Köln,Borussia Dortmund,Bundesliga,25
