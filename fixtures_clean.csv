@@ -1,6 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-01-18,14:00,Wolves,Newcastle,Premier League,22
-2026-01-18,16:30,Aston Villa,Everton,Premier League,22
 2026-01-19,20:00,Brighton,Bournemouth,Premier League,22
 2026-01-24,12:30,West Ham,Sunderland,Premier League,23
 2026-01-24,15:00,Burnley,Tottenham,Premier League,23
@@ -162,10 +160,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-01-18,11:30,Parma,Genoa,Serie A,21
-2026-01-18,14:00,Bologna,Fiorentina,Serie A,21
-2026-01-18,17:00,Torino,Roma,Serie A,21
-2026-01-18,19:45,Milan,Lecce,Serie A,21
 2026-01-19,17:30,Cremonese,Verona,Serie A,21
 2026-01-19,19:45,Lazio,Como,Serie A,21
 2026-01-23,19:45,Milan,Pisa,Serie A,22
@@ -338,10 +332,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2026-01-18,14:00,Strasbourg,Metz,Ligue 1,18
-2026-01-18,16:15,Nantes,Paris FC,Ligue 1,18
-2026-01-18,16:15,Rennes,Le Havre,Ligue 1,18
-2026-01-18,19:45,Lyon,Brest,Ligue 1,18
 2026-01-23,19:00,Auxerre,Paris SG,Ligue 1,19
 2026-01-24,16:00,Rennes,Lorient,Ligue 1,19
 2026-01-24,18:00,Le Havre,Monaco,Ligue 1,19
@@ -486,10 +476,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,19:00,Brest,Angers,Ligue 1,34
-2026-01-18,13:00,Getafe,Valencia,La Liga,20
-2026-01-18,15:15,Ath Madrid,Alaves,La Liga,20
-2026-01-18,17:30,Celta,Vallecano,La Liga,20
-2026-01-18,20:00,Sociedad,Barcelona,La Liga,20
 2026-01-19,20:00,Elche,Sevilla,La Liga,20
 2026-01-23,20:00,Levante,Elche,La Liga,21
 2026-01-24,13:00,Vallecano,Osasuna,La Liga,21
@@ -671,8 +657,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2026-01-18,14:30,Stuttgart,Union Berlin,Bundesliga,18
-2026-01-18,16:30,Augsburg,Freiburg,Bundesliga,18
 2026-01-23,19:30,St Pauli,Hamburg,Bundesliga,19
 2026-01-24,14:30,Heidenheim,RB Leipzig,Bundesliga,19
 2026-01-24,14:30,Leverkusen,Werder Bremen,Bundesliga,19
