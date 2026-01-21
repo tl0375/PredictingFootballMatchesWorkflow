@@ -493,16 +493,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-01,17:30,Getafe,Celta,La Liga,22
 2026-02-01,20:00,Athletic Club,Sociedad,La Liga,22
 2026-02-02,20:00,Mallorca,Sevilla,La Liga,22
-2026-02-08,00:00,Alaves,Getafe,La Liga,23
-2026-02-08,00:00,Athletic Club,Levante,La Liga,23
-2026-02-08,00:00,Ath Madrid,Betis,La Liga,23
-2026-02-08,00:00,Barcelona,Mallorca,La Liga,23
-2026-02-08,00:00,Celta,Osasuna,La Liga,23
-2026-02-08,00:00,Sociedad,Elche,La Liga,23
-2026-02-08,00:00,Villarreal,Espanol,La Liga,23
-2026-02-08,00:00,Sevilla,Girona,La Liga,23
-2026-02-08,00:00,Valencia,Real Madrid,La Liga,23
-2026-02-08,00:00,Vallecano,Oviedo,La Liga,23
 2026-02-15,00:00,Elche,Osasuna,La Liga,24
 2026-02-15,00:00,Getafe,Villarreal,La Liga,24
 2026-02-15,00:00,Levante,Valencia,La Liga,24
@@ -513,6 +503,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-15,00:00,Girona,Barcelona,La Liga,24
 2026-02-15,00:00,Mallorca,Betis,La Liga,24
 2026-02-15,00:00,Espanol,Celta,La Liga,24
+2026-02-18,19:00,Levante,Villarreal,La Liga,16
 2026-02-22,00:00,Alaves,Girona,La Liga,25
 2026-02-22,00:00,Athletic Club,Elche,La Liga,25
 2026-02-22,00:00,Ath Madrid,Espanol,La Liga,25
