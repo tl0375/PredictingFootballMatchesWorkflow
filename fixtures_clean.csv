@@ -59,36 +59,36 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-03-01,14:00,Fulham,Tottenham,Premier League,28
 2026-03-01,14:00,Manchester Utd,Crystal Palace,Premier League,28
 2026-03-01,16:30,Arsenal,Chelsea,Premier League,28
-2026-03-04,20:00,Bournemouth,Brentford,Premier League,29
-2026-03-04,20:00,Aston Villa,Chelsea,Premier League,29
-2026-03-04,20:00,Brighton,Arsenal,Premier League,29
-2026-03-04,20:00,Everton,Burnley,Premier League,29
-2026-03-04,20:00,Fulham,West Ham,Premier League,29
-2026-03-04,20:00,Leeds,Sunderland,Premier League,29
-2026-03-04,20:00,Manchester City,Nott'm Forest,Premier League,29
-2026-03-04,20:00,Newcastle,Manchester Utd,Premier League,29
-2026-03-04,20:00,Tottenham,Crystal Palace,Premier League,29
-2026-03-04,20:00,Wolves,Liverpool,Premier League,29
+2026-03-03,19:30,Bournemouth,Brentford,Premier League,29
+2026-03-03,19:30,Everton,Burnley,Premier League,29
+2026-03-03,19:30,Leeds,Sunderland,Premier League,29
+2026-03-03,20:15,Wolves,Liverpool,Premier League,29
+2026-03-04,19:30,Aston Villa,Chelsea,Premier League,29
+2026-03-04,19:30,Brighton,Arsenal,Premier League,29
+2026-03-04,19:30,Fulham,West Ham,Premier League,29
+2026-03-04,19:30,Manchester City,Nott'm Forest,Premier League,29
+2026-03-04,20:15,Newcastle,Manchester Utd,Premier League,29
+2026-03-05,20:00,Tottenham,Crystal Palace,Premier League,29
+2026-03-14,12:30,West Ham,Manchester City,Premier League,30
 2026-03-14,15:00,Sunderland,Brighton,Premier League,30
 2026-03-14,15:00,Crystal Palace,Leeds,Premier League,30
-2026-03-14,15:00,Arsenal,Everton,Premier League,30
-2026-03-14,15:00,Brentford,Wolves,Premier League,30
 2026-03-14,15:00,Burnley,Bournemouth,Premier League,30
-2026-03-14,15:00,Chelsea,Newcastle,Premier League,30
-2026-03-14,15:00,Liverpool,Tottenham,Premier League,30
 2026-03-14,15:00,Manchester Utd,Aston Villa,Premier League,30
 2026-03-14,15:00,Nott'm Forest,Fulham,Premier League,30
-2026-03-14,15:00,West Ham,Manchester City,Premier League,30
-2026-03-21,15:00,Bournemouth,Manchester Utd,Premier League,31
+2026-03-14,17:30,Chelsea,Newcastle,Premier League,30
+2026-03-15,14:00,Arsenal,Everton,Premier League,30
+2026-03-15,16:30,Liverpool,Tottenham,Premier League,30
+2026-03-16,20:00,Brentford,Wolves,Premier League,30
+2026-03-20,20:00,Bournemouth,Manchester Utd,Premier League,31
+2026-03-21,12:30,Brighton,Liverpool,Premier League,31
 2026-03-21,15:00,Aston Villa,West Ham,Premier League,31
-2026-03-21,15:00,Brighton,Liverpool,Premier League,31
-2026-03-21,15:00,Everton,Chelsea,Premier League,31
 2026-03-21,15:00,Fulham,Burnley,Premier League,31
-2026-03-21,15:00,Leeds,Brentford,Premier League,31
 2026-03-21,15:00,Manchester City,Crystal Palace,Premier League,31
-2026-03-21,15:00,Newcastle,Sunderland,Premier League,31
-2026-03-21,15:00,Tottenham,Nott'm Forest,Premier League,31
 2026-03-21,15:00,Wolves,Arsenal,Premier League,31
+2026-03-21,17:30,Everton,Chelsea,Premier League,31
+2026-03-21,20:00,Leeds,Brentford,Premier League,31
+2026-03-22,12:00,Newcastle,Sunderland,Premier League,31
+2026-03-22,14:15,Tottenham,Nott'm Forest,Premier League,31
 2026-04-11,14:00,Sunderland,Tottenham,Premier League,32
 2026-04-11,14:00,Crystal Palace,Newcastle,Premier League,32
 2026-04-11,14:00,Arsenal,Bournemouth,Premier League,32
@@ -356,10 +356,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-08,16:15,Auxerre,Paris FC,Ligue 1,21
 2026-02-08,16:15,Angers,Toulouse,Ligue 1,21
 2026-02-08,19:45,Paris SG,Marseille,Ligue 1,21
-2026-02-15,00:00,Le Havre,Toulouse,Ligue 1,22
 2026-02-15,00:00,Monaco,Nantes,Ligue 1,22
-2026-02-15,00:00,Lorient,Angers,Ligue 1,22
-2026-02-15,00:00,Metz,Auxerre,Ligue 1,22
 2026-02-15,00:00,Paris FC,Lens,Ligue 1,22
 2026-02-15,00:00,Lyon,Nice,Ligue 1,22
 2026-02-15,00:00,Marseille,Strasbourg,Ligue 1,22
