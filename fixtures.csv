@@ -159,7 +159,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-01-23T19:45:00Z,FC Internazionale Milano,AC Pisa 1909,Serie A,22
 2026-01-24T14:00:00Z,Como 1907,Torino FC,Serie A,22
 2026-01-24T17:00:00Z,ACF Fiorentina,Cagliari Calcio,Serie A,22
 2026-01-24T19:45:00Z,US Lecce,SS Lazio,Serie A,22
@@ -329,7 +328,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2026-01-23T19:00:00Z,AJ Auxerre,Paris Saint-Germain FC,Ligue 1,19
 2026-01-24T16:00:00Z,Stade Rennais FC 1901,FC Lorient,Ligue 1,19
 2026-01-24T18:00:00Z,Le Havre AC,AS Monaco FC,Ligue 1,19
 2026-01-24T20:05:00Z,Olympique de Marseille,Racing Club de Lens,Ligue 1,19
@@ -362,6 +360,9 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-02-15T00:00:00Z,Olympique de Marseille,RC Strasbourg Alsace,Ligue 1,22
 2026-02-15T00:00:00Z,Lille OSC,Stade Brestois 29,Ligue 1,22
 2026-02-15T00:00:00Z,Stade Rennais FC 1901,Paris Saint-Germain FC,Ligue 1,22
+2026-02-15T14:15:00Z,Le Havre AC,Toulouse FC,Ligue 1,22
+2026-02-15T14:15:00Z,FC Lorient,Angers SCO,Ligue 1,22
+2026-02-15T14:15:00Z,FC Metz,AJ Auxerre,Ligue 1,22
 2026-02-22T00:00:00Z,AJ Auxerre,Stade Rennais FC 1901,Ligue 1,23
 2026-02-22T00:00:00Z,FC Nantes,Le Havre AC,Ligue 1,23
 2026-02-22T00:00:00Z,Toulouse FC,Paris FC,Ligue 1,23
@@ -470,7 +471,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-16T19:00:00Z,Lille OSC,AJ Auxerre,Ligue 1,34
 2026-05-16T19:00:00Z,RC Strasbourg Alsace,AS Monaco FC,Ligue 1,34
 2026-05-16T19:00:00Z,Stade Brestois 29,Angers SCO,Ligue 1,34
-2026-01-23T20:00:00Z,Levante UD,Elche CF,La Liga,21
 2026-01-24T13:00:00Z,Rayo Vallecano de Madrid,CA Osasuna,La Liga,21
 2026-01-24T15:15:00Z,Valencia CF,RCD Espanyol de Barcelona,La Liga,21
 2026-01-24T17:30:00Z,Sevilla FC,Athletic Club,La Liga,21
@@ -651,7 +651,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2026-01-23T19:30:00Z,FC St. Pauli 1910,Hamburger SV,Bundesliga,19
 2026-01-24T14:30:00Z,1. FC Heidenheim 1846,RB Leipzig,Bundesliga,19
 2026-01-24T14:30:00Z,Bayer 04 Leverkusen,SV Werder Bremen,Bundesliga,19
 2026-01-24T14:30:00Z,1. FSV Mainz 05,VfL Wolfsburg,Bundesliga,19
