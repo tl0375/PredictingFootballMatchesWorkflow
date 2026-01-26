@@ -1,8 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-01-25,14:00,Crystal Palace,Chelsea,Premier League,23
-2026-01-25,14:00,Brentford,Nott'm Forest,Premier League,23
-2026-01-25,14:00,Newcastle,Aston Villa,Premier League,23
-2026-01-25,16:30,Arsenal,Manchester Utd,Premier League,23
 2026-01-26,20:00,Everton,Leeds,Premier League,23
 2026-01-31,15:00,Brighton,Everton,Premier League,24
 2026-01-31,15:00,Leeds,Arsenal,Premier League,24
@@ -154,11 +150,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-01-25,11:30,Sassuolo,Cremonese,Serie A,22
-2026-01-25,14:00,Atalanta,Parma,Serie A,22
-2026-01-25,14:00,Genoa,Bologna,Serie A,22
-2026-01-25,17:00,Juventus,Napoli,Serie A,22
-2026-01-25,19:45,Roma,Milan,Serie A,22
 2026-01-26,19:45,Verona,Udinese,Serie A,22
 2026-01-30,19:45,Lazio,Genoa,Serie A,23
 2026-01-31,14:00,Pisa,Sassuolo,Serie A,23
@@ -320,11 +311,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2026-01-25,14:00,Nantes,Nice,Ligue 1,19
-2026-01-25,16:15,Metz,Lyon,Ligue 1,19
-2026-01-25,16:15,Paris FC,Angers,Ligue 1,19
-2026-01-25,16:15,Brest,Toulouse,Ligue 1,19
-2026-01-25,19:45,Lille,Strasbourg,Ligue 1,19
 2026-01-30,19:45,Lens,Le Havre,Ligue 1,20
 2026-01-31,16:00,Paris FC,Marseille,Ligue 1,20
 2026-01-31,18:00,Lorient,Nantes,Ligue 1,20
@@ -460,10 +446,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,19:00,Brest,Angers,Ligue 1,34
-2026-01-25,13:00,Ath Madrid,Mallorca,La Liga,21
-2026-01-25,15:15,Barcelona,Oviedo,La Liga,21
-2026-01-25,17:30,Sociedad,Celta,La Liga,21
-2026-01-25,20:00,Alaves,Betis,La Liga,21
 2026-01-26,20:00,Girona,Getafe,La Liga,21
 2026-01-30,20:00,Espanol,Alaves,La Liga,22
 2026-01-31,13:00,Oviedo,Girona,La Liga,22
@@ -636,8 +618,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2026-01-25,14:30,M'gladbach,Stuttgart,Bundesliga,19
-2026-01-25,16:30,Freiburg,FC Koln,Bundesliga,19
 2026-01-27,19:30,Werder Bremen,Hoffenheim,Bundesliga,16
 2026-01-27,19:30,St Pauli,RB Leipzig,Bundesliga,16
 2026-01-30,19:30,FC Koln,Wolfsburg,Bundesliga,20
