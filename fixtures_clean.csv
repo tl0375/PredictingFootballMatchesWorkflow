@@ -1,5 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-02-02,20:00,Sunderland,Burnley,Premier League,24
 2026-02-06,20:00,Leeds,Nott'm Forest,Premier League,25
 2026-02-07,12:30,Manchester Utd,Tottenham,Premier League,25
 2026-02-07,15:00,Bournemouth,Aston Villa,Premier League,25
@@ -20,23 +19,23 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-11,19:30,Nott'm Forest,Wolves,Premier League,26
 2026-02-11,20:15,Sunderland,Liverpool,Premier League,26
 2026-02-12,20:00,Brentford,Arsenal,Premier League,26
-2026-02-21,12:30,Manchester City,Newcastle,Premier League,27
 2026-02-21,15:00,Aston Villa,Leeds,Premier League,27
 2026-02-21,15:00,Brentford,Brighton,Premier League,27
 2026-02-21,15:00,Chelsea,Burnley,Premier League,27
-2026-02-21,15:00,Nott'm Forest,Liverpool,Premier League,27
 2026-02-21,17:30,West Ham,Bournemouth,Premier League,27
+2026-02-21,20:00,Manchester City,Newcastle,Premier League,27
 2026-02-22,14:00,Sunderland,Fulham,Premier League,27
 2026-02-22,14:00,Crystal Palace,Wolves,Premier League,27
+2026-02-22,14:00,Nott'm Forest,Liverpool,Premier League,27
 2026-02-22,16:30,Tottenham,Arsenal,Premier League,27
 2026-02-23,20:00,Everton,Manchester Utd,Premier League,27
 2026-02-27,20:00,Wolves,Aston Villa,Premier League,28
 2026-02-28,12:30,Bournemouth,Sunderland,Premier League,28
-2026-02-28,15:00,Brighton,Nott'm Forest,Premier League,28
 2026-02-28,15:00,Burnley,Brentford,Premier League,28
 2026-02-28,15:00,Liverpool,West Ham,Premier League,28
 2026-02-28,15:00,Newcastle,Everton,Premier League,28
 2026-02-28,17:30,Leeds,Manchester City,Premier League,28
+2026-03-01,14:00,Brighton,Nott'm Forest,Premier League,28
 2026-03-01,14:00,Fulham,Tottenham,Premier League,28
 2026-03-01,14:00,Manchester Utd,Crystal Palace,Premier League,28
 2026-03-01,16:30,Arsenal,Chelsea,Premier League,28
@@ -140,7 +139,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-02-02,19:45,Udinese,Roma,Serie A,23
 2026-02-03,19:45,Bologna,Milan,Serie A,23
 2026-02-06,19:45,Verona,Pisa,Serie A,24
 2026-02-07,17:00,Genoa,Napoli,Serie A,24
@@ -302,7 +300,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-08,16:15,Angers,Toulouse,Ligue 1,21
 2026-02-08,19:45,Paris SG,Marseille,Ligue 1,21
 2026-02-13,18:00,Rennes,Paris SG,Ligue 1,22
-2026-02-13,19:45,Monaco,Nantes,Ligue 1,22
+2026-02-13,20:05,Monaco,Nantes,Ligue 1,22
 2026-02-14,16:00,Marseille,Strasbourg,Ligue 1,22
 2026-02-14,18:00,Lille,Brest,Ligue 1,22
 2026-02-14,20:05,Paris FC,Lens,Ligue 1,22
@@ -418,7 +416,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,19:00,Brest,Angers,Ligue 1,34
-2026-02-02,20:00,Mallorca,Sevilla,La Liga,22
 2026-02-06,20:00,Celta,Osasuna,La Liga,23
 2026-02-07,13:00,Vallecano,Oviedo,La Liga,23
 2026-02-07,15:15,Barcelona,Mallorca,La Liga,23
@@ -440,16 +437,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-15,20:00,Mallorca,Betis,La Liga,24
 2026-02-16,20:00,Girona,Barcelona,La Liga,24
 2026-02-18,19:00,Levante,Villarreal,La Liga,16
-2026-02-22,00:00,Alaves,Girona,La Liga,25
-2026-02-22,00:00,Athletic Club,Elche,La Liga,25
-2026-02-22,00:00,Ath Madrid,Espanol,La Liga,25
-2026-02-22,00:00,Barcelona,Levante,La Liga,25
-2026-02-22,00:00,Betis,Vallecano,La Liga,25
-2026-02-22,00:00,Celta,Mallorca,La Liga,25
-2026-02-22,00:00,Getafe,Sevilla,La Liga,25
-2026-02-22,00:00,Osasuna,Real Madrid,La Liga,25
-2026-02-22,00:00,Villarreal,Valencia,La Liga,25
-2026-02-22,00:00,Sociedad,Oviedo,La Liga,25
 2026-03-01,00:00,Barcelona,Villarreal,La Liga,26
 2026-03-01,00:00,Betis,Sevilla,La Liga,26
 2026-03-01,00:00,Elche,Espanol,La Liga,26
