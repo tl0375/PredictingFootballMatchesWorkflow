@@ -139,7 +139,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-02-03T19:45:00Z,Bologna FC 1909,AC Milan,Serie A,23
 2026-02-06T19:45:00Z,Hellas Verona FC,AC Pisa 1909,Serie A,24
 2026-02-07T17:00:00Z,Genoa CFC,SSC Napoli,Serie A,24
 2026-02-07T19:45:00Z,ACF Fiorentina,Torino FC,Serie A,24
@@ -437,6 +436,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-02-15T20:00:00Z,RCD Mallorca,Real Betis Balompié,La Liga,24
 2026-02-16T20:00:00Z,Girona FC,FC Barcelona,La Liga,24
 2026-02-18T19:00:00Z,Levante UD,Villarreal CF,La Liga,16
+2026-02-20T20:00:00Z,Athletic Club,Elche CF,La Liga,25
+2026-02-21T13:00:00Z,Real Sociedad de Fútbol,Real Oviedo,La Liga,25
+2026-02-21T15:15:00Z,Real Betis Balompié,Rayo Vallecano de Madrid,La Liga,25
+2026-02-21T17:30:00Z,CA Osasuna,Real Madrid CF,La Liga,25
+2026-02-21T20:00:00Z,Club Atlético de Madrid,RCD Espanyol de Barcelona,La Liga,25
+2026-02-22T13:00:00Z,Getafe CF,Sevilla FC,La Liga,25
+2026-02-22T15:15:00Z,FC Barcelona,Levante UD,La Liga,25
+2026-02-22T17:30:00Z,RC Celta de Vigo,RCD Mallorca,La Liga,25
+2026-02-22T20:00:00Z,Villarreal CF,Valencia CF,La Liga,25
+2026-02-23T20:00:00Z,Deportivo Alavés,Girona FC,La Liga,25
 2026-03-01T00:00:00Z,FC Barcelona,Villarreal CF,La Liga,26
 2026-03-01T00:00:00Z,Real Betis Balompié,Sevilla FC,La Liga,26
 2026-03-01T00:00:00Z,Elche CF,RCD Espanyol de Barcelona,La Liga,26
