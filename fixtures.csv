@@ -19,6 +19,7 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-02-11T19:30:00Z,Nottingham Forest FC,Wolverhampton Wanderers FC,Premier League,26
 2026-02-11T20:15:00Z,Sunderland AFC,Liverpool FC,Premier League,26
 2026-02-12T20:00:00Z,Brentford FC,Arsenal FC,Premier League,26
+2026-02-18T20:00:00Z,Wolverhampton Wanderers FC,Arsenal FC,Premier League,31
 2026-02-21T15:00:00Z,Aston Villa FC,Leeds United FC,Premier League,27
 2026-02-21T15:00:00Z,Brentford FC,Brighton & Hove Albion FC,Premier League,27
 2026-02-21T15:00:00Z,Chelsea FC,Burnley FC,Premier League,27
@@ -64,7 +65,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-03-21T15:00:00Z,Aston Villa FC,West Ham United FC,Premier League,31
 2026-03-21T15:00:00Z,Fulham FC,Burnley FC,Premier League,31
 2026-03-21T15:00:00Z,Manchester City FC,Crystal Palace FC,Premier League,31
-2026-03-21T15:00:00Z,Wolverhampton Wanderers FC,Arsenal FC,Premier League,31
 2026-03-21T17:30:00Z,Everton FC,Chelsea FC,Premier League,31
 2026-03-21T20:00:00Z,Leeds United FC,Brentford FC,Premier League,31
 2026-03-22T12:00:00Z,Newcastle United FC,Sunderland AFC,Premier League,31
@@ -613,33 +613,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-03-01T16:30:00Z,Eintracht Frankfurt,SC Freiburg,Bundesliga,24
 2026-03-01T18:30:00Z,Hamburger SV,RB Leipzig,Bundesliga,24
 2026-03-04T19:30:00Z,Hamburger SV,Bayer 04 Leverkusen,Bundesliga,17
-2026-03-07T00:00:00Z,SC Freiburg,Bayer 04 Leverkusen,Bundesliga,25
-2026-03-07T00:00:00Z,FC St. Pauli 1910,Eintracht Frankfurt,Bundesliga,25
-2026-03-07T00:00:00Z,1. FC Köln,Borussia Dortmund,Bundesliga,25
-2026-03-07T00:00:00Z,1. FC Union Berlin,SV Werder Bremen,Bundesliga,25
-2026-03-07T00:00:00Z,1. FSV Mainz 05,VfB Stuttgart,Bundesliga,25
-2026-03-07T00:00:00Z,FC Bayern München,Borussia Mönchengladbach,Bundesliga,25
-2026-03-07T00:00:00Z,RB Leipzig,FC Augsburg,Bundesliga,25
-2026-03-07T00:00:00Z,1. FC Heidenheim 1846,TSG 1899 Hoffenheim,Bundesliga,25
-2026-03-07T00:00:00Z,VfL Wolfsburg,Hamburger SV,Bundesliga,25
-2026-03-14T00:00:00Z,Bayer 04 Leverkusen,FC Bayern München,Bundesliga,26
-2026-03-14T00:00:00Z,SV Werder Bremen,1. FSV Mainz 05,Bundesliga,26
-2026-03-14T00:00:00Z,VfB Stuttgart,RB Leipzig,Bundesliga,26
-2026-03-14T00:00:00Z,TSG 1899 Hoffenheim,VfL Wolfsburg,Bundesliga,26
-2026-03-14T00:00:00Z,Borussia Dortmund,FC Augsburg,Bundesliga,26
-2026-03-14T00:00:00Z,SC Freiburg,1. FC Union Berlin,Bundesliga,26
-2026-03-14T00:00:00Z,Borussia Mönchengladbach,FC St. Pauli 1910,Bundesliga,26
-2026-03-14T00:00:00Z,Eintracht Frankfurt,1. FC Heidenheim 1846,Bundesliga,26
-2026-03-14T00:00:00Z,Hamburger SV,1. FC Köln,Bundesliga,26
-2026-03-21T00:00:00Z,1. FC Heidenheim 1846,Bayer 04 Leverkusen,Bundesliga,27
-2026-03-21T00:00:00Z,1. FSV Mainz 05,Eintracht Frankfurt,Bundesliga,27
-2026-03-21T00:00:00Z,FC St. Pauli 1910,SC Freiburg,Bundesliga,27
-2026-03-21T00:00:00Z,VfL Wolfsburg,SV Werder Bremen,Bundesliga,27
-2026-03-21T00:00:00Z,FC Augsburg,VfB Stuttgart,Bundesliga,27
-2026-03-21T00:00:00Z,1. FC Köln,Borussia Mönchengladbach,Bundesliga,27
-2026-03-21T00:00:00Z,FC Bayern München,1. FC Union Berlin,Bundesliga,27
-2026-03-21T00:00:00Z,RB Leipzig,TSG 1899 Hoffenheim,Bundesliga,27
-2026-03-21T00:00:00Z,Borussia Dortmund,Hamburger SV,Bundesliga,27
 2026-04-04T00:00:00Z,SC Freiburg,FC Bayern München,Bundesliga,28
 2026-04-04T00:00:00Z,VfB Stuttgart,Borussia Dortmund,Bundesliga,28
 2026-04-04T00:00:00Z,TSG 1899 Hoffenheim,1. FSV Mainz 05,Bundesliga,28
