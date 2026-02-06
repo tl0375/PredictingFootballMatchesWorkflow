@@ -64,7 +64,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-03-21,12:30,Brighton,Liverpool,Premier League,31
 2026-03-21,15:00,Aston Villa,West Ham,Premier League,31
 2026-03-21,15:00,Fulham,Burnley,Premier League,31
-2026-03-21,15:00,Manchester City,Crystal Palace,Premier League,31
 2026-03-21,17:30,Everton,Chelsea,Premier League,31
 2026-03-21,20:00,Leeds,Brentford,Premier League,31
 2026-03-22,12:00,Newcastle,Sunderland,Premier League,31
@@ -613,6 +612,33 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-03-01,16:30,Ein Frankfurt,Freiburg,Bundesliga,24
 2026-03-01,18:30,Hamburg,RB Leipzig,Bundesliga,24
 2026-03-04,19:30,Hamburg,Leverkusen,Bundesliga,17
+2026-03-06,19:30,Bayern Munich,M'gladbach,Bundesliga,25
+2026-03-07,14:30,Freiburg,Leverkusen,Bundesliga,25
+2026-03-07,14:30,Mainz,Stuttgart,Bundesliga,25
+2026-03-07,14:30,RB Leipzig,Augsburg,Bundesliga,25
+2026-03-07,14:30,Heidenheim,Hoffenheim,Bundesliga,25
+2026-03-07,14:30,Wolfsburg,Hamburg,Bundesliga,25
+2026-03-07,17:30,FC Koln,Dortmund,Bundesliga,25
+2026-03-08,14:30,St Pauli,Ein Frankfurt,Bundesliga,25
+2026-03-08,16:30,Union Berlin,Werder Bremen,Bundesliga,25
+2026-03-13,19:30,M'gladbach,St Pauli,Bundesliga,26
+2026-03-14,14:30,Leverkusen,Bayern Munich,Bundesliga,26
+2026-03-14,14:30,Hoffenheim,Wolfsburg,Bundesliga,26
+2026-03-14,14:30,Dortmund,Augsburg,Bundesliga,26
+2026-03-14,14:30,Ein Frankfurt,Heidenheim,Bundesliga,26
+2026-03-14,17:30,Hamburg,FC Koln,Bundesliga,26
+2026-03-15,14:30,Werder Bremen,Mainz,Bundesliga,26
+2026-03-15,16:30,Freiburg,Union Berlin,Bundesliga,26
+2026-03-15,18:30,Stuttgart,RB Leipzig,Bundesliga,26
+2026-03-20,19:30,RB Leipzig,Hoffenheim,Bundesliga,27
+2026-03-21,14:30,Heidenheim,Leverkusen,Bundesliga,27
+2026-03-21,14:30,Wolfsburg,Werder Bremen,Bundesliga,27
+2026-03-21,14:30,FC Koln,M'gladbach,Bundesliga,27
+2026-03-21,14:30,Bayern Munich,Union Berlin,Bundesliga,27
+2026-03-21,17:30,Dortmund,Hamburg,Bundesliga,27
+2026-03-22,14:30,Mainz,Ein Frankfurt,Bundesliga,27
+2026-03-22,16:30,St Pauli,Freiburg,Bundesliga,27
+2026-03-22,18:30,Augsburg,Stuttgart,Bundesliga,27
 2026-04-04,00:00,Freiburg,Bayern Munich,Bundesliga,28
 2026-04-04,00:00,Stuttgart,Dortmund,Bundesliga,28
 2026-04-04,00:00,Hoffenheim,Mainz,Bundesliga,28
