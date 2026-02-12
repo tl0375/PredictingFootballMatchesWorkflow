@@ -1,129 +1,124 @@
 Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Prob_Draw,Prob_Away_Win
-2026-02-11,19:30,26,Premier League,Aston Villa,Brighton,Home Win,0.5768627,0.22641806,0.19671921
-2026-02-11,19:30,26,Premier League,Crystal Palace,Burnley,Home Win,0.48474535,0.24539624,0.2698584
-2026-02-11,19:30,26,Premier League,Manchester City,Fulham,Home Win,0.56582344,0.22941221,0.2047644
-2026-02-11,19:30,26,Premier League,Nott'm Forest,Wolves,Home Win,0.5526196,0.23272237,0.21465807
-2026-02-11,20:15,26,Premier League,Sunderland,Liverpool,Away Win,0.33341604,0.24997745,0.41660655
 2026-02-12,20:00,26,Premier League,Brentford,Arsenal,Away Win,0.2826607,0.24363431,0.47370502
-2026-02-18,20:00,31,Premier League,Wolves,Arsenal,Away Win,0.23013149,0.2319804,0.5378881
-2026-02-21,15:00,27,Premier League,Aston Villa,Leeds,Home Win,0.61384255,0.21551044,0.17064705
-2026-02-21,15:00,27,Premier League,Brentford,Brighton,Home Win,0.4989675,0.24304542,0.2579871
-2026-02-21,15:00,27,Premier League,Chelsea,Burnley,Home Win,0.6599794,0.1999577,0.14006288
-2026-02-21,17:30,27,Premier League,West Ham,Bournemouth,Away Win,0.29649743,0.24608587,0.45741674
-2026-02-21,20:00,27,Premier League,Manchester City,Newcastle,Home Win,0.60020566,0.21969587,0.18009847
-2026-02-22,14:00,27,Premier League,Sunderland,Fulham,Away Win,0.348745,0.2509386,0.40031645
-2026-02-22,14:00,27,Premier League,Crystal Palace,Wolves,Home Win,0.47782716,0.24605726,0.27611557
-2026-02-22,14:00,27,Premier League,Nott'm Forest,Liverpool,Away Win,0.29202524,0.24531518,0.4626596
-2026-02-22,16:30,27,Premier League,Tottenham,Arsenal,Away Win,0.23381025,0.23316163,0.5330282
-2026-02-23,20:00,27,Premier League,Everton,Manchester Utd,Away Win,0.2345729,0.23346813,0.53195906
-2026-02-27,20:00,28,Premier League,Wolves,Aston Villa,Away Win,0.23294196,0.23286195,0.5341961
-2026-02-28,12:30,28,Premier League,Bournemouth,Sunderland,Home Win,0.45735562,0.2477973,0.29484713
-2026-02-28,15:00,28,Premier League,Burnley,Brentford,Away Win,0.27245292,0.24232386,0.48522323
-2026-02-28,15:00,28,Premier League,Liverpool,West Ham,Home Win,0.59436506,0.22143008,0.18420489
-2026-02-28,15:00,28,Premier League,Newcastle,Everton,Home Win,0.38903135,0.25166744,0.35930124
-2026-02-28,17:30,28,Premier League,Leeds,Manchester City,Away Win,0.23674099,0.23402485,0.5292342
-2026-03-01,14:00,28,Premier League,Brighton,Nott'm Forest,Home Win,0.44855872,0.24898884,0.30245245
-2026-03-01,14:00,28,Premier League,Fulham,Tottenham,Home Win,0.5638343,0.22993584,0.20622982
-2026-03-01,14:00,28,Premier League,Manchester Utd,Crystal Palace,Home Win,0.6540203,0.20208737,0.1438923
-2026-03-01,16:30,28,Premier League,Arsenal,Chelsea,Home Win,0.56846255,0.22871089,0.20282662
-2026-03-03,19:30,29,Premier League,Bournemouth,Brentford,Away Win,0.32657057,0.24885438,0.4245751
-2026-03-03,19:30,29,Premier League,Everton,Burnley,Home Win,0.590618,0.2225252,0.18685676
-2026-03-03,19:30,29,Premier League,Leeds,Sunderland,Home Win,0.3903217,0.25137103,0.35830727
-2026-03-03,20:15,29,Premier League,Wolves,Liverpool,Away Win,0.26357472,0.24020049,0.4962248
-2026-03-04,19:30,29,Premier League,Aston Villa,Chelsea,Home Win,0.473141,0.24650383,0.28035516
-2026-03-04,19:30,29,Premier League,Brighton,Arsenal,Away Win,0.25148442,0.23759906,0.51091653
-2026-03-04,19:30,29,Premier League,Fulham,West Ham,Home Win,0.57701975,0.22637771,0.19660254
-2026-03-04,19:30,29,Premier League,Manchester City,Nott'm Forest,Home Win,0.6010841,0.21943171,0.17948417
-2026-03-04,20:15,29,Premier League,Newcastle,Manchester Utd,Away Win,0.23136747,0.23259267,0.5360398
-2026-03-05,20:00,29,Premier League,Tottenham,Crystal Palace,Home Win,0.4010312,0.25153482,0.34743398
-2026-03-14,12:30,30,Premier League,West Ham,Manchester City,Away Win,0.23823431,0.23452014,0.5272455
-2026-03-14,15:00,30,Premier League,Sunderland,Brighton,Away Win,0.36916864,0.25178298,0.37904832
-2026-03-14,15:00,30,Premier League,Crystal Palace,Leeds,Away Win,0.3575243,0.25158024,0.39089543
-2026-03-14,15:00,30,Premier League,Burnley,Bournemouth,Away Win,0.29850388,0.24625789,0.45523825
-2026-03-14,15:00,30,Premier League,Nott'm Forest,Fulham,Away Win,0.335121,0.24955036,0.41532868
-2026-03-14,17:30,30,Premier League,Chelsea,Newcastle,Home Win,0.5619077,0.23044035,0.20765197
-2026-03-15,14:00,30,Premier League,Arsenal,Everton,Home Win,0.62721884,0.21122408,0.1615571
-2026-03-15,14:00,30,Premier League,Manchester Utd,Aston Villa,Home Win,0.46213546,0.24763751,0.290227
-2026-03-15,16:30,30,Premier League,Liverpool,Tottenham,Home Win,0.5889878,0.22299594,0.1880162
-2026-03-16,20:00,30,Premier League,Brentford,Wolves,Home Win,0.6261507,0.21157321,0.16227607
-2026-03-20,20:00,31,Premier League,Bournemouth,Manchester Utd,Away Win,0.24349433,0.23591141,0.52059424
-2026-03-21,12:30,31,Premier League,Brighton,Liverpool,Away Win,0.32220596,0.24886978,0.42892426
-2026-03-21,15:00,31,Premier League,Fulham,Burnley,Home Win,0.606112,0.2179058,0.17598219
-2026-03-21,17:30,31,Premier League,Everton,Chelsea,Away Win,0.29309556,0.24526474,0.46163964
-2026-03-21,20:00,31,Premier League,Leeds,Brentford,Away Win,0.26379326,0.24037193,0.49583474
-2026-03-22,12:00,31,Premier League,Newcastle,Sunderland,Home Win,0.46164867,0.24755318,0.2907981
-2026-03-22,14:15,31,Premier League,Aston Villa,West Ham,Home Win,0.65286386,0.20249718,0.14463894
-2026-03-22,14:15,31,Premier League,Tottenham,Nott'm Forest,Away Win,0.3321468,0.2499265,0.41792667
-2026-04-11,14:00,32,Premier League,Sunderland,Tottenham,Home Win,0.4790235,0.24616909,0.27480745
-2026-04-11,14:00,32,Premier League,Crystal Palace,Newcastle,Away Win,0.30096406,0.24675505,0.4522809
-2026-04-11,14:00,32,Premier League,Arsenal,Bournemouth,Home Win,0.63173807,0.20973735,0.1585246
-2026-04-11,14:00,32,Premier League,Brentford,Everton,Home Win,0.48192567,0.24543625,0.27263808
-2026-04-11,14:00,32,Premier League,Burnley,Brighton,Away Win,0.28707007,0.24450672,0.46842322
-2026-04-11,14:00,32,Premier League,Chelsea,Manchester City,Away Win,0.34996673,0.2504866,0.39954662
-2026-04-11,14:00,32,Premier League,Liverpool,Fulham,Home Win,0.4720607,0.24604554,0.28189373
-2026-04-11,14:00,32,Premier League,Manchester Utd,Leeds,Home Win,0.6374055,0.20783773,0.15475677
-2026-04-11,14:00,32,Premier League,Nott'm Forest,Aston Villa,Away Win,0.24378735,0.23589845,0.52031416
-2026-04-11,14:00,32,Premier League,West Ham,Wolves,Home Win,0.43737534,0.24962576,0.31299895
-2026-04-18,14:00,33,Premier League,Newcastle,Bournemouth,Home Win,0.4079851,0.25141877,0.34059614
-2026-04-18,14:00,33,Premier League,Nott'm Forest,Burnley,Home Win,0.5594646,0.23107769,0.20945773
-2026-04-18,14:00,33,Premier League,Tottenham,Brighton,Away Win,0.31301928,0.24808294,0.43889773
-2026-04-18,14:00,33,Premier League,Aston Villa,Sunderland,Home Win,0.6140464,0.21544586,0.17050765
-2026-04-18,14:00,33,Premier League,Crystal Palace,West Ham,Home Win,0.42744076,0.25075403,0.3218052
-2026-04-18,14:00,33,Premier League,Brentford,Fulham,Home Win,0.45382166,0.24830784,0.2978705
-2026-04-18,14:00,33,Premier League,Chelsea,Manchester Utd,Away Win,0.34151843,0.24970174,0.40877983
-2026-04-18,14:00,33,Premier League,Everton,Liverpool,Away Win,0.3385296,0.25000888,0.4114615
-2026-04-18,14:00,33,Premier League,Leeds,Wolves,Home Win,0.5242707,0.23870502,0.23702426
-2026-04-18,14:00,33,Premier League,Manchester City,Arsenal,Away Win,0.35453665,0.25091332,0.39455
-2026-04-25,14:00,34,Premier League,Bournemouth,Leeds,Home Win,0.4866389,0.24490556,0.2684556
-2026-04-25,14:00,34,Premier League,Sunderland,Nott'm Forest,Home Win,0.38984394,0.25203082,0.35812527
-2026-04-25,14:00,34,Premier League,Brighton,Chelsea,Away Win,0.28028098,0.24341863,0.4763004
-2026-04-25,14:00,34,Premier League,Arsenal,Newcastle,Home Win,0.6486898,0.20396501,0.14734523
-2026-04-25,14:00,34,Premier League,Burnley,Manchester City,Away Win,0.24624158,0.23667131,0.51708704
-2026-04-25,14:00,34,Premier League,Fulham,Aston Villa,Away Win,0.27756238,0.24277629,0.4796613
-2026-04-25,14:00,34,Premier League,Liverpool,Crystal Palace,Home Win,0.5846677,0.2242335,0.19109887
-2026-04-25,14:00,34,Premier League,Manchester Utd,Brentford,Home Win,0.5533731,0.23261045,0.21401653
-2026-04-25,14:00,34,Premier League,West Ham,Everton,Away Win,0.27682406,0.24283731,0.48033857
-2026-04-25,14:00,34,Premier League,Wolves,Tottenham,Away Win,0.35934293,0.25126252,0.38939455
-2026-05-02,14:00,35,Premier League,Bournemouth,Crystal Palace,Home Win,0.52864045,0.2380056,0.233354
-2026-05-02,14:00,35,Premier League,Aston Villa,Tottenham,Home Win,0.64106065,0.20659605,0.15234329
-2026-05-02,14:00,35,Premier League,Arsenal,Fulham,Home Win,0.6132547,0.21569645,0.17104885
-2026-05-02,14:00,35,Premier League,Brentford,West Ham,Home Win,0.59941095,0.21993124,0.18065776
-2026-05-02,14:00,35,Premier League,Chelsea,Nott'm Forest,Home Win,0.5630911,0.23013033,0.20677857
-2026-05-02,14:00,35,Premier League,Everton,Manchester City,Away Win,0.25540465,0.23859791,0.5059974
-2026-05-02,14:00,35,Premier League,Leeds,Burnley,Home Win,0.5300445,0.23769368,0.23226187
-2026-05-02,14:00,35,Premier League,Manchester Utd,Liverpool,Home Win,0.54027,0.23557702,0.22415307
-2026-05-02,14:00,35,Premier League,Newcastle,Brighton,Home Win,0.4157131,0.2510075,0.33327934
-2026-05-02,14:00,35,Premier League,Wolves,Sunderland,Away Win,0.28682646,0.24430078,0.4688727
-2026-05-09,14:00,36,Premier League,Sunderland,Manchester Utd,Away Win,0.23621994,0.23413385,0.52964616
-2026-05-09,14:00,36,Premier League,Brighton,Wolves,Home Win,0.5695944,0.22840518,0.20200047
-2026-05-09,14:00,36,Premier League,Crystal Palace,Everton,Away Win,0.30146405,0.24698783,0.4515481
-2026-05-09,14:00,36,Premier League,Burnley,Aston Villa,Away Win,0.2394993,0.23488748,0.5256131
-2026-05-09,14:00,36,Premier League,Fulham,Bournemouth,Home Win,0.44997853,0.24882253,0.30119896
-2026-05-09,14:00,36,Premier League,Liverpool,Chelsea,Away Win,0.35998625,0.25053596,0.38947776
-2026-05-09,14:00,36,Premier League,Manchester City,Brentford,Home Win,0.5486065,0.23359668,0.21779688
-2026-05-09,14:00,36,Premier League,Nott'm Forest,Newcastle,Home Win,0.37644154,0.25141743,0.37214103
-2026-05-09,14:00,36,Premier League,Tottenham,Leeds,Away Win,0.3477301,0.25084397,0.40142596
-2026-05-09,14:00,36,Premier League,West Ham,Arsenal,Away Win,0.23326226,0.23300628,0.5337314
-2026-05-17,14:00,37,Premier League,Bournemouth,Manchester City,Away Win,0.27323633,0.24219349,0.48457024
-2026-05-17,14:00,37,Premier League,Aston Villa,Liverpool,Home Win,0.50969803,0.24124704,0.2490549
-2026-05-17,14:00,37,Premier League,Arsenal,Burnley,Home Win,0.720008,0.17642224,0.10356974
-2026-05-17,14:00,37,Premier League,Brentford,Crystal Palace,Home Win,0.5731301,0.22744422,0.19942576
-2026-05-17,14:00,37,Premier League,Chelsea,Tottenham,Home Win,0.6213695,0.21312012,0.16551039
-2026-05-17,14:00,37,Premier League,Everton,Sunderland,Home Win,0.4722598,0.24617666,0.2815635
-2026-05-17,14:00,37,Premier League,Leeds,Brighton,Away Win,0.34389225,0.25058106,0.40552667
-2026-05-17,14:00,37,Premier League,Manchester Utd,Nott'm Forest,Home Win,0.60884404,0.217065,0.17409094
-2026-05-17,14:00,37,Premier League,Newcastle,West Ham,Home Win,0.5383268,0.23604117,0.22563207
-2026-05-17,14:00,37,Premier League,Wolves,Fulham,Away Win,0.2768888,0.24278618,0.48032507
-2026-05-24,15:00,38,Premier League,Sunderland,Chelsea,Away Win,0.30540153,0.24727975,0.4473187
-2026-05-24,15:00,38,Premier League,Brighton,Manchester Utd,Away Win,0.23509964,0.23367654,0.53122383
-2026-05-24,15:00,38,Premier League,Crystal Palace,Arsenal,Away Win,0.24390776,0.23603857,0.5200537
-2026-05-24,15:00,38,Premier League,Burnley,Wolves,Away Win,0.37384558,0.25157338,0.374581
-2026-05-24,15:00,38,Premier League,Fulham,Newcastle,Home Win,0.46955836,0.24690558,0.28353608
-2026-05-24,15:00,38,Premier League,Liverpool,Brentford,Home Win,0.42092875,0.24989606,0.32917517
-2026-05-24,15:00,38,Premier League,Manchester City,Aston Villa,Home Win,0.45763636,0.24769227,0.29467133
-2026-05-24,15:00,38,Premier League,Nott'm Forest,Bournemouth,Home Win,0.3795509,0.25171494,0.36873412
-2026-05-24,15:00,38,Premier League,Tottenham,Everton,Away Win,0.2960576,0.24599886,0.45794353
-2026-05-24,15:00,38,Premier League,West Ham,Leeds,Away Win,0.3271362,0.24943098,0.42343286
+2026-02-18,20:00,31,Premier League,Wolves,Arsenal,Away Win,0.2388208,0.23463155,0.5265477
+2026-02-21,15:00,27,Premier League,Aston Villa,Leeds,Home Win,0.57574004,0.2267314,0.19752859
+2026-02-21,15:00,27,Premier League,Brentford,Brighton,Home Win,0.53733563,0.23621605,0.22644828
+2026-02-21,15:00,27,Premier League,Chelsea,Burnley,Home Win,0.68142617,0.1919837,0.12659015
+2026-02-21,17:30,27,Premier League,West Ham,Bournemouth,Away Win,0.3143243,0.24829777,0.43737793
+2026-02-21,20:00,27,Premier League,Manchester City,Newcastle,Home Win,0.6437226,0.20568442,0.15059297
+2026-02-22,14:00,27,Premier League,Sunderland,Fulham,Away Win,0.36058208,0.2515461,0.3878718
+2026-02-22,14:00,27,Premier League,Crystal Palace,Wolves,Home Win,0.50905997,0.24153882,0.24940118
+2026-02-22,14:00,27,Premier League,Nott'm Forest,Liverpool,Away Win,0.31073046,0.24799336,0.4412762
+2026-02-22,16:30,27,Premier League,Tottenham,Arsenal,Away Win,0.23727302,0.23425774,0.52846926
+2026-02-23,20:00,27,Premier League,Everton,Manchester Utd,Away Win,0.26834354,0.24146515,0.4901913
+2026-02-27,20:00,28,Premier League,Wolves,Aston Villa,Away Win,0.24862075,0.23718688,0.51419234
+2026-02-28,12:30,28,Premier League,Bournemouth,Sunderland,Home Win,0.45366985,0.24799226,0.2983379
+2026-02-28,15:00,28,Premier League,Burnley,Brentford,Away Win,0.26513648,0.24097608,0.49388742
+2026-02-28,15:00,28,Premier League,Liverpool,West Ham,Home Win,0.5490053,0.23355964,0.21743508
+2026-02-28,15:00,28,Premier League,Newcastle,Everton,Away Win,0.3050151,0.24719895,0.44778597
+2026-02-28,17:30,28,Premier League,Leeds,Manchester City,Away Win,0.2272956,0.23154035,0.54116404
+2026-03-01,14:00,28,Premier League,Brighton,Nott'm Forest,Home Win,0.43836814,0.24994281,0.31168905
+2026-03-01,14:00,28,Premier League,Fulham,Tottenham,Home Win,0.5302968,0.23771328,0.23198992
+2026-03-01,14:00,28,Premier League,Manchester Utd,Crystal Palace,Home Win,0.6415818,0.20641805,0.15200025
+2026-03-01,16:30,28,Premier League,Arsenal,Chelsea,Home Win,0.5488893,0.23358153,0.21752921
+2026-03-03,19:30,29,Premier League,Bournemouth,Brentford,Away Win,0.33059043,0.2491367,0.4202728
+2026-03-03,19:30,29,Premier League,Everton,Burnley,Home Win,0.629529,0.21046801,0.16000304
+2026-03-03,19:30,29,Premier League,Leeds,Sunderland,Home Win,0.42899463,0.24980022,0.32120508
+2026-03-03,20:15,29,Premier League,Wolves,Liverpool,Away Win,0.28277782,0.2440758,0.47314638
+2026-03-04,19:30,29,Premier League,Aston Villa,Chelsea,Home Win,0.4308504,0.2498611,0.3192885
+2026-03-04,19:30,29,Premier League,Brighton,Arsenal,Away Win,0.24969298,0.23748493,0.51282215
+2026-03-04,19:30,29,Premier League,Fulham,West Ham,Home Win,0.50405765,0.24232662,0.25361574
+2026-03-04,19:30,29,Premier League,Manchester City,Nott'm Forest,Home Win,0.65596,0.20139939,0.14264056
+2026-03-04,20:15,29,Premier League,Newcastle,Manchester Utd,Away Win,0.23544095,0.23381968,0.53073937
+2026-03-05,20:00,29,Premier League,Tottenham,Crystal Palace,Away Win,0.34244537,0.25044873,0.4071059
+2026-03-14,12:30,30,Premier League,West Ham,Manchester City,Away Win,0.23538242,0.23371533,0.53090227
+2026-03-14,15:00,30,Premier League,Sunderland,Brighton,Home Win,0.39953232,0.25186718,0.34860054
+2026-03-14,15:00,30,Premier League,Crystal Palace,Leeds,Away Win,0.35101637,0.25133136,0.39765224
+2026-03-14,15:00,30,Premier League,Burnley,Bournemouth,Away Win,0.28773335,0.24479249,0.4674741
+2026-03-14,15:00,30,Premier League,Nott'm Forest,Fulham,Away Win,0.33039185,0.24965096,0.41995716
+2026-03-14,17:30,30,Premier League,Chelsea,Newcastle,Home Win,0.6009626,0.21946405,0.17957339
+2026-03-15,14:00,30,Premier League,Arsenal,Everton,Home Win,0.6065427,0.2177738,0.17568344
+2026-03-15,14:00,30,Premier League,Manchester Utd,Aston Villa,Home Win,0.49274597,0.2439559,0.26329812
+2026-03-15,16:30,30,Premier League,Liverpool,Tottenham,Home Win,0.5723396,0.22766343,0.19999698
+2026-03-16,20:00,30,Premier League,Brentford,Wolves,Home Win,0.63245696,0.2094964,0.15804662
+2026-03-20,20:00,31,Premier League,Bournemouth,Manchester Utd,Away Win,0.24990153,0.2375516,0.5125469
+2026-03-21,12:30,31,Premier League,Brighton,Liverpool,Away Win,0.3161546,0.2487093,0.43513614
+2026-03-21,15:00,31,Premier League,Fulham,Burnley,Home Win,0.57688767,0.2264165,0.19669585
+2026-03-21,17:30,31,Premier League,Everton,Chelsea,Away Win,0.31863627,0.24841134,0.43295243
+2026-03-21,20:00,31,Premier League,Leeds,Brentford,Away Win,0.30604982,0.24674405,0.44720614
+2026-03-22,12:00,31,Premier League,Newcastle,Sunderland,Home Win,0.40371278,0.25091863,0.34536865
+2026-03-22,14:15,31,Premier League,Aston Villa,West Ham,Home Win,0.61584866,0.21487986,0.1692715
+2026-03-22,14:15,31,Premier League,Tottenham,Nott'm Forest,Away Win,0.33529165,0.24994671,0.41476166
+2026-04-11,14:00,32,Premier League,Sunderland,Tottenham,Home Win,0.48571703,0.24520187,0.2690811
+2026-04-11,14:00,32,Premier League,Crystal Palace,Newcastle,Away Win,0.35589197,0.25116196,0.39294603
+2026-04-11,14:00,32,Premier League,Arsenal,Bournemouth,Home Win,0.6350863,0.20862056,0.15629308
+2026-04-11,14:00,32,Premier League,Brentford,Everton,Home Win,0.44348502,0.24931644,0.30719852
+2026-04-11,14:00,32,Premier League,Burnley,Brighton,Away Win,0.2951359,0.24595985,0.45890424
+2026-04-11,14:00,32,Premier League,Chelsea,Manchester City,Away Win,0.32800958,0.24930438,0.4226861
+2026-04-11,14:00,32,Premier League,Liverpool,Fulham,Home Win,0.46009374,0.24742651,0.29247972
+2026-04-11,14:00,32,Premier League,Manchester Utd,Leeds,Home Win,0.6184107,0.21406662,0.16752271
+2026-04-11,14:00,32,Premier League,Nott'm Forest,Aston Villa,Away Win,0.2594433,0.23951663,0.50104004
+2026-04-11,14:00,32,Premier League,West Ham,Wolves,Home Win,0.506653,0.24181266,0.25153437
+2026-04-18,14:00,33,Premier League,Newcastle,Bournemouth,Away Win,0.3584253,0.25134966,0.39022505
+2026-04-18,14:00,33,Premier League,Nott'm Forest,Burnley,Home Win,0.53883195,0.2359143,0.22525373
+2026-04-18,14:00,33,Premier League,Tottenham,Brighton,Away Win,0.31404588,0.24797747,0.43797672
+2026-04-18,14:00,33,Premier League,Aston Villa,Sunderland,Home Win,0.5733579,0.22738114,0.19926094
+2026-04-18,14:00,33,Premier League,Crystal Palace,West Ham,Home Win,0.42487603,0.25082135,0.32430258
+2026-04-18,14:00,33,Premier League,Brentford,Fulham,Home Win,0.49943665,0.24294268,0.25762066
+2026-04-18,14:00,33,Premier League,Chelsea,Manchester Utd,Away Win,0.3636699,0.25122347,0.38510662
+2026-04-18,14:00,33,Premier League,Everton,Liverpool,Home Win,0.43976513,0.24979447,0.31044045
+2026-04-18,14:00,33,Premier League,Leeds,Wolves,Home Win,0.57127285,0.22795427,0.20077288
+2026-04-18,14:00,33,Premier League,Manchester City,Arsenal,Home Win,0.40523374,0.2514278,0.34333852
+2026-04-25,14:00,34,Premier League,Bournemouth,Leeds,Home Win,0.45801723,0.2482231,0.2937597
+2026-04-25,14:00,34,Premier League,Sunderland,Nott'm Forest,Home Win,0.4320292,0.25049573,0.3174751
+2026-04-25,14:00,34,Premier League,Brighton,Chelsea,Away Win,0.25107914,0.23821224,0.51070863
+2026-04-25,14:00,34,Premier League,Arsenal,Newcastle,Home Win,0.65832,0.2005539,0.14112613
+2026-04-25,14:00,34,Premier League,Burnley,Manchester City,Away Win,0.23790851,0.23456506,0.52752644
+2026-04-25,14:00,34,Premier League,Fulham,Aston Villa,Away Win,0.27507553,0.24244846,0.482476
+2026-04-25,14:00,34,Premier League,Liverpool,Crystal Palace,Home Win,0.53829724,0.23592733,0.22577545
+2026-04-25,14:00,34,Premier League,Manchester Utd,Brentford,Home Win,0.5510456,0.23316194,0.21579245
+2026-04-25,14:00,34,Premier League,West Ham,Everton,Away Win,0.28585982,0.24449028,0.46964994
+2026-04-25,14:00,34,Premier League,Wolves,Tottenham,Away Win,0.35049883,0.2511894,0.39831182
+2026-05-02,14:00,35,Premier League,Bournemouth,Crystal Palace,Home Win,0.51136714,0.241208,0.24742493
+2026-05-02,14:00,35,Premier League,Aston Villa,Tottenham,Home Win,0.6255973,0.21175365,0.16264904
+2026-05-02,14:00,35,Premier League,Arsenal,Fulham,Home Win,0.6416263,0.20640488,0.15196885
+2026-05-02,14:00,35,Premier League,Brentford,West Ham,Home Win,0.57176614,0.2278171,0.20041673
+2026-05-02,14:00,35,Premier League,Chelsea,Nott'm Forest,Home Win,0.61012083,0.21666929,0.17320985
+2026-05-02,14:00,35,Premier League,Everton,Manchester City,Away Win,0.2523936,0.23817451,0.50943184
+2026-05-02,14:00,35,Premier League,Leeds,Burnley,Home Win,0.5726733,0.22757432,0.19975235
+2026-05-02,14:00,35,Premier League,Manchester Utd,Liverpool,Home Win,0.5763918,0.22655061,0.19705756
+2026-05-02,14:00,35,Premier League,Newcastle,Brighton,Home Win,0.4128608,0.25114778,0.3359914
+2026-05-02,14:00,35,Premier League,Wolves,Sunderland,Away Win,0.29039252,0.24486504,0.46474245
+2026-05-09,14:00,36,Premier League,Sunderland,Manchester Utd,Away Win,0.23965654,0.23483947,0.525504
+2026-05-09,14:00,36,Premier League,Brighton,Wolves,Home Win,0.542218,0.23514485,0.22263707
+2026-05-09,14:00,36,Premier League,Crystal Palace,Everton,Away Win,0.29853708,0.24664204,0.45482087
+2026-05-09,14:00,36,Premier League,Burnley,Aston Villa,Away Win,0.2470617,0.23684914,0.5160892
+2026-05-09,14:00,36,Premier League,Fulham,Bournemouth,Home Win,0.39635056,0.25157052,0.35207888
+2026-05-09,14:00,36,Premier League,Liverpool,Chelsea,Away Win,0.29331627,0.24469988,0.4619839
+2026-05-09,14:00,36,Premier League,Manchester City,Brentford,Home Win,0.5807871,0.22533341,0.19387946
+2026-05-09,14:00,36,Premier League,Nott'm Forest,Newcastle,Away Win,0.37229696,0.251542,0.37616098
+2026-05-09,14:00,36,Premier League,Tottenham,Leeds,Away Win,0.3057422,0.24719052,0.44706726
+2026-05-09,14:00,36,Premier League,West Ham,Arsenal,Away Win,0.24083775,0.23499085,0.52417135
+2026-05-17,14:00,37,Premier League,Bournemouth,Manchester City,Away Win,0.24278504,0.23581398,0.521401
+2026-05-17,14:00,37,Premier League,Aston Villa,Liverpool,Home Win,0.5235765,0.2388963,0.23752719
+2026-05-17,14:00,37,Premier League,Arsenal,Burnley,Home Win,0.731282,0.1715705,0.09714756
+2026-05-17,14:00,37,Premier League,Brentford,Crystal Palace,Home Win,0.55714333,0.2316739,0.21118282
+2026-05-17,14:00,37,Premier League,Chelsea,Tottenham,Home Win,0.64396995,0.20559797,0.15043211
+2026-05-17,14:00,37,Premier League,Everton,Sunderland,Home Win,0.5106778,0.24091771,0.24840447
+2026-05-17,14:00,37,Premier League,Leeds,Brighton,Home Win,0.4418616,0.2495717,0.30856675
+2026-05-17,14:00,37,Premier League,Manchester Utd,Nott'm Forest,Home Win,0.63585687,0.20835859,0.15578449
+2026-05-17,14:00,37,Premier League,Newcastle,West Ham,Home Win,0.46851054,0.24705873,0.2844307
+2026-05-17,14:00,37,Premier League,Wolves,Fulham,Away Win,0.27974033,0.24359708,0.47666258
+2026-05-24,15:00,38,Premier League,Sunderland,Chelsea,Away Win,0.25747415,0.23905012,0.50347567
+2026-05-24,15:00,38,Premier League,Brighton,Manchester Utd,Away Win,0.24358457,0.23652485,0.5198906
+2026-05-24,15:00,38,Premier League,Crystal Palace,Arsenal,Away Win,0.2432726,0.23588385,0.5208435
+2026-05-24,15:00,38,Premier League,Burnley,Wolves,Away Win,0.3613792,0.2515961,0.38702473
+2026-05-24,15:00,38,Premier League,Fulham,Newcastle,Home Win,0.44071302,0.24945228,0.30983472
+2026-05-24,15:00,38,Premier League,Liverpool,Brentford,Away Win,0.37358317,0.25061846,0.3757984
+2026-05-24,15:00,38,Premier League,Manchester City,Aston Villa,Home Win,0.52891433,0.2378739,0.23321174
+2026-05-24,15:00,38,Premier League,Nott'm Forest,Bournemouth,Away Win,0.32809988,0.2497169,0.42218322
+2026-05-24,15:00,38,Premier League,Tottenham,Everton,Away Win,0.2735777,0.2425028,0.48391947
+2026-05-24,15:00,38,Premier League,West Ham,Leeds,Away Win,0.33627433,0.2502637,0.41346192
 2026-02-13,19:45,25,Serie A,Pisa,Milan,Away Win,0.23858392,0.23470293,0.52671313
 2026-02-14,14:00,25,Serie A,Como,Fiorentina,Home Win,0.64964545,0.20362851,0.14672606
 2026-02-14,17:00,25,Serie A,Lazio,Atalanta,Away Win,0.2793154,0.24321266,0.47747192
