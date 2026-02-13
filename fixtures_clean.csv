@@ -1,5 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-02-12,20:00,Brentford,Arsenal,Premier League,26
 2026-02-18,20:00,Wolves,Arsenal,Premier League,31
 2026-02-21,15:00,Aston Villa,Leeds,Premier League,27
 2026-02-21,15:00,Brentford,Brighton,Premier League,27
@@ -140,16 +139,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-02-22,19:45,Roma,Cremonese,Serie A,26
 2026-02-23,17:30,Fiorentina,Pisa,Serie A,26
 2026-02-23,19:45,Bologna,Udinese,Serie A,26
-2026-03-01,00:00,Roma,Juventus,Serie A,27
-2026-03-01,00:00,Como,Lecce,Serie A,27
-2026-03-01,00:00,Torino,Lazio,Serie A,27
-2026-03-01,00:00,Verona,Napoli,Serie A,27
-2026-03-01,00:00,Inter,Genoa,Serie A,27
-2026-03-01,00:00,Parma,Cagliari,Serie A,27
-2026-03-01,00:00,Pisa,Bologna,Serie A,27
-2026-03-01,00:00,Sassuolo,Atalanta,Serie A,27
-2026-03-01,00:00,Udinese,Fiorentina,Serie A,27
-2026-03-01,00:00,Cremonese,Milan,Serie A,27
 2026-03-08,00:00,Cagliari,Como,Serie A,28
 2026-03-08,00:00,Genoa,Roma,Serie A,28
 2026-03-08,00:00,Bologna,Verona,Serie A,28
@@ -408,16 +397,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-03-01,17:30,Betis,Sevilla,La Liga,26
 2026-03-01,20:00,Girona,Celta,La Liga,26
 2026-03-02,20:00,Real Madrid,Getafe,La Liga,26
-2026-03-08,00:00,Athletic Club,Barcelona,La Liga,27
-2026-03-08,00:00,Ath Madrid,Sociedad,La Liga,27
-2026-03-08,00:00,Celta,Real Madrid,La Liga,27
-2026-03-08,00:00,Espanol,Oviedo,La Liga,27
-2026-03-08,00:00,Valencia,Alaves,La Liga,27
-2026-03-08,00:00,Getafe,Betis,La Liga,27
-2026-03-08,00:00,Villarreal,Elche,La Liga,27
-2026-03-08,00:00,Levante,Girona,La Liga,27
-2026-03-08,00:00,Osasuna,Mallorca,La Liga,27
-2026-03-08,00:00,Sevilla,Vallecano,La Liga,27
 2026-03-15,00:00,Alaves,Villarreal,La Liga,28
 2026-03-15,00:00,Ath Madrid,Getafe,La Liga,28
 2026-03-15,00:00,Barcelona,Sevilla,La Liga,28

@@ -1,5 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2026-02-12T20:00:00Z,Brentford FC,Arsenal FC,Premier League,26
 2026-02-18T20:00:00Z,Wolverhampton Wanderers FC,Arsenal FC,Premier League,31
 2026-02-21T15:00:00Z,Aston Villa FC,Leeds United FC,Premier League,27
 2026-02-21T15:00:00Z,Brentford FC,Brighton & Hove Albion FC,Premier League,27
@@ -140,16 +139,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-02-22T19:45:00Z,AS Roma,US Cremonese,Serie A,26
 2026-02-23T17:30:00Z,ACF Fiorentina,AC Pisa 1909,Serie A,26
 2026-02-23T19:45:00Z,Bologna FC 1909,Udinese Calcio,Serie A,26
-2026-03-01T00:00:00Z,AS Roma,Juventus FC,Serie A,27
-2026-03-01T00:00:00Z,Como 1907,US Lecce,Serie A,27
-2026-03-01T00:00:00Z,Torino FC,SS Lazio,Serie A,27
-2026-03-01T00:00:00Z,Hellas Verona FC,SSC Napoli,Serie A,27
-2026-03-01T00:00:00Z,FC Internazionale Milano,Genoa CFC,Serie A,27
-2026-03-01T00:00:00Z,Parma Calcio 1913,Cagliari Calcio,Serie A,27
-2026-03-01T00:00:00Z,AC Pisa 1909,Bologna FC 1909,Serie A,27
-2026-03-01T00:00:00Z,US Sassuolo Calcio,Atalanta BC,Serie A,27
-2026-03-01T00:00:00Z,Udinese Calcio,ACF Fiorentina,Serie A,27
-2026-03-01T00:00:00Z,US Cremonese,AC Milan,Serie A,27
 2026-03-08T00:00:00Z,Cagliari Calcio,Como 1907,Serie A,28
 2026-03-08T00:00:00Z,Genoa CFC,AS Roma,Serie A,28
 2026-03-08T00:00:00Z,Bologna FC 1909,Hellas Verona FC,Serie A,28
@@ -408,16 +397,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-03-01T17:30:00Z,Real Betis Balompié,Sevilla FC,La Liga,26
 2026-03-01T20:00:00Z,Girona FC,RC Celta de Vigo,La Liga,26
 2026-03-02T20:00:00Z,Real Madrid CF,Getafe CF,La Liga,26
-2026-03-08T00:00:00Z,Athletic Club,FC Barcelona,La Liga,27
-2026-03-08T00:00:00Z,Club Atlético de Madrid,Real Sociedad de Fútbol,La Liga,27
-2026-03-08T00:00:00Z,RC Celta de Vigo,Real Madrid CF,La Liga,27
-2026-03-08T00:00:00Z,RCD Espanyol de Barcelona,Real Oviedo,La Liga,27
-2026-03-08T00:00:00Z,Valencia CF,Deportivo Alavés,La Liga,27
-2026-03-08T00:00:00Z,Getafe CF,Real Betis Balompié,La Liga,27
-2026-03-08T00:00:00Z,Villarreal CF,Elche CF,La Liga,27
-2026-03-08T00:00:00Z,Levante UD,Girona FC,La Liga,27
-2026-03-08T00:00:00Z,CA Osasuna,RCD Mallorca,La Liga,27
-2026-03-08T00:00:00Z,Sevilla FC,Rayo Vallecano de Madrid,La Liga,27
 2026-03-15T00:00:00Z,Deportivo Alavés,Villarreal CF,La Liga,28
 2026-03-15T00:00:00Z,Club Atlético de Madrid,Getafe CF,La Liga,28
 2026-03-15T00:00:00Z,FC Barcelona,Sevilla FC,La Liga,28
