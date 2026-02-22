@@ -1,9 +1,4 @@
 Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Prob_Draw,Prob_Away_Win
-2026-02-21,15:00,27,Premier League,Aston Villa,Leeds,Home Win,0.57574004,0.2267314,0.19752859
-2026-02-21,15:00,27,Premier League,Brentford,Brighton,Home Win,0.56436414,0.22979257,0.20584328
-2026-02-21,15:00,27,Premier League,Chelsea,Burnley,Home Win,0.68142617,0.1919837,0.12659015
-2026-02-21,17:30,27,Premier League,West Ham,Bournemouth,Away Win,0.3143243,0.24829777,0.43737793
-2026-02-21,20:00,27,Premier League,Manchester City,Newcastle,Home Win,0.6437226,0.20568442,0.15059297
 2026-02-22,14:00,27,Premier League,Sunderland,Fulham,Away Win,0.36058208,0.2515461,0.3878718
 2026-02-22,14:00,27,Premier League,Crystal Palace,Wolves,Home Win,0.5055143,0.24207355,0.25241214
 2026-02-22,14:00,27,Premier League,Nott'm Forest,Liverpool,Away Win,0.31073046,0.24799336,0.4412762
@@ -117,9 +112,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,15:00,38,Premier League,Nott'm Forest,Bournemouth,Away Win,0.32809988,0.2497169,0.42218322
 2026-05-24,15:00,38,Premier League,Tottenham,Everton,Away Win,0.2735777,0.2425028,0.48391947
 2026-05-24,15:00,38,Premier League,West Ham,Leeds,Away Win,0.33627433,0.2502637,0.41346192
-2026-02-21,14:00,26,Serie A,Juventus,Como,Home Win,0.5019691,0.24263996,0.25539094
-2026-02-21,17:00,26,Serie A,Lecce,Milan,Away Win,0.23296182,0.23333594,0.5337022
-2026-02-21,19:45,26,Serie A,Cagliari,Lazio,Away Win,0.3221891,0.24892756,0.42888334
 2026-02-22,11:30,26,Serie A,Genoa,Torino,Home Win,0.42325786,0.25066182,0.32608035
 2026-02-22,14:00,26,Serie A,Atalanta,Napoli,Away Win,0.3505414,0.25055757,0.398901
 2026-02-22,17:00,26,Serie A,Milan,Parma,Home Win,0.69832134,0.18536587,0.11631282
@@ -246,9 +238,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,Serie A,Napoli,Udinese,Home Win,0.6486383,0.20397995,0.1473817
 2026-05-24,00:00,38,Serie A,Cremonese,Como,Away Win,0.24288425,0.23610717,0.5210086
 2026-05-24,00:00,38,Serie A,Lecce,Genoa,Away Win,0.32773075,0.24963927,0.42263004
-2026-02-21,16:00,23,Ligue 1,Lens,Monaco,Home Win,0.62878704,0.21070991,0.16050303
-2026-02-21,18:00,23,Ligue 1,Toulouse,Paris FC,Home Win,0.5410768,0.23539898,0.2235242
-2026-02-21,20:05,23,Ligue 1,Paris SG,Metz,Home Win,0.76959825,0.1540069,0.07639492
 2026-02-22,14:00,23,Ligue 1,Auxerre,Rennes,Away Win,0.29014632,0.2449608,0.46489286
 2026-02-22,16:15,23,Ligue 1,Nantes,Le Havre,Away Win,0.32551366,0.24915577,0.42533058
 2026-02-22,16:15,23,Ligue 1,Nice,Lorient,Away Win,0.28182524,0.24369027,0.4744845
@@ -353,10 +342,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-16,19:00,34,Ligue 1,Lille,Auxerre,Home Win,0.550758,0.23327151,0.21597046
 2026-05-16,19:00,34,Ligue 1,Strasbourg,Monaco,Home Win,0.45511094,0.24838273,0.29650632
 2026-05-16,19:00,34,Ligue 1,Brest,Angers,Home Win,0.39795035,0.25117528,0.35087442
-2026-02-21,13:00,25,La Liga,Sociedad,Oviedo,Home Win,0.5842492,0.22435279,0.19139805
-2026-02-21,15:15,25,La Liga,Betis,Vallecano,Home Win,0.63627714,0.20821759,0.1555053
-2026-02-21,17:30,25,La Liga,Osasuna,Real Madrid,Away Win,0.24379744,0.23602569,0.5201768
-2026-02-21,20:00,25,La Liga,Ath Madrid,Espanol,Home Win,0.6115913,0.21621308,0.1721956
 2026-02-22,13:00,25,La Liga,Getafe,Sevilla,Home Win,0.4147441,0.25105643,0.3341995
 2026-02-22,15:15,25,La Liga,Barcelona,Levante,Home Win,0.7386542,0.16832049,0.0930253
 2026-02-22,17:30,25,La Liga,Celta,Mallorca,Home Win,0.51850647,0.239814,0.24167955
@@ -493,11 +478,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-24,00:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.37625408,0.2513891,0.3723568
 2026-05-24,00:00,38,La Liga,Valencia,Barcelona,Away Win,0.22000106,0.22892056,0.5510784
 2026-05-24,00:00,38,La Liga,Girona,Elche,Home Win,0.48403704,0.24546042,0.27050257
-2026-02-21,14:30,23,Bundesliga,Union Berlin,Leverkusen,Away Win,0.24769689,0.2370796,0.5152235
-2026-02-21,14:30,23,Bundesliga,Bayern Munich,Ein Frankfurt,Home Win,0.73878103,0.16826226,0.09295675
-2026-02-21,14:30,23,Bundesliga,Wolfsburg,Augsburg,Away Win,0.3392403,0.25020516,0.41055447
-2026-02-21,14:30,23,Bundesliga,FC Koln,Hoffenheim,Away Win,0.23594737,0.23425817,0.5297945
-2026-02-21,17:30,23,Bundesliga,RB Leipzig,Dortmund,Away Win,0.29506668,0.24569516,0.45923814
 2026-02-22,14:30,23,Bundesliga,Freiburg,M'gladbach,Home Win,0.5427521,0.23512818,0.22211981
 2026-02-22,16:30,23,Bundesliga,St Pauli,Werder Bremen,Away Win,0.36915144,0.2517387,0.37910986
 2026-02-22,18:30,23,Bundesliga,Heidenheim,Stuttgart,Away Win,0.23811218,0.23460786,0.52728

@@ -1,9 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-02-21,15:00,Aston Villa,Leeds,Premier League,27
-2026-02-21,15:00,Brentford,Brighton,Premier League,27
-2026-02-21,15:00,Chelsea,Burnley,Premier League,27
-2026-02-21,17:30,West Ham,Bournemouth,Premier League,27
-2026-02-21,20:00,Manchester City,Newcastle,Premier League,27
 2026-02-22,14:00,Sunderland,Fulham,Premier League,27
 2026-02-22,14:00,Crystal Palace,Wolves,Premier League,27
 2026-02-22,14:00,Nott'm Forest,Liverpool,Premier League,27
@@ -117,9 +112,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-02-21,14:00,Juventus,Como,Serie A,26
-2026-02-21,17:00,Lecce,Milan,Serie A,26
-2026-02-21,19:45,Cagliari,Lazio,Serie A,26
 2026-02-22,11:30,Genoa,Torino,Serie A,26
 2026-02-22,14:00,Atalanta,Napoli,Serie A,26
 2026-02-22,17:00,Milan,Parma,Serie A,26
@@ -246,9 +238,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2026-02-21,16:00,Lens,Monaco,Ligue 1,23
-2026-02-21,18:00,Toulouse,Paris FC,Ligue 1,23
-2026-02-21,20:05,Paris SG,Metz,Ligue 1,23
 2026-02-22,14:00,Auxerre,Rennes,Ligue 1,23
 2026-02-22,16:15,Nantes,Le Havre,Ligue 1,23
 2026-02-22,16:15,Nice,Lorient,Ligue 1,23
@@ -353,10 +342,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,19:00,Brest,Angers,Ligue 1,34
-2026-02-21,13:00,Sociedad,Oviedo,La Liga,25
-2026-02-21,15:15,Betis,Vallecano,La Liga,25
-2026-02-21,17:30,Osasuna,Real Madrid,La Liga,25
-2026-02-21,20:00,Ath Madrid,Espanol,La Liga,25
 2026-02-22,13:00,Getafe,Sevilla,La Liga,25
 2026-02-22,15:15,Barcelona,Levante,La Liga,25
 2026-02-22,17:30,Celta,Mallorca,La Liga,25
@@ -493,11 +478,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2026-02-21,14:30,Union Berlin,Leverkusen,Bundesliga,23
-2026-02-21,14:30,Bayern Munich,Ein Frankfurt,Bundesliga,23
-2026-02-21,14:30,Wolfsburg,Augsburg,Bundesliga,23
-2026-02-21,14:30,FC Koln,Hoffenheim,Bundesliga,23
-2026-02-21,17:30,RB Leipzig,Dortmund,Bundesliga,23
 2026-02-22,14:30,Freiburg,M'gladbach,Bundesliga,23
 2026-02-22,16:30,St Pauli,Werder Bremen,Bundesliga,23
 2026-02-22,18:30,Heidenheim,Stuttgart,Bundesliga,23
