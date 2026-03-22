@@ -1,28 +1,24 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-03-21,12:30,Brighton,Liverpool,Premier League,31
-2026-03-21,15:00,Fulham,Burnley,Premier League,31
-2026-03-21,17:30,Everton,Chelsea,Premier League,31
-2026-03-21,20:00,Leeds,Brentford,Premier League,31
 2026-03-22,12:00,Newcastle,Sunderland,Premier League,31
 2026-03-22,14:15,Aston Villa,West Ham,Premier League,31
 2026-03-22,14:15,Tottenham,Nott'm Forest,Premier League,31
 2026-04-10,19:00,West Ham,Wolves,Premier League,32
 2026-04-11,11:30,Arsenal,Bournemouth,Premier League,32
-2026-04-11,14:00,Crystal Palace,Newcastle,Premier League,32
 2026-04-11,14:00,Brentford,Everton,Premier League,32
 2026-04-11,14:00,Burnley,Brighton,Premier League,32
-2026-04-11,14:00,Nott'm Forest,Aston Villa,Premier League,32
 2026-04-11,16:30,Liverpool,Fulham,Premier League,32
 2026-04-12,13:00,Sunderland,Tottenham,Premier League,32
+2026-04-12,13:00,Crystal Palace,Newcastle,Premier League,32
+2026-04-12,13:00,Nott'm Forest,Aston Villa,Premier League,32
 2026-04-12,15:30,Chelsea,Manchester City,Premier League,32
 2026-04-13,19:00,Manchester Utd,Leeds,Premier League,32
 2026-04-18,11:30,Brentford,Fulham,Premier League,33
 2026-04-18,14:00,Newcastle,Bournemouth,Premier League,33
-2026-04-18,14:00,Nott'm Forest,Burnley,Premier League,33
-2026-04-18,14:00,Aston Villa,Sunderland,Premier League,33
 2026-04-18,14:00,Leeds,Wolves,Premier League,33
 2026-04-18,16:30,Tottenham,Brighton,Premier League,33
 2026-04-18,19:00,Chelsea,Manchester Utd,Premier League,33
+2026-04-19,13:00,Nott'm Forest,Burnley,Premier League,33
+2026-04-19,13:00,Aston Villa,Sunderland,Premier League,33
 2026-04-19,13:00,Everton,Liverpool,Premier League,33
 2026-04-19,15:30,Manchester City,Arsenal,Premier League,33
 2026-04-20,19:00,Crystal Palace,West Ham,Premier League,33
@@ -76,9 +72,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-03-21,14:00,Parma,Cremonese,Serie A,30
-2026-03-21,17:00,Milan,Torino,Serie A,30
-2026-03-21,19:45,Juventus,Sassuolo,Serie A,30
 2026-03-22,11:30,Como,Pisa,Serie A,30
 2026-03-22,14:00,Atalanta,Verona,Serie A,30
 2026-03-22,14:00,Bologna,Lazio,Serie A,30
@@ -94,36 +87,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-06,13:00,Lecce,Atalanta,Serie A,31
 2026-04-06,16:00,Juventus,Genoa,Serie A,31
 2026-04-06,18:45,Napoli,Milan,Serie A,31
-2026-04-12,00:00,Fiorentina,Lazio,Serie A,32
-2026-04-12,00:00,Milan,Udinese,Serie A,32
-2026-04-12,00:00,Roma,Pisa,Serie A,32
-2026-04-12,00:00,Atalanta,Juventus,Serie A,32
-2026-04-12,00:00,Cagliari,Cremonese,Serie A,32
-2026-04-12,00:00,Genoa,Sassuolo,Serie A,32
-2026-04-12,00:00,Como,Inter,Serie A,32
-2026-04-12,00:00,Bologna,Lecce,Serie A,32
-2026-04-12,00:00,Torino,Verona,Serie A,32
-2026-04-12,00:00,Parma,Napoli,Serie A,32
-2026-04-19,00:00,Roma,Atalanta,Serie A,33
-2026-04-19,00:00,Verona,Milan,Serie A,33
-2026-04-19,00:00,Inter,Cagliari,Serie A,33
-2026-04-19,00:00,Juventus,Bologna,Serie A,33
-2026-04-19,00:00,Pisa,Genoa,Serie A,33
-2026-04-19,00:00,Sassuolo,Como,Serie A,33
-2026-04-19,00:00,Napoli,Lazio,Serie A,33
-2026-04-19,00:00,Udinese,Parma,Serie A,33
-2026-04-19,00:00,Cremonese,Torino,Serie A,33
-2026-04-19,00:00,Lecce,Fiorentina,Serie A,33
-2026-04-26,00:00,Fiorentina,Sassuolo,Serie A,34
-2026-04-26,00:00,Milan,Juventus,Serie A,34
-2026-04-26,00:00,Cagliari,Atalanta,Serie A,34
-2026-04-26,00:00,Genoa,Como,Serie A,34
-2026-04-26,00:00,Bologna,Roma,Serie A,34
-2026-04-26,00:00,Torino,Inter,Serie A,34
-2026-04-26,00:00,Verona,Lecce,Serie A,34
-2026-04-26,00:00,Lazio,Udinese,Serie A,34
-2026-04-26,00:00,Parma,Pisa,Serie A,34
-2026-04-26,00:00,Napoli,Cremonese,Serie A,34
 2026-05-03,00:00,Roma,Fiorentina,Serie A,35
 2026-05-03,00:00,Atalanta,Genoa,Serie A,35
 2026-05-03,00:00,Como,Napoli,Serie A,35
@@ -164,9 +127,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Napoli,Udinese,Serie A,38
 2026-05-24,00:00,Cremonese,Como,Serie A,38
 2026-05-24,00:00,Lecce,Genoa,Serie A,38
-2026-03-21,16:00,Toulouse,Lorient,Ligue 1,27
-2026-03-21,18:00,Auxerre,Brest,Ligue 1,27
-2026-03-21,20:05,Nice,Paris SG,Ligue 1,27
 2026-03-22,14:00,Lyon,Monaco,Ligue 1,27
 2026-03-22,16:15,Paris FC,Le Havre,Ligue 1,27
 2026-03-22,16:15,Marseille,Lille,Ligue 1,27
@@ -235,11 +195,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-16,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-16,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-16,19:00,Brest,Angers,Ligue 1,34
-2026-03-21,13:00,Elche,Mallorca,La Liga,29
-2026-03-21,15:15,Espanol,Getafe,La Liga,29
-2026-03-21,17:30,Levante,Oviedo,La Liga,29
-2026-03-21,17:30,Osasuna,Girona,La Liga,29
-2026-03-21,20:00,Sevilla,Valencia,La Liga,29
 2026-03-22,13:00,Barcelona,Vallecano,La Liga,29
 2026-03-22,15:15,Celta,Alaves,La Liga,29
 2026-03-22,17:30,Athletic Club,Betis,La Liga,29
@@ -254,6 +209,16 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-05,16:30,Oviedo,Sevilla,La Liga,30
 2026-04-05,19:00,Alaves,Osasuna,La Liga,30
 2026-04-06,19:00,Girona,Villarreal,La Liga,30
+2026-04-10,19:00,Real Madrid,Girona,La Liga,31
+2026-04-11,12:00,Sociedad,Alaves,La Liga,31
+2026-04-11,14:15,Elche,Valencia,La Liga,31
+2026-04-11,16:30,Barcelona,Espanol,La Liga,31
+2026-04-11,19:00,Sevilla,Ath Madrid,La Liga,31
+2026-04-12,12:00,Osasuna,Betis,La Liga,31
+2026-04-12,14:15,Mallorca,Vallecano,La Liga,31
+2026-04-12,16:30,Celta,Oviedo,La Liga,31
+2026-04-12,19:00,Athletic Club,Villarreal,La Liga,31
+2026-04-13,19:00,Levante,Getafe,La Liga,31
 2026-04-22,00:00,Athletic Club,Osasuna,La Liga,33
 2026-04-22,00:00,Barcelona,Celta,La Liga,33
 2026-04-22,00:00,Levante,Sevilla,La Liga,33
@@ -324,11 +289,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2026-03-21,14:30,Heidenheim,Leverkusen,Bundesliga,27
-2026-03-21,14:30,Wolfsburg,Werder Bremen,Bundesliga,27
-2026-03-21,14:30,FC Koln,M'gladbach,Bundesliga,27
-2026-03-21,14:30,Bayern Munich,Union Berlin,Bundesliga,27
-2026-03-21,17:30,Dortmund,Hamburg,Bundesliga,27
 2026-03-22,14:30,Mainz,Ein Frankfurt,Bundesliga,27
 2026-03-22,16:30,St Pauli,Freiburg,Bundesliga,27
 2026-03-22,18:30,Augsburg,Stuttgart,Bundesliga,27
