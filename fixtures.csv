@@ -167,15 +167,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-04-12T15:15:00Z,OGC Nice,Le Havre AC,Ligue 1,29
 2026-04-12T15:15:00Z,Stade Brestois 29,RC Strasbourg Alsace,Ligue 1,29
 2026-04-12T18:45:00Z,Olympique Lyonnais,FC Lorient,Ligue 1,29
-2026-04-26T00:00:00Z,Le Havre AC,FC Metz,Ligue 1,31
-2026-04-26T00:00:00Z,FC Lorient,RC Strasbourg Alsace,Ligue 1,31
-2026-04-26T00:00:00Z,Paris FC,Lille OSC,Ligue 1,31
-2026-04-26T00:00:00Z,Toulouse FC,AS Monaco FC,Ligue 1,31
-2026-04-26T00:00:00Z,Olympique Lyonnais,AJ Auxerre,Ligue 1,31
-2026-04-26T00:00:00Z,Olympique de Marseille,OGC Nice,Ligue 1,31
-2026-04-26T00:00:00Z,Angers SCO,Paris Saint-Germain FC,Ligue 1,31
-2026-04-26T00:00:00Z,Stade Brestois 29,Racing Club de Lens,Ligue 1,31
-2026-04-26T00:00:00Z,Stade Rennais FC 1901,FC Nantes,Ligue 1,31
+2026-04-17T18:45:00Z,Racing Club de Lens,Toulouse FC,Ligue 1,30
+2026-04-18T15:00:00Z,FC Lorient,Olympique de Marseille,Ligue 1,30
+2026-04-18T17:00:00Z,Angers SCO,Le Havre AC,Ligue 1,30
+2026-04-18T19:05:00Z,Lille OSC,OGC Nice,Ligue 1,30
+2026-04-19T13:00:00Z,AS Monaco FC,AJ Auxerre,Ligue 1,30
+2026-04-19T15:15:00Z,FC Metz,Paris FC,Ligue 1,30
+2026-04-19T15:15:00Z,FC Nantes,Stade Brestois 29,Ligue 1,30
+2026-04-19T15:15:00Z,RC Strasbourg Alsace,Stade Rennais FC 1901,Ligue 1,30
+2026-04-19T18:45:00Z,Paris Saint-Germain FC,Olympique Lyonnais,Ligue 1,30
+2026-04-22T17:00:00Z,Paris Saint-Germain FC,FC Nantes,Ligue 1,26
 2026-05-03T00:00:00Z,AJ Auxerre,Angers SCO,Ligue 1,32
 2026-05-03T00:00:00Z,FC Metz,AS Monaco FC,Ligue 1,32
 2026-05-03T00:00:00Z,FC Nantes,Olympique de Marseille,Ligue 1,32
@@ -255,7 +256,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-03T00:00:00Z,Sevilla FC,Real Sociedad de Fútbol,La Liga,34
 2026-05-10T00:00:00Z,Athletic Club,Valencia CF,La Liga,35
 2026-05-10T00:00:00Z,Club Atlético de Madrid,RC Celta de Vigo,La Liga,35
-2026-05-10T00:00:00Z,FC Barcelona,Real Madrid CF,La Liga,35
 2026-05-10T00:00:00Z,Levante UD,CA Osasuna,La Liga,35
 2026-05-10T00:00:00Z,RCD Mallorca,Villarreal CF,La Liga,35
 2026-05-10T00:00:00Z,Elche CF,Deportivo Alavés,La Liga,35
