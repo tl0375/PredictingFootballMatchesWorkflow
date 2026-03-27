@@ -160,12 +160,10 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-04-05T18:45:00Z,AS Monaco FC,Olympique de Marseille,Ligue 1,28
 2026-04-10T17:00:00Z,Paris FC,AS Monaco FC,Ligue 1,29
 2026-04-10T19:05:00Z,Olympique de Marseille,FC Metz,Ligue 1,29
-2026-04-11T15:00:00Z,Racing Club de Lens,Paris Saint-Germain FC,Ligue 1,29
 2026-04-11T17:00:00Z,AJ Auxerre,FC Nantes,Ligue 1,29
 2026-04-11T19:05:00Z,Stade Rennais FC 1901,Angers SCO,Ligue 1,29
 2026-04-12T15:15:00Z,Toulouse FC,Lille OSC,Ligue 1,29
 2026-04-12T15:15:00Z,OGC Nice,Le Havre AC,Ligue 1,29
-2026-04-12T15:15:00Z,Stade Brestois 29,RC Strasbourg Alsace,Ligue 1,29
 2026-04-12T18:45:00Z,Olympique Lyonnais,FC Lorient,Ligue 1,29
 2026-04-17T18:45:00Z,Racing Club de Lens,Toulouse FC,Ligue 1,30
 2026-04-18T15:00:00Z,FC Lorient,Olympique de Marseille,Ligue 1,30
@@ -177,6 +175,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-04-19T15:15:00Z,RC Strasbourg Alsace,Stade Rennais FC 1901,Ligue 1,30
 2026-04-19T18:45:00Z,Paris Saint-Germain FC,Olympique Lyonnais,Ligue 1,30
 2026-04-22T17:00:00Z,Paris Saint-Germain FC,FC Nantes,Ligue 1,26
+2026-04-24T18:45:00Z,Stade Brestois 29,Racing Club de Lens,Ligue 1,31
+2026-04-25T15:00:00Z,Olympique Lyonnais,AJ Auxerre,Ligue 1,31
+2026-04-25T17:00:00Z,Angers SCO,Paris Saint-Germain FC,Ligue 1,31
+2026-04-25T19:05:00Z,Toulouse FC,AS Monaco FC,Ligue 1,31
+2026-04-26T13:00:00Z,FC Lorient,RC Strasbourg Alsace,Ligue 1,31
+2026-04-26T15:15:00Z,Le Havre AC,FC Metz,Ligue 1,31
+2026-04-26T15:15:00Z,Paris FC,Lille OSC,Ligue 1,31
+2026-04-26T15:15:00Z,Stade Rennais FC 1901,FC Nantes,Ligue 1,31
+2026-04-26T18:45:00Z,Olympique de Marseille,OGC Nice,Ligue 1,31
 2026-05-03T00:00:00Z,AJ Auxerre,Angers SCO,Ligue 1,32
 2026-05-03T00:00:00Z,FC Metz,AS Monaco FC,Ligue 1,32
 2026-05-03T00:00:00Z,FC Nantes,Olympique de Marseille,Ligue 1,32
@@ -195,6 +202,8 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-09T19:00:00Z,Racing Club de Lens,FC Nantes,Ligue 1,33
 2026-05-09T19:00:00Z,Angers SCO,RC Strasbourg Alsace,Ligue 1,33
 2026-05-09T19:00:00Z,Stade Rennais FC 1901,Paris FC,Ligue 1,33
+2026-05-13T00:00:00Z,Racing Club de Lens,Paris Saint-Germain FC,Ligue 1,29
+2026-05-13T00:00:00Z,Stade Brestois 29,RC Strasbourg Alsace,Ligue 1,29
 2026-05-16T19:00:00Z,FC Lorient,Le Havre AC,Ligue 1,34
 2026-05-16T19:00:00Z,FC Nantes,Toulouse FC,Ligue 1,34
 2026-05-16T19:00:00Z,Paris FC,Paris Saint-Germain FC,Ligue 1,34
@@ -263,6 +272,7 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-10T00:00:00Z,Sevilla FC,RCD Espanyol de Barcelona,La Liga,35
 2026-05-10T00:00:00Z,Real Oviedo,Getafe CF,La Liga,35
 2026-05-10T00:00:00Z,Rayo Vallecano de Madrid,Girona FC,La Liga,35
+2026-05-10T19:00:00Z,FC Barcelona,Real Madrid CF,La Liga,35
 2026-05-13T00:00:00Z,Deportivo Alavés,FC Barcelona,La Liga,36
 2026-05-13T00:00:00Z,Real Betis Balompié,Elche CF,La Liga,36
 2026-05-13T00:00:00Z,RC Celta de Vigo,Levante UD,La Liga,36
