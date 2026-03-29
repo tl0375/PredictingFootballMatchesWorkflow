@@ -29,16 +29,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-04-26T13:00:00Z,Burnley FC,Manchester City FC,Premier League,34
 2026-04-26T15:30:00Z,Brighton & Hove Albion FC,Chelsea FC,Premier League,34
 2026-04-27T19:00:00Z,Manchester United FC,Brentford FC,Premier League,34
+2026-05-01T19:00:00Z,Leeds United FC,Burnley FC,Premier League,35
+2026-05-02T11:30:00Z,Aston Villa FC,Tottenham Hotspur FC,Premier League,35
 2026-05-02T14:00:00Z,AFC Bournemouth,Crystal Palace FC,Premier League,35
-2026-05-02T14:00:00Z,Aston Villa FC,Tottenham Hotspur FC,Premier League,35
-2026-05-02T14:00:00Z,Arsenal FC,Fulham FC,Premier League,35
 2026-05-02T14:00:00Z,Brentford FC,West Ham United FC,Premier League,35
-2026-05-02T14:00:00Z,Chelsea FC,Nottingham Forest FC,Premier League,35
-2026-05-02T14:00:00Z,Everton FC,Manchester City FC,Premier League,35
-2026-05-02T14:00:00Z,Leeds United FC,Burnley FC,Premier League,35
-2026-05-02T14:00:00Z,Manchester United FC,Liverpool FC,Premier League,35
 2026-05-02T14:00:00Z,Newcastle United FC,Brighton & Hove Albion FC,Premier League,35
 2026-05-02T14:00:00Z,Wolverhampton Wanderers FC,Sunderland AFC,Premier League,35
+2026-05-02T16:30:00Z,Arsenal FC,Fulham FC,Premier League,35
+2026-05-03T14:30:00Z,Manchester United FC,Liverpool FC,Premier League,35
+2026-05-04T14:00:00Z,Chelsea FC,Nottingham Forest FC,Premier League,35
+2026-05-04T19:00:00Z,Everton FC,Manchester City FC,Premier League,35
 2026-05-09T14:00:00Z,Sunderland AFC,Manchester United FC,Premier League,36
 2026-05-09T14:00:00Z,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Premier League,36
 2026-05-09T14:00:00Z,Crystal Palace FC,Everton FC,Premier League,36
@@ -330,6 +330,33 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-04-19T13:30:00Z,SC Freiburg,1. FC Heidenheim 1846,Bundesliga,30
 2026-04-19T15:30:00Z,FC Bayern München,VfB Stuttgart,Bundesliga,30
 2026-04-19T17:30:00Z,Borussia Mönchengladbach,1. FSV Mainz 05,Bundesliga,30
+2026-04-24T18:30:00Z,RB Leipzig,1. FC Union Berlin,Bundesliga,31
+2026-04-25T13:30:00Z,1. FSV Mainz 05,FC Bayern München,Bundesliga,31
+2026-04-25T13:30:00Z,1. FC Köln,Bayer 04 Leverkusen,Bundesliga,31
+2026-04-25T13:30:00Z,FC Augsburg,Eintracht Frankfurt,Bundesliga,31
+2026-04-25T13:30:00Z,VfL Wolfsburg,Borussia Mönchengladbach,Bundesliga,31
+2026-04-25T13:30:00Z,1. FC Heidenheim 1846,FC St. Pauli 1910,Bundesliga,31
+2026-04-25T16:30:00Z,Hamburger SV,TSG 1899 Hoffenheim,Bundesliga,31
+2026-04-26T13:30:00Z,VfB Stuttgart,SV Werder Bremen,Bundesliga,31
+2026-04-26T15:30:00Z,Borussia Dortmund,SC Freiburg,Bundesliga,31
+2026-05-02T13:30:00Z,TSG 1899 Hoffenheim,VfB Stuttgart,Bundesliga,32
+2026-05-02T13:30:00Z,SV Werder Bremen,FC Augsburg,Bundesliga,32
+2026-05-02T13:30:00Z,FC Bayern München,1. FC Heidenheim 1846,Bundesliga,32
+2026-05-02T13:30:00Z,1. FC Union Berlin,1. FC Köln,Bundesliga,32
+2026-05-02T13:30:00Z,Eintracht Frankfurt,Hamburger SV,Bundesliga,32
+2026-05-02T16:30:00Z,Bayer 04 Leverkusen,RB Leipzig,Bundesliga,32
+2026-05-03T13:30:00Z,FC St. Pauli 1910,1. FSV Mainz 05,Bundesliga,32
+2026-05-03T15:30:00Z,Borussia Mönchengladbach,Borussia Dortmund,Bundesliga,32
+2026-05-03T17:30:00Z,SC Freiburg,VfL Wolfsburg,Bundesliga,32
+2026-05-08T18:30:00Z,Borussia Dortmund,Eintracht Frankfurt,Bundesliga,33
+2026-05-09T13:30:00Z,VfB Stuttgart,Bayer 04 Leverkusen,Bundesliga,33
+2026-05-09T13:30:00Z,TSG 1899 Hoffenheim,SV Werder Bremen,Bundesliga,33
+2026-05-09T13:30:00Z,FC Augsburg,Borussia Mönchengladbach,Bundesliga,33
+2026-05-09T13:30:00Z,RB Leipzig,FC St. Pauli 1910,Bundesliga,33
+2026-05-09T16:30:00Z,VfL Wolfsburg,FC Bayern München,Bundesliga,33
+2026-05-10T13:30:00Z,Hamburger SV,SC Freiburg,Bundesliga,33
+2026-05-10T15:30:00Z,1. FC Köln,1. FC Heidenheim 1846,Bundesliga,33
+2026-05-10T17:30:00Z,1. FSV Mainz 05,1. FC Union Berlin,Bundesliga,33
 2026-05-16T13:30:00Z,SV Werder Bremen,Borussia Dortmund,Bundesliga,34
 2026-05-16T13:30:00Z,1. FC Heidenheim 1846,1. FSV Mainz 05,Bundesliga,34
 2026-05-16T13:30:00Z,SC Freiburg,RB Leipzig,Bundesliga,34

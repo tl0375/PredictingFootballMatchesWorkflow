@@ -29,16 +29,16 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-26,13:00,Burnley,Manchester City,Premier League,34
 2026-04-26,15:30,Brighton,Chelsea,Premier League,34
 2026-04-27,19:00,Manchester Utd,Brentford,Premier League,34
+2026-05-01,19:00,Leeds,Burnley,Premier League,35
+2026-05-02,11:30,Aston Villa,Tottenham,Premier League,35
 2026-05-02,14:00,Bournemouth,Crystal Palace,Premier League,35
-2026-05-02,14:00,Aston Villa,Tottenham,Premier League,35
-2026-05-02,14:00,Arsenal,Fulham,Premier League,35
 2026-05-02,14:00,Brentford,West Ham,Premier League,35
-2026-05-02,14:00,Chelsea,Nott'm Forest,Premier League,35
-2026-05-02,14:00,Everton,Manchester City,Premier League,35
-2026-05-02,14:00,Leeds,Burnley,Premier League,35
-2026-05-02,14:00,Manchester Utd,Liverpool,Premier League,35
 2026-05-02,14:00,Newcastle,Brighton,Premier League,35
 2026-05-02,14:00,Wolves,Sunderland,Premier League,35
+2026-05-02,16:30,Arsenal,Fulham,Premier League,35
+2026-05-03,14:30,Manchester Utd,Liverpool,Premier League,35
+2026-05-04,14:00,Chelsea,Nott'm Forest,Premier League,35
+2026-05-04,19:00,Everton,Manchester City,Premier League,35
 2026-05-09,14:00,Sunderland,Manchester Utd,Premier League,36
 2026-05-09,14:00,Brighton,Wolves,Premier League,36
 2026-05-09,14:00,Crystal Palace,Everton,Premier League,36
@@ -74,7 +74,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-04,18:45,Lazio,Parma,Serie A,31
 2026-04-05,13:00,Cremonese,Bologna,Serie A,31
 2026-04-05,16:00,Pisa,Torino,Serie A,31
-2026-04-05,18:45,Inter,Roma,Serie A,31
+2026-04-05,18:45,Milan,Roma,Serie A,31
 2026-04-06,10:30,Udinese,Como,Serie A,31
 2026-04-06,13:00,Lecce,Atalanta,Serie A,31
 2026-04-06,16:00,Juventus,Genoa,Serie A,31
@@ -87,10 +87,10 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-12,10:30,Genoa,Sassuolo,Serie A,32
 2026-04-12,13:00,Parma,Napoli,Serie A,32
 2026-04-12,16:00,Bologna,Lecce,Serie A,32
-2026-04-12,18:45,Como,Inter,Serie A,32
+2026-04-12,18:45,Como,Milan,Serie A,32
 2026-04-13,18:45,Fiorentina,Lazio,Serie A,32
 2026-04-17,16:30,Sassuolo,Como,Serie A,33
-2026-04-17,18:45,Inter,Cagliari,Serie A,33
+2026-04-17,18:45,Milan,Cagliari,Serie A,33
 2026-04-18,13:00,Udinese,Parma,Serie A,33
 2026-04-18,16:00,Napoli,Lazio,Serie A,33
 2026-04-18,18:45,Roma,Atalanta,Serie A,33
@@ -105,7 +105,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-25,18:45,Verona,Lecce,Serie A,34
 2026-04-26,10:30,Fiorentina,Sassuolo,Serie A,34
 2026-04-26,13:00,Genoa,Como,Serie A,34
-2026-04-26,16:00,Torino,Inter,Serie A,34
+2026-04-26,16:00,Torino,Milan,Serie A,34
 2026-04-26,18:45,Milan,Juventus,Serie A,34
 2026-04-27,16:30,Cagliari,Atalanta,Serie A,34
 2026-04-27,18:45,Lazio,Udinese,Serie A,34
@@ -113,7 +113,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-03,00:00,Atalanta,Genoa,Serie A,35
 2026-05-03,00:00,Como,Napoli,Serie A,35
 2026-05-03,00:00,Bologna,Cagliari,Serie A,35
-2026-05-03,00:00,Inter,Parma,Serie A,35
+2026-05-03,00:00,Milan,Parma,Serie A,35
 2026-05-03,00:00,Juventus,Verona,Serie A,35
 2026-05-03,00:00,Pisa,Lecce,Serie A,35
 2026-05-03,00:00,Sassuolo,Milan,Serie A,35
@@ -124,7 +124,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-10,00:00,Cagliari,Udinese,Serie A,36
 2026-05-10,00:00,Torino,Sassuolo,Serie A,36
 2026-05-10,00:00,Verona,Como,Serie A,36
-2026-05-10,00:00,Lazio,Inter,Serie A,36
+2026-05-10,00:00,Lazio,Milan,Serie A,36
 2026-05-10,00:00,Parma,Roma,Serie A,36
 2026-05-10,00:00,Napoli,Bologna,Serie A,36
 2026-05-10,00:00,Cremonese,Pisa,Serie A,36
@@ -134,14 +134,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-17,00:00,Cagliari,Torino,Serie A,37
 2026-05-17,00:00,Genoa,Milan,Serie A,37
 2026-05-17,00:00,Como,Parma,Serie A,37
-2026-05-17,00:00,Inter,Verona,Serie A,37
+2026-05-17,00:00,Milan,Verona,Serie A,37
 2026-05-17,00:00,Juventus,Fiorentina,Serie A,37
 2026-05-17,00:00,Pisa,Napoli,Serie A,37
 2026-05-17,00:00,Sassuolo,Lecce,Serie A,37
 2026-05-17,00:00,Udinese,Cremonese,Serie A,37
 2026-05-24,00:00,Fiorentina,Atalanta,Serie A,38
 2026-05-24,00:00,Milan,Cagliari,Serie A,38
-2026-05-24,00:00,Bologna,Inter,Serie A,38
+2026-05-24,00:00,Bologna,Milan,Serie A,38
 2026-05-24,00:00,Torino,Juventus,Serie A,38
 2026-05-24,00:00,Verona,Roma,Serie A,38
 2026-05-24,00:00,Lazio,Pisa,Serie A,38
@@ -330,6 +330,33 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-19,13:30,Freiburg,Heidenheim,Bundesliga,30
 2026-04-19,15:30,Bayern Munich,Stuttgart,Bundesliga,30
 2026-04-19,17:30,M'gladbach,Mainz,Bundesliga,30
+2026-04-24,18:30,RB Leipzig,Union Berlin,Bundesliga,31
+2026-04-25,13:30,Mainz,Bayern Munich,Bundesliga,31
+2026-04-25,13:30,FC Koln,Leverkusen,Bundesliga,31
+2026-04-25,13:30,Augsburg,Ein Frankfurt,Bundesliga,31
+2026-04-25,13:30,Wolfsburg,M'gladbach,Bundesliga,31
+2026-04-25,13:30,Heidenheim,St Pauli,Bundesliga,31
+2026-04-25,16:30,Hamburg,Hoffenheim,Bundesliga,31
+2026-04-26,13:30,Stuttgart,Werder Bremen,Bundesliga,31
+2026-04-26,15:30,Dortmund,Freiburg,Bundesliga,31
+2026-05-02,13:30,Hoffenheim,Stuttgart,Bundesliga,32
+2026-05-02,13:30,Werder Bremen,Augsburg,Bundesliga,32
+2026-05-02,13:30,Bayern Munich,Heidenheim,Bundesliga,32
+2026-05-02,13:30,Union Berlin,FC Koln,Bundesliga,32
+2026-05-02,13:30,Ein Frankfurt,Hamburg,Bundesliga,32
+2026-05-02,16:30,Leverkusen,RB Leipzig,Bundesliga,32
+2026-05-03,13:30,St Pauli,Mainz,Bundesliga,32
+2026-05-03,15:30,M'gladbach,Dortmund,Bundesliga,32
+2026-05-03,17:30,Freiburg,Wolfsburg,Bundesliga,32
+2026-05-08,18:30,Dortmund,Ein Frankfurt,Bundesliga,33
+2026-05-09,13:30,Stuttgart,Leverkusen,Bundesliga,33
+2026-05-09,13:30,Hoffenheim,Werder Bremen,Bundesliga,33
+2026-05-09,13:30,Augsburg,M'gladbach,Bundesliga,33
+2026-05-09,13:30,RB Leipzig,St Pauli,Bundesliga,33
+2026-05-09,16:30,Wolfsburg,Bayern Munich,Bundesliga,33
+2026-05-10,13:30,Hamburg,Freiburg,Bundesliga,33
+2026-05-10,15:30,FC Koln,Heidenheim,Bundesliga,33
+2026-05-10,17:30,Mainz,Union Berlin,Bundesliga,33
 2026-05-16,13:30,Werder Bremen,Dortmund,Bundesliga,34
 2026-05-16,13:30,Heidenheim,Mainz,Bundesliga,34
 2026-05-16,13:30,Freiburg,RB Leipzig,Bundesliga,34
