@@ -19,6 +19,9 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-04-19,13:00,33,Premier League,Everton,Liverpool,Home Win,0.38501936,0.2515326,0.363448
 2026-04-19,15:30,33,Premier League,Manchester City,Arsenal,Home Win,0.41338924,0.25117907,0.33543164
 2026-04-20,19:00,33,Premier League,Crystal Palace,West Ham,Home Win,0.4022164,0.2515675,0.34621608
+2026-04-21,19:00,34,Premier League,Brighton,Chelsea,Away Win,0.30500412,0.24660897,0.4483869
+2026-04-22,19:00,34,Premier League,Bournemouth,Leeds,Home Win,0.526902,0.23843023,0.23466778
+2026-04-22,19:00,34,Premier League,Burnley,Manchester City,Away Win,0.22776267,0.23128948,0.54094785
 2026-04-24,19:00,34,Premier League,Sunderland,Nott'm Forest,Home Win,0.4101662,0.2514189,0.33841494
 2026-04-25,11:30,34,Premier League,Fulham,Aston Villa,Home Win,0.37739992,0.25151065,0.37108943
 2026-04-25,14:00,34,Premier League,Liverpool,Crystal Palace,Home Win,0.5555549,0.23207256,0.21237253
