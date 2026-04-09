@@ -77,10 +77,10 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-12,10:30,Genoa,Sassuolo,Serie A,32
 2026-04-12,13:00,Parma,Napoli,Serie A,32
 2026-04-12,16:00,Bologna,Lecce,Serie A,32
-2026-04-12,18:45,Como,Inter,Serie A,32
+2026-04-12,18:45,Como,Milan,Serie A,32
 2026-04-13,18:45,Fiorentina,Lazio,Serie A,32
 2026-04-17,16:30,Sassuolo,Como,Serie A,33
-2026-04-17,18:45,Inter,Cagliari,Serie A,33
+2026-04-17,18:45,Milan,Cagliari,Serie A,33
 2026-04-18,13:00,Udinese,Parma,Serie A,33
 2026-04-18,16:00,Napoli,Lazio,Serie A,33
 2026-04-18,18:45,Roma,Atalanta,Serie A,33
@@ -95,7 +95,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-04-25,18:45,Verona,Lecce,Serie A,34
 2026-04-26,10:30,Fiorentina,Sassuolo,Serie A,34
 2026-04-26,13:00,Genoa,Como,Serie A,34
-2026-04-26,16:00,Torino,Inter,Serie A,34
+2026-04-26,16:00,Torino,Milan,Serie A,34
 2026-04-26,18:45,Milan,Juventus,Serie A,34
 2026-04-27,16:30,Cagliari,Atalanta,Serie A,34
 2026-04-27,18:45,Lazio,Udinese,Serie A,34
@@ -103,7 +103,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-03,00:00,Atalanta,Genoa,Serie A,35
 2026-05-03,00:00,Como,Napoli,Serie A,35
 2026-05-03,00:00,Bologna,Cagliari,Serie A,35
-2026-05-03,00:00,Inter,Parma,Serie A,35
+2026-05-03,00:00,Milan,Parma,Serie A,35
 2026-05-03,00:00,Juventus,Verona,Serie A,35
 2026-05-03,00:00,Pisa,Lecce,Serie A,35
 2026-05-03,00:00,Sassuolo,Milan,Serie A,35
@@ -114,7 +114,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-10,00:00,Cagliari,Udinese,Serie A,36
 2026-05-10,00:00,Torino,Sassuolo,Serie A,36
 2026-05-10,00:00,Verona,Como,Serie A,36
-2026-05-10,00:00,Lazio,Inter,Serie A,36
+2026-05-10,00:00,Lazio,Milan,Serie A,36
 2026-05-10,00:00,Parma,Roma,Serie A,36
 2026-05-10,00:00,Napoli,Bologna,Serie A,36
 2026-05-10,00:00,Cremonese,Pisa,Serie A,36
@@ -124,14 +124,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-17,00:00,Cagliari,Torino,Serie A,37
 2026-05-17,00:00,Genoa,Milan,Serie A,37
 2026-05-17,00:00,Como,Parma,Serie A,37
-2026-05-17,00:00,Inter,Verona,Serie A,37
+2026-05-17,00:00,Milan,Verona,Serie A,37
 2026-05-17,00:00,Juventus,Fiorentina,Serie A,37
 2026-05-17,00:00,Pisa,Napoli,Serie A,37
 2026-05-17,00:00,Sassuolo,Lecce,Serie A,37
 2026-05-17,00:00,Udinese,Cremonese,Serie A,37
 2026-05-24,00:00,Fiorentina,Atalanta,Serie A,38
 2026-05-24,00:00,Milan,Cagliari,Serie A,38
-2026-05-24,00:00,Bologna,Inter,Serie A,38
+2026-05-24,00:00,Bologna,Milan,Serie A,38
 2026-05-24,00:00,Torino,Juventus,Serie A,38
 2026-05-24,00:00,Verona,Roma,Serie A,38
 2026-05-24,00:00,Lazio,Pisa,Serie A,38
