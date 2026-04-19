@@ -1,9 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2026-04-18T11:30:00Z,Brentford FC,Fulham FC,Premier League,33
-2026-04-18T14:00:00Z,Newcastle United FC,AFC Bournemouth,Premier League,33
-2026-04-18T14:00:00Z,Leeds United FC,Wolverhampton Wanderers FC,Premier League,33
-2026-04-18T16:30:00Z,Tottenham Hotspur FC,Brighton & Hove Albion FC,Premier League,33
-2026-04-18T19:00:00Z,Chelsea FC,Manchester United FC,Premier League,33
 2026-04-19T13:00:00Z,Nottingham Forest FC,Burnley FC,Premier League,33
 2026-04-19T13:00:00Z,Aston Villa FC,Sunderland AFC,Premier League,33
 2026-04-19T13:00:00Z,Everton FC,Liverpool FC,Premier League,33
@@ -20,11 +15,11 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-04-25T16:30:00Z,Arsenal FC,Newcastle United FC,Premier League,34
 2026-04-27T19:00:00Z,Manchester United FC,Brentford FC,Premier League,34
 2026-05-01T19:00:00Z,Leeds United FC,Burnley FC,Premier League,35
-2026-05-02T14:00:00Z,AFC Bournemouth,Crystal Palace FC,Premier League,35
 2026-05-02T14:00:00Z,Brentford FC,West Ham United FC,Premier League,35
 2026-05-02T14:00:00Z,Newcastle United FC,Brighton & Hove Albion FC,Premier League,35
 2026-05-02T14:00:00Z,Wolverhampton Wanderers FC,Sunderland AFC,Premier League,35
 2026-05-02T16:30:00Z,Arsenal FC,Fulham FC,Premier League,35
+2026-05-03T13:00:00Z,AFC Bournemouth,Crystal Palace FC,Premier League,35
 2026-05-03T14:30:00Z,Manchester United FC,Liverpool FC,Premier League,35
 2026-05-03T18:00:00Z,Aston Villa FC,Tottenham Hotspur FC,Premier League,35
 2026-05-04T14:00:00Z,Chelsea FC,Nottingham Forest FC,Premier League,35
@@ -32,10 +27,10 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-09T11:30:00Z,Liverpool FC,Chelsea FC,Premier League,36
 2026-05-09T14:00:00Z,Sunderland AFC,Manchester United FC,Premier League,36
 2026-05-09T14:00:00Z,Brighton & Hove Albion FC,Wolverhampton Wanderers FC,Premier League,36
-2026-05-09T14:00:00Z,Crystal Palace FC,Everton FC,Premier League,36
-2026-05-09T14:00:00Z,Burnley FC,Aston Villa FC,Premier League,36
 2026-05-09T14:00:00Z,Fulham FC,AFC Bournemouth,Premier League,36
 2026-05-09T16:30:00Z,Manchester City FC,Brentford FC,Premier League,36
+2026-05-10T13:00:00Z,Crystal Palace FC,Everton FC,Premier League,36
+2026-05-10T13:00:00Z,Burnley FC,Aston Villa FC,Premier League,36
 2026-05-10T13:00:00Z,Nottingham Forest FC,Newcastle United FC,Premier League,36
 2026-05-10T15:30:00Z,West Ham United FC,Arsenal FC,Premier League,36
 2026-05-11T19:00:00Z,Tottenham Hotspur FC,Leeds United FC,Premier League,36
@@ -59,9 +54,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T15:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,38
 2026-05-24T15:00:00Z,Tottenham Hotspur FC,Everton FC,Premier League,38
 2026-05-24T15:00:00Z,West Ham United FC,Leeds United FC,Premier League,38
-2026-04-18T13:00:00Z,Udinese Calcio,Parma Calcio 1913,Serie A,33
-2026-04-18T16:00:00Z,SSC Napoli,SS Lazio,Serie A,33
-2026-04-18T18:45:00Z,AS Roma,Atalanta BC,Serie A,33
 2026-04-19T10:30:00Z,US Cremonese,Torino FC,Serie A,33
 2026-04-19T13:00:00Z,Hellas Verona FC,AC Milan,Serie A,33
 2026-04-19T16:00:00Z,AC Pisa 1909,Genoa CFC,Serie A,33
@@ -80,13 +72,13 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-01T18:45:00Z,AC Pisa 1909,US Lecce,Serie A,35
 2026-05-02T13:00:00Z,Udinese Calcio,Torino FC,Serie A,35
 2026-05-02T16:00:00Z,Como 1907,SSC Napoli,Serie A,35
-2026-05-03T00:00:00Z,AS Roma,ACF Fiorentina,Serie A,35
-2026-05-03T00:00:00Z,Atalanta BC,Genoa CFC,Serie A,35
-2026-05-03T00:00:00Z,Bologna FC 1909,Cagliari Calcio,Serie A,35
-2026-05-03T00:00:00Z,FC Internazionale Milano,Parma Calcio 1913,Serie A,35
-2026-05-03T00:00:00Z,Juventus FC,Hellas Verona FC,Serie A,35
-2026-05-03T00:00:00Z,US Sassuolo Calcio,AC Milan,Serie A,35
-2026-05-03T00:00:00Z,US Cremonese,SS Lazio,Serie A,35
+2026-05-02T18:45:00Z,Atalanta BC,Genoa CFC,Serie A,35
+2026-05-03T10:30:00Z,Bologna FC 1909,Cagliari Calcio,Serie A,35
+2026-05-03T13:00:00Z,US Sassuolo Calcio,AC Milan,Serie A,35
+2026-05-03T16:00:00Z,Juventus FC,Hellas Verona FC,Serie A,35
+2026-05-03T18:45:00Z,FC Internazionale Milano,Parma Calcio 1913,Serie A,35
+2026-05-04T16:30:00Z,US Cremonese,SS Lazio,Serie A,35
+2026-05-04T18:45:00Z,AS Roma,ACF Fiorentina,Serie A,35
 2026-05-10T00:00:00Z,ACF Fiorentina,Genoa CFC,Serie A,36
 2026-05-10T00:00:00Z,AC Milan,Atalanta BC,Serie A,36
 2026-05-10T00:00:00Z,Cagliari Calcio,Udinese Calcio,Serie A,36
@@ -117,9 +109,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,38
 2026-05-24T00:00:00Z,US Cremonese,Como 1907,Serie A,38
 2026-05-24T00:00:00Z,US Lecce,Genoa CFC,Serie A,38
-2026-04-18T15:00:00Z,FC Lorient,Olympique de Marseille,Ligue 1,30
-2026-04-18T17:00:00Z,Angers SCO,Le Havre AC,Ligue 1,30
-2026-04-18T19:05:00Z,Lille OSC,OGC Nice,Ligue 1,30
 2026-04-19T13:00:00Z,AS Monaco FC,AJ Auxerre,Ligue 1,30
 2026-04-19T15:15:00Z,FC Metz,Paris FC,Ligue 1,30
 2026-04-19T15:15:00Z,FC Nantes,Stade Brestois 29,Ligue 1,30
@@ -234,11 +223,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-05-24T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,38
 2026-05-24T00:00:00Z,Valencia CF,FC Barcelona,La Liga,38
 2026-05-24T00:00:00Z,Girona FC,Elche CF,La Liga,38
-2026-04-18T13:30:00Z,SV Werder Bremen,Hamburger SV,Bundesliga,30
-2026-04-18T13:30:00Z,Bayer 04 Leverkusen,FC Augsburg,Bundesliga,30
-2026-04-18T13:30:00Z,TSG 1899 Hoffenheim,Borussia Dortmund,Bundesliga,30
-2026-04-18T13:30:00Z,1. FC Union Berlin,VfL Wolfsburg,Bundesliga,30
-2026-04-18T16:30:00Z,Eintracht Frankfurt,RB Leipzig,Bundesliga,30
 2026-04-19T13:30:00Z,SC Freiburg,1. FC Heidenheim 1846,Bundesliga,30
 2026-04-19T15:30:00Z,FC Bayern München,VfB Stuttgart,Bundesliga,30
 2026-04-19T17:30:00Z,Borussia Mönchengladbach,1. FSV Mainz 05,Bundesliga,30
