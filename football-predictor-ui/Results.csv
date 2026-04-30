@@ -19,14 +19,17 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-10,13:00,36,Premier League,Nott'm Forest,Newcastle,Home Win,0.44975358,0.24890058,0.30134588
 2026-05-10,15:30,36,Premier League,West Ham,Arsenal,Away Win,0.23542364,0.23367503,0.53090125
 2026-05-11,19:00,36,Premier League,Tottenham,Leeds,Away Win,0.26514158,0.24073446,0.494124
-2026-05-17,14:00,37,Premier League,Aston Villa,Liverpool,Away Win,0.331469,0.24937358,0.41915733
-2026-05-17,14:00,37,Premier League,Arsenal,Burnley,Home Win,0.72324,0.17504509,0.101714835
+2026-05-13,19:00,31,Premier League,Manchester City,Crystal Palace,Home Win,0.67077893,0.19600576,0.13321528
+2026-05-17,11:30,37,Premier League,Aston Villa,Liverpool,Away Win,0.331469,0.24937358,0.41915733
+2026-05-17,11:30,37,Premier League,Manchester Utd,Nott'm Forest,Home Win,0.59443307,0.22140713,0.18415982
 2026-05-17,14:00,37,Premier League,Brentford,Crystal Palace,Home Win,0.49585667,0.24373788,0.26040545
 2026-05-17,14:00,37,Premier League,Everton,Sunderland,Home Win,0.53746134,0.2362037,0.22633491
 2026-05-17,14:00,37,Premier League,Leeds,Brighton,Home Win,0.3789342,0.25169453,0.3693713
-2026-05-17,14:00,37,Premier League,Manchester Utd,Nott'm Forest,Home Win,0.59443307,0.22140713,0.18415982
-2026-05-17,14:00,37,Premier League,Newcastle,West Ham,Home Win,0.3785555,0.25165173,0.3697928
 2026-05-17,14:00,37,Premier League,Wolves,Fulham,Away Win,0.30981568,0.24756351,0.44262072
+2026-05-17,16:30,37,Premier League,Newcastle,West Ham,Home Win,0.3785555,0.25165173,0.3697928
+2026-05-18,19:00,37,Premier League,Arsenal,Burnley,Home Win,0.72324,0.17504509,0.101714835
+2026-05-19,18:30,37,Premier League,Bournemouth,Manchester City,Away Win,0.25320074,0.23813091,0.50866836
+2026-05-19,19:15,37,Premier League,Chelsea,Tottenham,Home Win,0.5591385,0.23114522,0.20971629
 2026-05-24,15:00,38,Premier League,Sunderland,Chelsea,Home Win,0.3921004,0.25193816,0.35596144
 2026-05-24,15:00,38,Premier League,Brighton,Manchester Utd,Away Win,0.29595542,0.24534337,0.4587012
 2026-05-24,15:00,38,Premier League,Crystal Palace,Arsenal,Away Win,0.23315087,0.23305239,0.5337968
