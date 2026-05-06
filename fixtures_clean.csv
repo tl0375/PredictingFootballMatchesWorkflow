@@ -32,7 +32,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
 2026-05-08,18:45,Torino,Sassuolo,Serie A,36
 2026-05-09,13:00,Cagliari,Udinese,Serie A,36
-2026-05-09,16:00,Lazio,Inter,Serie A,36
+2026-05-09,16:00,Lazio,Milan,Serie A,36
 2026-05-09,18:45,Lecce,Juventus,Serie A,36
 2026-05-10,10:30,Verona,Como,Serie A,36
 2026-05-10,13:00,Fiorentina,Genoa,Serie A,36
@@ -45,14 +45,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-17,00:00,Cagliari,Torino,Serie A,37
 2026-05-17,00:00,Genoa,Milan,Serie A,37
 2026-05-17,00:00,Como,Parma,Serie A,37
-2026-05-17,00:00,Inter,Verona,Serie A,37
+2026-05-17,00:00,Milan,Verona,Serie A,37
 2026-05-17,00:00,Juventus,Fiorentina,Serie A,37
 2026-05-17,00:00,Pisa,Napoli,Serie A,37
 2026-05-17,00:00,Sassuolo,Lecce,Serie A,37
 2026-05-17,00:00,Udinese,Cremonese,Serie A,37
 2026-05-24,00:00,Fiorentina,Atalanta,Serie A,38
 2026-05-24,00:00,Milan,Cagliari,Serie A,38
-2026-05-24,00:00,Bologna,Inter,Serie A,38
+2026-05-24,00:00,Bologna,Milan,Serie A,38
 2026-05-24,00:00,Torino,Juventus,Serie A,38
 2026-05-24,00:00,Verona,Roma,Serie A,38
 2026-05-24,00:00,Lazio,Pisa,Serie A,38
@@ -100,16 +100,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-14,17:00,Valencia,Vallecano,La Liga,36
 2026-05-14,18:00,Girona,Sociedad,La Liga,36
 2026-05-14,19:30,Real Madrid,Oviedo,La Liga,36
-2026-05-17,00:00,Athletic Club,Celta,La Liga,37
-2026-05-17,00:00,Ath Madrid,Girona,La Liga,37
-2026-05-17,00:00,Barcelona,Betis,La Liga,37
-2026-05-17,00:00,Elche,Getafe,La Liga,37
-2026-05-17,00:00,Levante,Mallorca,La Liga,37
-2026-05-17,00:00,Vallecano,Villarreal,La Liga,37
-2026-05-17,00:00,Sociedad,Valencia,La Liga,37
-2026-05-17,00:00,Oviedo,Alaves,La Liga,37
-2026-05-17,00:00,Osasuna,Espanol,La Liga,37
-2026-05-17,00:00,Sevilla,Real Madrid,La Liga,37
 2026-05-24,00:00,Alaves,Vallecano,La Liga,38
 2026-05-24,00:00,Betis,Levante,La Liga,38
 2026-05-24,00:00,Celta,Sevilla,La Liga,38
