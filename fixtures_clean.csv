@@ -1,9 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-05-09,11:30,Liverpool,Chelsea,Premier League,36
-2026-05-09,14:00,Sunderland,Manchester Utd,Premier League,36
-2026-05-09,14:00,Brighton,Wolves,Premier League,36
-2026-05-09,14:00,Fulham,Bournemouth,Premier League,36
-2026-05-09,16:30,Manchester City,Brentford,Premier League,36
 2026-05-10,13:00,Crystal Palace,Everton,Premier League,36
 2026-05-10,13:00,Burnley,Aston Villa,Premier League,36
 2026-05-10,13:00,Nott'm Forest,Newcastle,Premier League,36
@@ -30,19 +25,25 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
+2026-05-10,10:30,Verona,Como,Serie A,36
+2026-05-10,13:00,Fiorentina,Genoa,Serie A,36
+2026-05-10,13:00,Cremonese,Pisa,Serie A,36
+2026-05-10,16:00,Parma,Roma,Serie A,36
+2026-05-10,18:45,Milan,Atalanta,Serie A,36
+2026-05-11,18:45,Napoli,Bologna,Serie A,36
 2026-05-17,00:00,Roma,Lazio,Serie A,37
 2026-05-17,00:00,Atalanta,Bologna,Serie A,37
 2026-05-17,00:00,Cagliari,Torino,Serie A,37
 2026-05-17,00:00,Genoa,Milan,Serie A,37
 2026-05-17,00:00,Como,Parma,Serie A,37
-2026-05-17,00:00,Inter,Verona,Serie A,37
+2026-05-17,00:00,Milan,Verona,Serie A,37
 2026-05-17,00:00,Juventus,Fiorentina,Serie A,37
 2026-05-17,00:00,Pisa,Napoli,Serie A,37
 2026-05-17,00:00,Sassuolo,Lecce,Serie A,37
 2026-05-17,00:00,Udinese,Cremonese,Serie A,37
 2026-05-24,00:00,Fiorentina,Atalanta,Serie A,38
 2026-05-24,00:00,Milan,Cagliari,Serie A,38
-2026-05-24,00:00,Bologna,Inter,Serie A,38
+2026-05-24,00:00,Bologna,Milan,Serie A,38
 2026-05-24,00:00,Torino,Juventus,Serie A,38
 2026-05-24,00:00,Verona,Roma,Serie A,38
 2026-05-24,00:00,Lazio,Pisa,Serie A,38
@@ -69,10 +70,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-17,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-17,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-17,19:00,Brest,Angers,Ligue 1,34
-2026-05-09,12:00,Elche,Alaves,La Liga,35
-2026-05-09,14:15,Sevilla,Espanol,La Liga,35
-2026-05-09,16:30,Ath Madrid,Celta,La Liga,35
-2026-05-09,19:00,Sociedad,Betis,La Liga,35
 2026-05-10,12:00,Mallorca,Villarreal,La Liga,35
 2026-05-10,14:15,Athletic Club,Valencia,La Liga,35
 2026-05-10,16:30,Oviedo,Getafe,La Liga,35
@@ -108,11 +105,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,00:00,Villarreal,Ath Madrid,La Liga,38
 2026-05-24,00:00,Valencia,Barcelona,La Liga,38
 2026-05-24,00:00,Girona,Elche,La Liga,38
-2026-05-09,13:30,Stuttgart,Leverkusen,Bundesliga,33
-2026-05-09,13:30,Hoffenheim,Werder Bremen,Bundesliga,33
-2026-05-09,13:30,Augsburg,M'gladbach,Bundesliga,33
-2026-05-09,13:30,RB Leipzig,St Pauli,Bundesliga,33
-2026-05-09,16:30,Wolfsburg,Bayern Munich,Bundesliga,33
 2026-05-10,13:30,Hamburg,Freiburg,Bundesliga,33
 2026-05-10,15:30,FC Koln,Heidenheim,Bundesliga,33
 2026-05-10,17:30,Mainz,Union Berlin,Bundesliga,33
