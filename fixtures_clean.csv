@@ -20,26 +20,26 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-24,15:00,Nott'm Forest,Bournemouth,Premier League,38
 2026-05-24,15:00,Tottenham,Everton,Premier League,38
 2026-05-24,15:00,West Ham,Leeds,Premier League,38
-2026-05-17,13:00,Roma,Lazio,Serie A,37
-2026-05-17,13:00,Atalanta,Bologna,Serie A,37
-2026-05-17,13:00,Cagliari,Torino,Serie A,37
-2026-05-17,13:00,Genoa,Milan,Serie A,37
-2026-05-17,13:00,Como,Parma,Serie A,37
+2026-05-17,10:30,Roma,Lazio,Serie A,37
+2026-05-17,10:30,Genoa,Milan,Serie A,37
+2026-05-17,10:30,Como,Parma,Serie A,37
+2026-05-17,10:30,Juventus,Fiorentina,Serie A,37
+2026-05-17,10:30,Pisa,Napoli,Serie A,37
 2026-05-17,13:00,Inter,Verona,Serie A,37
-2026-05-17,13:00,Juventus,Fiorentina,Serie A,37
-2026-05-17,13:00,Pisa,Napoli,Serie A,37
-2026-05-17,13:00,Sassuolo,Lecce,Serie A,37
-2026-05-17,13:00,Udinese,Cremonese,Serie A,37
-2026-05-24,00:00,Fiorentina,Atalanta,Serie A,38
-2026-05-24,00:00,Milan,Cagliari,Serie A,38
-2026-05-24,00:00,Bologna,Inter,Serie A,38
-2026-05-24,00:00,Torino,Juventus,Serie A,38
-2026-05-24,00:00,Verona,Roma,Serie A,38
-2026-05-24,00:00,Lazio,Pisa,Serie A,38
-2026-05-24,00:00,Parma,Sassuolo,Serie A,38
-2026-05-24,00:00,Napoli,Udinese,Serie A,38
-2026-05-24,00:00,Cremonese,Como,Serie A,38
-2026-05-24,00:00,Lecce,Genoa,Serie A,38
+2026-05-17,16:00,Atalanta,Bologna,Serie A,37
+2026-05-17,18:45,Cagliari,Torino,Serie A,37
+2026-05-17,18:45,Sassuolo,Lecce,Serie A,37
+2026-05-17,18:45,Udinese,Cremonese,Serie A,37
+2026-05-24,13:00,Fiorentina,Atalanta,Serie A,38
+2026-05-24,13:00,Milan,Cagliari,Serie A,38
+2026-05-24,13:00,Bologna,Inter,Serie A,38
+2026-05-24,13:00,Torino,Juventus,Serie A,38
+2026-05-24,13:00,Verona,Roma,Serie A,38
+2026-05-24,13:00,Lazio,Pisa,Serie A,38
+2026-05-24,13:00,Parma,Sassuolo,Serie A,38
+2026-05-24,13:00,Napoli,Udinese,Serie A,38
+2026-05-24,13:00,Cremonese,Como,Serie A,38
+2026-05-24,13:00,Lecce,Genoa,Serie A,38
 2026-05-13,17:00,Brest,Strasbourg,Ligue 1,29
 2026-05-13,19:00,Lens,Paris SG,Ligue 1,29
 2026-05-17,19:00,Lorient,Le Havre,Ligue 1,34
@@ -51,9 +51,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-17,19:00,Lille,Auxerre,Ligue 1,34
 2026-05-17,19:00,Strasbourg,Monaco,Ligue 1,34
 2026-05-17,19:00,Brest,Angers,Ligue 1,34
-2026-05-12,17:00,Celta,Levante,La Liga,36
-2026-05-12,18:00,Betis,Elche,La Liga,36
-2026-05-12,19:30,Osasuna,Ath Madrid,La Liga,36
 2026-05-13,17:00,Espanol,Athletic Club,La Liga,36
 2026-05-13,17:00,Villarreal,Sevilla,La Liga,36
 2026-05-13,19:30,Alaves,Barcelona,La Liga,36
