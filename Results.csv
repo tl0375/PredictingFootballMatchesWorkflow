@@ -23,14 +23,14 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-17,10:00,37,Serie A,Como,Parma,Home Win,0.61370856,0.21555163,0.17073981
 2026-05-17,10:00,37,Serie A,Juventus,Fiorentina,Home Win,0.58767384,0.22337005,0.1889561
 2026-05-17,10:00,37,Serie A,Pisa,Napoli,Away Win,0.23224895,0.23297933,0.53477174
-2026-05-17,13:00,37,Serie A,Inter,Verona,Home Win,0.76696175,0.15527047,0.07776779
+2026-05-17,13:00,37,Serie A,Milan,Verona,Home Win,0.63915634,0.20724559,0.15359809
 2026-05-17,16:00,37,Serie A,Atalanta,Bologna,Home Win,0.5590252,0.23117669,0.2097981
 2026-05-17,18:45,37,Serie A,Cagliari,Torino,Away Win,0.35972887,0.25139996,0.3888711
 2026-05-17,18:45,37,Serie A,Sassuolo,Lecce,Home Win,0.577212,0.22632667,0.19646138
 2026-05-17,18:45,37,Serie A,Udinese,Cremonese,Home Win,0.6218822,0.2129568,0.16516106
 2026-05-24,13:00,38,Serie A,Fiorentina,Atalanta,Away Win,0.34351972,0.25071508,0.40576515
 2026-05-24,13:00,38,Serie A,Milan,Cagliari,Home Win,0.5730736,0.22745886,0.19946748
-2026-05-24,13:00,38,Serie A,Bologna,Inter,Away Win,0.22637014,0.23098342,0.5426464
+2026-05-24,13:00,38,Serie A,Bologna,Milan,Away Win,0.29031718,0.24512197,0.46456084
 2026-05-24,13:00,38,Serie A,Torino,Juventus,Away Win,0.23933645,0.2347575,0.5259061
 2026-05-24,13:00,38,Serie A,Verona,Roma,Away Win,0.24041401,0.23518,0.52440596
 2026-05-24,13:00,38,Serie A,Lazio,Pisa,Home Win,0.6530364,0.20243917,0.1445244
@@ -67,12 +67,3 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-05-23,19:00,38,La Liga,Valencia,Barcelona,Away Win,0.23170581,0.23257646,0.53571767
 2026-05-23,19:00,38,La Liga,Girona,Elche,Home Win,0.3853286,0.25178865,0.36288276
 2026-05-24,19:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.55577976,0.2320054,0.21221481
-2026-05-16,13:30,34,Bundesliga,Werder Bremen,Dortmund,Away Win,0.24271815,0.23555371,0.52172816
-2026-05-16,13:30,34,Bundesliga,Heidenheim,Mainz,Away Win,0.2751769,0.24270765,0.4821154
-2026-05-16,13:30,34,Bundesliga,Freiburg,RB Leipzig,Away Win,0.23779385,0.23473532,0.5274709
-2026-05-16,13:30,34,Bundesliga,Ein Frankfurt,Stuttgart,Away Win,0.25186485,0.23804486,0.51009035
-2026-05-16,13:30,34,Bundesliga,St Pauli,Wolfsburg,Away Win,0.3648042,0.25149286,0.3837029
-2026-05-16,13:30,34,Bundesliga,Union Berlin,Augsburg,Away Win,0.27789274,0.24330516,0.47880217
-2026-05-16,13:30,34,Bundesliga,M'gladbach,Hoffenheim,Away Win,0.273598,0.24235249,0.48404956
-2026-05-16,13:30,34,Bundesliga,Bayern Munich,FC Koln,Home Win,0.7771485,0.15034243,0.07250907
-2026-05-16,13:30,34,Bundesliga,Leverkusen,Hamburg,Home Win,0.6653353,0.19801003,0.13665466
