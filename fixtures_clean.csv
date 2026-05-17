@@ -23,14 +23,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-17,10:00,Como,Parma,Serie A,37
 2026-05-17,10:00,Juventus,Fiorentina,Serie A,37
 2026-05-17,10:00,Pisa,Napoli,Serie A,37
-2026-05-17,13:00,Inter,Verona,Serie A,37
+2026-05-17,13:00,Milan,Verona,Serie A,37
 2026-05-17,16:00,Atalanta,Bologna,Serie A,37
 2026-05-17,18:45,Cagliari,Torino,Serie A,37
 2026-05-17,18:45,Sassuolo,Lecce,Serie A,37
 2026-05-17,18:45,Udinese,Cremonese,Serie A,37
 2026-05-24,13:00,Fiorentina,Atalanta,Serie A,38
 2026-05-24,13:00,Milan,Cagliari,Serie A,38
-2026-05-24,13:00,Bologna,Inter,Serie A,38
+2026-05-24,13:00,Bologna,Milan,Serie A,38
 2026-05-24,13:00,Torino,Juventus,Serie A,38
 2026-05-24,13:00,Verona,Roma,Serie A,38
 2026-05-24,13:00,Lazio,Pisa,Serie A,38
@@ -67,12 +67,3 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-05-23,19:00,Valencia,Barcelona,La Liga,38
 2026-05-23,19:00,Girona,Elche,La Liga,38
 2026-05-24,19:00,Villarreal,Ath Madrid,La Liga,38
-2026-05-16,13:30,Werder Bremen,Dortmund,Bundesliga,34
-2026-05-16,13:30,Heidenheim,Mainz,Bundesliga,34
-2026-05-16,13:30,Freiburg,RB Leipzig,Bundesliga,34
-2026-05-16,13:30,Ein Frankfurt,Stuttgart,Bundesliga,34
-2026-05-16,13:30,St Pauli,Wolfsburg,Bundesliga,34
-2026-05-16,13:30,Union Berlin,Augsburg,Bundesliga,34
-2026-05-16,13:30,M'gladbach,Hoffenheim,Bundesliga,34
-2026-05-16,13:30,Bayern Munich,FC Koln,Bundesliga,34
-2026-05-16,13:30,Leverkusen,Hamburg,Bundesliga,34
