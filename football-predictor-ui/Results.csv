@@ -1,19 +1,19 @@
 Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Prob_Draw,Prob_Away_Win
-2026-05-24,15:00,38,Premier League,Sunderland,Chelsea,Home Win,0.39204735,0.25223666,0.35571593
+2026-05-24,15:00,38,Premier League,Sunderland,Chelsea,Home Win,0.3920474,0.2522367,0.35571596
 2026-05-24,15:00,38,Premier League,Brighton,Manchester Utd,Away Win,0.29884428,0.24626268,0.45489302
-2026-05-24,15:00,38,Premier League,Crystal Palace,Arsenal,Away Win,0.22006117,0.22898749,0.55095136
-2026-05-24,15:00,38,Premier League,Burnley,Wolves,Away Win,0.35825193,0.2513023,0.3904457
+2026-05-24,15:00,38,Premier League,Crystal Palace,Arsenal,Away Win,0.22006117,0.2289875,0.55095136
+2026-05-24,15:00,38,Premier League,Burnley,Wolves,Away Win,0.358252,0.25130233,0.3904457
 2026-05-24,15:00,38,Premier League,Fulham,Newcastle,Home Win,0.41781932,0.2512098,0.33097088
 2026-05-24,15:00,38,Premier League,Liverpool,Brentford,Home Win,0.4837356,0.24479619,0.2714682
-2026-05-24,15:00,38,Premier League,Manchester City,Aston Villa,Home Win,0.68705404,0.18981363,0.123132356
+2026-05-24,15:00,38,Premier League,Manchester City,Aston Villa,Home Win,0.68705404,0.18981364,0.12313237
 2026-05-24,15:00,38,Premier League,Nott'm Forest,Bournemouth,Away Win,0.27967244,0.24309216,0.4772354
 2026-05-24,15:00,38,Premier League,Tottenham,Everton,Away Win,0.33034438,0.24965915,0.4199965
-2026-05-24,15:00,38,Premier League,West Ham,Leeds,Away Win,0.3113815,0.24790111,0.44071746
+2026-05-24,15:00,38,Premier League,West Ham,Leeds,Away Win,0.31138143,0.24790111,0.44071746
 2026-05-24,13:00,38,Serie A,Parma,Sassuolo,Away Win,0.31457695,0.24827246,0.4371506
 2026-05-24,16:00,38,Serie A,Napoli,Udinese,Home Win,0.48860124,0.24459438,0.26680443
 2026-05-24,18:45,38,Serie A,Milan,Cagliari,Home Win,0.57118964,0.22797248,0.20083787
 2026-05-24,18:45,38,Serie A,Torino,Juventus,Away Win,0.23678862,0.23408644,0.5291249
 2026-05-24,18:45,38,Serie A,Verona,Roma,Away Win,0.2286086,0.23191316,0.5394782
 2026-05-24,18:45,38,Serie A,Cremonese,Como,Away Win,0.23255979,0.23306367,0.5343765
-2026-05-24,18:45,38,Serie A,Lecce,Genoa,Away Win,0.28469688,0.24413301,0.47117016
+2026-05-24,18:45,38,Serie A,Lecce,Genoa,Away Win,0.2846969,0.24413301,0.47117016
 2026-05-24,19:00,38,La Liga,Villarreal,Ath Madrid,Home Win,0.46530738,0.24720795,0.28748465
