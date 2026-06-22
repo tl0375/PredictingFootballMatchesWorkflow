@@ -1,4 +1,764 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
+2026-08-21,19:00,Arsenal,Coventry City FC,Premier League,1
+2026-08-22,11:30,Hull City AFC,Manchester Utd,Premier League,1
+2026-08-22,14:00,Ipswich,Sunderland,Premier League,1
+2026-08-22,14:00,Nott'm Forest,Leeds,Premier League,1
+2026-08-22,14:00,Everton,Crystal Palace,Premier League,1
+2026-08-22,16:30,Brentford,Tottenham,Premier League,1
+2026-08-23,13:00,Manchester City,Bournemouth,Premier League,1
+2026-08-23,13:00,Brighton,Aston Villa,Premier League,1
+2026-08-23,15:30,Newcastle,Liverpool,Premier League,1
+2026-08-24,19:00,Fulham,Chelsea,Premier League,1
+2026-08-29,14:00,Liverpool,Nott'm Forest,Premier League,2
+2026-08-29,14:00,Manchester Utd,Ipswich,Premier League,2
+2026-08-29,14:00,Sunderland,Fulham,Premier League,2
+2026-08-29,14:00,Crystal Palace,Manchester City,Premier League,2
+2026-08-29,14:00,Chelsea,Brighton,Premier League,2
+2026-08-29,14:00,Aston Villa,Arsenal,Premier League,2
+2026-08-29,14:00,Tottenham,Newcastle,Premier League,2
+2026-08-29,14:00,Leeds,Brentford,Premier League,2
+2026-08-29,14:00,Bournemouth,Everton,Premier League,2
+2026-08-29,14:00,Coventry City FC,Hull City AFC,Premier League,2
+2026-09-05,14:00,Nott'm Forest,Tottenham,Premier League,3
+2026-09-05,14:00,Manchester City,Coventry City FC,Premier League,3
+2026-09-05,14:00,Brighton,Leeds,Premier League,3
+2026-09-05,14:00,Brentford,Sunderland,Premier League,3
+2026-09-05,14:00,Ipswich,Liverpool,Premier League,3
+2026-09-05,14:00,Everton,Manchester Utd,Premier League,3
+2026-09-05,14:00,Fulham,Crystal Palace,Premier League,3
+2026-09-05,14:00,Hull City AFC,Aston Villa,Premier League,3
+2026-09-05,14:00,Arsenal,Chelsea,Premier League,3
+2026-09-05,14:00,Newcastle,Bournemouth,Premier League,3
+2026-09-12,14:00,Crystal Palace,Ipswich,Premier League,4
+2026-09-12,14:00,Liverpool,Fulham,Premier League,4
+2026-09-12,14:00,Aston Villa,Nott'm Forest,Premier League,4
+2026-09-12,14:00,Tottenham,Everton,Premier League,4
+2026-09-12,14:00,Bournemouth,Brentford,Premier League,4
+2026-09-12,14:00,Sunderland,Arsenal,Premier League,4
+2026-09-12,14:00,Coventry City FC,Brighton,Premier League,4
+2026-09-12,14:00,Leeds,Newcastle,Premier League,4
+2026-09-12,14:00,Manchester Utd,Manchester City,Premier League,4
+2026-09-12,14:00,Chelsea,Hull City AFC,Premier League,4
+2026-09-19,14:00,Bournemouth,Liverpool,Premier League,5
+2026-09-19,14:00,Fulham,Manchester Utd,Premier League,5
+2026-09-19,14:00,Everton,Ipswich,Premier League,5
+2026-09-19,14:00,Leeds,Crystal Palace,Premier League,5
+2026-09-19,14:00,Brighton,Arsenal,Premier League,5
+2026-09-19,14:00,Tottenham,Aston Villa,Premier League,5
+2026-09-19,14:00,Newcastle,Hull City AFC,Premier League,5
+2026-09-19,14:00,Nott'm Forest,Coventry City FC,Premier League,5
+2026-09-19,14:00,Manchester City,Sunderland,Premier League,5
+2026-09-19,14:00,Brentford,Chelsea,Premier League,5
+2026-10-10,14:00,Sunderland,Brighton,Premier League,6
+2026-10-10,14:00,Arsenal,Leeds,Premier League,6
+2026-10-10,14:00,Hull City AFC,Everton,Premier League,6
+2026-10-10,14:00,Chelsea,Bournemouth,Premier League,6
+2026-10-10,14:00,Crystal Palace,Nott'm Forest,Premier League,6
+2026-10-10,14:00,Coventry City FC,Newcastle,Premier League,6
+2026-10-10,14:00,Liverpool,Manchester City,Premier League,6
+2026-10-10,14:00,Ipswich,Fulham,Premier League,6
+2026-10-10,14:00,Manchester Utd,Tottenham,Premier League,6
+2026-10-10,14:00,Aston Villa,Brentford,Premier League,6
+2026-10-17,14:00,Fulham,Hull City AFC,Premier League,7
+2026-10-17,14:00,Everton,Chelsea,Premier League,7
+2026-10-17,14:00,Bournemouth,Sunderland,Premier League,7
+2026-10-17,14:00,Leeds,Manchester Utd,Premier League,7
+2026-10-17,14:00,Tottenham,Coventry City FC,Premier League,7
+2026-10-17,14:00,Newcastle,Aston Villa,Premier League,7
+2026-10-17,14:00,Nott'm Forest,Arsenal,Premier League,7
+2026-10-17,14:00,Brighton,Crystal Palace,Premier League,7
+2026-10-17,14:00,Manchester City,Ipswich,Premier League,7
+2026-10-17,14:00,Brentford,Liverpool,Premier League,7
+2026-10-24,14:00,Liverpool,Brighton,Premier League,8
+2026-10-24,14:00,Crystal Palace,Newcastle,Premier League,8
+2026-10-24,14:00,Aston Villa,Manchester City,Premier League,8
+2026-10-24,14:00,Manchester Utd,Bournemouth,Premier League,8
+2026-10-24,14:00,Arsenal,Everton,Premier League,8
+2026-10-24,14:00,Chelsea,Tottenham,Premier League,8
+2026-10-24,14:00,Coventry City FC,Fulham,Premier League,8
+2026-10-24,14:00,Hull City AFC,Brentford,Premier League,8
+2026-10-24,14:00,Ipswich,Nott'm Forest,Premier League,8
+2026-10-24,14:00,Sunderland,Leeds,Premier League,8
+2026-10-31,15:00,Newcastle,Everton,Premier League,9
+2026-10-31,15:00,Manchester City,Brighton,Premier League,9
+2026-10-31,15:00,Bournemouth,Leeds,Premier League,9
+2026-10-31,15:00,Coventry City FC,Sunderland,Premier League,9
+2026-10-31,15:00,Chelsea,Manchester Utd,Premier League,9
+2026-10-31,15:00,Tottenham,Crystal Palace,Premier League,9
+2026-10-31,15:00,Aston Villa,Fulham,Premier League,9
+2026-10-31,15:00,Hull City AFC,Ipswich,Premier League,9
+2026-10-31,15:00,Brentford,Nott'm Forest,Premier League,9
+2026-10-31,15:00,Liverpool,Arsenal,Premier League,9
+2026-11-07,15:00,Arsenal,Hull City AFC,Premier League,10
+2026-11-07,15:00,Nott'm Forest,Manchester City,Premier League,10
+2026-11-07,15:00,Leeds,Tottenham,Premier League,10
+2026-11-07,15:00,Fulham,Newcastle,Premier League,10
+2026-11-07,15:00,Everton,Coventry City FC,Premier League,10
+2026-11-07,15:00,Crystal Palace,Liverpool,Premier League,10
+2026-11-07,15:00,Sunderland,Chelsea,Premier League,10
+2026-11-07,15:00,Ipswich,Bournemouth,Premier League,10
+2026-11-07,15:00,Brighton,Brentford,Premier League,10
+2026-11-07,15:00,Manchester Utd,Aston Villa,Premier League,10
+2026-11-21,15:00,Chelsea,Leeds,Premier League,11
+2026-11-21,15:00,Manchester City,Fulham,Premier League,11
+2026-11-21,15:00,Aston Villa,Sunderland,Premier League,11
+2026-11-21,15:00,Liverpool,Manchester Utd,Premier League,11
+2026-11-21,15:00,Hull City AFC,Brighton,Premier League,11
+2026-11-21,15:00,Bournemouth,Nott'm Forest,Premier League,11
+2026-11-21,15:00,Tottenham,Ipswich,Premier League,11
+2026-11-21,15:00,Brentford,Everton,Premier League,11
+2026-11-21,15:00,Coventry City FC,Crystal Palace,Premier League,11
+2026-11-21,15:00,Newcastle,Arsenal,Premier League,11
+2026-11-28,15:00,Leeds,Coventry City FC,Premier League,12
+2026-11-28,15:00,Ipswich,Aston Villa,Premier League,12
+2026-11-28,15:00,Arsenal,Manchester City,Premier League,12
+2026-11-28,15:00,Manchester Utd,Brentford,Premier League,12
+2026-11-28,15:00,Everton,Liverpool,Premier League,12
+2026-11-28,15:00,Fulham,Bournemouth,Premier League,12
+2026-11-28,15:00,Nott'm Forest,Chelsea,Premier League,12
+2026-11-28,15:00,Brighton,Newcastle,Premier League,12
+2026-11-28,15:00,Sunderland,Tottenham,Premier League,12
+2026-11-28,15:00,Crystal Palace,Hull City AFC,Premier League,12
+2026-12-02,20:00,Tottenham,Fulham,Premier League,13
+2026-12-02,20:00,Liverpool,Sunderland,Premier League,13
+2026-12-02,20:00,Hull City AFC,Nott'm Forest,Premier League,13
+2026-12-02,20:00,Chelsea,Crystal Palace,Premier League,13
+2026-12-02,20:00,Aston Villa,Everton,Premier League,13
+2026-12-02,20:00,Brentford,Arsenal,Premier League,13
+2026-12-02,20:00,Coventry City FC,Ipswich,Premier League,13
+2026-12-02,20:00,Manchester City,Leeds,Premier League,13
+2026-12-02,20:00,Newcastle,Manchester Utd,Premier League,13
+2026-12-02,20:00,Bournemouth,Brighton,Premier League,13
+2026-12-05,15:00,Tottenham,Arsenal,Premier League,14
+2026-12-05,15:00,Manchester Utd,Coventry City FC,Premier League,14
+2026-12-05,15:00,Leeds,Ipswich,Premier League,14
+2026-12-05,15:00,Newcastle,Sunderland,Premier League,14
+2026-12-05,15:00,Chelsea,Liverpool,Premier League,14
+2026-12-05,15:00,Brentford,Manchester City,Premier League,14
+2026-12-05,15:00,Bournemouth,Hull City AFC,Premier League,14
+2026-12-05,15:00,Aston Villa,Crystal Palace,Premier League,14
+2026-12-05,15:00,Nott'm Forest,Brighton,Premier League,14
+2026-12-05,15:00,Everton,Fulham,Premier League,14
+2026-12-12,15:00,Sunderland,Nott'm Forest,Premier League,15
+2026-12-12,15:00,Crystal Palace,Manchester Utd,Premier League,15
+2026-12-12,15:00,Hull City AFC,Tottenham,Premier League,15
+2026-12-12,15:00,Brighton,Everton,Premier League,15
+2026-12-12,15:00,Ipswich,Newcastle,Premier League,15
+2026-12-12,15:00,Coventry City FC,Aston Villa,Premier League,15
+2026-12-12,15:00,Arsenal,Bournemouth,Premier League,15
+2026-12-12,15:00,Manchester City,Chelsea,Premier League,15
+2026-12-12,15:00,Liverpool,Leeds,Premier League,15
+2026-12-12,15:00,Fulham,Brentford,Premier League,15
+2026-12-19,15:00,Leeds,Fulham,Premier League,16
+2026-12-19,15:00,Brighton,Ipswich,Premier League,16
+2026-12-19,15:00,Nott'm Forest,Everton,Premier League,16
+2026-12-19,15:00,Brentford,Newcastle,Premier League,16
+2026-12-19,15:00,Manchester City,Hull City AFC,Premier League,16
+2026-12-19,15:00,Sunderland,Crystal Palace,Premier League,16
+2026-12-19,15:00,Bournemouth,Coventry City FC,Premier League,16
+2026-12-19,15:00,Arsenal,Manchester Utd,Premier League,16
+2026-12-19,15:00,Liverpool,Tottenham,Premier League,16
+2026-12-19,15:00,Chelsea,Aston Villa,Premier League,16
+2026-12-26,15:00,Aston Villa,Leeds,Premier League,17
+2026-12-26,15:00,Manchester Utd,Nott'm Forest,Premier League,17
+2026-12-26,15:00,Crystal Palace,Arsenal,Premier League,17
+2026-12-26,15:00,Everton,Sunderland,Premier League,17
+2026-12-26,15:00,Coventry City FC,Chelsea,Premier League,17
+2026-12-26,15:00,Newcastle,Manchester City,Premier League,17
+2026-12-26,15:00,Fulham,Brighton,Premier League,17
+2026-12-26,15:00,Tottenham,Bournemouth,Premier League,17
+2026-12-26,15:00,Hull City AFC,Liverpool,Premier League,17
+2026-12-26,15:00,Ipswich,Brentford,Premier League,17
+2026-12-30,20:00,Fulham,Arsenal,Premier League,18
+2026-12-30,20:00,Coventry City FC,Brentford,Premier League,18
+2026-12-30,20:00,Aston Villa,Liverpool,Premier League,18
+2026-12-30,20:00,Newcastle,Nott'm Forest,Premier League,18
+2026-12-30,20:00,Hull City AFC,Leeds,Premier League,18
+2026-12-30,20:00,Manchester Utd,Sunderland,Premier League,18
+2026-12-30,20:00,Ipswich,Chelsea,Premier League,18
+2026-12-30,20:00,Tottenham,Brighton,Premier League,18
+2026-12-30,20:00,Everton,Manchester City,Premier League,18
+2026-12-30,20:00,Crystal Palace,Bournemouth,Premier League,18
+2027-01-02,12:00,Bournemouth,Aston Villa,Premier League,19
+2027-01-02,12:00,Brentford,Crystal Palace,Premier League,19
+2027-01-02,12:00,Leeds,Everton,Premier League,19
+2027-01-02,12:00,Arsenal,Ipswich,Premier League,19
+2027-01-02,12:00,Sunderland,Hull City AFC,Premier League,19
+2027-01-02,12:00,Liverpool,Coventry City FC,Premier League,19
+2027-01-02,12:00,Chelsea,Newcastle,Premier League,19
+2027-01-02,12:00,Nott'm Forest,Fulham,Premier League,19
+2027-01-02,12:00,Brighton,Manchester Utd,Premier League,19
+2027-01-02,12:00,Manchester City,Tottenham,Premier League,19
+2027-01-06,12:00,Arsenal,Brentford,Premier League,20
+2027-01-06,12:00,Leeds,Manchester City,Premier League,20
+2027-01-06,12:00,Manchester Utd,Newcastle,Premier League,20
+2027-01-06,12:00,Brighton,Bournemouth,Premier League,20
+2027-01-06,12:00,Nott'm Forest,Hull City AFC,Premier League,20
+2027-01-06,12:00,Fulham,Tottenham,Premier League,20
+2027-01-06,12:00,Everton,Aston Villa,Premier League,20
+2027-01-06,12:00,Sunderland,Liverpool,Premier League,20
+2027-01-06,12:00,Crystal Palace,Chelsea,Premier League,20
+2027-01-06,12:00,Ipswich,Coventry City FC,Premier League,20
+2027-01-16,12:00,Bournemouth,Ipswich,Premier League,21
+2027-01-16,12:00,Manchester City,Nott'm Forest,Premier League,21
+2027-01-16,12:00,Chelsea,Sunderland,Premier League,21
+2027-01-16,12:00,Brentford,Brighton,Premier League,21
+2027-01-16,12:00,Aston Villa,Manchester Utd,Premier League,21
+2027-01-16,12:00,Tottenham,Leeds,Premier League,21
+2027-01-16,12:00,Coventry City FC,Everton,Premier League,21
+2027-01-16,12:00,Liverpool,Crystal Palace,Premier League,21
+2027-01-16,12:00,Hull City AFC,Arsenal,Premier League,21
+2027-01-16,12:00,Newcastle,Fulham,Premier League,21
+2027-01-23,12:00,Ipswich,Hull City AFC,Premier League,22
+2027-01-23,12:00,Everton,Brentford,Premier League,22
+2027-01-23,12:00,Sunderland,Coventry City FC,Premier League,22
+2027-01-23,12:00,Nott'm Forest,Bournemouth,Premier League,22
+2027-01-23,12:00,Arsenal,Newcastle,Premier League,22
+2027-01-23,12:00,Leeds,Chelsea,Premier League,22
+2027-01-23,12:00,Fulham,Aston Villa,Premier League,22
+2027-01-23,12:00,Manchester Utd,Liverpool,Premier League,22
+2027-01-23,12:00,Brighton,Manchester City,Premier League,22
+2027-01-23,12:00,Crystal Palace,Tottenham,Premier League,22
+2027-01-30,12:00,Tottenham,Sunderland,Premier League,23
+2027-01-30,12:00,Brentford,Manchester Utd,Premier League,23
+2027-01-30,12:00,Newcastle,Brighton,Premier League,23
+2027-01-30,12:00,Hull City AFC,Crystal Palace,Premier League,23
+2027-01-30,12:00,Coventry City FC,Leeds,Premier League,23
+2027-01-30,12:00,Bournemouth,Fulham,Premier League,23
+2027-01-30,12:00,Chelsea,Nott'm Forest,Premier League,23
+2027-01-30,12:00,Liverpool,Everton,Premier League,23
+2027-01-30,12:00,Manchester City,Arsenal,Premier League,23
+2027-01-30,12:00,Aston Villa,Ipswich,Premier League,23
+2027-02-06,12:00,Arsenal,Liverpool,Premier League,24
+2027-02-06,12:00,Brighton,Hull City AFC,Premier League,24
+2027-02-06,12:00,Sunderland,Aston Villa,Premier League,24
+2027-02-06,12:00,Crystal Palace,Coventry City FC,Premier League,24
+2027-02-06,12:00,Ipswich,Tottenham,Premier League,24
+2027-02-06,12:00,Everton,Newcastle,Premier League,24
+2027-02-06,12:00,Fulham,Manchester City,Premier League,24
+2027-02-06,12:00,Leeds,Bournemouth,Premier League,24
+2027-02-06,12:00,Manchester Utd,Chelsea,Premier League,24
+2027-02-06,12:00,Nott'm Forest,Brentford,Premier League,24
+2027-02-10,12:00,Everton,Leeds,Premier League,25
+2027-02-10,12:00,Coventry City FC,Liverpool,Premier League,25
+2027-02-10,12:00,Hull City AFC,Sunderland,Premier League,25
+2027-02-10,12:00,Aston Villa,Bournemouth,Premier League,25
+2027-02-10,12:00,Crystal Palace,Brentford,Premier League,25
+2027-02-10,12:00,Newcastle,Chelsea,Premier League,25
+2027-02-10,12:00,Fulham,Nott'm Forest,Premier League,25
+2027-02-10,12:00,Tottenham,Manchester City,Premier League,25
+2027-02-10,12:00,Manchester Utd,Brighton,Premier League,25
+2027-02-10,12:00,Ipswich,Arsenal,Premier League,25
+2027-02-20,12:00,Manchester City,Newcastle,Premier League,26
+2027-02-20,12:00,Bournemouth,Crystal Palace,Premier League,26
+2027-02-20,12:00,Brentford,Coventry City FC,Premier League,26
+2027-02-20,12:00,Chelsea,Ipswich,Premier League,26
+2027-02-20,12:00,Liverpool,Hull City AFC,Premier League,26
+2027-02-20,12:00,Arsenal,Fulham,Premier League,26
+2027-02-20,12:00,Nott'm Forest,Manchester Utd,Premier League,26
+2027-02-20,12:00,Brighton,Tottenham,Premier League,26
+2027-02-20,12:00,Sunderland,Everton,Premier League,26
+2027-02-20,12:00,Leeds,Aston Villa,Premier League,26
+2027-02-27,12:00,Crystal Palace,Sunderland,Premier League,27
+2027-02-27,12:00,Manchester Utd,Arsenal,Premier League,27
+2027-02-27,12:00,Ipswich,Brighton,Premier League,27
+2027-02-27,12:00,Coventry City FC,Bournemouth,Premier League,27
+2027-02-27,12:00,Everton,Nott'm Forest,Premier League,27
+2027-02-27,12:00,Fulham,Leeds,Premier League,27
+2027-02-27,12:00,Aston Villa,Chelsea,Premier League,27
+2027-02-27,12:00,Tottenham,Liverpool,Premier League,27
+2027-02-27,12:00,Newcastle,Brentford,Premier League,27
+2027-02-27,12:00,Hull City AFC,Manchester City,Premier League,27
+2027-03-03,12:00,Nott'm Forest,Newcastle,Premier League,28
+2027-03-03,12:00,Bournemouth,Tottenham,Premier League,28
+2027-03-03,12:00,Manchester City,Everton,Premier League,28
+2027-03-03,12:00,Arsenal,Crystal Palace,Premier League,28
+2027-03-03,12:00,Leeds,Hull City AFC,Premier League,28
+2027-03-03,12:00,Sunderland,Manchester Utd,Premier League,28
+2027-03-03,12:00,Liverpool,Aston Villa,Premier League,28
+2027-03-03,12:00,Brighton,Fulham,Premier League,28
+2027-03-03,12:00,Brentford,Ipswich,Premier League,28
+2027-03-03,12:00,Chelsea,Coventry City FC,Premier League,28
+2027-03-13,12:00,Leeds,Brighton,Premier League,29
+2027-03-13,12:00,Tottenham,Nott'm Forest,Premier League,29
+2027-03-13,12:00,Crystal Palace,Fulham,Premier League,29
+2027-03-13,12:00,Liverpool,Ipswich,Premier League,29
+2027-03-13,12:00,Coventry City FC,Manchester City,Premier League,29
+2027-03-13,12:00,Bournemouth,Newcastle,Premier League,29
+2027-03-13,12:00,Chelsea,Arsenal,Premier League,29
+2027-03-13,12:00,Aston Villa,Hull City AFC,Premier League,29
+2027-03-13,12:00,Manchester Utd,Everton,Premier League,29
+2027-03-13,12:00,Sunderland,Brentford,Premier League,29
+2027-03-20,12:00,Brentford,Bournemouth,Premier League,30
+2027-03-20,12:00,Brighton,Coventry City FC,Premier League,30
+2027-03-20,12:00,Manchester City,Manchester Utd,Premier League,30
+2027-03-20,12:00,Ipswich,Crystal Palace,Premier League,30
+2027-03-20,12:00,Arsenal,Sunderland,Premier League,30
+2027-03-20,12:00,Fulham,Liverpool,Premier League,30
+2027-03-20,12:00,Hull City AFC,Chelsea,Premier League,30
+2027-03-20,12:00,Nott'm Forest,Aston Villa,Premier League,30
+2027-03-20,12:00,Everton,Tottenham,Premier League,30
+2027-03-20,12:00,Newcastle,Leeds,Premier League,30
+2027-04-10,12:00,Sunderland,Ipswich,Premier League,31
+2027-04-10,12:00,Leeds,Nott'm Forest,Premier League,31
+2027-04-10,12:00,Manchester Utd,Hull City AFC,Premier League,31
+2027-04-10,12:00,Chelsea,Fulham,Premier League,31
+2027-04-10,12:00,Liverpool,Newcastle,Premier League,31
+2027-04-10,12:00,Coventry City FC,Arsenal,Premier League,31
+2027-04-10,12:00,Bournemouth,Manchester City,Premier League,31
+2027-04-10,12:00,Crystal Palace,Everton,Premier League,31
+2027-04-10,12:00,Tottenham,Brentford,Premier League,31
+2027-04-10,12:00,Aston Villa,Brighton,Premier League,31
+2027-04-17,12:00,Brighton,Chelsea,Premier League,32
+2027-04-17,12:00,Fulham,Sunderland,Premier League,32
+2027-04-17,12:00,Brentford,Leeds,Premier League,32
+2027-04-17,12:00,Nott'm Forest,Liverpool,Premier League,32
+2027-04-17,12:00,Hull City AFC,Coventry City FC,Premier League,32
+2027-04-17,12:00,Arsenal,Aston Villa,Premier League,32
+2027-04-17,12:00,Ipswich,Manchester Utd,Premier League,32
+2027-04-17,12:00,Manchester City,Crystal Palace,Premier League,32
+2027-04-17,12:00,Newcastle,Tottenham,Premier League,32
+2027-04-17,12:00,Everton,Bournemouth,Premier League,32
+2027-04-24,12:00,Chelsea,Manchester City,Premier League,33
+2027-04-24,12:00,Bournemouth,Arsenal,Premier League,33
+2027-04-24,12:00,Tottenham,Hull City AFC,Premier League,33
+2027-04-24,12:00,Manchester Utd,Crystal Palace,Premier League,33
+2027-04-24,12:00,Everton,Brighton,Premier League,33
+2027-04-24,12:00,Nott'm Forest,Sunderland,Premier League,33
+2027-04-24,12:00,Newcastle,Ipswich,Premier League,33
+2027-04-24,12:00,Aston Villa,Coventry City FC,Premier League,33
+2027-04-24,12:00,Brentford,Fulham,Premier League,33
+2027-04-24,12:00,Leeds,Liverpool,Premier League,33
+2027-05-01,12:00,Sunderland,Newcastle,Premier League,34
+2027-05-01,12:00,Brighton,Nott'm Forest,Premier League,34
+2027-05-01,12:00,Coventry City FC,Manchester Utd,Premier League,34
+2027-05-01,12:00,Hull City AFC,Bournemouth,Premier League,34
+2027-05-01,12:00,Manchester City,Brentford,Premier League,34
+2027-05-01,12:00,Fulham,Everton,Premier League,34
+2027-05-01,12:00,Liverpool,Chelsea,Premier League,34
+2027-05-01,12:00,Arsenal,Tottenham,Premier League,34
+2027-05-01,12:00,Crystal Palace,Aston Villa,Premier League,34
+2027-05-01,12:00,Ipswich,Leeds,Premier League,34
+2027-05-08,12:00,Manchester City,Liverpool,Premier League,35
+2027-05-08,12:00,Leeds,Arsenal,Premier League,35
+2027-05-08,12:00,Fulham,Ipswich,Premier League,35
+2027-05-08,12:00,Nott'm Forest,Crystal Palace,Premier League,35
+2027-05-08,12:00,Brentford,Aston Villa,Premier League,35
+2027-05-08,12:00,Newcastle,Coventry City FC,Premier League,35
+2027-05-08,12:00,Brighton,Sunderland,Premier League,35
+2027-05-08,12:00,Tottenham,Chelsea,Premier League,35
+2027-05-08,12:00,Everton,Hull City AFC,Premier League,35
+2027-05-08,12:00,Bournemouth,Manchester Utd,Premier League,35
+2027-05-15,12:00,Hull City AFC,Fulham,Premier League,36
+2027-05-15,12:00,Manchester Utd,Leeds,Premier League,36
+2027-05-15,12:00,Crystal Palace,Brighton,Premier League,36
+2027-05-15,12:00,Aston Villa,Newcastle,Premier League,36
+2027-05-15,12:00,Chelsea,Everton,Premier League,36
+2027-05-15,12:00,Coventry City FC,Tottenham,Premier League,36
+2027-05-15,12:00,Sunderland,Bournemouth,Premier League,36
+2027-05-15,12:00,Liverpool,Brentford,Premier League,36
+2027-05-15,12:00,Ipswich,Manchester City,Premier League,36
+2027-05-15,12:00,Arsenal,Nott'm Forest,Premier League,36
+2027-05-23,12:00,Brentford,Hull City AFC,Premier League,37
+2027-05-23,12:00,Newcastle,Crystal Palace,Premier League,37
+2027-05-23,12:00,Tottenham,Manchester Utd,Premier League,37
+2027-05-23,12:00,Leeds,Sunderland,Premier League,37
+2027-05-23,12:00,Brighton,Liverpool,Premier League,37
+2027-05-23,12:00,Nott'm Forest,Ipswich,Premier League,37
+2027-05-23,12:00,Bournemouth,Chelsea,Premier League,37
+2027-05-23,12:00,Fulham,Coventry City FC,Premier League,37
+2027-05-23,12:00,Everton,Arsenal,Premier League,37
+2027-05-23,12:00,Manchester City,Aston Villa,Premier League,37
+2027-05-30,12:00,Ipswich,Everton,Premier League,38
+2027-05-30,12:00,Arsenal,Brighton,Premier League,38
+2027-05-30,12:00,Liverpool,Bournemouth,Premier League,38
+2027-05-30,12:00,Coventry City FC,Nott'm Forest,Premier League,38
+2027-05-30,12:00,Aston Villa,Tottenham,Premier League,38
+2027-05-30,12:00,Hull City AFC,Newcastle,Premier League,38
+2027-05-30,12:00,Manchester Utd,Fulham,Premier League,38
+2027-05-30,12:00,Sunderland,Manchester City,Premier League,38
+2027-05-30,12:00,Chelsea,Brentford,Premier League,38
+2027-05-30,12:00,Crystal Palace,Leeds,Premier League,38
+2026-08-23,16:30,Udinese,Como,Serie A,1
+2026-08-23,16:30,Bologna,Lazio,Serie A,1
+2026-08-23,16:30,Genoa,Napoli,Serie A,1
+2026-08-23,16:30,Milan,Monza,Serie A,1
+2026-08-23,16:30,Atalanta,Sassuolo,Serie A,1
+2026-08-23,16:30,Torino,Milan,Serie A,1
+2026-08-23,16:30,Frosinone,Juventus,Serie A,1
+2026-08-23,16:30,Parma,Cagliari,Serie A,1
+2026-08-23,16:30,Venezia,Lecce,Serie A,1
+2026-08-23,16:30,Roma,Fiorentina,Serie A,1
+2026-08-30,16:30,Juventus,Parma,Serie A,2
+2026-08-30,16:30,Sassuolo,Torino,Serie A,2
+2026-08-30,16:30,Lecce,Roma,Serie A,2
+2026-08-30,16:30,Lazio,Genoa,Serie A,2
+2026-08-30,16:30,Cagliari,Milan,Serie A,2
+2026-08-30,16:30,Monza,Udinese,Serie A,2
+2026-08-30,16:30,Milan,Venezia,Serie A,2
+2026-08-30,16:30,Napoli,Como,Serie A,2
+2026-08-30,16:30,Fiorentina,Frosinone,Serie A,2
+2026-08-30,16:30,Atalanta,Bologna,Serie A,2
+2026-09-06,16:30,Genoa,Como,Serie A,3
+2026-09-06,16:30,Cagliari,Lecce,Serie A,3
+2026-09-06,16:30,Roma,Atalanta,Serie A,3
+2026-09-06,16:30,Parma,Monza,Serie A,3
+2026-09-06,16:30,Bologna,Sassuolo,Serie A,3
+2026-09-06,16:30,Milan,Napoli,Serie A,3
+2026-09-06,16:30,Frosinone,Venezia,Serie A,3
+2026-09-06,16:30,Fiorentina,Torino,Serie A,3
+2026-09-06,16:30,Udinese,Lazio,Serie A,3
+2026-09-06,16:30,Juventus,Milan,Serie A,3
+2026-09-13,16:30,Napoli,Bologna,Serie A,4
+2026-09-13,16:30,Lazio,Milan,Serie A,4
+2026-09-13,16:30,Milan,Udinese,Serie A,4
+2026-09-13,16:30,Como,Parma,Serie A,4
+2026-09-13,16:30,Torino,Roma,Serie A,4
+2026-09-13,16:30,Genoa,Frosinone,Serie A,4
+2026-09-13,16:30,Lecce,Monza,Serie A,4
+2026-09-13,16:30,Venezia,Fiorentina,Serie A,4
+2026-09-13,16:30,Atalanta,Cagliari,Serie A,4
+2026-09-13,16:30,Sassuolo,Juventus,Serie A,4
+2026-09-20,16:30,Frosinone,Como,Serie A,5
+2026-09-20,16:30,Roma,Milan,Serie A,5
+2026-09-20,16:30,Venezia,Lazio,Serie A,5
+2026-09-20,16:30,Juventus,Atalanta,Serie A,5
+2026-09-20,16:30,Monza,Sassuolo,Serie A,5
+2026-09-20,16:30,Milan,Lecce,Serie A,5
+2026-09-20,16:30,Bologna,Torino,Serie A,5
+2026-09-20,16:30,Udinese,Cagliari,Serie A,5
+2026-09-20,16:30,Parma,Genoa,Serie A,5
+2026-09-20,16:30,Fiorentina,Napoli,Serie A,5
+2026-10-11,16:30,Atalanta,Venezia,Serie A,6
+2026-10-11,16:30,Sassuolo,Milan,Serie A,6
+2026-10-11,16:30,Lecce,Bologna,Serie A,6
+2026-10-11,16:30,Milan,Parma,Serie A,6
+2026-10-11,16:30,Lazio,Monza,Serie A,6
+2026-10-11,16:30,Cagliari,Juventus,Serie A,6
+2026-10-11,16:30,Como,Roma,Serie A,6
+2026-10-11,16:30,Napoli,Frosinone,Serie A,6
+2026-10-11,16:30,Torino,Udinese,Serie A,6
+2026-10-11,16:30,Genoa,Fiorentina,Serie A,6
+2026-10-18,16:30,Milan,Atalanta,Serie A,7
+2026-10-18,16:30,Juventus,Lazio,Serie A,7
+2026-10-18,16:30,Bologna,Milan,Serie A,7
+2026-10-18,16:30,Roma,Genoa,Serie A,7
+2026-10-18,16:30,Frosinone,Sassuolo,Serie A,7
+2026-10-18,16:30,Udinese,Lecce,Serie A,7
+2026-10-18,16:30,Venezia,Napoli,Serie A,7
+2026-10-18,16:30,Monza,Cagliari,Serie A,7
+2026-10-18,16:30,Fiorentina,Como,Serie A,7
+2026-10-18,16:30,Parma,Torino,Serie A,7
+2026-10-25,17:30,Udinese,Milan,Serie A,8
+2026-10-25,17:30,Cagliari,Bologna,Serie A,8
+2026-10-25,17:30,Como,Sassuolo,Serie A,8
+2026-10-25,17:30,Atalanta,Frosinone,Serie A,8
+2026-10-25,17:30,Milan,Fiorentina,Serie A,8
+2026-10-25,17:30,Napoli,Roma,Serie A,8
+2026-10-25,17:30,Lazio,Parma,Serie A,8
+2026-10-25,17:30,Lecce,Juventus,Serie A,8
+2026-10-25,17:30,Torino,Monza,Serie A,8
+2026-10-25,17:30,Genoa,Venezia,Serie A,8
+2026-10-28,17:30,Milan,Bologna,Serie A,9
+2026-10-28,17:30,Venezia,Milan,Serie A,9
+2026-10-28,17:30,Fiorentina,Atalanta,Serie A,9
+2026-10-28,17:30,Genoa,Juventus,Serie A,9
+2026-10-28,17:30,Parma,Udinese,Serie A,9
+2026-10-28,17:30,Monza,Napoli,Serie A,9
+2026-10-28,17:30,Roma,Cagliari,Serie A,9
+2026-10-28,17:30,Sassuolo,Lazio,Serie A,9
+2026-10-28,17:30,Torino,Como,Serie A,9
+2026-10-28,17:30,Frosinone,Lecce,Serie A,9
+2026-11-01,17:30,Bologna,Monza,Serie A,10
+2026-11-01,17:30,Lecce,Genoa,Serie A,10
+2026-11-01,17:30,Sassuolo,Fiorentina,Serie A,10
+2026-11-01,17:30,Udinese,Roma,Serie A,10
+2026-11-01,17:30,Como,Venezia,Serie A,10
+2026-11-01,17:30,Frosinone,Torino,Serie A,10
+2026-11-01,17:30,Atalanta,Parma,Serie A,10
+2026-11-01,17:30,Lazio,Cagliari,Serie A,10
+2026-11-01,17:30,Juventus,Napoli,Serie A,10
+2026-11-01,17:30,Milan,Milan,Serie A,10
+2026-11-08,17:30,Fiorentina,Juventus,Serie A,11
+2026-11-08,17:30,Milan,Como,Serie A,11
+2026-11-08,17:30,Roma,Sassuolo,Serie A,11
+2026-11-08,17:30,Torino,Lecce,Serie A,11
+2026-11-08,17:30,Napoli,Lazio,Serie A,11
+2026-11-08,17:30,Cagliari,Frosinone,Serie A,11
+2026-11-08,17:30,Parma,Bologna,Serie A,11
+2026-11-08,17:30,Genoa,Milan,Serie A,11
+2026-11-08,17:30,Venezia,Udinese,Serie A,11
+2026-11-08,17:30,Monza,Atalanta,Serie A,11
+2026-11-22,17:30,Monza,Fiorentina,Serie A,12
+2026-11-22,17:30,Atalanta,Milan,Serie A,12
+2026-11-22,17:30,Juventus,Venezia,Serie A,12
+2026-11-22,17:30,Bologna,Udinese,Serie A,12
+2026-11-22,17:30,Milan,Frosinone,Serie A,12
+2026-11-22,17:30,Sassuolo,Genoa,Serie A,12
+2026-11-22,17:30,Como,Cagliari,Serie A,12
+2026-11-22,17:30,Parma,Roma,Serie A,12
+2026-11-22,17:30,Napoli,Torino,Serie A,12
+2026-11-22,17:30,Lazio,Lecce,Serie A,12
+2026-11-29,17:30,Sassuolo,Napoli,Serie A,13
+2026-11-29,17:30,Cagliari,Milan,Serie A,13
+2026-11-29,17:30,Como,Juventus,Serie A,13
+2026-11-29,17:30,Roma,Monza,Serie A,13
+2026-11-29,17:30,Frosinone,Parma,Serie A,13
+2026-11-29,17:30,Torino,Lazio,Serie A,13
+2026-11-29,17:30,Venezia,Bologna,Serie A,13
+2026-11-29,17:30,Lecce,Atalanta,Serie A,13
+2026-11-29,17:30,Udinese,Fiorentina,Serie A,13
+2026-11-29,17:30,Milan,Genoa,Serie A,13
+2026-12-06,17:30,Genoa,Torino,Serie A,14
+2026-12-06,17:30,Juventus,Udinese,Serie A,14
+2026-12-06,17:30,Frosinone,Milan,Serie A,14
+2026-12-06,17:30,Bologna,Roma,Serie A,14
+2026-12-06,17:30,Fiorentina,Cagliari,Serie A,14
+2026-12-06,17:30,Lazio,Atalanta,Serie A,14
+2026-12-06,17:30,Milan,Parma,Serie A,14
+2026-12-06,17:30,Venezia,Sassuolo,Serie A,14
+2026-12-06,17:30,Monza,Como,Serie A,14
+2026-12-06,17:30,Napoli,Lecce,Serie A,14
+2026-12-13,17:30,Napoli,Milan,Serie A,15
+2026-12-13,17:30,Como,Bologna,Serie A,15
+2026-12-13,17:30,Udinese,Frosinone,Serie A,15
+2026-12-13,17:30,Lecce,Sassuolo,Serie A,15
+2026-12-13,17:30,Parma,Fiorentina,Serie A,15
+2026-12-13,17:30,Cagliari,Venezia,Serie A,15
+2026-12-13,17:30,Milan,Torino,Serie A,15
+2026-12-13,17:30,Juventus,Monza,Serie A,15
+2026-12-13,17:30,Atalanta,Genoa,Serie A,15
+2026-12-13,17:30,Lazio,Roma,Serie A,15
+2026-12-20,17:30,Milan,Como,Serie A,16
+2026-12-20,17:30,Sassuolo,Parma,Serie A,16
+2026-12-20,17:30,Roma,Juventus,Serie A,16
+2026-12-20,17:30,Frosinone,Lazio,Serie A,16
+2026-12-20,17:30,Atalanta,Napoli,Serie A,16
+2026-12-20,17:30,Fiorentina,Bologna,Serie A,16
+2026-12-20,17:30,Genoa,Udinese,Serie A,16
+2026-12-20,17:30,Lecce,Milan,Serie A,16
+2026-12-20,17:30,Torino,Cagliari,Serie A,16
+2026-12-20,17:30,Venezia,Monza,Serie A,16
+2027-01-03,12:00,Udinese,Atalanta,Serie A,17
+2027-01-03,12:00,Como,Lecce,Serie A,17
+2027-01-03,12:00,Roma,Frosinone,Serie A,17
+2027-01-03,12:00,Parma,Napoli,Serie A,17
+2027-01-03,12:00,Cagliari,Genoa,Serie A,17
+2027-01-03,12:00,Torino,Venezia,Serie A,17
+2027-01-03,12:00,Monza,Milan,Serie A,17
+2027-01-03,12:00,Milan,Sassuolo,Serie A,17
+2027-01-03,12:00,Bologna,Juventus,Serie A,17
+2027-01-03,12:00,Fiorentina,Lazio,Serie A,17
+2027-01-06,12:00,Frosinone,Bologna,Serie A,18
+2027-01-06,12:00,Sassuolo,Udinese,Serie A,18
+2027-01-06,12:00,Genoa,Monza,Serie A,18
+2027-01-06,12:00,Venezia,Roma,Serie A,18
+2027-01-06,12:00,Napoli,Cagliari,Serie A,18
+2027-01-06,12:00,Milan,Fiorentina,Serie A,18
+2027-01-06,12:00,Juventus,Torino,Serie A,18
+2027-01-06,12:00,Atalanta,Como,Serie A,18
+2027-01-06,12:00,Lazio,Milan,Serie A,18
+2027-01-06,12:00,Lecce,Parma,Serie A,18
+2027-01-10,12:00,Fiorentina,Lecce,Serie A,19
+2027-01-10,12:00,Udinese,Napoli,Serie A,19
+2027-01-10,12:00,Torino,Atalanta,Serie A,19
+2027-01-10,12:00,Monza,Frosinone,Serie A,19
+2027-01-10,12:00,Milan,Juventus,Serie A,19
+2027-01-10,12:00,Parma,Venezia,Serie A,19
+2027-01-10,12:00,Bologna,Genoa,Serie A,19
+2027-01-10,12:00,Cagliari,Sassuolo,Serie A,19
+2027-01-10,12:00,Como,Lazio,Serie A,19
+2027-01-10,12:00,Roma,Milan,Serie A,19
+2027-01-17,12:00,Milan,Torino,Serie A,20
+2027-01-17,12:00,Parma,Milan,Serie A,20
+2027-01-17,12:00,Juventus,Genoa,Serie A,20
+2027-01-17,12:00,Lecce,Udinese,Serie A,20
+2027-01-17,12:00,Cagliari,Como,Serie A,20
+2027-01-17,12:00,Sassuolo,Monza,Serie A,20
+2027-01-17,12:00,Napoli,Fiorentina,Serie A,20
+2027-01-17,12:00,Lazio,Bologna,Serie A,20
+2027-01-17,12:00,Venezia,Frosinone,Serie A,20
+2027-01-17,12:00,Atalanta,Roma,Serie A,20
+2027-01-24,12:00,Lecce,Torino,Serie A,21
+2027-01-24,12:00,Juventus,Cagliari,Serie A,21
+2027-01-24,12:00,Milan,Venezia,Serie A,21
+2027-01-24,12:00,Fiorentina,Sassuolo,Serie A,21
+2027-01-24,12:00,Frosinone,Milan,Serie A,21
+2027-01-24,12:00,Roma,Udinese,Serie A,21
+2027-01-24,12:00,Bologna,Atalanta,Serie A,21
+2027-01-24,12:00,Genoa,Parma,Serie A,21
+2027-01-24,12:00,Como,Napoli,Serie A,21
+2027-01-24,12:00,Monza,Lazio,Serie A,21
+2027-01-31,12:00,Milan,Juventus,Serie A,22
+2027-01-31,12:00,Monza,Roma,Serie A,22
+2027-01-31,12:00,Torino,Frosinone,Serie A,22
+2027-01-31,12:00,Udinese,Bologna,Serie A,22
+2027-01-31,12:00,Sassuolo,Como,Serie A,22
+2027-01-31,12:00,Genoa,Lecce,Serie A,22
+2027-01-31,12:00,Cagliari,Parma,Serie A,22
+2027-01-31,12:00,Atalanta,Fiorentina,Serie A,22
+2027-01-31,12:00,Lazio,Venezia,Serie A,22
+2027-01-31,12:00,Napoli,Milan,Serie A,22
+2027-02-07,12:00,Juventus,Sassuolo,Serie A,23
+2027-02-07,12:00,Milan,Cagliari,Serie A,23
+2027-02-07,12:00,Como,Monza,Serie A,23
+2027-02-07,12:00,Lecce,Napoli,Serie A,23
+2027-02-07,12:00,Venezia,Genoa,Serie A,23
+2027-02-07,12:00,Roma,Torino,Serie A,23
+2027-02-07,12:00,Atalanta,Lazio,Serie A,23
+2027-02-07,12:00,Parma,Frosinone,Serie A,23
+2027-02-07,12:00,Bologna,Milan,Serie A,23
+2027-02-07,12:00,Fiorentina,Udinese,Serie A,23
+2027-02-14,12:00,Napoli,Juventus,Serie A,24
+2027-02-14,12:00,Monza,Lecce,Serie A,24
+2027-02-14,12:00,Torino,Sassuolo,Serie A,24
+2027-02-14,12:00,Frosinone,Fiorentina,Serie A,24
+2027-02-14,12:00,Bologna,Como,Serie A,24
+2027-02-14,12:00,Roma,Parma,Serie A,24
+2027-02-14,12:00,Udinese,Venezia,Serie A,24
+2027-02-14,12:00,Genoa,Atalanta,Serie A,24
+2027-02-14,12:00,Cagliari,Lazio,Serie A,24
+2027-02-14,12:00,Milan,Milan,Serie A,24
+2027-02-21,12:00,Como,Torino,Serie A,25
+2027-02-21,12:00,Atalanta,Monza,Serie A,25
+2027-02-21,12:00,Udinese,Parma,Serie A,25
+2027-02-21,12:00,Juventus,Bologna,Serie A,25
+2027-02-21,12:00,Fiorentina,Milan,Serie A,25
+2027-02-21,12:00,Sassuolo,Roma,Serie A,25
+2027-02-21,12:00,Milan,Genoa,Serie A,25
+2027-02-21,12:00,Venezia,Cagliari,Serie A,25
+2027-02-21,12:00,Lecce,Frosinone,Serie A,25
+2027-02-21,12:00,Lazio,Napoli,Serie A,25
+2027-02-28,12:00,Milan,Atalanta,Serie A,26
+2027-02-28,12:00,Cagliari,Udinese,Serie A,26
+2027-02-28,12:00,Parma,Sassuolo,Serie A,26
+2027-02-28,12:00,Genoa,Lazio,Serie A,26
+2027-02-28,12:00,Roma,Venezia,Serie A,26
+2027-02-28,12:00,Como,Milan,Serie A,26
+2027-02-28,12:00,Torino,Fiorentina,Serie A,26
+2027-02-28,12:00,Bologna,Lecce,Serie A,26
+2027-02-28,12:00,Monza,Juventus,Serie A,26
+2027-02-28,12:00,Frosinone,Napoli,Serie A,26
+2027-03-07,12:00,Udinese,Milan,Serie A,27
+2027-03-07,12:00,Atalanta,Torino,Serie A,27
+2027-03-07,12:00,Napoli,Parma,Serie A,27
+2027-03-07,12:00,Lecce,Como,Serie A,27
+2027-03-07,12:00,Lazio,Frosinone,Serie A,27
+2027-03-07,12:00,Sassuolo,Bologna,Serie A,27
+2027-03-07,12:00,Monza,Genoa,Serie A,27
+2027-03-07,12:00,Fiorentina,Venezia,Serie A,27
+2027-03-07,12:00,Milan,Cagliari,Serie A,27
+2027-03-07,12:00,Juventus,Roma,Serie A,27
+2027-03-14,12:00,Bologna,Napoli,Serie A,28
+2027-03-14,12:00,Cagliari,Fiorentina,Serie A,28
+2027-03-14,12:00,Milan,Sassuolo,Serie A,28
+2027-03-14,12:00,Genoa,Roma,Serie A,28
+2027-03-14,12:00,Parma,Lecce,Serie A,28
+2027-03-14,12:00,Torino,Milan,Serie A,28
+2027-03-14,12:00,Frosinone,Monza,Serie A,28
+2027-03-14,12:00,Como,Udinese,Serie A,28
+2027-03-14,12:00,Lazio,Juventus,Serie A,28
+2027-03-14,12:00,Venezia,Atalanta,Serie A,28
+2027-03-21,12:00,Napoli,Venezia,Serie A,29
+2027-03-21,12:00,Udinese,Torino,Serie A,29
+2027-03-21,12:00,Juventus,Como,Serie A,29
+2027-03-21,12:00,Fiorentina,Genoa,Serie A,29
+2027-03-21,12:00,Parma,Lazio,Serie A,29
+2027-03-21,12:00,Sassuolo,Cagliari,Serie A,29
+2027-03-21,12:00,Monza,Bologna,Serie A,29
+2027-03-21,12:00,Milan,Frosinone,Serie A,29
+2027-03-21,12:00,Roma,Lecce,Serie A,29
+2027-03-21,12:00,Atalanta,Milan,Serie A,29
+2027-04-04,12:00,Lecce,Lazio,Serie A,30
+2027-04-04,12:00,Cagliari,Napoli,Serie A,30
+2027-04-04,12:00,Como,Fiorentina,Serie A,30
+2027-04-04,12:00,Sassuolo,Atalanta,Serie A,30
+2027-04-04,12:00,Roma,Bologna,Serie A,30
+2027-04-04,12:00,Milan,Monza,Serie A,30
+2027-04-04,12:00,Genoa,Milan,Serie A,30
+2027-04-04,12:00,Torino,Juventus,Serie A,30
+2027-04-04,12:00,Venezia,Parma,Serie A,30
+2027-04-04,12:00,Frosinone,Udinese,Serie A,30
+2027-04-11,12:00,Juventus,Lecce,Serie A,31
+2027-04-11,12:00,Napoli,Sassuolo,Serie A,31
+2027-04-11,12:00,Fiorentina,Milan,Serie A,31
+2027-04-11,12:00,Lazio,Torino,Serie A,31
+2027-04-11,12:00,Cagliari,Atalanta,Serie A,31
+2027-04-11,12:00,Parma,Como,Serie A,31
+2027-04-11,12:00,Bologna,Venezia,Serie A,31
+2027-04-11,12:00,Frosinone,Genoa,Serie A,31
+2027-04-11,12:00,Milan,Roma,Serie A,31
+2027-04-11,12:00,Udinese,Monza,Serie A,31
+2027-04-18,12:00,Monza,Milan,Serie A,32
+2027-04-18,12:00,Fiorentina,Parma,Serie A,32
+2027-04-18,12:00,Roma,Lazio,Serie A,32
+2027-04-18,12:00,Como,Frosinone,Serie A,32
+2027-04-18,12:00,Sassuolo,Lecce,Serie A,32
+2027-04-18,12:00,Bologna,Cagliari,Serie A,32
+2027-04-18,12:00,Atalanta,Udinese,Serie A,32
+2027-04-18,12:00,Venezia,Juventus,Serie A,32
+2027-04-18,12:00,Milan,Napoli,Serie A,32
+2027-04-18,12:00,Torino,Genoa,Serie A,32
+2027-04-25,12:00,Frosinone,Roma,Serie A,33
+2027-04-25,12:00,Cagliari,Monza,Serie A,33
+2027-04-25,12:00,Napoli,Udinese,Serie A,33
+2027-04-25,12:00,Parma,Atalanta,Serie A,33
+2027-04-25,12:00,Lazio,Como,Serie A,33
+2027-04-25,12:00,Juventus,Fiorentina,Serie A,33
+2027-04-25,12:00,Genoa,Sassuolo,Serie A,33
+2027-04-25,12:00,Lecce,Milan,Serie A,33
+2027-04-25,12:00,Venezia,Torino,Serie A,33
+2027-04-25,12:00,Milan,Bologna,Serie A,33
+2027-05-02,12:00,Atalanta,Juventus,Serie A,34
+2027-05-02,12:00,Torino,Parma,Serie A,34
+2027-05-02,12:00,Milan,Lazio,Serie A,34
+2027-05-02,12:00,Udinese,Genoa,Serie A,34
+2027-05-02,12:00,Sassuolo,Frosinone,Serie A,34
+2027-05-02,12:00,Bologna,Fiorentina,Serie A,34
+2027-05-02,12:00,Como,Milan,Serie A,34
+2027-05-02,12:00,Monza,Venezia,Serie A,34
+2027-05-02,12:00,Lecce,Cagliari,Serie A,34
+2027-05-02,12:00,Roma,Napoli,Serie A,34
+2027-05-09,12:00,Parma,Milan,Serie A,35
+2027-05-09,12:00,Genoa,Cagliari,Serie A,35
+2027-05-09,12:00,Lazio,Sassuolo,Serie A,35
+2027-05-09,12:00,Napoli,Monza,Serie A,35
+2027-05-09,12:00,Milan,Lecce,Serie A,35
+2027-05-09,12:00,Venezia,Como,Serie A,35
+2027-05-09,12:00,Udinese,Juventus,Serie A,35
+2027-05-09,12:00,Torino,Bologna,Serie A,35
+2027-05-09,12:00,Frosinone,Atalanta,Serie A,35
+2027-05-09,12:00,Fiorentina,Roma,Serie A,35
+2027-05-16,12:00,Napoli,Genoa,Serie A,36
+2027-05-16,12:00,Lecce,Fiorentina,Serie A,36
+2027-05-16,12:00,Lazio,Udinese,Serie A,36
+2027-05-16,12:00,Bologna,Frosinone,Serie A,36
+2027-05-16,12:00,Como,Atalanta,Serie A,36
+2027-05-16,12:00,Juventus,Milan,Serie A,36
+2027-05-16,12:00,Sassuolo,Venezia,Serie A,36
+2027-05-16,12:00,Monza,Parma,Serie A,36
+2027-05-16,12:00,Milan,Roma,Serie A,36
+2027-05-16,12:00,Cagliari,Torino,Serie A,36
+2027-05-23,12:00,Roma,Como,Serie A,37
+2027-05-23,12:00,Parma,Juventus,Serie A,37
+2027-05-23,12:00,Torino,Napoli,Serie A,37
+2027-05-23,12:00,Atalanta,Lecce,Serie A,37
+2027-05-23,12:00,Milan,Lazio,Serie A,37
+2027-05-23,12:00,Udinese,Sassuolo,Serie A,37
+2027-05-23,12:00,Frosinone,Cagliari,Serie A,37
+2027-05-23,12:00,Fiorentina,Monza,Serie A,37
+2027-05-23,12:00,Venezia,Milan,Serie A,37
+2027-05-23,12:00,Genoa,Bologna,Serie A,37
+2027-05-30,12:00,Milan,Udinese,Serie A,38
+2027-05-30,12:00,Juventus,Frosinone,Serie A,38
+2027-05-30,12:00,Monza,Torino,Serie A,38
+2027-05-30,12:00,Sassuolo,Milan,Serie A,38
+2027-05-30,12:00,Cagliari,Roma,Serie A,38
+2027-05-30,12:00,Lazio,Fiorentina,Serie A,38
+2027-05-30,12:00,Como,Genoa,Serie A,38
+2027-05-30,12:00,Napoli,Atalanta,Serie A,38
+2027-05-30,12:00,Lecce,Venezia,Serie A,38
+2027-05-30,12:00,Bologna,Parma,Serie A,38
 2026-08-22,15:00,Le Mans FC,Brest,Ligue 1,1
 2026-08-22,15:00,Lens,Auxerre,Ligue 1,1
 2026-08-22,15:00,Paris SG,Rennes,Ligue 1,1
