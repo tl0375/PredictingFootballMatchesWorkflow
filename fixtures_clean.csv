@@ -379,3 +379,689 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,12:00,Sunderland,Manchester City,Premier League,38
 2027-05-30,12:00,Chelsea,Brentford,Premier League,38
 2027-05-30,12:00,Crystal Palace,Leeds,Premier League,38
+2026-08-23,16:30,Udinese,Como,Serie A,1
+2026-08-23,16:30,Bologna,Lazio,Serie A,1
+2026-08-23,16:30,Genoa,Napoli,Serie A,1
+2026-08-23,16:30,Milan,Monza,Serie A,1
+2026-08-23,16:30,Atalanta,Sassuolo,Serie A,1
+2026-08-23,16:30,Torino,Milan,Serie A,1
+2026-08-23,16:30,Frosinone,Juventus,Serie A,1
+2026-08-23,16:30,Parma,Cagliari,Serie A,1
+2026-08-23,16:30,Venezia,Lecce,Serie A,1
+2026-08-23,16:30,Roma,Fiorentina,Serie A,1
+2026-08-30,16:30,Juventus,Parma,Serie A,2
+2026-08-30,16:30,Sassuolo,Torino,Serie A,2
+2026-08-30,16:30,Lecce,Roma,Serie A,2
+2026-08-30,16:30,Lazio,Genoa,Serie A,2
+2026-08-30,16:30,Cagliari,Milan,Serie A,2
+2026-08-30,16:30,Monza,Udinese,Serie A,2
+2026-08-30,16:30,Milan,Venezia,Serie A,2
+2026-08-30,16:30,Napoli,Como,Serie A,2
+2026-08-30,16:30,Fiorentina,Frosinone,Serie A,2
+2026-08-30,16:30,Atalanta,Bologna,Serie A,2
+2026-09-06,16:30,Genoa,Como,Serie A,3
+2026-09-06,16:30,Cagliari,Lecce,Serie A,3
+2026-09-06,16:30,Roma,Atalanta,Serie A,3
+2026-09-06,16:30,Parma,Monza,Serie A,3
+2026-09-06,16:30,Bologna,Sassuolo,Serie A,3
+2026-09-06,16:30,Milan,Napoli,Serie A,3
+2026-09-06,16:30,Frosinone,Venezia,Serie A,3
+2026-09-06,16:30,Fiorentina,Torino,Serie A,3
+2026-09-06,16:30,Udinese,Lazio,Serie A,3
+2026-09-06,16:30,Juventus,Milan,Serie A,3
+2026-09-13,16:30,Napoli,Bologna,Serie A,4
+2026-09-13,16:30,Lazio,Milan,Serie A,4
+2026-09-13,16:30,Milan,Udinese,Serie A,4
+2026-09-13,16:30,Como,Parma,Serie A,4
+2026-09-13,16:30,Torino,Roma,Serie A,4
+2026-09-13,16:30,Genoa,Frosinone,Serie A,4
+2026-09-13,16:30,Lecce,Monza,Serie A,4
+2026-09-13,16:30,Venezia,Fiorentina,Serie A,4
+2026-09-13,16:30,Atalanta,Cagliari,Serie A,4
+2026-09-13,16:30,Sassuolo,Juventus,Serie A,4
+2026-09-20,16:30,Frosinone,Como,Serie A,5
+2026-09-20,16:30,Roma,Milan,Serie A,5
+2026-09-20,16:30,Venezia,Lazio,Serie A,5
+2026-09-20,16:30,Juventus,Atalanta,Serie A,5
+2026-09-20,16:30,Monza,Sassuolo,Serie A,5
+2026-09-20,16:30,Milan,Lecce,Serie A,5
+2026-09-20,16:30,Bologna,Torino,Serie A,5
+2026-09-20,16:30,Udinese,Cagliari,Serie A,5
+2026-09-20,16:30,Parma,Genoa,Serie A,5
+2026-09-20,16:30,Fiorentina,Napoli,Serie A,5
+2026-10-11,16:30,Atalanta,Venezia,Serie A,6
+2026-10-11,16:30,Sassuolo,Milan,Serie A,6
+2026-10-11,16:30,Lecce,Bologna,Serie A,6
+2026-10-11,16:30,Milan,Parma,Serie A,6
+2026-10-11,16:30,Lazio,Monza,Serie A,6
+2026-10-11,16:30,Cagliari,Juventus,Serie A,6
+2026-10-11,16:30,Como,Roma,Serie A,6
+2026-10-11,16:30,Napoli,Frosinone,Serie A,6
+2026-10-11,16:30,Torino,Udinese,Serie A,6
+2026-10-11,16:30,Genoa,Fiorentina,Serie A,6
+2026-10-18,16:30,Milan,Atalanta,Serie A,7
+2026-10-18,16:30,Juventus,Lazio,Serie A,7
+2026-10-18,16:30,Bologna,Milan,Serie A,7
+2026-10-18,16:30,Roma,Genoa,Serie A,7
+2026-10-18,16:30,Frosinone,Sassuolo,Serie A,7
+2026-10-18,16:30,Udinese,Lecce,Serie A,7
+2026-10-18,16:30,Venezia,Napoli,Serie A,7
+2026-10-18,16:30,Monza,Cagliari,Serie A,7
+2026-10-18,16:30,Fiorentina,Como,Serie A,7
+2026-10-18,16:30,Parma,Torino,Serie A,7
+2026-10-25,17:30,Udinese,Milan,Serie A,8
+2026-10-25,17:30,Cagliari,Bologna,Serie A,8
+2026-10-25,17:30,Como,Sassuolo,Serie A,8
+2026-10-25,17:30,Atalanta,Frosinone,Serie A,8
+2026-10-25,17:30,Milan,Fiorentina,Serie A,8
+2026-10-25,17:30,Napoli,Roma,Serie A,8
+2026-10-25,17:30,Lazio,Parma,Serie A,8
+2026-10-25,17:30,Lecce,Juventus,Serie A,8
+2026-10-25,17:30,Torino,Monza,Serie A,8
+2026-10-25,17:30,Genoa,Venezia,Serie A,8
+2026-10-28,17:30,Milan,Bologna,Serie A,9
+2026-10-28,17:30,Venezia,Milan,Serie A,9
+2026-10-28,17:30,Fiorentina,Atalanta,Serie A,9
+2026-10-28,17:30,Genoa,Juventus,Serie A,9
+2026-10-28,17:30,Parma,Udinese,Serie A,9
+2026-10-28,17:30,Monza,Napoli,Serie A,9
+2026-10-28,17:30,Roma,Cagliari,Serie A,9
+2026-10-28,17:30,Sassuolo,Lazio,Serie A,9
+2026-10-28,17:30,Torino,Como,Serie A,9
+2026-10-28,17:30,Frosinone,Lecce,Serie A,9
+2026-11-01,17:30,Bologna,Monza,Serie A,10
+2026-11-01,17:30,Lecce,Genoa,Serie A,10
+2026-11-01,17:30,Sassuolo,Fiorentina,Serie A,10
+2026-11-01,17:30,Udinese,Roma,Serie A,10
+2026-11-01,17:30,Como,Venezia,Serie A,10
+2026-11-01,17:30,Frosinone,Torino,Serie A,10
+2026-11-01,17:30,Atalanta,Parma,Serie A,10
+2026-11-01,17:30,Lazio,Cagliari,Serie A,10
+2026-11-01,17:30,Juventus,Napoli,Serie A,10
+2026-11-01,17:30,Milan,Milan,Serie A,10
+2026-11-08,17:30,Fiorentina,Juventus,Serie A,11
+2026-11-08,17:30,Milan,Como,Serie A,11
+2026-11-08,17:30,Roma,Sassuolo,Serie A,11
+2026-11-08,17:30,Torino,Lecce,Serie A,11
+2026-11-08,17:30,Napoli,Lazio,Serie A,11
+2026-11-08,17:30,Cagliari,Frosinone,Serie A,11
+2026-11-08,17:30,Parma,Bologna,Serie A,11
+2026-11-08,17:30,Genoa,Milan,Serie A,11
+2026-11-08,17:30,Venezia,Udinese,Serie A,11
+2026-11-08,17:30,Monza,Atalanta,Serie A,11
+2026-11-22,17:30,Monza,Fiorentina,Serie A,12
+2026-11-22,17:30,Atalanta,Milan,Serie A,12
+2026-11-22,17:30,Juventus,Venezia,Serie A,12
+2026-11-22,17:30,Bologna,Udinese,Serie A,12
+2026-11-22,17:30,Milan,Frosinone,Serie A,12
+2026-11-22,17:30,Sassuolo,Genoa,Serie A,12
+2026-11-22,17:30,Como,Cagliari,Serie A,12
+2026-11-22,17:30,Parma,Roma,Serie A,12
+2026-11-22,17:30,Napoli,Torino,Serie A,12
+2026-11-22,17:30,Lazio,Lecce,Serie A,12
+2026-11-29,17:30,Sassuolo,Napoli,Serie A,13
+2026-11-29,17:30,Cagliari,Milan,Serie A,13
+2026-11-29,17:30,Como,Juventus,Serie A,13
+2026-11-29,17:30,Roma,Monza,Serie A,13
+2026-11-29,17:30,Frosinone,Parma,Serie A,13
+2026-11-29,17:30,Torino,Lazio,Serie A,13
+2026-11-29,17:30,Venezia,Bologna,Serie A,13
+2026-11-29,17:30,Lecce,Atalanta,Serie A,13
+2026-11-29,17:30,Udinese,Fiorentina,Serie A,13
+2026-11-29,17:30,Milan,Genoa,Serie A,13
+2026-12-06,17:30,Genoa,Torino,Serie A,14
+2026-12-06,17:30,Juventus,Udinese,Serie A,14
+2026-12-06,17:30,Frosinone,Milan,Serie A,14
+2026-12-06,17:30,Bologna,Roma,Serie A,14
+2026-12-06,17:30,Fiorentina,Cagliari,Serie A,14
+2026-12-06,17:30,Lazio,Atalanta,Serie A,14
+2026-12-06,17:30,Milan,Parma,Serie A,14
+2026-12-06,17:30,Venezia,Sassuolo,Serie A,14
+2026-12-06,17:30,Monza,Como,Serie A,14
+2026-12-06,17:30,Napoli,Lecce,Serie A,14
+2026-12-13,17:30,Napoli,Milan,Serie A,15
+2026-12-13,17:30,Como,Bologna,Serie A,15
+2026-12-13,17:30,Udinese,Frosinone,Serie A,15
+2026-12-13,17:30,Lecce,Sassuolo,Serie A,15
+2026-12-13,17:30,Parma,Fiorentina,Serie A,15
+2026-12-13,17:30,Cagliari,Venezia,Serie A,15
+2026-12-13,17:30,Milan,Torino,Serie A,15
+2026-12-13,17:30,Juventus,Monza,Serie A,15
+2026-12-13,17:30,Atalanta,Genoa,Serie A,15
+2026-12-13,17:30,Lazio,Roma,Serie A,15
+2026-12-20,17:30,Milan,Como,Serie A,16
+2026-12-20,17:30,Sassuolo,Parma,Serie A,16
+2026-12-20,17:30,Roma,Juventus,Serie A,16
+2026-12-20,17:30,Frosinone,Lazio,Serie A,16
+2026-12-20,17:30,Atalanta,Napoli,Serie A,16
+2026-12-20,17:30,Fiorentina,Bologna,Serie A,16
+2026-12-20,17:30,Genoa,Udinese,Serie A,16
+2026-12-20,17:30,Lecce,Milan,Serie A,16
+2026-12-20,17:30,Torino,Cagliari,Serie A,16
+2026-12-20,17:30,Venezia,Monza,Serie A,16
+2027-01-03,12:00,Udinese,Atalanta,Serie A,17
+2027-01-03,12:00,Como,Lecce,Serie A,17
+2027-01-03,12:00,Roma,Frosinone,Serie A,17
+2027-01-03,12:00,Parma,Napoli,Serie A,17
+2027-01-03,12:00,Cagliari,Genoa,Serie A,17
+2027-01-03,12:00,Torino,Venezia,Serie A,17
+2027-01-03,12:00,Monza,Milan,Serie A,17
+2027-01-03,12:00,Milan,Sassuolo,Serie A,17
+2027-01-03,12:00,Bologna,Juventus,Serie A,17
+2027-01-03,12:00,Fiorentina,Lazio,Serie A,17
+2027-01-06,12:00,Frosinone,Bologna,Serie A,18
+2027-01-06,12:00,Sassuolo,Udinese,Serie A,18
+2027-01-06,12:00,Genoa,Monza,Serie A,18
+2027-01-06,12:00,Venezia,Roma,Serie A,18
+2027-01-06,12:00,Napoli,Cagliari,Serie A,18
+2027-01-06,12:00,Milan,Fiorentina,Serie A,18
+2027-01-06,12:00,Juventus,Torino,Serie A,18
+2027-01-06,12:00,Atalanta,Como,Serie A,18
+2027-01-06,12:00,Lazio,Milan,Serie A,18
+2027-01-06,12:00,Lecce,Parma,Serie A,18
+2027-01-10,12:00,Fiorentina,Lecce,Serie A,19
+2027-01-10,12:00,Udinese,Napoli,Serie A,19
+2027-01-10,12:00,Torino,Atalanta,Serie A,19
+2027-01-10,12:00,Monza,Frosinone,Serie A,19
+2027-01-10,12:00,Milan,Juventus,Serie A,19
+2027-01-10,12:00,Parma,Venezia,Serie A,19
+2027-01-10,12:00,Bologna,Genoa,Serie A,19
+2027-01-10,12:00,Cagliari,Sassuolo,Serie A,19
+2027-01-10,12:00,Como,Lazio,Serie A,19
+2027-01-10,12:00,Roma,Milan,Serie A,19
+2027-01-17,12:00,Milan,Torino,Serie A,20
+2027-01-17,12:00,Parma,Milan,Serie A,20
+2027-01-17,12:00,Juventus,Genoa,Serie A,20
+2027-01-17,12:00,Lecce,Udinese,Serie A,20
+2027-01-17,12:00,Cagliari,Como,Serie A,20
+2027-01-17,12:00,Sassuolo,Monza,Serie A,20
+2027-01-17,12:00,Napoli,Fiorentina,Serie A,20
+2027-01-17,12:00,Lazio,Bologna,Serie A,20
+2027-01-17,12:00,Venezia,Frosinone,Serie A,20
+2027-01-17,12:00,Atalanta,Roma,Serie A,20
+2027-01-24,12:00,Lecce,Torino,Serie A,21
+2027-01-24,12:00,Juventus,Cagliari,Serie A,21
+2027-01-24,12:00,Milan,Venezia,Serie A,21
+2027-01-24,12:00,Fiorentina,Sassuolo,Serie A,21
+2027-01-24,12:00,Frosinone,Milan,Serie A,21
+2027-01-24,12:00,Roma,Udinese,Serie A,21
+2027-01-24,12:00,Bologna,Atalanta,Serie A,21
+2027-01-24,12:00,Genoa,Parma,Serie A,21
+2027-01-24,12:00,Como,Napoli,Serie A,21
+2027-01-24,12:00,Monza,Lazio,Serie A,21
+2027-01-31,12:00,Milan,Juventus,Serie A,22
+2027-01-31,12:00,Monza,Roma,Serie A,22
+2027-01-31,12:00,Torino,Frosinone,Serie A,22
+2027-01-31,12:00,Udinese,Bologna,Serie A,22
+2027-01-31,12:00,Sassuolo,Como,Serie A,22
+2027-01-31,12:00,Genoa,Lecce,Serie A,22
+2027-01-31,12:00,Cagliari,Parma,Serie A,22
+2027-01-31,12:00,Atalanta,Fiorentina,Serie A,22
+2027-01-31,12:00,Lazio,Venezia,Serie A,22
+2027-01-31,12:00,Napoli,Milan,Serie A,22
+2027-02-07,12:00,Juventus,Sassuolo,Serie A,23
+2027-02-07,12:00,Milan,Cagliari,Serie A,23
+2027-02-07,12:00,Como,Monza,Serie A,23
+2027-02-07,12:00,Lecce,Napoli,Serie A,23
+2027-02-07,12:00,Venezia,Genoa,Serie A,23
+2027-02-07,12:00,Roma,Torino,Serie A,23
+2027-02-07,12:00,Atalanta,Lazio,Serie A,23
+2027-02-07,12:00,Parma,Frosinone,Serie A,23
+2027-02-07,12:00,Bologna,Milan,Serie A,23
+2027-02-07,12:00,Fiorentina,Udinese,Serie A,23
+2027-02-14,12:00,Napoli,Juventus,Serie A,24
+2027-02-14,12:00,Monza,Lecce,Serie A,24
+2027-02-14,12:00,Torino,Sassuolo,Serie A,24
+2027-02-14,12:00,Frosinone,Fiorentina,Serie A,24
+2027-02-14,12:00,Bologna,Como,Serie A,24
+2027-02-14,12:00,Roma,Parma,Serie A,24
+2027-02-14,12:00,Udinese,Venezia,Serie A,24
+2027-02-14,12:00,Genoa,Atalanta,Serie A,24
+2027-02-14,12:00,Cagliari,Lazio,Serie A,24
+2027-02-14,12:00,Milan,Milan,Serie A,24
+2027-02-21,12:00,Como,Torino,Serie A,25
+2027-02-21,12:00,Atalanta,Monza,Serie A,25
+2027-02-21,12:00,Udinese,Parma,Serie A,25
+2027-02-21,12:00,Juventus,Bologna,Serie A,25
+2027-02-21,12:00,Fiorentina,Milan,Serie A,25
+2027-02-21,12:00,Sassuolo,Roma,Serie A,25
+2027-02-21,12:00,Milan,Genoa,Serie A,25
+2027-02-21,12:00,Venezia,Cagliari,Serie A,25
+2027-02-21,12:00,Lecce,Frosinone,Serie A,25
+2027-02-21,12:00,Lazio,Napoli,Serie A,25
+2027-02-28,12:00,Milan,Atalanta,Serie A,26
+2027-02-28,12:00,Cagliari,Udinese,Serie A,26
+2027-02-28,12:00,Parma,Sassuolo,Serie A,26
+2027-02-28,12:00,Genoa,Lazio,Serie A,26
+2027-02-28,12:00,Roma,Venezia,Serie A,26
+2027-02-28,12:00,Como,Milan,Serie A,26
+2027-02-28,12:00,Torino,Fiorentina,Serie A,26
+2027-02-28,12:00,Bologna,Lecce,Serie A,26
+2027-02-28,12:00,Monza,Juventus,Serie A,26
+2027-02-28,12:00,Frosinone,Napoli,Serie A,26
+2027-03-07,12:00,Udinese,Milan,Serie A,27
+2027-03-07,12:00,Atalanta,Torino,Serie A,27
+2027-03-07,12:00,Napoli,Parma,Serie A,27
+2027-03-07,12:00,Lecce,Como,Serie A,27
+2027-03-07,12:00,Lazio,Frosinone,Serie A,27
+2027-03-07,12:00,Sassuolo,Bologna,Serie A,27
+2027-03-07,12:00,Monza,Genoa,Serie A,27
+2027-03-07,12:00,Fiorentina,Venezia,Serie A,27
+2027-03-07,12:00,Milan,Cagliari,Serie A,27
+2027-03-07,12:00,Juventus,Roma,Serie A,27
+2027-03-14,12:00,Bologna,Napoli,Serie A,28
+2027-03-14,12:00,Cagliari,Fiorentina,Serie A,28
+2027-03-14,12:00,Milan,Sassuolo,Serie A,28
+2027-03-14,12:00,Genoa,Roma,Serie A,28
+2027-03-14,12:00,Parma,Lecce,Serie A,28
+2027-03-14,12:00,Torino,Milan,Serie A,28
+2027-03-14,12:00,Frosinone,Monza,Serie A,28
+2027-03-14,12:00,Como,Udinese,Serie A,28
+2027-03-14,12:00,Lazio,Juventus,Serie A,28
+2027-03-14,12:00,Venezia,Atalanta,Serie A,28
+2027-03-21,12:00,Napoli,Venezia,Serie A,29
+2027-03-21,12:00,Udinese,Torino,Serie A,29
+2027-03-21,12:00,Juventus,Como,Serie A,29
+2027-03-21,12:00,Fiorentina,Genoa,Serie A,29
+2027-03-21,12:00,Parma,Lazio,Serie A,29
+2027-03-21,12:00,Sassuolo,Cagliari,Serie A,29
+2027-03-21,12:00,Monza,Bologna,Serie A,29
+2027-03-21,12:00,Milan,Frosinone,Serie A,29
+2027-03-21,12:00,Roma,Lecce,Serie A,29
+2027-03-21,12:00,Atalanta,Milan,Serie A,29
+2027-04-04,12:00,Lecce,Lazio,Serie A,30
+2027-04-04,12:00,Cagliari,Napoli,Serie A,30
+2027-04-04,12:00,Como,Fiorentina,Serie A,30
+2027-04-04,12:00,Sassuolo,Atalanta,Serie A,30
+2027-04-04,12:00,Roma,Bologna,Serie A,30
+2027-04-04,12:00,Milan,Monza,Serie A,30
+2027-04-04,12:00,Genoa,Milan,Serie A,30
+2027-04-04,12:00,Torino,Juventus,Serie A,30
+2027-04-04,12:00,Venezia,Parma,Serie A,30
+2027-04-04,12:00,Frosinone,Udinese,Serie A,30
+2027-04-11,12:00,Juventus,Lecce,Serie A,31
+2027-04-11,12:00,Napoli,Sassuolo,Serie A,31
+2027-04-11,12:00,Fiorentina,Milan,Serie A,31
+2027-04-11,12:00,Lazio,Torino,Serie A,31
+2027-04-11,12:00,Cagliari,Atalanta,Serie A,31
+2027-04-11,12:00,Parma,Como,Serie A,31
+2027-04-11,12:00,Bologna,Venezia,Serie A,31
+2027-04-11,12:00,Frosinone,Genoa,Serie A,31
+2027-04-11,12:00,Milan,Roma,Serie A,31
+2027-04-11,12:00,Udinese,Monza,Serie A,31
+2027-04-18,12:00,Monza,Milan,Serie A,32
+2027-04-18,12:00,Fiorentina,Parma,Serie A,32
+2027-04-18,12:00,Roma,Lazio,Serie A,32
+2027-04-18,12:00,Como,Frosinone,Serie A,32
+2027-04-18,12:00,Sassuolo,Lecce,Serie A,32
+2027-04-18,12:00,Bologna,Cagliari,Serie A,32
+2027-04-18,12:00,Atalanta,Udinese,Serie A,32
+2027-04-18,12:00,Venezia,Juventus,Serie A,32
+2027-04-18,12:00,Milan,Napoli,Serie A,32
+2027-04-18,12:00,Torino,Genoa,Serie A,32
+2027-04-25,12:00,Frosinone,Roma,Serie A,33
+2027-04-25,12:00,Cagliari,Monza,Serie A,33
+2027-04-25,12:00,Napoli,Udinese,Serie A,33
+2027-04-25,12:00,Parma,Atalanta,Serie A,33
+2027-04-25,12:00,Lazio,Como,Serie A,33
+2027-04-25,12:00,Juventus,Fiorentina,Serie A,33
+2027-04-25,12:00,Genoa,Sassuolo,Serie A,33
+2027-04-25,12:00,Lecce,Milan,Serie A,33
+2027-04-25,12:00,Venezia,Torino,Serie A,33
+2027-04-25,12:00,Milan,Bologna,Serie A,33
+2027-05-02,12:00,Atalanta,Juventus,Serie A,34
+2027-05-02,12:00,Torino,Parma,Serie A,34
+2027-05-02,12:00,Milan,Lazio,Serie A,34
+2027-05-02,12:00,Udinese,Genoa,Serie A,34
+2027-05-02,12:00,Sassuolo,Frosinone,Serie A,34
+2027-05-02,12:00,Bologna,Fiorentina,Serie A,34
+2027-05-02,12:00,Como,Milan,Serie A,34
+2027-05-02,12:00,Monza,Venezia,Serie A,34
+2027-05-02,12:00,Lecce,Cagliari,Serie A,34
+2027-05-02,12:00,Roma,Napoli,Serie A,34
+2027-05-09,12:00,Parma,Milan,Serie A,35
+2027-05-09,12:00,Genoa,Cagliari,Serie A,35
+2027-05-09,12:00,Lazio,Sassuolo,Serie A,35
+2027-05-09,12:00,Napoli,Monza,Serie A,35
+2027-05-09,12:00,Milan,Lecce,Serie A,35
+2027-05-09,12:00,Venezia,Como,Serie A,35
+2027-05-09,12:00,Udinese,Juventus,Serie A,35
+2027-05-09,12:00,Torino,Bologna,Serie A,35
+2027-05-09,12:00,Frosinone,Atalanta,Serie A,35
+2027-05-09,12:00,Fiorentina,Roma,Serie A,35
+2027-05-16,12:00,Napoli,Genoa,Serie A,36
+2027-05-16,12:00,Lecce,Fiorentina,Serie A,36
+2027-05-16,12:00,Lazio,Udinese,Serie A,36
+2027-05-16,12:00,Bologna,Frosinone,Serie A,36
+2027-05-16,12:00,Como,Atalanta,Serie A,36
+2027-05-16,12:00,Juventus,Milan,Serie A,36
+2027-05-16,12:00,Sassuolo,Venezia,Serie A,36
+2027-05-16,12:00,Monza,Parma,Serie A,36
+2027-05-16,12:00,Milan,Roma,Serie A,36
+2027-05-16,12:00,Cagliari,Torino,Serie A,36
+2027-05-23,12:00,Roma,Como,Serie A,37
+2027-05-23,12:00,Parma,Juventus,Serie A,37
+2027-05-23,12:00,Torino,Napoli,Serie A,37
+2027-05-23,12:00,Atalanta,Lecce,Serie A,37
+2027-05-23,12:00,Milan,Lazio,Serie A,37
+2027-05-23,12:00,Udinese,Sassuolo,Serie A,37
+2027-05-23,12:00,Frosinone,Cagliari,Serie A,37
+2027-05-23,12:00,Fiorentina,Monza,Serie A,37
+2027-05-23,12:00,Venezia,Milan,Serie A,37
+2027-05-23,12:00,Genoa,Bologna,Serie A,37
+2027-05-30,12:00,Milan,Udinese,Serie A,38
+2027-05-30,12:00,Juventus,Frosinone,Serie A,38
+2027-05-30,12:00,Monza,Torino,Serie A,38
+2027-05-30,12:00,Sassuolo,Milan,Serie A,38
+2027-05-30,12:00,Cagliari,Roma,Serie A,38
+2027-05-30,12:00,Lazio,Fiorentina,Serie A,38
+2027-05-30,12:00,Como,Genoa,Serie A,38
+2027-05-30,12:00,Napoli,Atalanta,Serie A,38
+2027-05-30,12:00,Lecce,Venezia,Serie A,38
+2027-05-30,12:00,Bologna,Parma,Serie A,38
+2026-08-22,15:00,Le Mans FC,Brest,Ligue 1,1
+2026-08-22,15:00,Lens,Auxerre,Ligue 1,1
+2026-08-22,15:00,Paris SG,Rennes,Ligue 1,1
+2026-08-22,15:00,Troyes,Paris FC,Ligue 1,1
+2026-08-22,15:00,Marseille,Strasbourg,Ligue 1,1
+2026-08-22,15:00,Nice,Lorient,Ligue 1,1
+2026-08-22,15:00,Angers,Lille,Ligue 1,1
+2026-08-22,15:00,Toulouse,Lyon,Ligue 1,1
+2026-08-22,15:00,Le Havre,Monaco,Ligue 1,1
+2026-08-29,15:00,Monaco,Marseille,Ligue 1,2
+2026-08-29,15:00,Strasbourg,Lens,Ligue 1,2
+2026-08-29,15:00,Lorient,Troyes,Ligue 1,2
+2026-08-29,15:00,Lyon,Le Havre,Ligue 1,2
+2026-08-29,15:00,Paris FC,Nice,Ligue 1,2
+2026-08-29,15:00,Auxerre,Angers,Ligue 1,2
+2026-08-29,15:00,Rennes,Le Mans FC,Ligue 1,2
+2026-08-29,15:00,Brest,Toulouse,Ligue 1,2
+2026-08-30,18:45,Lille,Paris SG,Ligue 1,2
+2026-09-05,15:00,Le Havre,Brest,Ligue 1,3
+2026-09-05,15:00,Marseille,Paris FC,Ligue 1,3
+2026-09-05,15:00,Lens,Lorient,Ligue 1,3
+2026-09-05,15:00,Toulouse,Lille,Ligue 1,3
+2026-09-05,15:00,Paris SG,Monaco,Ligue 1,3
+2026-09-05,15:00,Angers,Rennes,Ligue 1,3
+2026-09-05,15:00,Lyon,Auxerre,Ligue 1,3
+2026-09-05,15:00,Troyes,Strasbourg,Ligue 1,3
+2026-09-05,15:00,Nice,Le Mans FC,Ligue 1,3
+2026-09-12,15:00,Lorient,Toulouse,Ligue 1,4
+2026-09-12,15:00,Lille,Troyes,Ligue 1,4
+2026-09-12,15:00,Le Mans FC,Lens,Ligue 1,4
+2026-09-12,15:00,Strasbourg,Monaco,Ligue 1,4
+2026-09-12,15:00,Auxerre,Nice,Ligue 1,4
+2026-09-12,15:00,Rennes,Marseille,Ligue 1,4
+2026-09-12,15:00,Le Havre,Angers,Ligue 1,4
+2026-09-12,15:00,Brest,Paris SG,Ligue 1,4
+2026-09-12,15:00,Paris FC,Lyon,Ligue 1,4
+2026-09-19,15:00,Auxerre,Brest,Ligue 1,5
+2026-09-19,15:00,Le Mans FC,Lorient,Ligue 1,5
+2026-09-19,15:00,Nice,Lille,Ligue 1,5
+2026-09-19,15:00,Paris FC,Strasbourg,Ligue 1,5
+2026-09-19,15:00,Toulouse,Le Havre,Ligue 1,5
+2026-09-19,15:00,Angers,Troyes,Ligue 1,5
+2026-09-19,15:00,Monaco,Lens,Ligue 1,5
+2026-09-19,15:00,Lyon,Rennes,Ligue 1,5
+2026-09-20,18:45,Marseille,Paris SG,Ligue 1,5
+2026-10-10,15:00,Brest,Angers,Ligue 1,6
+2026-10-10,15:00,Rennes,Auxerre,Ligue 1,6
+2026-10-10,15:00,Lorient,Paris FC,Ligue 1,6
+2026-10-10,15:00,Lens,Lyon,Ligue 1,6
+2026-10-10,15:00,Nice,Strasbourg,Ligue 1,6
+2026-10-10,15:00,Troyes,Marseille,Ligue 1,6
+2026-10-10,15:00,Paris SG,Le Mans FC,Ligue 1,6
+2026-10-10,15:00,Monaco,Toulouse,Ligue 1,6
+2026-10-10,15:00,Lille,Le Havre,Ligue 1,6
+2026-10-17,15:00,Lorient,Monaco,Ligue 1,7
+2026-10-17,15:00,Paris FC,Rennes,Ligue 1,7
+2026-10-17,15:00,Troyes,Lens,Ligue 1,7
+2026-10-17,15:00,Lille,Brest,Ligue 1,7
+2026-10-17,15:00,Le Mans FC,Toulouse,Ligue 1,7
+2026-10-17,15:00,Strasbourg,Paris SG,Ligue 1,7
+2026-10-17,15:00,Le Havre,Auxerre,Ligue 1,7
+2026-10-17,15:00,Angers,Marseille,Ligue 1,7
+2026-10-17,15:00,Lyon,Nice,Ligue 1,7
+2026-10-24,15:00,Marseille,Le Havre,Ligue 1,8
+2026-10-24,15:00,Monaco,Lille,Ligue 1,8
+2026-10-24,15:00,Rennes,Strasbourg,Ligue 1,8
+2026-10-24,15:00,Lens,Paris FC,Ligue 1,8
+2026-10-24,15:00,Angers,Lorient,Ligue 1,8
+2026-10-24,15:00,Brest,Nice,Ligue 1,8
+2026-10-24,15:00,Toulouse,Troyes,Ligue 1,8
+2026-10-24,15:00,Auxerre,Le Mans FC,Ligue 1,8
+2026-10-25,19:45,Paris SG,Lyon,Ligue 1,8
+2026-10-31,16:00,Lille,Lens,Ligue 1,9
+2026-10-31,16:00,Lyon,Angers,Ligue 1,9
+2026-10-31,16:00,Lorient,Brest,Ligue 1,9
+2026-10-31,16:00,Paris FC,Monaco,Ligue 1,9
+2026-10-31,16:00,Troyes,Le Mans FC,Ligue 1,9
+2026-10-31,16:00,Le Havre,Paris SG,Ligue 1,9
+2026-10-31,16:00,Marseille,Toulouse,Ligue 1,9
+2026-10-31,16:00,Nice,Rennes,Ligue 1,9
+2026-10-31,16:00,Strasbourg,Auxerre,Ligue 1,9
+2026-11-07,16:00,Le Mans FC,Monaco,Ligue 1,10
+2026-11-07,16:00,Brest,Lyon,Ligue 1,10
+2026-11-07,16:00,Le Havre,Lorient,Ligue 1,10
+2026-11-07,16:00,Angers,Nice,Ligue 1,10
+2026-11-07,16:00,Paris SG,Troyes,Ligue 1,10
+2026-11-07,16:00,Rennes,Lille,Ligue 1,10
+2026-11-07,16:00,Auxerre,Paris FC,Ligue 1,10
+2026-11-07,16:00,Toulouse,Strasbourg,Ligue 1,10
+2026-11-07,19:45,Lens,Marseille,Ligue 1,10
+2026-11-21,16:00,Monaco,Auxerre,Ligue 1,11
+2026-11-21,16:00,Troyes,Le Havre,Ligue 1,11
+2026-11-21,16:00,Lens,Toulouse,Ligue 1,11
+2026-11-21,16:00,Lille,Lyon,Ligue 1,11
+2026-11-21,16:00,Paris FC,Angers,Ligue 1,11
+2026-11-21,16:00,Lorient,Rennes,Ligue 1,11
+2026-11-21,16:00,Strasbourg,Brest,Ligue 1,11
+2026-11-21,16:00,Nice,Paris SG,Ligue 1,11
+2026-11-21,16:00,Marseille,Le Mans FC,Ligue 1,11
+2026-11-28,16:00,Brest,Paris FC,Ligue 1,12
+2026-11-28,16:00,Le Mans FC,Lille,Ligue 1,12
+2026-11-28,16:00,Toulouse,Rennes,Ligue 1,12
+2026-11-28,16:00,Auxerre,Marseille,Ligue 1,12
+2026-11-28,16:00,Nice,Troyes,Ligue 1,12
+2026-11-28,16:00,Angers,Lens,Ligue 1,12
+2026-11-28,16:00,Le Havre,Strasbourg,Ligue 1,12
+2026-11-28,16:00,Paris SG,Lorient,Ligue 1,12
+2026-11-28,16:00,Lyon,Monaco,Ligue 1,12
+2026-12-05,16:00,Troyes,Lyon,Ligue 1,13
+2026-12-05,16:00,Monaco,Angers,Ligue 1,13
+2026-12-05,16:00,Lens,Le Havre,Ligue 1,13
+2026-12-05,16:00,Lille,Auxerre,Ligue 1,13
+2026-12-05,16:00,Marseille,Nice,Ligue 1,13
+2026-12-05,16:00,Rennes,Brest,Ligue 1,13
+2026-12-05,16:00,Toulouse,Paris SG,Ligue 1,13
+2026-12-05,16:00,Strasbourg,Lorient,Ligue 1,13
+2026-12-05,16:00,Paris FC,Le Mans FC,Ligue 1,13
+2026-12-12,16:00,Nice,Lens,Ligue 1,14
+2026-12-12,16:00,Paris SG,Paris FC,Ligue 1,14
+2026-12-12,16:00,Angers,Strasbourg,Ligue 1,14
+2026-12-12,16:00,Brest,Troyes,Ligue 1,14
+2026-12-12,16:00,Le Havre,Le Mans FC,Ligue 1,14
+2026-12-12,16:00,Rennes,Monaco,Ligue 1,14
+2026-12-12,16:00,Lorient,Lille,Ligue 1,14
+2026-12-12,16:00,Auxerre,Toulouse,Ligue 1,14
+2026-12-13,19:45,Lyon,Marseille,Ligue 1,14
+2027-01-02,12:00,Le Mans FC,Lyon,Ligue 1,15
+2027-01-02,12:00,Brest,Marseille,Ligue 1,15
+2027-01-02,12:00,Troyes,Rennes,Ligue 1,15
+2027-01-02,12:00,Toulouse,Angers,Ligue 1,15
+2027-01-02,12:00,Monaco,Nice,Ligue 1,15
+2027-01-02,12:00,Paris FC,Le Havre,Ligue 1,15
+2027-01-02,12:00,Lorient,Auxerre,Ligue 1,15
+2027-01-02,12:00,Lille,Strasbourg,Ligue 1,15
+2027-01-03,12:00,Lens,Paris SG,Ligue 1,15
+2027-01-16,12:00,Marseille,Lille,Ligue 1,16
+2027-01-16,12:00,Lyon,Lorient,Ligue 1,16
+2027-01-16,12:00,Paris FC,Toulouse,Ligue 1,16
+2027-01-16,12:00,Rennes,Lens,Ligue 1,16
+2027-01-16,12:00,Nice,Le Havre,Ligue 1,16
+2027-01-16,12:00,Auxerre,Troyes,Ligue 1,16
+2027-01-16,12:00,Strasbourg,Le Mans FC,Ligue 1,16
+2027-01-16,12:00,Monaco,Brest,Ligue 1,16
+2027-01-16,12:00,Angers,Paris SG,Ligue 1,16
+2027-01-23,12:00,Le Havre,Rennes,Ligue 1,17
+2027-01-23,12:00,Strasbourg,Lyon,Ligue 1,17
+2027-01-23,12:00,Lille,Paris FC,Ligue 1,17
+2027-01-23,12:00,Lens,Brest,Ligue 1,17
+2027-01-23,12:00,Paris SG,Auxerre,Ligue 1,17
+2027-01-23,12:00,Troyes,Monaco,Ligue 1,17
+2027-01-23,12:00,Lorient,Marseille,Ligue 1,17
+2027-01-23,12:00,Le Mans FC,Angers,Ligue 1,17
+2027-01-23,12:00,Toulouse,Nice,Ligue 1,17
+2027-01-30,12:00,Paris FC,Auxerre,Ligue 1,18
+2027-01-30,12:00,Lyon,Lille,Ligue 1,18
+2027-01-30,12:00,Rennes,Lorient,Ligue 1,18
+2027-01-30,12:00,Le Mans FC,Nice,Ligue 1,18
+2027-01-30,12:00,Marseille,Troyes,Ligue 1,18
+2027-01-30,12:00,Angers,Le Havre,Ligue 1,18
+2027-01-30,12:00,Brest,Strasbourg,Ligue 1,18
+2027-01-30,12:00,Monaco,Paris SG,Ligue 1,18
+2027-01-30,12:00,Toulouse,Lens,Ligue 1,18
+2027-02-06,12:00,Troyes,Lille,Ligue 1,19
+2027-02-06,12:00,Lens,Angers,Ligue 1,19
+2027-02-06,12:00,Le Havre,Toulouse,Ligue 1,19
+2027-02-06,12:00,Lorient,Le Mans FC,Ligue 1,19
+2027-02-06,12:00,Nice,Brest,Ligue 1,19
+2027-02-06,12:00,Rennes,Lyon,Ligue 1,19
+2027-02-06,12:00,Strasbourg,Paris FC,Ligue 1,19
+2027-02-06,12:00,Auxerre,Monaco,Ligue 1,19
+2027-02-07,12:00,Paris SG,Marseille,Ligue 1,19
+2027-02-13,12:00,Brest,Rennes,Ligue 1,20
+2027-02-13,12:00,Paris FC,Troyes,Ligue 1,20
+2027-02-13,12:00,Le Mans FC,Paris SG,Ligue 1,20
+2027-02-13,12:00,Lorient,Le Havre,Ligue 1,20
+2027-02-13,12:00,Auxerre,Strasbourg,Ligue 1,20
+2027-02-13,12:00,Toulouse,Monaco,Ligue 1,20
+2027-02-13,12:00,Marseille,Angers,Ligue 1,20
+2027-02-13,12:00,Lille,Nice,Ligue 1,20
+2027-02-13,12:00,Lyon,Lens,Ligue 1,20
+2027-02-20,12:00,Angers,Paris FC,Ligue 1,21
+2027-02-20,12:00,Rennes,Toulouse,Ligue 1,21
+2027-02-20,12:00,Paris SG,Brest,Ligue 1,21
+2027-02-20,12:00,Strasbourg,Marseille,Ligue 1,21
+2027-02-20,12:00,Nice,Auxerre,Ligue 1,21
+2027-02-20,12:00,Le Havre,Lyon,Ligue 1,21
+2027-02-20,12:00,Monaco,Le Mans FC,Ligue 1,21
+2027-02-20,12:00,Lille,Lorient,Ligue 1,21
+2027-02-20,12:00,Lens,Troyes,Ligue 1,21
+2027-02-27,12:00,Strasbourg,Le Havre,Ligue 1,22
+2027-02-27,12:00,Auxerre,Lille,Ligue 1,22
+2027-02-27,12:00,Troyes,Nice,Ligue 1,22
+2027-02-27,12:00,Brest,Monaco,Ligue 1,22
+2027-02-27,12:00,Lorient,Angers,Ligue 1,22
+2027-02-27,12:00,Marseille,Rennes,Ligue 1,22
+2027-02-27,12:00,Lyon,Toulouse,Ligue 1,22
+2027-02-27,12:00,Le Mans FC,Paris FC,Ligue 1,22
+2027-02-28,12:00,Paris SG,Lens,Ligue 1,22
+2027-03-06,12:00,Le Havre,Nice,Ligue 1,23
+2027-03-06,12:00,Rennes,Paris SG,Ligue 1,23
+2027-03-06,12:00,Lens,Strasbourg,Ligue 1,23
+2027-03-06,12:00,Toulouse,Le Mans FC,Ligue 1,23
+2027-03-06,12:00,Troyes,Lorient,Ligue 1,23
+2027-03-06,12:00,Angers,Auxerre,Ligue 1,23
+2027-03-06,12:00,Monaco,Lyon,Ligue 1,23
+2027-03-06,12:00,Paris FC,Brest,Ligue 1,23
+2027-03-06,12:00,Lille,Marseille,Ligue 1,23
+2027-03-13,12:00,Nice,Toulouse,Ligue 1,24
+2027-03-13,12:00,Paris FC,Lorient,Ligue 1,24
+2027-03-13,12:00,Strasbourg,Angers,Ligue 1,24
+2027-03-13,12:00,Le Mans FC,Rennes,Ligue 1,24
+2027-03-13,12:00,Brest,Lille,Ligue 1,24
+2027-03-13,12:00,Le Havre,Lens,Ligue 1,24
+2027-03-13,12:00,Marseille,Monaco,Ligue 1,24
+2027-03-13,12:00,Auxerre,Paris SG,Ligue 1,24
+2027-03-13,12:00,Lyon,Troyes,Ligue 1,24
+2027-03-20,12:00,Angers,Le Mans FC,Ligue 1,25
+2027-03-20,12:00,Toulouse,Brest,Ligue 1,25
+2027-03-20,12:00,Troyes,Auxerre,Ligue 1,25
+2027-03-20,12:00,Rennes,Paris FC,Ligue 1,25
+2027-03-20,12:00,Monaco,Le Havre,Ligue 1,25
+2027-03-20,12:00,Paris SG,Strasbourg,Ligue 1,25
+2027-03-20,12:00,Lens,Lille,Ligue 1,25
+2027-03-20,12:00,Lorient,Nice,Ligue 1,25
+2027-03-21,12:00,Marseille,Lyon,Ligue 1,25
+2027-04-03,12:00,Le Havre,Troyes,Ligue 1,26
+2027-04-03,12:00,Angers,Monaco,Ligue 1,26
+2027-04-03,12:00,Le Mans FC,Marseille,Ligue 1,26
+2027-04-03,12:00,Auxerre,Lens,Ligue 1,26
+2027-04-03,12:00,Lille,Rennes,Ligue 1,26
+2027-04-03,12:00,Brest,Lorient,Ligue 1,26
+2027-04-03,12:00,Strasbourg,Toulouse,Ligue 1,26
+2027-04-03,12:00,Paris FC,Paris SG,Ligue 1,26
+2027-04-03,12:00,Nice,Lyon,Ligue 1,26
+2027-04-10,12:00,Lorient,Lens,Ligue 1,27
+2027-04-10,12:00,Marseille,Brest,Ligue 1,27
+2027-04-10,12:00,Monaco,Rennes,Ligue 1,27
+2027-04-10,12:00,Troyes,Angers,Ligue 1,27
+2027-04-10,12:00,Paris SG,Le Havre,Ligue 1,27
+2027-04-10,12:00,Lyon,Strasbourg,Ligue 1,27
+2027-04-10,12:00,Le Mans FC,Auxerre,Ligue 1,27
+2027-04-10,12:00,Lille,Toulouse,Ligue 1,27
+2027-04-10,12:00,Nice,Paris FC,Ligue 1,27
+2027-04-17,12:00,Auxerre,Lorient,Ligue 1,28
+2027-04-17,12:00,Brest,Le Mans FC,Ligue 1,28
+2027-04-17,12:00,Monaco,Strasbourg,Ligue 1,28
+2027-04-17,12:00,Angers,Lyon,Ligue 1,28
+2027-04-17,12:00,Lens,Nice,Ligue 1,28
+2027-04-17,12:00,Rennes,Troyes,Ligue 1,28
+2027-04-17,12:00,Le Havre,Marseille,Ligue 1,28
+2027-04-17,12:00,Paris SG,Lille,Ligue 1,28
+2027-04-17,12:00,Toulouse,Paris FC,Ligue 1,28
+2027-04-24,12:00,Paris FC,Lens,Ligue 1,29
+2027-04-24,12:00,Marseille,Auxerre,Ligue 1,29
+2027-04-24,12:00,Lille,Monaco,Ligue 1,29
+2027-04-24,12:00,Lorient,Paris SG,Ligue 1,29
+2027-04-24,12:00,Troyes,Toulouse,Ligue 1,29
+2027-04-24,12:00,Nice,Angers,Ligue 1,29
+2027-04-24,12:00,Lyon,Brest,Ligue 1,29
+2027-04-24,12:00,Le Mans FC,Le Havre,Ligue 1,29
+2027-04-24,12:00,Strasbourg,Rennes,Ligue 1,29
+2027-05-01,12:00,Strasbourg,Lille,Ligue 1,30
+2027-05-01,12:00,Monaco,Lorient,Ligue 1,30
+2027-05-01,12:00,Troyes,Brest,Ligue 1,30
+2027-05-01,12:00,Lens,Le Mans FC,Ligue 1,30
+2027-05-01,12:00,Paris SG,Angers,Ligue 1,30
+2027-05-01,12:00,Le Havre,Paris FC,Ligue 1,30
+2027-05-01,12:00,Auxerre,Lyon,Ligue 1,30
+2027-05-01,12:00,Rennes,Nice,Ligue 1,30
+2027-05-01,12:00,Toulouse,Marseille,Ligue 1,30
+2027-05-08,12:00,Paris FC,Lille,Ligue 1,31
+2027-05-08,12:00,Lorient,Strasbourg,Ligue 1,31
+2027-05-08,12:00,Brest,Auxerre,Ligue 1,31
+2027-05-08,12:00,Le Mans FC,Troyes,Ligue 1,31
+2027-05-08,12:00,Rennes,Le Havre,Ligue 1,31
+2027-05-08,12:00,Lens,Monaco,Ligue 1,31
+2027-05-08,12:00,Angers,Toulouse,Ligue 1,31
+2027-05-08,12:00,Nice,Marseille,Ligue 1,31
+2027-05-09,12:00,Lyon,Paris SG,Ligue 1,31
+2027-05-16,12:00,Monaco,Paris FC,Ligue 1,32
+2027-05-16,12:00,Lyon,Le Mans FC,Ligue 1,32
+2027-05-16,12:00,Paris SG,Nice,Ligue 1,32
+2027-05-16,12:00,Toulouse,Lorient,Ligue 1,32
+2027-05-16,12:00,Brest,Le Havre,Ligue 1,32
+2027-05-16,12:00,Marseille,Lens,Ligue 1,32
+2027-05-16,12:00,Lille,Angers,Ligue 1,32
+2027-05-16,12:00,Auxerre,Rennes,Ligue 1,32
+2027-05-16,12:00,Strasbourg,Troyes,Ligue 1,32
+2027-05-22,12:00,Nice,Monaco,Ligue 1,33
+2027-05-22,12:00,Angers,Brest,Ligue 1,33
+2027-05-22,12:00,Lorient,Lyon,Ligue 1,33
+2027-05-22,12:00,Troyes,Paris SG,Ligue 1,33
+2027-05-22,12:00,Le Mans FC,Strasbourg,Ligue 1,33
+2027-05-22,12:00,Toulouse,Auxerre,Ligue 1,33
+2027-05-22,12:00,Le Havre,Lille,Ligue 1,33
+2027-05-22,12:00,Paris FC,Marseille,Ligue 1,33
+2027-05-22,12:00,Lens,Rennes,Ligue 1,33
+2027-05-29,12:00,Monaco,Troyes,Ligue 1,34
+2027-05-29,12:00,Paris SG,Toulouse,Ligue 1,34
+2027-05-29,12:00,Lille,Le Mans FC,Ligue 1,34
+2027-05-29,12:00,Brest,Lens,Ligue 1,34
+2027-05-29,12:00,Marseille,Lorient,Ligue 1,34
+2027-05-29,12:00,Rennes,Angers,Ligue 1,34
+2027-05-29,12:00,Lyon,Paris FC,Ligue 1,34
+2027-05-29,12:00,Auxerre,Le Havre,Ligue 1,34
+2027-05-29,12:00,Strasbourg,Nice,Ligue 1,34
