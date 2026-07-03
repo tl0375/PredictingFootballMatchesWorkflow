@@ -1065,3 +1065,383 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-29,12:00,Lyon,Paris FC,Ligue 1,34
 2027-05-29,12:00,Auxerre,Le Havre,Ligue 1,34
 2027-05-29,12:00,Strasbourg,Nice,Ligue 1,34
+2026-08-16,15:00,Ath Madrid,Málaga CF,La Liga,1
+2026-08-16,15:00,Real Racing Club de Santander,Villarreal,La Liga,1
+2026-08-16,15:00,Barcelona,Athletic Club,La Liga,1
+2026-08-16,15:00,Real Madrid,Sociedad,La Liga,1
+2026-08-16,15:00,Espanol,Levante,La Liga,1
+2026-08-16,15:00,Sevilla,Vallecano,La Liga,1
+2026-08-16,15:00,Alaves,Getafe,La Liga,1
+2026-08-16,15:00,RC Deportivo La Coruña,Elche,La Liga,1
+2026-08-16,15:00,Celta,Osasuna,La Liga,1
+2026-08-16,15:00,Valencia,Betis,La Liga,1
+2026-08-23,15:00,Vallecano,Alaves,La Liga,2
+2026-08-23,15:00,Osasuna,Levante,La Liga,2
+2026-08-23,15:00,Málaga CF,RC Deportivo La Coruña,La Liga,2
+2026-08-23,15:00,Athletic Club,Sevilla,La Liga,2
+2026-08-23,15:00,Elche,Barcelona,La Liga,2
+2026-08-23,15:00,Valencia,Celta,La Liga,2
+2026-08-23,15:00,Getafe,Real Racing Club de Santander,La Liga,2
+2026-08-23,15:00,Espanol,Real Madrid,La Liga,2
+2026-08-23,15:00,Ath Madrid,Villarreal,La Liga,2
+2026-08-23,15:00,Betis,Sociedad,La Liga,2
+2026-08-30,15:00,Alaves,Villarreal,La Liga,3
+2026-08-30,15:00,Sevilla,Ath Madrid,La Liga,3
+2026-08-30,15:00,Barcelona,Vallecano,La Liga,3
+2026-08-30,15:00,RC Deportivo La Coruña,Valencia,La Liga,3
+2026-08-30,15:00,Celta,Athletic Club,La Liga,3
+2026-08-30,15:00,Sociedad,Espanol,La Liga,3
+2026-08-30,15:00,Real Racing Club de Santander,Elche,La Liga,3
+2026-08-30,15:00,Levante,Betis,La Liga,3
+2026-08-30,15:00,Real Madrid,Málaga CF,La Liga,3
+2026-08-30,15:00,Osasuna,Getafe,La Liga,3
+2026-09-06,15:00,Elche,Sociedad,La Liga,4
+2026-09-06,15:00,Valencia,Barcelona,La Liga,4
+2026-09-06,15:00,Vallecano,Real Racing Club de Santander,La Liga,4
+2026-09-06,15:00,Espanol,Sevilla,La Liga,4
+2026-09-06,15:00,Villarreal,RC Deportivo La Coruña,La Liga,4
+2026-09-06,15:00,Athletic Club,Ath Madrid,La Liga,4
+2026-09-06,15:00,Alaves,Osasuna,La Liga,4
+2026-09-06,15:00,Getafe,Celta,La Liga,4
+2026-09-06,15:00,Málaga CF,Levante,La Liga,4
+2026-09-06,15:00,Betis,Real Madrid,La Liga,4
+2026-09-13,15:00,Getafe,RC Deportivo La Coruña,La Liga,5
+2026-09-13,15:00,Sevilla,Valencia,La Liga,5
+2026-09-13,15:00,Real Racing Club de Santander,Alaves,La Liga,5
+2026-09-13,15:00,Villarreal,Betis,La Liga,5
+2026-09-13,15:00,Celta,Málaga CF,La Liga,5
+2026-09-13,15:00,Osasuna,Espanol,La Liga,5
+2026-09-13,15:00,Sociedad,Ath Madrid,La Liga,5
+2026-09-13,15:00,Levante,Barcelona,La Liga,5
+2026-09-13,15:00,Athletic Club,Elche,La Liga,5
+2026-09-13,15:00,Real Madrid,Vallecano,La Liga,5
+2026-09-16,15:00,Vallecano,Espanol,La Liga,6
+2026-09-16,15:00,RC Deportivo La Coruña,Sevilla,La Liga,6
+2026-09-16,15:00,Alaves,Valencia,La Liga,6
+2026-09-16,15:00,Elche,Real Madrid,La Liga,6
+2026-09-16,15:00,Sociedad,Celta,La Liga,6
+2026-09-16,15:00,Málaga CF,Villarreal,La Liga,6
+2026-09-16,15:00,Ath Madrid,Osasuna,La Liga,6
+2026-09-16,15:00,Levante,Athletic Club,La Liga,6
+2026-09-16,15:00,Betis,Getafe,La Liga,6
+2026-09-16,15:00,Barcelona,Real Racing Club de Santander,La Liga,6
+2026-09-20,15:00,Ath Madrid,Real Madrid,La Liga,7
+2026-09-20,15:00,Valencia,Sociedad,La Liga,7
+2026-09-20,15:00,Sevilla,Barcelona,La Liga,7
+2026-09-20,15:00,Athletic Club,Alaves,La Liga,7
+2026-09-20,15:00,Espanol,Elche,La Liga,7
+2026-09-20,15:00,Osasuna,Vallecano,La Liga,7
+2026-09-20,15:00,Celta,Real Racing Club de Santander,La Liga,7
+2026-09-20,15:00,RC Deportivo La Coruña,Betis,La Liga,7
+2026-09-20,15:00,Villarreal,Levante,La Liga,7
+2026-09-20,15:00,Getafe,Málaga CF,La Liga,7
+2026-10-11,15:00,Vallecano,Athletic Club,La Liga,8
+2026-10-11,15:00,Alaves,Ath Madrid,La Liga,8
+2026-10-11,15:00,Barcelona,Getafe,La Liga,8
+2026-10-11,15:00,Betis,Osasuna,La Liga,8
+2026-10-11,15:00,Real Madrid,Villarreal,La Liga,8
+2026-10-11,15:00,Elche,Celta,La Liga,8
+2026-10-11,15:00,Levante,Sevilla,La Liga,8
+2026-10-11,15:00,Real Racing Club de Santander,Valencia,La Liga,8
+2026-10-11,15:00,Málaga CF,Espanol,La Liga,8
+2026-10-11,15:00,Sociedad,RC Deportivo La Coruña,La Liga,8
+2026-10-18,15:00,Villarreal,Elche,La Liga,9
+2026-10-18,15:00,Real Madrid,Sevilla,La Liga,9
+2026-10-18,15:00,Espanol,Ath Madrid,La Liga,9
+2026-10-18,15:00,Valencia,Athletic Club,La Liga,9
+2026-10-18,15:00,Celta,Alaves,La Liga,9
+2026-10-18,15:00,Betis,Barcelona,La Liga,9
+2026-10-18,15:00,Málaga CF,Sociedad,La Liga,9
+2026-10-18,15:00,Osasuna,Real Racing Club de Santander,La Liga,9
+2026-10-18,15:00,RC Deportivo La Coruña,Levante,La Liga,9
+2026-10-18,15:00,Getafe,Vallecano,La Liga,9
+2026-10-25,16:00,Vallecano,Elche,La Liga,10
+2026-10-25,16:00,Alaves,Málaga CF,La Liga,10
+2026-10-25,16:00,Athletic Club,Getafe,La Liga,10
+2026-10-25,16:00,Sevilla,Osasuna,La Liga,10
+2026-10-25,16:00,Valencia,Villarreal,La Liga,10
+2026-10-25,16:00,Barcelona,Real Madrid,La Liga,10
+2026-10-25,16:00,Ath Madrid,RC Deportivo La Coruña,La Liga,10
+2026-10-25,16:00,Celta,Betis,La Liga,10
+2026-10-25,16:00,Sociedad,Levante,La Liga,10
+2026-10-25,16:00,Real Racing Club de Santander,Espanol,La Liga,10
+2026-11-01,16:00,Betis,Málaga CF,La Liga,11
+2026-11-01,16:00,Villarreal,Espanol,La Liga,11
+2026-11-01,16:00,Elche,Valencia,La Liga,11
+2026-11-01,16:00,Athletic Club,Sociedad,La Liga,11
+2026-11-01,16:00,Levante,Ath Madrid,La Liga,11
+2026-11-01,16:00,RC Deportivo La Coruña,Osasuna,La Liga,11
+2026-11-01,16:00,Barcelona,Alaves,La Liga,11
+2026-11-01,16:00,Getafe,Sevilla,La Liga,11
+2026-11-01,16:00,Real Racing Club de Santander,Real Madrid,La Liga,11
+2026-11-01,16:00,Vallecano,Celta,La Liga,11
+2026-11-08,16:00,Elche,Betis,La Liga,12
+2026-11-08,16:00,Osasuna,Athletic Club,La Liga,12
+2026-11-08,16:00,Sevilla,Alaves,La Liga,12
+2026-11-08,16:00,Valencia,Real Madrid,La Liga,12
+2026-11-08,16:00,Celta,Levante,La Liga,12
+2026-11-08,16:00,Sociedad,Vallecano,La Liga,12
+2026-11-08,16:00,Málaga CF,Real Racing Club de Santander,La Liga,12
+2026-11-08,16:00,Espanol,RC Deportivo La Coruña,La Liga,12
+2026-11-08,16:00,Ath Madrid,Barcelona,La Liga,12
+2026-11-08,16:00,Villarreal,Getafe,La Liga,12
+2026-11-22,16:00,Athletic Club,Espanol,La Liga,13
+2026-11-22,16:00,Barcelona,Villarreal,La Liga,13
+2026-11-22,16:00,Real Racing Club de Santander,Sociedad,La Liga,13
+2026-11-22,16:00,Vallecano,Valencia,La Liga,13
+2026-11-22,16:00,Osasuna,Málaga CF,La Liga,13
+2026-11-22,16:00,Getafe,Ath Madrid,La Liga,13
+2026-11-22,16:00,Real Madrid,Celta,La Liga,13
+2026-11-22,16:00,Alaves,RC Deportivo La Coruña,La Liga,13
+2026-11-22,16:00,Sevilla,Betis,La Liga,13
+2026-11-22,16:00,Levante,Elche,La Liga,13
+2026-11-29,16:00,Celta,Villarreal,La Liga,14
+2026-11-29,16:00,Elche,Ath Madrid,La Liga,14
+2026-11-29,16:00,Betis,Vallecano,La Liga,14
+2026-11-29,16:00,Valencia,Osasuna,La Liga,14
+2026-11-29,16:00,Real Madrid,Alaves,La Liga,14
+2026-11-29,16:00,Espanol,Getafe,La Liga,14
+2026-11-29,16:00,Sociedad,Sevilla,La Liga,14
+2026-11-29,16:00,Levante,Real Racing Club de Santander,La Liga,14
+2026-11-29,16:00,RC Deportivo La Coruña,Barcelona,La Liga,14
+2026-11-29,16:00,Málaga CF,Athletic Club,La Liga,14
+2026-12-06,16:00,Osasuna,Elche,La Liga,15
+2026-12-06,16:00,Sevilla,Málaga CF,La Liga,15
+2026-12-06,16:00,Alaves,Espanol,La Liga,15
+2026-12-06,16:00,Ath Madrid,Betis,La Liga,15
+2026-12-06,16:00,Real Racing Club de Santander,RC Deportivo La Coruña,La Liga,15
+2026-12-06,16:00,Barcelona,Celta,La Liga,15
+2026-12-06,16:00,Getafe,Valencia,La Liga,15
+2026-12-06,16:00,Athletic Club,Real Madrid,La Liga,15
+2026-12-06,16:00,Villarreal,Sociedad,La Liga,15
+2026-12-06,16:00,Vallecano,Levante,La Liga,15
+2026-12-13,16:00,Espanol,Celta,La Liga,16
+2026-12-13,16:00,Málaga CF,Barcelona,La Liga,16
+2026-12-13,16:00,Real Madrid,Osasuna,La Liga,16
+2026-12-13,16:00,RC Deportivo La Coruña,Athletic Club,La Liga,16
+2026-12-13,16:00,Levante,Alaves,La Liga,16
+2026-12-13,16:00,Elche,Sevilla,La Liga,16
+2026-12-13,16:00,Villarreal,Vallecano,La Liga,16
+2026-12-13,16:00,Betis,Real Racing Club de Santander,La Liga,16
+2026-12-13,16:00,Sociedad,Getafe,La Liga,16
+2026-12-13,16:00,Ath Madrid,Valencia,La Liga,16
+2026-12-20,16:00,Athletic Club,Betis,La Liga,17
+2026-12-20,16:00,Getafe,Levante,La Liga,17
+2026-12-20,16:00,Alaves,Elche,La Liga,17
+2026-12-20,16:00,Valencia,Espanol,La Liga,17
+2026-12-20,16:00,Osasuna,Villarreal,La Liga,17
+2026-12-20,16:00,Barcelona,Sociedad,La Liga,17
+2026-12-20,16:00,Celta,Ath Madrid,La Liga,17
+2026-12-20,16:00,Vallecano,Málaga CF,La Liga,17
+2026-12-20,16:00,RC Deportivo La Coruña,Real Madrid,La Liga,17
+2026-12-20,16:00,Sevilla,Real Racing Club de Santander,La Liga,17
+2027-01-03,12:00,Real Madrid,Getafe,La Liga,18
+2027-01-03,12:00,Sociedad,Osasuna,La Liga,18
+2027-01-03,12:00,Levante,Valencia,La Liga,18
+2027-01-03,12:00,Real Racing Club de Santander,Athletic Club,La Liga,18
+2027-01-03,12:00,Málaga CF,Elche,La Liga,18
+2027-01-03,12:00,Betis,Alaves,La Liga,18
+2027-01-03,12:00,Celta,RC Deportivo La Coruña,La Liga,18
+2027-01-03,12:00,Espanol,Barcelona,La Liga,18
+2027-01-03,12:00,Villarreal,Sevilla,La Liga,18
+2027-01-03,12:00,Vallecano,Ath Madrid,La Liga,18
+2027-01-10,12:00,Athletic Club,Villarreal,La Liga,19
+2027-01-10,12:00,Elche,Getafe,La Liga,19
+2027-01-10,12:00,Real Madrid,Levante,La Liga,19
+2027-01-10,12:00,Osasuna,Barcelona,La Liga,19
+2027-01-10,12:00,RC Deportivo La Coruña,Vallecano,La Liga,19
+2027-01-10,12:00,Ath Madrid,Real Racing Club de Santander,La Liga,19
+2027-01-10,12:00,Alaves,Sociedad,La Liga,19
+2027-01-10,12:00,Sevilla,Celta,La Liga,19
+2027-01-10,12:00,Espanol,Betis,La Liga,19
+2027-01-10,12:00,Valencia,Málaga CF,La Liga,19
+2027-01-17,12:00,Málaga CF,Real Madrid,La Liga,20
+2027-01-17,12:00,Barcelona,Elche,La Liga,20
+2027-01-17,12:00,Villarreal,Alaves,La Liga,20
+2027-01-17,12:00,Real Racing Club de Santander,Osasuna,La Liga,20
+2027-01-17,12:00,Levante,Espanol,La Liga,20
+2027-01-17,12:00,Celta,Valencia,La Liga,20
+2027-01-17,12:00,Getafe,Athletic Club,La Liga,20
+2027-01-17,12:00,Vallecano,Sevilla,La Liga,20
+2027-01-17,12:00,Betis,RC Deportivo La Coruña,La Liga,20
+2027-01-17,12:00,Ath Madrid,Sociedad,La Liga,20
+2027-01-24,12:00,Real Madrid,Betis,La Liga,21
+2027-01-24,12:00,Getafe,Osasuna,La Liga,21
+2027-01-24,12:00,Valencia,Sevilla,La Liga,21
+2027-01-24,12:00,Elche,Vallecano,La Liga,21
+2027-01-24,12:00,Alaves,Barcelona,La Liga,21
+2027-01-24,12:00,Sociedad,Málaga CF,La Liga,21
+2027-01-24,12:00,Real Racing Club de Santander,Celta,La Liga,21
+2027-01-24,12:00,Athletic Club,Levante,La Liga,21
+2027-01-24,12:00,Espanol,Villarreal,La Liga,21
+2027-01-24,12:00,RC Deportivo La Coruña,Ath Madrid,La Liga,21
+2027-01-31,12:00,Betis,Elche,La Liga,22
+2027-01-31,12:00,Vallecano,Real Madrid,La Liga,22
+2027-01-31,12:00,Ath Madrid,Espanol,La Liga,22
+2027-01-31,12:00,Celta,Getafe,La Liga,22
+2027-01-31,12:00,Villarreal,Real Racing Club de Santander,La Liga,22
+2027-01-31,12:00,Levante,Sociedad,La Liga,22
+2027-01-31,12:00,Barcelona,Valencia,La Liga,22
+2027-01-31,12:00,Sevilla,Athletic Club,La Liga,22
+2027-01-31,12:00,Osasuna,RC Deportivo La Coruña,La Liga,22
+2027-01-31,12:00,Málaga CF,Alaves,La Liga,22
+2027-02-07,12:00,Athletic Club,Osasuna,La Liga,23
+2027-02-07,12:00,Alaves,Celta,La Liga,23
+2027-02-07,12:00,Betis,Sevilla,La Liga,23
+2027-02-07,12:00,Elche,Levante,La Liga,23
+2027-02-07,12:00,Espanol,Vallecano,La Liga,23
+2027-02-07,12:00,Getafe,Villarreal,La Liga,23
+2027-02-07,12:00,RC Deportivo La Coruña,Málaga CF,La Liga,23
+2027-02-07,12:00,Sociedad,Real Madrid,La Liga,23
+2027-02-07,12:00,Valencia,Real Racing Club de Santander,La Liga,23
+2027-02-07,12:00,Barcelona,Ath Madrid,La Liga,23
+2027-02-14,12:00,Sevilla,Espanol,La Liga,24
+2027-02-14,12:00,Osasuna,Ath Madrid,La Liga,24
+2027-02-14,12:00,Celta,Vallecano,La Liga,24
+2027-02-14,12:00,Villarreal,Barcelona,La Liga,24
+2027-02-14,12:00,Sociedad,Betis,La Liga,24
+2027-02-14,12:00,Elche,RC Deportivo La Coruña,La Liga,24
+2027-02-14,12:00,Valencia,Alaves,La Liga,24
+2027-02-14,12:00,Levante,Málaga CF,La Liga,24
+2027-02-14,12:00,Real Racing Club de Santander,Getafe,La Liga,24
+2027-02-14,12:00,Real Madrid,Athletic Club,La Liga,24
+2027-02-21,12:00,Alaves,Real Racing Club de Santander,La Liga,25
+2027-02-21,12:00,Málaga CF,Betis,La Liga,25
+2027-02-21,12:00,Villarreal,Valencia,La Liga,25
+2027-02-21,12:00,Barcelona,Levante,La Liga,25
+2027-02-21,12:00,Athletic Club,Celta,La Liga,25
+2027-02-21,12:00,Espanol,Osasuna,La Liga,25
+2027-02-21,12:00,Sevilla,Real Madrid,La Liga,25
+2027-02-21,12:00,Ath Madrid,Elche,La Liga,25
+2027-02-21,12:00,RC Deportivo La Coruña,Sociedad,La Liga,25
+2027-02-21,12:00,Vallecano,Getafe,La Liga,25
+2027-02-28,12:00,Celta,Espanol,La Liga,26
+2027-02-28,12:00,Levante,RC Deportivo La Coruña,La Liga,26
+2027-02-28,12:00,Málaga CF,Ath Madrid,La Liga,26
+2027-02-28,12:00,Osasuna,Sevilla,La Liga,26
+2027-02-28,12:00,Real Madrid,Valencia,La Liga,26
+2027-02-28,12:00,Getafe,Alaves,La Liga,26
+2027-02-28,12:00,Athletic Club,Barcelona,La Liga,26
+2027-02-28,12:00,Real Racing Club de Santander,Vallecano,La Liga,26
+2027-02-28,12:00,Betis,Villarreal,La Liga,26
+2027-02-28,12:00,Sociedad,Elche,La Liga,26
+2027-03-07,12:00,Barcelona,Betis,La Liga,27
+2027-03-07,12:00,Elche,Málaga CF,La Liga,27
+2027-03-07,12:00,Alaves,Athletic Club,La Liga,27
+2027-03-07,12:00,Vallecano,Osasuna,La Liga,27
+2027-03-07,12:00,Sevilla,Sociedad,La Liga,27
+2027-03-07,12:00,Ath Madrid,Celta,La Liga,27
+2027-03-07,12:00,Villarreal,Real Madrid,La Liga,27
+2027-03-07,12:00,Valencia,Levante,La Liga,27
+2027-03-07,12:00,RC Deportivo La Coruña,Getafe,La Liga,27
+2027-03-07,12:00,Espanol,Real Racing Club de Santander,La Liga,27
+2027-03-14,12:00,Osasuna,Celta,La Liga,28
+2027-03-14,12:00,Elche,Villarreal,La Liga,28
+2027-03-14,12:00,Alaves,Sevilla,La Liga,28
+2027-03-14,12:00,Athletic Club,Valencia,La Liga,28
+2027-03-14,12:00,Betis,Levante,La Liga,28
+2027-03-14,12:00,Real Racing Club de Santander,Ath Madrid,La Liga,28
+2027-03-14,12:00,Málaga CF,Vallecano,La Liga,28
+2027-03-14,12:00,Getafe,Sociedad,La Liga,28
+2027-03-14,12:00,Barcelona,RC Deportivo La Coruña,La Liga,28
+2027-03-14,12:00,Real Madrid,Espanol,La Liga,28
+2027-03-21,12:00,Villarreal,Málaga CF,La Liga,29
+2027-03-21,12:00,Sevilla,Elche,La Liga,29
+2027-03-21,12:00,Levante,Osasuna,La Liga,29
+2027-03-21,12:00,Celta,Real Madrid,La Liga,29
+2027-03-21,12:00,Vallecano,Barcelona,La Liga,29
+2027-03-21,12:00,Sociedad,Alaves,La Liga,29
+2027-03-21,12:00,Espanol,Athletic Club,La Liga,29
+2027-03-21,12:00,Real Racing Club de Santander,Betis,La Liga,29
+2027-03-21,12:00,Valencia,RC Deportivo La Coruña,La Liga,29
+2027-03-21,12:00,Ath Madrid,Getafe,La Liga,29
+2027-04-04,12:00,Levante,Vallecano,La Liga,30
+2027-04-04,12:00,Barcelona,Sevilla,La Liga,30
+2027-04-04,12:00,Málaga CF,Osasuna,La Liga,30
+2027-04-04,12:00,Athletic Club,Real Racing Club de Santander,La Liga,30
+2027-04-04,12:00,RC Deportivo La Coruña,Villarreal,La Liga,30
+2027-04-04,12:00,Sociedad,Valencia,La Liga,30
+2027-04-04,12:00,Elche,Alaves,La Liga,30
+2027-04-04,12:00,Real Madrid,Ath Madrid,La Liga,30
+2027-04-04,12:00,Getafe,Espanol,La Liga,30
+2027-04-04,12:00,Betis,Celta,La Liga,30
+2027-04-11,12:00,Vallecano,Sociedad,La Liga,31
+2027-04-11,12:00,Espanol,Málaga CF,La Liga,31
+2027-04-11,12:00,Villarreal,Athletic Club,La Liga,31
+2027-04-11,12:00,Alaves,Betis,La Liga,31
+2027-04-11,12:00,Valencia,Getafe,La Liga,31
+2027-04-11,12:00,Sevilla,RC Deportivo La Coruña,La Liga,31
+2027-04-11,12:00,Celta,Elche,La Liga,31
+2027-04-11,12:00,Real Racing Club de Santander,Barcelona,La Liga,31
+2027-04-11,12:00,Osasuna,Real Madrid,La Liga,31
+2027-04-11,12:00,Ath Madrid,Levante,La Liga,31
+2027-04-18,12:00,Ath Madrid,Sevilla,La Liga,32
+2027-04-18,12:00,Barcelona,Espanol,La Liga,32
+2027-04-18,12:00,Levante,Villarreal,La Liga,32
+2027-04-18,12:00,Sociedad,Real Racing Club de Santander,La Liga,32
+2027-04-18,12:00,Málaga CF,Valencia,La Liga,32
+2027-04-18,12:00,RC Deportivo La Coruña,Celta,La Liga,32
+2027-04-18,12:00,Elche,Osasuna,La Liga,32
+2027-04-18,12:00,Alaves,Vallecano,La Liga,32
+2027-04-18,12:00,Betis,Athletic Club,La Liga,32
+2027-04-18,12:00,Getafe,Real Madrid,La Liga,32
+2027-04-21,12:00,Getafe,Betis,La Liga,33
+2027-04-21,12:00,Valencia,Vallecano,La Liga,33
+2027-04-21,12:00,Celta,Barcelona,La Liga,33
+2027-04-21,12:00,Osasuna,Alaves,La Liga,33
+2027-04-21,12:00,Real Madrid,Elche,La Liga,33
+2027-04-21,12:00,Athletic Club,RC Deportivo La Coruña,La Liga,33
+2027-04-21,12:00,Real Racing Club de Santander,Málaga CF,La Liga,33
+2027-04-21,12:00,Villarreal,Ath Madrid,La Liga,33
+2027-04-21,12:00,Sevilla,Levante,La Liga,33
+2027-04-21,12:00,Espanol,Sociedad,La Liga,33
+2027-05-02,12:00,RC Deportivo La Coruña,Real Racing Club de Santander,La Liga,34
+2027-05-02,12:00,Celta,Sevilla,La Liga,34
+2027-05-02,12:00,Sociedad,Athletic Club,La Liga,34
+2027-05-02,12:00,Barcelona,Osasuna,La Liga,34
+2027-05-02,12:00,Vallecano,Villarreal,La Liga,34
+2027-05-02,12:00,Málaga CF,Getafe,La Liga,34
+2027-05-02,12:00,Betis,Valencia,La Liga,34
+2027-05-02,12:00,Elche,Espanol,La Liga,34
+2027-05-02,12:00,Levante,Real Madrid,La Liga,34
+2027-05-02,12:00,Ath Madrid,Alaves,La Liga,34
+2027-05-09,12:00,Valencia,Ath Madrid,La Liga,35
+2027-05-09,12:00,Osasuna,Sociedad,La Liga,35
+2027-05-09,12:00,Alaves,Levante,La Liga,35
+2027-05-09,12:00,Athletic Club,Málaga CF,La Liga,35
+2027-05-09,12:00,Real Racing Club de Santander,Sevilla,La Liga,35
+2027-05-09,12:00,Vallecano,RC Deportivo La Coruña,La Liga,35
+2027-05-09,12:00,Betis,Espanol,La Liga,35
+2027-05-09,12:00,Real Madrid,Barcelona,La Liga,35
+2027-05-09,12:00,Getafe,Elche,La Liga,35
+2027-05-09,12:00,Villarreal,Celta,La Liga,35
+2027-05-16,12:00,Ath Madrid,Vallecano,La Liga,36
+2027-05-16,12:00,Sevilla,Villarreal,La Liga,36
+2027-05-16,12:00,Sociedad,Barcelona,La Liga,36
+2027-05-16,12:00,Elche,Athletic Club,La Liga,36
+2027-05-16,12:00,Málaga CF,Celta,La Liga,36
+2027-05-16,12:00,RC Deportivo La Coruña,Alaves,La Liga,36
+2027-05-16,12:00,Levante,Getafe,La Liga,36
+2027-05-16,12:00,Espanol,Valencia,La Liga,36
+2027-05-16,12:00,Real Madrid,Real Racing Club de Santander,La Liga,36
+2027-05-16,12:00,Osasuna,Betis,La Liga,36
+2027-05-23,12:00,Ath Madrid,Athletic Club,La Liga,37
+2027-05-23,12:00,Alaves,Real Madrid,La Liga,37
+2027-05-23,12:00,Sevilla,Getafe,La Liga,37
+2027-05-23,12:00,Villarreal,Osasuna,La Liga,37
+2027-05-23,12:00,Real Racing Club de Santander,Levante,La Liga,37
+2027-05-23,12:00,RC Deportivo La Coruña,Espanol,La Liga,37
+2027-05-23,12:00,Vallecano,Betis,La Liga,37
+2027-05-23,12:00,Barcelona,Málaga CF,La Liga,37
+2027-05-23,12:00,Valencia,Elche,La Liga,37
+2027-05-23,12:00,Celta,Sociedad,La Liga,37
+2027-05-30,12:00,Levante,Celta,La Liga,38
+2027-05-30,12:00,Real Madrid,RC Deportivo La Coruña,La Liga,38
+2027-05-30,12:00,Betis,Ath Madrid,La Liga,38
+2027-05-30,12:00,Sociedad,Villarreal,La Liga,38
+2027-05-30,12:00,Málaga CF,Sevilla,La Liga,38
+2027-05-30,12:00,Elche,Real Racing Club de Santander,La Liga,38
+2027-05-30,12:00,Athletic Club,Vallecano,La Liga,38
+2027-05-30,12:00,Espanol,Alaves,La Liga,38
+2027-05-30,12:00,Getafe,Barcelona,La Liga,38
+2027-05-30,12:00,Osasuna,Valencia,La Liga,38
