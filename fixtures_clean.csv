@@ -382,7 +382,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-08-23,16:30,Udinese,Como,Serie A,1
 2026-08-23,16:30,Bologna,Lazio,Serie A,1
 2026-08-23,16:30,Genoa,Napoli,Serie A,1
-2026-08-23,16:30,Inter,Monza,Serie A,1
+2026-08-23,16:30,Milan,Monza,Serie A,1
 2026-08-23,16:30,Atalanta,Sassuolo,Serie A,1
 2026-08-23,16:30,Torino,Milan,Serie A,1
 2026-08-23,16:30,Frosinone,Juventus,Serie A,1
@@ -393,7 +393,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-08-30,16:30,Sassuolo,Torino,Serie A,2
 2026-08-30,16:30,Lecce,Roma,Serie A,2
 2026-08-30,16:30,Lazio,Genoa,Serie A,2
-2026-08-30,16:30,Cagliari,Inter,Serie A,2
+2026-08-30,16:30,Cagliari,Milan,Serie A,2
 2026-08-30,16:30,Monza,Udinese,Serie A,2
 2026-08-30,16:30,Milan,Venezia,Serie A,2
 2026-08-30,16:30,Napoli,Como,Serie A,2
@@ -404,14 +404,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-09-06,16:30,Roma,Atalanta,Serie A,3
 2026-09-06,16:30,Parma,Monza,Serie A,3
 2026-09-06,16:30,Bologna,Sassuolo,Serie A,3
-2026-09-06,16:30,Inter,Napoli,Serie A,3
+2026-09-06,16:30,Milan,Napoli,Serie A,3
 2026-09-06,16:30,Frosinone,Venezia,Serie A,3
 2026-09-06,16:30,Fiorentina,Torino,Serie A,3
 2026-09-06,16:30,Udinese,Lazio,Serie A,3
 2026-09-06,16:30,Juventus,Milan,Serie A,3
 2026-09-13,16:30,Napoli,Bologna,Serie A,4
 2026-09-13,16:30,Lazio,Milan,Serie A,4
-2026-09-13,16:30,Inter,Udinese,Serie A,4
+2026-09-13,16:30,Milan,Udinese,Serie A,4
 2026-09-13,16:30,Como,Parma,Serie A,4
 2026-09-13,16:30,Torino,Roma,Serie A,4
 2026-09-13,16:30,Genoa,Frosinone,Serie A,4
@@ -420,7 +420,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-09-13,16:30,Atalanta,Cagliari,Serie A,4
 2026-09-13,16:30,Sassuolo,Juventus,Serie A,4
 2026-09-20,16:30,Frosinone,Como,Serie A,5
-2026-09-20,16:30,Roma,Inter,Serie A,5
+2026-09-20,16:30,Roma,Milan,Serie A,5
 2026-09-20,16:30,Venezia,Lazio,Serie A,5
 2026-09-20,16:30,Juventus,Atalanta,Serie A,5
 2026-09-20,16:30,Monza,Sassuolo,Serie A,5
@@ -432,7 +432,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-11,16:30,Atalanta,Venezia,Serie A,6
 2026-10-11,16:30,Sassuolo,Milan,Serie A,6
 2026-10-11,16:30,Lecce,Bologna,Serie A,6
-2026-10-11,16:30,Inter,Parma,Serie A,6
+2026-10-11,16:30,Milan,Parma,Serie A,6
 2026-10-11,16:30,Lazio,Monza,Serie A,6
 2026-10-11,16:30,Cagliari,Juventus,Serie A,6
 2026-10-11,16:30,Como,Roma,Serie A,6
@@ -441,7 +441,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-11,16:30,Genoa,Fiorentina,Serie A,6
 2026-10-18,16:30,Milan,Atalanta,Serie A,7
 2026-10-18,16:30,Juventus,Lazio,Serie A,7
-2026-10-18,16:30,Bologna,Inter,Serie A,7
+2026-10-18,16:30,Bologna,Milan,Serie A,7
 2026-10-18,16:30,Roma,Genoa,Serie A,7
 2026-10-18,16:30,Frosinone,Sassuolo,Serie A,7
 2026-10-18,16:30,Udinese,Lecce,Serie A,7
@@ -453,14 +453,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-25,17:30,Cagliari,Bologna,Serie A,8
 2026-10-25,17:30,Como,Sassuolo,Serie A,8
 2026-10-25,17:30,Atalanta,Frosinone,Serie A,8
-2026-10-25,17:30,Inter,Fiorentina,Serie A,8
+2026-10-25,17:30,Milan,Fiorentina,Serie A,8
 2026-10-25,17:30,Napoli,Roma,Serie A,8
 2026-10-25,17:30,Lazio,Parma,Serie A,8
 2026-10-25,17:30,Lecce,Juventus,Serie A,8
 2026-10-25,17:30,Torino,Monza,Serie A,8
 2026-10-25,17:30,Genoa,Venezia,Serie A,8
 2026-10-28,17:30,Milan,Bologna,Serie A,9
-2026-10-28,17:30,Venezia,Inter,Serie A,9
+2026-10-28,17:30,Venezia,Milan,Serie A,9
 2026-10-28,17:30,Fiorentina,Atalanta,Serie A,9
 2026-10-28,17:30,Genoa,Juventus,Serie A,9
 2026-10-28,17:30,Parma,Udinese,Serie A,9
@@ -478,9 +478,9 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-11-01,17:30,Atalanta,Parma,Serie A,10
 2026-11-01,17:30,Lazio,Cagliari,Serie A,10
 2026-11-01,17:30,Juventus,Napoli,Serie A,10
-2026-11-01,17:30,Milan,Inter,Serie A,10
+2026-11-01,17:30,Milan,Milan,Serie A,10
 2026-11-08,17:30,Fiorentina,Juventus,Serie A,11
-2026-11-08,17:30,Inter,Como,Serie A,11
+2026-11-08,17:30,Milan,Como,Serie A,11
 2026-11-08,17:30,Roma,Sassuolo,Serie A,11
 2026-11-08,17:30,Torino,Lecce,Serie A,11
 2026-11-08,17:30,Napoli,Lazio,Serie A,11
@@ -490,7 +490,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-11-08,17:30,Venezia,Udinese,Serie A,11
 2026-11-08,17:30,Monza,Atalanta,Serie A,11
 2026-11-22,17:30,Monza,Fiorentina,Serie A,12
-2026-11-22,17:30,Atalanta,Inter,Serie A,12
+2026-11-22,17:30,Atalanta,Milan,Serie A,12
 2026-11-22,17:30,Juventus,Venezia,Serie A,12
 2026-11-22,17:30,Bologna,Udinese,Serie A,12
 2026-11-22,17:30,Milan,Frosinone,Serie A,12
@@ -508,10 +508,10 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-11-29,17:30,Venezia,Bologna,Serie A,13
 2026-11-29,17:30,Lecce,Atalanta,Serie A,13
 2026-11-29,17:30,Udinese,Fiorentina,Serie A,13
-2026-11-29,17:30,Inter,Genoa,Serie A,13
+2026-11-29,17:30,Milan,Genoa,Serie A,13
 2026-12-06,17:30,Genoa,Torino,Serie A,14
 2026-12-06,17:30,Juventus,Udinese,Serie A,14
-2026-12-06,17:30,Frosinone,Inter,Serie A,14
+2026-12-06,17:30,Frosinone,Milan,Serie A,14
 2026-12-06,17:30,Bologna,Roma,Serie A,14
 2026-12-06,17:30,Fiorentina,Cagliari,Serie A,14
 2026-12-06,17:30,Lazio,Atalanta,Serie A,14
@@ -525,7 +525,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-12-13,17:30,Lecce,Sassuolo,Serie A,15
 2026-12-13,17:30,Parma,Fiorentina,Serie A,15
 2026-12-13,17:30,Cagliari,Venezia,Serie A,15
-2026-12-13,17:30,Inter,Torino,Serie A,15
+2026-12-13,17:30,Milan,Torino,Serie A,15
 2026-12-13,17:30,Juventus,Monza,Serie A,15
 2026-12-13,17:30,Atalanta,Genoa,Serie A,15
 2026-12-13,17:30,Lazio,Roma,Serie A,15
@@ -536,7 +536,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-12-20,17:30,Atalanta,Napoli,Serie A,16
 2026-12-20,17:30,Fiorentina,Bologna,Serie A,16
 2026-12-20,17:30,Genoa,Udinese,Serie A,16
-2026-12-20,17:30,Lecce,Inter,Serie A,16
+2026-12-20,17:30,Lecce,Milan,Serie A,16
 2026-12-20,17:30,Torino,Cagliari,Serie A,16
 2026-12-20,17:30,Venezia,Monza,Serie A,16
 2027-01-03,12:00,Udinese,Atalanta,Serie A,17
@@ -546,7 +546,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-03,12:00,Cagliari,Genoa,Serie A,17
 2027-01-03,12:00,Torino,Venezia,Serie A,17
 2027-01-03,12:00,Monza,Milan,Serie A,17
-2027-01-03,12:00,Inter,Sassuolo,Serie A,17
+2027-01-03,12:00,Milan,Sassuolo,Serie A,17
 2027-01-03,12:00,Bologna,Juventus,Serie A,17
 2027-01-03,12:00,Fiorentina,Lazio,Serie A,17
 2027-01-06,12:00,Frosinone,Bologna,Serie A,18
@@ -557,20 +557,20 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-06,12:00,Milan,Fiorentina,Serie A,18
 2027-01-06,12:00,Juventus,Torino,Serie A,18
 2027-01-06,12:00,Atalanta,Como,Serie A,18
-2027-01-06,12:00,Lazio,Inter,Serie A,18
+2027-01-06,12:00,Lazio,Milan,Serie A,18
 2027-01-06,12:00,Lecce,Parma,Serie A,18
 2027-01-10,12:00,Fiorentina,Lecce,Serie A,19
 2027-01-10,12:00,Udinese,Napoli,Serie A,19
 2027-01-10,12:00,Torino,Atalanta,Serie A,19
 2027-01-10,12:00,Monza,Frosinone,Serie A,19
-2027-01-10,12:00,Inter,Juventus,Serie A,19
+2027-01-10,12:00,Milan,Juventus,Serie A,19
 2027-01-10,12:00,Parma,Venezia,Serie A,19
 2027-01-10,12:00,Bologna,Genoa,Serie A,19
 2027-01-10,12:00,Cagliari,Sassuolo,Serie A,19
 2027-01-10,12:00,Como,Lazio,Serie A,19
 2027-01-10,12:00,Roma,Milan,Serie A,19
 2027-01-17,12:00,Milan,Torino,Serie A,20
-2027-01-17,12:00,Parma,Inter,Serie A,20
+2027-01-17,12:00,Parma,Milan,Serie A,20
 2027-01-17,12:00,Juventus,Genoa,Serie A,20
 2027-01-17,12:00,Lecce,Udinese,Serie A,20
 2027-01-17,12:00,Cagliari,Como,Serie A,20
@@ -581,7 +581,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-17,12:00,Atalanta,Roma,Serie A,20
 2027-01-24,12:00,Lecce,Torino,Serie A,21
 2027-01-24,12:00,Juventus,Cagliari,Serie A,21
-2027-01-24,12:00,Inter,Venezia,Serie A,21
+2027-01-24,12:00,Milan,Venezia,Serie A,21
 2027-01-24,12:00,Fiorentina,Sassuolo,Serie A,21
 2027-01-24,12:00,Frosinone,Milan,Serie A,21
 2027-01-24,12:00,Roma,Udinese,Serie A,21
@@ -598,9 +598,9 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-31,12:00,Cagliari,Parma,Serie A,22
 2027-01-31,12:00,Atalanta,Fiorentina,Serie A,22
 2027-01-31,12:00,Lazio,Venezia,Serie A,22
-2027-01-31,12:00,Napoli,Inter,Serie A,22
+2027-01-31,12:00,Napoli,Milan,Serie A,22
 2027-02-07,12:00,Juventus,Sassuolo,Serie A,23
-2027-02-07,12:00,Inter,Cagliari,Serie A,23
+2027-02-07,12:00,Milan,Cagliari,Serie A,23
 2027-02-07,12:00,Como,Monza,Serie A,23
 2027-02-07,12:00,Lecce,Napoli,Serie A,23
 2027-02-07,12:00,Venezia,Genoa,Serie A,23
@@ -618,18 +618,18 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-02-14,12:00,Udinese,Venezia,Serie A,24
 2027-02-14,12:00,Genoa,Atalanta,Serie A,24
 2027-02-14,12:00,Cagliari,Lazio,Serie A,24
-2027-02-14,12:00,Inter,Milan,Serie A,24
+2027-02-14,12:00,Milan,Milan,Serie A,24
 2027-02-21,12:00,Como,Torino,Serie A,25
 2027-02-21,12:00,Atalanta,Monza,Serie A,25
 2027-02-21,12:00,Udinese,Parma,Serie A,25
 2027-02-21,12:00,Juventus,Bologna,Serie A,25
-2027-02-21,12:00,Fiorentina,Inter,Serie A,25
+2027-02-21,12:00,Fiorentina,Milan,Serie A,25
 2027-02-21,12:00,Sassuolo,Roma,Serie A,25
 2027-02-21,12:00,Milan,Genoa,Serie A,25
 2027-02-21,12:00,Venezia,Cagliari,Serie A,25
 2027-02-21,12:00,Lecce,Frosinone,Serie A,25
 2027-02-21,12:00,Lazio,Napoli,Serie A,25
-2027-02-28,12:00,Inter,Atalanta,Serie A,26
+2027-02-28,12:00,Milan,Atalanta,Serie A,26
 2027-02-28,12:00,Cagliari,Udinese,Serie A,26
 2027-02-28,12:00,Parma,Sassuolo,Serie A,26
 2027-02-28,12:00,Genoa,Lazio,Serie A,26
@@ -639,7 +639,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-02-28,12:00,Bologna,Lecce,Serie A,26
 2027-02-28,12:00,Monza,Juventus,Serie A,26
 2027-02-28,12:00,Frosinone,Napoli,Serie A,26
-2027-03-07,12:00,Udinese,Inter,Serie A,27
+2027-03-07,12:00,Udinese,Milan,Serie A,27
 2027-03-07,12:00,Atalanta,Torino,Serie A,27
 2027-03-07,12:00,Napoli,Parma,Serie A,27
 2027-03-07,12:00,Lecce,Como,Serie A,27
@@ -654,7 +654,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-03-14,12:00,Milan,Sassuolo,Serie A,28
 2027-03-14,12:00,Genoa,Roma,Serie A,28
 2027-03-14,12:00,Parma,Lecce,Serie A,28
-2027-03-14,12:00,Torino,Inter,Serie A,28
+2027-03-14,12:00,Torino,Milan,Serie A,28
 2027-03-14,12:00,Frosinone,Monza,Serie A,28
 2027-03-14,12:00,Como,Udinese,Serie A,28
 2027-03-14,12:00,Lazio,Juventus,Serie A,28
@@ -666,7 +666,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-03-21,12:00,Parma,Lazio,Serie A,29
 2027-03-21,12:00,Sassuolo,Cagliari,Serie A,29
 2027-03-21,12:00,Monza,Bologna,Serie A,29
-2027-03-21,12:00,Inter,Frosinone,Serie A,29
+2027-03-21,12:00,Milan,Frosinone,Serie A,29
 2027-03-21,12:00,Roma,Lecce,Serie A,29
 2027-03-21,12:00,Atalanta,Milan,Serie A,29
 2027-04-04,12:00,Lecce,Lazio,Serie A,30
@@ -675,7 +675,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-04-04,12:00,Sassuolo,Atalanta,Serie A,30
 2027-04-04,12:00,Roma,Bologna,Serie A,30
 2027-04-04,12:00,Milan,Monza,Serie A,30
-2027-04-04,12:00,Genoa,Inter,Serie A,30
+2027-04-04,12:00,Genoa,Milan,Serie A,30
 2027-04-04,12:00,Torino,Juventus,Serie A,30
 2027-04-04,12:00,Venezia,Parma,Serie A,30
 2027-04-04,12:00,Frosinone,Udinese,Serie A,30
@@ -687,9 +687,9 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-04-11,12:00,Parma,Como,Serie A,31
 2027-04-11,12:00,Bologna,Venezia,Serie A,31
 2027-04-11,12:00,Frosinone,Genoa,Serie A,31
-2027-04-11,12:00,Inter,Roma,Serie A,31
+2027-04-11,12:00,Milan,Roma,Serie A,31
 2027-04-11,12:00,Udinese,Monza,Serie A,31
-2027-04-18,12:00,Monza,Inter,Serie A,32
+2027-04-18,12:00,Monza,Milan,Serie A,32
 2027-04-18,12:00,Fiorentina,Parma,Serie A,32
 2027-04-18,12:00,Roma,Lazio,Serie A,32
 2027-04-18,12:00,Como,Frosinone,Serie A,32
@@ -708,14 +708,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-04-25,12:00,Genoa,Sassuolo,Serie A,33
 2027-04-25,12:00,Lecce,Milan,Serie A,33
 2027-04-25,12:00,Venezia,Torino,Serie A,33
-2027-04-25,12:00,Inter,Bologna,Serie A,33
+2027-04-25,12:00,Milan,Bologna,Serie A,33
 2027-05-02,12:00,Atalanta,Juventus,Serie A,34
 2027-05-02,12:00,Torino,Parma,Serie A,34
 2027-05-02,12:00,Milan,Lazio,Serie A,34
 2027-05-02,12:00,Udinese,Genoa,Serie A,34
 2027-05-02,12:00,Sassuolo,Frosinone,Serie A,34
 2027-05-02,12:00,Bologna,Fiorentina,Serie A,34
-2027-05-02,12:00,Como,Inter,Serie A,34
+2027-05-02,12:00,Como,Milan,Serie A,34
 2027-05-02,12:00,Monza,Venezia,Serie A,34
 2027-05-02,12:00,Lecce,Cagliari,Serie A,34
 2027-05-02,12:00,Roma,Napoli,Serie A,34
@@ -723,7 +723,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-09,12:00,Genoa,Cagliari,Serie A,35
 2027-05-09,12:00,Lazio,Sassuolo,Serie A,35
 2027-05-09,12:00,Napoli,Monza,Serie A,35
-2027-05-09,12:00,Inter,Lecce,Serie A,35
+2027-05-09,12:00,Milan,Lecce,Serie A,35
 2027-05-09,12:00,Venezia,Como,Serie A,35
 2027-05-09,12:00,Udinese,Juventus,Serie A,35
 2027-05-09,12:00,Torino,Bologna,Serie A,35
@@ -734,7 +734,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-16,12:00,Lazio,Udinese,Serie A,36
 2027-05-16,12:00,Bologna,Frosinone,Serie A,36
 2027-05-16,12:00,Como,Atalanta,Serie A,36
-2027-05-16,12:00,Juventus,Inter,Serie A,36
+2027-05-16,12:00,Juventus,Milan,Serie A,36
 2027-05-16,12:00,Sassuolo,Venezia,Serie A,36
 2027-05-16,12:00,Monza,Parma,Serie A,36
 2027-05-16,12:00,Milan,Roma,Serie A,36
@@ -743,7 +743,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-23,12:00,Parma,Juventus,Serie A,37
 2027-05-23,12:00,Torino,Napoli,Serie A,37
 2027-05-23,12:00,Atalanta,Lecce,Serie A,37
-2027-05-23,12:00,Inter,Lazio,Serie A,37
+2027-05-23,12:00,Milan,Lazio,Serie A,37
 2027-05-23,12:00,Udinese,Sassuolo,Serie A,37
 2027-05-23,12:00,Frosinone,Cagliari,Serie A,37
 2027-05-23,12:00,Fiorentina,Monza,Serie A,37
@@ -752,7 +752,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,12:00,Milan,Udinese,Serie A,38
 2027-05-30,12:00,Juventus,Frosinone,Serie A,38
 2027-05-30,12:00,Monza,Torino,Serie A,38
-2027-05-30,12:00,Sassuolo,Inter,Serie A,38
+2027-05-30,12:00,Sassuolo,Milan,Serie A,38
 2027-05-30,12:00,Cagliari,Roma,Serie A,38
 2027-05-30,12:00,Lazio,Fiorentina,Serie A,38
 2027-05-30,12:00,Como,Genoa,Serie A,38
@@ -1445,3 +1445,309 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,12:00,Espanol,Alaves,La Liga,38
 2027-05-30,12:00,Getafe,Barcelona,La Liga,38
 2027-05-30,12:00,Osasuna,Valencia,La Liga,38
+2026-08-28,18:30,Bayern Munich,Stuttgart,Bundesliga,1
+2026-08-29,13:30,RB Leipzig,M'gladbach,Bundesliga,1
+2026-08-29,13:30,Mainz,Paderborn,Bundesliga,1
+2026-08-29,13:30,Union Berlin,Ein Frankfurt,Bundesliga,1
+2026-08-29,13:30,SV 07 Elversberg,Leverkusen,Bundesliga,1
+2026-08-29,13:30,Dortmund,Hamburg,Bundesliga,1
+2026-08-29,13:30,Augsburg,Schalke 04,Bundesliga,1
+2026-08-29,13:30,FC Koln,Hoffenheim,Bundesliga,1
+2026-08-29,13:30,Freiburg,Werder Bremen,Bundesliga,1
+2026-09-05,13:30,Werder Bremen,RB Leipzig,Bundesliga,2
+2026-09-05,13:30,Ein Frankfurt,Augsburg,Bundesliga,2
+2026-09-05,13:30,Hoffenheim,Dortmund,Bundesliga,2
+2026-09-05,13:30,Hamburg,Mainz,Bundesliga,2
+2026-09-05,13:30,Schalke 04,Bayern Munich,Bundesliga,2
+2026-09-05,13:30,Leverkusen,Union Berlin,Bundesliga,2
+2026-09-05,13:30,Stuttgart,FC Koln,Bundesliga,2
+2026-09-05,13:30,M'gladbach,SV 07 Elversberg,Bundesliga,2
+2026-09-05,13:30,Paderborn,Freiburg,Bundesliga,2
+2026-09-12,13:30,Hoffenheim,Stuttgart,Bundesliga,3
+2026-09-12,13:30,Dortmund,Paderborn,Bundesliga,3
+2026-09-12,13:30,Augsburg,Leverkusen,Bundesliga,3
+2026-09-12,13:30,Union Berlin,Schalke 04,Bundesliga,3
+2026-09-12,13:30,FC Koln,Werder Bremen,Bundesliga,3
+2026-09-12,13:30,RB Leipzig,Hamburg,Bundesliga,3
+2026-09-12,13:30,SV 07 Elversberg,Bayern Munich,Bundesliga,3
+2026-09-12,13:30,Mainz,Ein Frankfurt,Bundesliga,3
+2026-09-12,13:30,Freiburg,M'gladbach,Bundesliga,3
+2026-09-19,13:30,Paderborn,Hoffenheim,Bundesliga,4
+2026-09-19,13:30,Bayern Munich,Union Berlin,Bundesliga,4
+2026-09-19,13:30,Schalke 04,SV 07 Elversberg,Bundesliga,4
+2026-09-19,13:30,Stuttgart,Dortmund,Bundesliga,4
+2026-09-19,13:30,Leverkusen,RB Leipzig,Bundesliga,4
+2026-09-19,13:30,Hamburg,FC Koln,Bundesliga,4
+2026-09-19,13:30,M'gladbach,Mainz,Bundesliga,4
+2026-09-19,13:30,Werder Bremen,Augsburg,Bundesliga,4
+2026-09-19,13:30,Ein Frankfurt,Freiburg,Bundesliga,4
+2026-10-10,13:30,Mainz,Leverkusen,Bundesliga,5
+2026-10-10,13:30,Paderborn,Stuttgart,Bundesliga,5
+2026-10-10,13:30,FC Koln,M'gladbach,Bundesliga,5
+2026-10-10,13:30,RB Leipzig,Ein Frankfurt,Bundesliga,5
+2026-10-10,13:30,Freiburg,Schalke 04,Bundesliga,5
+2026-10-10,13:30,Union Berlin,SV 07 Elversberg,Bundesliga,5
+2026-10-10,13:30,Hoffenheim,Hamburg,Bundesliga,5
+2026-10-10,13:30,Augsburg,Bayern Munich,Bundesliga,5
+2026-10-10,13:30,Dortmund,Werder Bremen,Bundesliga,5
+2026-10-17,13:30,Union Berlin,Dortmund,Bundesliga,6
+2026-10-17,13:30,Hamburg,Stuttgart,Bundesliga,6
+2026-10-17,13:30,Werder Bremen,Paderborn,Bundesliga,6
+2026-10-17,13:30,SV 07 Elversberg,Augsburg,Bundesliga,6
+2026-10-17,13:30,Bayern Munich,RB Leipzig,Bundesliga,6
+2026-10-17,13:30,M'gladbach,Hoffenheim,Bundesliga,6
+2026-10-17,13:30,Leverkusen,Freiburg,Bundesliga,6
+2026-10-17,13:30,Ein Frankfurt,FC Koln,Bundesliga,6
+2026-10-17,13:30,Schalke 04,Mainz,Bundesliga,6
+2026-10-24,13:30,Mainz,Werder Bremen,Bundesliga,7
+2026-10-24,13:30,FC Koln,Schalke 04,Bundesliga,7
+2026-10-24,13:30,RB Leipzig,SV 07 Elversberg,Bundesliga,7
+2026-10-24,13:30,Stuttgart,M'gladbach,Bundesliga,7
+2026-10-24,13:30,Paderborn,Hamburg,Bundesliga,7
+2026-10-24,13:30,Hoffenheim,Leverkusen,Bundesliga,7
+2026-10-24,13:30,Freiburg,Bayern Munich,Bundesliga,7
+2026-10-24,13:30,Dortmund,Ein Frankfurt,Bundesliga,7
+2026-10-24,13:30,Augsburg,Union Berlin,Bundesliga,7
+2026-10-31,14:30,M'gladbach,Paderborn,Bundesliga,8
+2026-10-31,14:30,Schalke 04,RB Leipzig,Bundesliga,8
+2026-10-31,14:30,Union Berlin,FC Koln,Bundesliga,8
+2026-10-31,14:30,Augsburg,Freiburg,Bundesliga,8
+2026-10-31,14:30,Werder Bremen,Hoffenheim,Bundesliga,8
+2026-10-31,14:30,Ein Frankfurt,Hamburg,Bundesliga,8
+2026-10-31,14:30,Bayern Munich,Dortmund,Bundesliga,8
+2026-10-31,14:30,SV 07 Elversberg,Mainz,Bundesliga,8
+2026-10-31,14:30,Leverkusen,Stuttgart,Bundesliga,8
+2026-11-07,14:30,RB Leipzig,Augsburg,Bundesliga,9
+2026-11-07,14:30,Stuttgart,Werder Bremen,Bundesliga,9
+2026-11-07,14:30,Dortmund,SV 07 Elversberg,Bundesliga,9
+2026-11-07,14:30,Mainz,Bayern Munich,Bundesliga,9
+2026-11-07,14:30,Hamburg,M'gladbach,Bundesliga,9
+2026-11-07,14:30,Paderborn,Ein Frankfurt,Bundesliga,9
+2026-11-07,14:30,Freiburg,Union Berlin,Bundesliga,9
+2026-11-07,14:30,FC Koln,Leverkusen,Bundesliga,9
+2026-11-07,14:30,Hoffenheim,Schalke 04,Bundesliga,9
+2026-11-21,14:30,Leverkusen,Paderborn,Bundesliga,10
+2026-11-21,14:30,Union Berlin,RB Leipzig,Bundesliga,10
+2026-11-21,14:30,Bayern Munich,FC Koln,Bundesliga,10
+2026-11-21,14:30,SV 07 Elversberg,Freiburg,Bundesliga,10
+2026-11-21,14:30,Schalke 04,Stuttgart,Bundesliga,10
+2026-11-21,14:30,M'gladbach,Dortmund,Bundesliga,10
+2026-11-21,14:30,Werder Bremen,Hamburg,Bundesliga,10
+2026-11-21,14:30,Augsburg,Mainz,Bundesliga,10
+2026-11-21,14:30,Ein Frankfurt,Hoffenheim,Bundesliga,10
+2026-11-28,14:30,FC Koln,SV 07 Elversberg,Bundesliga,11
+2026-11-28,14:30,Mainz,Union Berlin,Bundesliga,11
+2026-11-28,14:30,Paderborn,Schalke 04,Bundesliga,11
+2026-11-28,14:30,Werder Bremen,M'gladbach,Bundesliga,11
+2026-11-28,14:30,Stuttgart,Ein Frankfurt,Bundesliga,11
+2026-11-28,14:30,Hoffenheim,Augsburg,Bundesliga,11
+2026-11-28,14:30,Dortmund,Leverkusen,Bundesliga,11
+2026-11-28,14:30,Freiburg,RB Leipzig,Bundesliga,11
+2026-11-28,14:30,Hamburg,Bayern Munich,Bundesliga,11
+2026-12-05,14:30,Union Berlin,Hamburg,Bundesliga,12
+2026-12-05,14:30,Schalke 04,Dortmund,Bundesliga,12
+2026-12-05,14:30,Leverkusen,M'gladbach,Bundesliga,12
+2026-12-05,14:30,Ein Frankfurt,Werder Bremen,Bundesliga,12
+2026-12-05,14:30,RB Leipzig,Mainz,Bundesliga,12
+2026-12-05,14:30,SV 07 Elversberg,Stuttgart,Bundesliga,12
+2026-12-05,14:30,Freiburg,Hoffenheim,Bundesliga,12
+2026-12-05,14:30,Bayern Munich,Paderborn,Bundesliga,12
+2026-12-05,14:30,Augsburg,FC Koln,Bundesliga,12
+2026-12-12,14:30,Paderborn,SV 07 Elversberg,Bundesliga,13
+2026-12-12,14:30,Werder Bremen,Leverkusen,Bundesliga,13
+2026-12-12,14:30,Stuttgart,Union Berlin,Bundesliga,13
+2026-12-12,14:30,Dortmund,Augsburg,Bundesliga,13
+2026-12-12,14:30,Hamburg,Schalke 04,Bundesliga,13
+2026-12-12,14:30,Mainz,Freiburg,Bundesliga,13
+2026-12-12,14:30,FC Koln,RB Leipzig,Bundesliga,13
+2026-12-12,14:30,Hoffenheim,Bayern Munich,Bundesliga,13
+2026-12-12,14:30,M'gladbach,Ein Frankfurt,Bundesliga,13
+2026-12-19,14:30,Schalke 04,M'gladbach,Bundesliga,14
+2026-12-19,14:30,Bayern Munich,Werder Bremen,Bundesliga,14
+2026-12-19,14:30,SV 07 Elversberg,Hamburg,Bundesliga,14
+2026-12-19,14:30,Leverkusen,Ein Frankfurt,Bundesliga,14
+2026-12-19,14:30,Freiburg,Stuttgart,Bundesliga,14
+2026-12-19,14:30,RB Leipzig,Dortmund,Bundesliga,14
+2026-12-19,14:30,Mainz,FC Koln,Bundesliga,14
+2026-12-19,14:30,Union Berlin,Hoffenheim,Bundesliga,14
+2026-12-19,14:30,Augsburg,Paderborn,Bundesliga,14
+2027-01-09,12:00,Stuttgart,Augsburg,Bundesliga,15
+2027-01-09,12:00,Hamburg,Leverkusen,Bundesliga,15
+2027-01-09,12:00,FC Koln,Freiburg,Bundesliga,15
+2027-01-09,12:00,Ein Frankfurt,Schalke 04,Bundesliga,15
+2027-01-09,12:00,Hoffenheim,SV 07 Elversberg,Bundesliga,15
+2027-01-09,12:00,M'gladbach,Bayern Munich,Bundesliga,15
+2027-01-09,12:00,Dortmund,Mainz,Bundesliga,15
+2027-01-09,12:00,Werder Bremen,Union Berlin,Bundesliga,15
+2027-01-09,12:00,Paderborn,RB Leipzig,Bundesliga,15
+2027-01-13,12:00,Mainz,Hoffenheim,Bundesliga,16
+2027-01-13,12:00,Freiburg,Hamburg,Bundesliga,16
+2027-01-13,12:00,Schalke 04,Werder Bremen,Bundesliga,16
+2027-01-13,12:00,RB Leipzig,Stuttgart,Bundesliga,16
+2027-01-13,12:00,Union Berlin,Paderborn,Bundesliga,16
+2027-01-13,12:00,Bayern Munich,Leverkusen,Bundesliga,16
+2027-01-13,12:00,Augsburg,M'gladbach,Bundesliga,16
+2027-01-13,12:00,SV 07 Elversberg,Ein Frankfurt,Bundesliga,16
+2027-01-13,12:00,FC Koln,Dortmund,Bundesliga,16
+2027-01-16,12:00,Werder Bremen,SV 07 Elversberg,Bundesliga,17
+2027-01-16,12:00,Ein Frankfurt,Bayern Munich,Bundesliga,17
+2027-01-16,12:00,Paderborn,FC Koln,Bundesliga,17
+2027-01-16,12:00,Hoffenheim,RB Leipzig,Bundesliga,17
+2027-01-16,12:00,Leverkusen,Schalke 04,Bundesliga,17
+2027-01-16,12:00,Stuttgart,Mainz,Bundesliga,17
+2027-01-16,12:00,Hamburg,Augsburg,Bundesliga,17
+2027-01-16,12:00,M'gladbach,Union Berlin,Bundesliga,17
+2027-01-16,12:00,Dortmund,Freiburg,Bundesliga,17
+2027-01-23,12:00,Werder Bremen,Freiburg,Bundesliga,18
+2027-01-23,12:00,Hamburg,Dortmund,Bundesliga,18
+2027-01-23,12:00,Paderborn,Mainz,Bundesliga,18
+2027-01-23,12:00,Schalke 04,Augsburg,Bundesliga,18
+2027-01-23,12:00,Hoffenheim,FC Koln,Bundesliga,18
+2027-01-23,12:00,Stuttgart,Bayern Munich,Bundesliga,18
+2027-01-23,12:00,M'gladbach,RB Leipzig,Bundesliga,18
+2027-01-23,12:00,Ein Frankfurt,Union Berlin,Bundesliga,18
+2027-01-23,12:00,Leverkusen,SV 07 Elversberg,Bundesliga,18
+2027-01-30,12:00,SV 07 Elversberg,M'gladbach,Bundesliga,19
+2027-01-30,12:00,Augsburg,Ein Frankfurt,Bundesliga,19
+2027-01-30,12:00,Mainz,Hamburg,Bundesliga,19
+2027-01-30,12:00,RB Leipzig,Werder Bremen,Bundesliga,19
+2027-01-30,12:00,FC Koln,Stuttgart,Bundesliga,19
+2027-01-30,12:00,Union Berlin,Leverkusen,Bundesliga,19
+2027-01-30,12:00,Freiburg,Paderborn,Bundesliga,19
+2027-01-30,12:00,Dortmund,Hoffenheim,Bundesliga,19
+2027-01-30,12:00,Bayern Munich,Schalke 04,Bundesliga,19
+2027-02-06,12:00,Ein Frankfurt,Mainz,Bundesliga,20
+2027-02-06,12:00,M'gladbach,Freiburg,Bundesliga,20
+2027-02-06,12:00,Schalke 04,Union Berlin,Bundesliga,20
+2027-02-06,12:00,Hamburg,RB Leipzig,Bundesliga,20
+2027-02-06,12:00,Leverkusen,Augsburg,Bundesliga,20
+2027-02-06,12:00,Werder Bremen,FC Koln,Bundesliga,20
+2027-02-06,12:00,Stuttgart,Hoffenheim,Bundesliga,20
+2027-02-06,12:00,Bayern Munich,SV 07 Elversberg,Bundesliga,20
+2027-02-06,12:00,Paderborn,Dortmund,Bundesliga,20
+2027-02-13,12:00,FC Koln,Hamburg,Bundesliga,21
+2027-02-13,12:00,Mainz,M'gladbach,Bundesliga,21
+2027-02-13,12:00,Union Berlin,Bayern Munich,Bundesliga,21
+2027-02-13,12:00,SV 07 Elversberg,Schalke 04,Bundesliga,21
+2027-02-13,12:00,Dortmund,Stuttgart,Bundesliga,21
+2027-02-13,12:00,Hoffenheim,Paderborn,Bundesliga,21
+2027-02-13,12:00,Freiburg,Ein Frankfurt,Bundesliga,21
+2027-02-13,12:00,Augsburg,Werder Bremen,Bundesliga,21
+2027-02-13,12:00,RB Leipzig,Leverkusen,Bundesliga,21
+2027-02-20,12:00,Schalke 04,Freiburg,Bundesliga,22
+2027-02-20,12:00,Stuttgart,Paderborn,Bundesliga,22
+2027-02-20,12:00,M'gladbach,FC Koln,Bundesliga,22
+2027-02-20,12:00,Werder Bremen,Dortmund,Bundesliga,22
+2027-02-20,12:00,Hamburg,Hoffenheim,Bundesliga,22
+2027-02-20,12:00,Leverkusen,Mainz,Bundesliga,22
+2027-02-20,12:00,Ein Frankfurt,RB Leipzig,Bundesliga,22
+2027-02-20,12:00,Bayern Munich,Augsburg,Bundesliga,22
+2027-02-20,12:00,SV 07 Elversberg,Union Berlin,Bundesliga,22
+2027-02-27,12:00,Stuttgart,Hamburg,Bundesliga,23
+2027-02-27,12:00,FC Koln,Ein Frankfurt,Bundesliga,23
+2027-02-27,12:00,Freiburg,Leverkusen,Bundesliga,23
+2027-02-27,12:00,Augsburg,SV 07 Elversberg,Bundesliga,23
+2027-02-27,12:00,Mainz,Schalke 04,Bundesliga,23
+2027-02-27,12:00,Hoffenheim,M'gladbach,Bundesliga,23
+2027-02-27,12:00,Paderborn,Werder Bremen,Bundesliga,23
+2027-02-27,12:00,RB Leipzig,Bayern Munich,Bundesliga,23
+2027-02-27,12:00,Dortmund,Union Berlin,Bundesliga,23
+2027-03-03,12:00,Ein Frankfurt,Dortmund,Bundesliga,24
+2027-03-03,12:00,Schalke 04,FC Koln,Bundesliga,24
+2027-03-03,12:00,Leverkusen,Hoffenheim,Bundesliga,24
+2027-03-03,12:00,Bayern Munich,Freiburg,Bundesliga,24
+2027-03-03,12:00,Werder Bremen,Mainz,Bundesliga,24
+2027-03-03,12:00,Union Berlin,Augsburg,Bundesliga,24
+2027-03-03,12:00,SV 07 Elversberg,RB Leipzig,Bundesliga,24
+2027-03-03,12:00,M'gladbach,Stuttgart,Bundesliga,24
+2027-03-03,12:00,Hamburg,Paderborn,Bundesliga,24
+2027-03-06,12:00,Dortmund,Bayern Munich,Bundesliga,25
+2027-03-06,12:00,Freiburg,Augsburg,Bundesliga,25
+2027-03-06,12:00,Mainz,SV 07 Elversberg,Bundesliga,25
+2027-03-06,12:00,Hamburg,Ein Frankfurt,Bundesliga,25
+2027-03-06,12:00,Stuttgart,Leverkusen,Bundesliga,25
+2027-03-06,12:00,RB Leipzig,Schalke 04,Bundesliga,25
+2027-03-06,12:00,Paderborn,M'gladbach,Bundesliga,25
+2027-03-06,12:00,FC Koln,Union Berlin,Bundesliga,25
+2027-03-06,12:00,Hoffenheim,Werder Bremen,Bundesliga,25
+2027-03-13,12:00,Union Berlin,Freiburg,Bundesliga,26
+2027-03-13,12:00,SV 07 Elversberg,Dortmund,Bundesliga,26
+2027-03-13,12:00,Ein Frankfurt,Paderborn,Bundesliga,26
+2027-03-13,12:00,Augsburg,RB Leipzig,Bundesliga,26
+2027-03-13,12:00,M'gladbach,Hamburg,Bundesliga,26
+2027-03-13,12:00,Werder Bremen,Stuttgart,Bundesliga,26
+2027-03-13,12:00,Schalke 04,Hoffenheim,Bundesliga,26
+2027-03-13,12:00,Bayern Munich,Mainz,Bundesliga,26
+2027-03-13,12:00,Leverkusen,FC Koln,Bundesliga,26
+2027-03-20,12:00,FC Koln,Bayern Munich,Bundesliga,27
+2027-03-20,12:00,Hoffenheim,Ein Frankfurt,Bundesliga,27
+2027-03-20,12:00,Dortmund,M'gladbach,Bundesliga,27
+2027-03-20,12:00,Mainz,Augsburg,Bundesliga,27
+2027-03-20,12:00,Stuttgart,Schalke 04,Bundesliga,27
+2027-03-20,12:00,RB Leipzig,Union Berlin,Bundesliga,27
+2027-03-20,12:00,Freiburg,SV 07 Elversberg,Bundesliga,27
+2027-03-20,12:00,Hamburg,Werder Bremen,Bundesliga,27
+2027-03-20,12:00,Paderborn,Leverkusen,Bundesliga,27
+2027-04-03,12:00,RB Leipzig,Freiburg,Bundesliga,28
+2027-04-03,12:00,SV 07 Elversberg,FC Koln,Bundesliga,28
+2027-04-03,12:00,Bayern Munich,Hamburg,Bundesliga,28
+2027-04-03,12:00,Augsburg,Hoffenheim,Bundesliga,28
+2027-04-03,12:00,M'gladbach,Werder Bremen,Bundesliga,28
+2027-04-03,12:00,Ein Frankfurt,Stuttgart,Bundesliga,28
+2027-04-03,12:00,Union Berlin,Mainz,Bundesliga,28
+2027-04-03,12:00,Leverkusen,Dortmund,Bundesliga,28
+2027-04-03,12:00,Schalke 04,Paderborn,Bundesliga,28
+2027-04-10,12:00,Stuttgart,SV 07 Elversberg,Bundesliga,29
+2027-04-10,12:00,Paderborn,Bayern Munich,Bundesliga,29
+2027-04-10,12:00,Hoffenheim,Freiburg,Bundesliga,29
+2027-04-10,12:00,Mainz,RB Leipzig,Bundesliga,29
+2027-04-10,12:00,Werder Bremen,Ein Frankfurt,Bundesliga,29
+2027-04-10,12:00,Dortmund,Schalke 04,Bundesliga,29
+2027-04-10,12:00,Hamburg,Union Berlin,Bundesliga,29
+2027-04-10,12:00,M'gladbach,Leverkusen,Bundesliga,29
+2027-04-10,12:00,FC Koln,Augsburg,Bundesliga,29
+2027-04-17,12:00,Leverkusen,Werder Bremen,Bundesliga,30
+2027-04-17,12:00,Ein Frankfurt,M'gladbach,Bundesliga,30
+2027-04-17,12:00,Union Berlin,Stuttgart,Bundesliga,30
+2027-04-17,12:00,Bayern Munich,Hoffenheim,Bundesliga,30
+2027-04-17,12:00,Schalke 04,Hamburg,Bundesliga,30
+2027-04-17,12:00,SV 07 Elversberg,Paderborn,Bundesliga,30
+2027-04-17,12:00,Augsburg,Dortmund,Bundesliga,30
+2027-04-17,12:00,Freiburg,Mainz,Bundesliga,30
+2027-04-17,12:00,RB Leipzig,FC Koln,Bundesliga,30
+2027-04-24,12:00,Werder Bremen,Bayern Munich,Bundesliga,31
+2027-04-24,12:00,FC Koln,Mainz,Bundesliga,31
+2027-04-24,12:00,Hamburg,SV 07 Elversberg,Bundesliga,31
+2027-04-24,12:00,Dortmund,RB Leipzig,Bundesliga,31
+2027-04-24,12:00,Hoffenheim,Union Berlin,Bundesliga,31
+2027-04-24,12:00,Paderborn,Augsburg,Bundesliga,31
+2027-04-24,12:00,Stuttgart,Freiburg,Bundesliga,31
+2027-04-24,12:00,M'gladbach,Schalke 04,Bundesliga,31
+2027-04-24,12:00,Ein Frankfurt,Leverkusen,Bundesliga,31
+2027-05-08,12:00,Schalke 04,Ein Frankfurt,Bundesliga,32
+2027-05-08,12:00,RB Leipzig,Paderborn,Bundesliga,32
+2027-05-08,12:00,Freiburg,FC Koln,Bundesliga,32
+2027-05-08,12:00,Mainz,Dortmund,Bundesliga,32
+2027-05-08,12:00,Augsburg,Stuttgart,Bundesliga,32
+2027-05-08,12:00,Union Berlin,Werder Bremen,Bundesliga,32
+2027-05-08,12:00,SV 07 Elversberg,Hoffenheim,Bundesliga,32
+2027-05-08,12:00,Leverkusen,Hamburg,Bundesliga,32
+2027-05-08,12:00,Bayern Munich,M'gladbach,Bundesliga,32
+2027-05-15,12:00,Ein Frankfurt,SV 07 Elversberg,Bundesliga,33
+2027-05-15,12:00,Paderborn,Union Berlin,Bundesliga,33
+2027-05-15,12:00,Stuttgart,RB Leipzig,Bundesliga,33
+2027-05-15,12:00,Dortmund,FC Koln,Bundesliga,33
+2027-05-15,12:00,Hamburg,Freiburg,Bundesliga,33
+2027-05-15,12:00,Leverkusen,Bayern Munich,Bundesliga,33
+2027-05-15,12:00,Werder Bremen,Schalke 04,Bundesliga,33
+2027-05-15,12:00,M'gladbach,Augsburg,Bundesliga,33
+2027-05-15,12:00,Hoffenheim,Mainz,Bundesliga,33
+2027-05-22,12:00,RB Leipzig,Hoffenheim,Bundesliga,34
+2027-05-22,12:00,Union Berlin,M'gladbach,Bundesliga,34
+2027-05-22,12:00,Mainz,Stuttgart,Bundesliga,34
+2027-05-22,12:00,Schalke 04,Leverkusen,Bundesliga,34
+2027-05-22,12:00,SV 07 Elversberg,Werder Bremen,Bundesliga,34
+2027-05-22,12:00,Bayern Munich,Ein Frankfurt,Bundesliga,34
+2027-05-22,12:00,Augsburg,Hamburg,Bundesliga,34
+2027-05-22,12:00,Freiburg,Dortmund,Bundesliga,34
+2027-05-22,12:00,FC Koln,Paderborn,Bundesliga,34
