@@ -379,9 +379,56 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-30T12:00:00Z,Sunderland AFC,Manchester City FC,Premier League,38
 2027-05-30T12:00:00Z,Chelsea FC,Brentford FC,Premier League,38
 2027-05-30T12:00:00Z,Crystal Palace FC,Leeds United FC,Premier League,38
+2026-08-22T16:30:00Z,Udinese Calcio,Como 1907,Serie A,1
+2026-08-22T16:30:00Z,FC Internazionale Milano,AC Monza,Serie A,1
+2026-08-22T18:45:00Z,Genoa CFC,SSC Napoli,Serie A,1
+2026-08-22T18:45:00Z,Parma Calcio 1913,Cagliari Calcio,Serie A,1
 2026-08-23T16:30:00Z,Frosinone Calcio,Juventus FC,Serie A,1
 2026-08-23T16:30:00Z,Venezia FC,US Lecce,Serie A,1
+2026-08-23T18:45:00Z,Atalanta BC,US Sassuolo Calcio,Serie A,1
+2026-08-23T18:45:00Z,Torino FC,AC Milan,Serie A,1
+2026-08-24T16:30:00Z,Bologna FC 1909,SS Lazio,Serie A,1
+2026-08-24T18:45:00Z,AS Roma,ACF Fiorentina,Serie A,1
+2026-08-28T18:45:00Z,AC Milan,Venezia FC,Serie A,2
+2026-08-29T16:30:00Z,US Sassuolo Calcio,Torino FC,Serie A,2
+2026-08-29T16:30:00Z,AC Monza,Udinese Calcio,Serie A,2
+2026-08-29T16:30:00Z,ACF Fiorentina,Frosinone Calcio,Serie A,2
+2026-08-29T18:45:00Z,Juventus FC,Parma Calcio 1913,Serie A,2
 2026-08-30T16:30:00Z,SSC Napoli,Como 1907,Serie A,2
+2026-08-30T18:45:00Z,SS Lazio,Genoa CFC,Serie A,2
+2026-08-30T18:45:00Z,Cagliari Calcio,FC Internazionale Milano,Serie A,2
+2026-08-31T16:30:00Z,US Lecce,AS Roma,Serie A,2
+2026-08-31T18:45:00Z,Atalanta BC,Bologna FC 1909,Serie A,2
+2026-09-04T18:45:00Z,Genoa CFC,Como 1907,Serie A,3
+2026-09-05T13:00:00Z,ACF Fiorentina,Torino FC,Serie A,3
+2026-09-05T16:00:00Z,FC Internazionale Milano,SSC Napoli,Serie A,3
+2026-09-05T18:45:00Z,AS Roma,Atalanta BC,Serie A,3
+2026-09-06T13:00:00Z,Parma Calcio 1913,AC Monza,Serie A,3
+2026-09-06T13:00:00Z,Frosinone Calcio,Venezia FC,Serie A,3
+2026-09-06T16:00:00Z,Bologna FC 1909,US Sassuolo Calcio,Serie A,3
+2026-09-06T18:45:00Z,Juventus FC,AC Milan,Serie A,3
+2026-09-07T16:00:00Z,Cagliari Calcio,US Lecce,Serie A,3
+2026-09-07T18:45:00Z,Udinese Calcio,SS Lazio,Serie A,3
+2026-09-11T18:45:00Z,Venezia FC,ACF Fiorentina,Serie A,4
+2026-09-12T13:00:00Z,Genoa CFC,Frosinone Calcio,Serie A,4
+2026-09-12T16:00:00Z,US Sassuolo Calcio,Juventus FC,Serie A,4
+2026-09-12T18:45:00Z,Atalanta BC,Cagliari Calcio,Serie A,4
+2026-09-13T10:30:00Z,Torino FC,AS Roma,Serie A,4
+2026-09-13T13:00:00Z,Como 1907,Parma Calcio 1913,Serie A,4
+2026-09-13T13:00:00Z,US Lecce,AC Monza,Serie A,4
+2026-09-13T16:00:00Z,SSC Napoli,Bologna FC 1909,Serie A,4
+2026-09-13T18:45:00Z,SS Lazio,AC Milan,Serie A,4
+2026-09-14T18:45:00Z,FC Internazionale Milano,Udinese Calcio,Serie A,4
+2026-09-18T18:45:00Z,AC Monza,US Sassuolo Calcio,Serie A,5
+2026-09-19T13:00:00Z,Bologna FC 1909,Torino FC,Serie A,5
+2026-09-19T13:00:00Z,Udinese Calcio,Cagliari Calcio,Serie A,5
+2026-09-19T16:00:00Z,AS Roma,FC Internazionale Milano,Serie A,5
+2026-09-19T18:45:00Z,Venezia FC,SS Lazio,Serie A,5
+2026-09-20T10:30:00Z,ACF Fiorentina,SSC Napoli,Serie A,5
+2026-09-20T13:00:00Z,Frosinone Calcio,Como 1907,Serie A,5
+2026-09-20T13:00:00Z,Parma Calcio 1913,Genoa CFC,Serie A,5
+2026-09-20T16:00:00Z,Juventus FC,Atalanta BC,Serie A,5
+2026-09-20T18:45:00Z,AC Milan,US Lecce,Serie A,5
 2026-10-11T16:30:00Z,Atalanta BC,Venezia FC,Serie A,6
 2026-10-11T16:30:00Z,US Sassuolo Calcio,AC Milan,Serie A,6
 2026-10-11T16:30:00Z,US Lecce,Bologna FC 1909,Serie A,6
