@@ -759,24 +759,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,12:00,Napoli,Atalanta,Serie A,38
 2027-05-30,12:00,Lecce,Venezia,Serie A,38
 2027-05-30,12:00,Bologna,Parma,Serie A,38
-2026-08-22,15:00,Le Mans FC,Brest,Ligue 1,1
-2026-08-22,15:00,Lens,Auxerre,Ligue 1,1
-2026-08-22,15:00,Paris SG,Rennes,Ligue 1,1
-2026-08-22,15:00,Troyes,Paris FC,Ligue 1,1
-2026-08-22,15:00,Marseille,Strasbourg,Ligue 1,1
-2026-08-22,15:00,Nice,Lorient,Ligue 1,1
-2026-08-22,15:00,Angers,Lille,Ligue 1,1
-2026-08-22,15:00,Toulouse,Lyon,Ligue 1,1
-2026-08-22,15:00,Le Havre,Monaco,Ligue 1,1
-2026-08-29,15:00,Monaco,Marseille,Ligue 1,2
-2026-08-29,15:00,Strasbourg,Lens,Ligue 1,2
-2026-08-29,15:00,Lorient,Troyes,Ligue 1,2
-2026-08-29,15:00,Lyon,Le Havre,Ligue 1,2
-2026-08-29,15:00,Paris FC,Nice,Ligue 1,2
-2026-08-29,15:00,Auxerre,Angers,Ligue 1,2
-2026-08-29,15:00,Rennes,Le Mans FC,Ligue 1,2
-2026-08-29,15:00,Brest,Toulouse,Ligue 1,2
-2026-08-30,18:45,Lille,Paris SG,Ligue 1,2
 2026-09-05,15:00,Le Havre,Brest,Ligue 1,3
 2026-09-05,15:00,Marseille,Paris FC,Ligue 1,3
 2026-09-05,15:00,Lens,Lorient,Ligue 1,3
@@ -786,15 +768,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-09-05,15:00,Lyon,Auxerre,Ligue 1,3
 2026-09-05,15:00,Troyes,Strasbourg,Ligue 1,3
 2026-09-05,15:00,Nice,Le Mans FC,Ligue 1,3
-2026-09-12,15:00,Lorient,Toulouse,Ligue 1,4
-2026-09-12,15:00,Lille,Troyes,Ligue 1,4
-2026-09-12,15:00,Le Mans FC,Lens,Ligue 1,4
-2026-09-12,15:00,Strasbourg,Monaco,Ligue 1,4
-2026-09-12,15:00,Auxerre,Nice,Ligue 1,4
-2026-09-12,15:00,Rennes,Marseille,Ligue 1,4
-2026-09-12,15:00,Le Havre,Angers,Ligue 1,4
-2026-09-12,15:00,Brest,Paris SG,Ligue 1,4
-2026-09-12,15:00,Paris FC,Lyon,Ligue 1,4
 2026-09-19,15:00,Auxerre,Brest,Ligue 1,5
 2026-09-19,15:00,Le Mans FC,Lorient,Ligue 1,5
 2026-09-19,15:00,Nice,Lille,Ligue 1,5
