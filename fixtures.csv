@@ -49,336 +49,336 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-09-19T16:30:00Z,Nottingham Forest FC,Coventry City FC,Premier League,5
 2026-09-20T13:00:00Z,AFC Bournemouth,Liverpool FC,Premier League,5
 2026-09-20T15:30:00Z,Fulham FC,Manchester United FC,Premier League,5
-2026-10-10T14:00:00Z,Sunderland AFC,Brighton & Hove Albion FC,Premier League,6
-2026-10-10T14:00:00Z,Arsenal FC,Leeds United FC,Premier League,6
-2026-10-10T14:00:00Z,Hull City AFC,Everton FC,Premier League,6
-2026-10-10T14:00:00Z,Chelsea FC,AFC Bournemouth,Premier League,6
-2026-10-10T14:00:00Z,Crystal Palace FC,Nottingham Forest FC,Premier League,6
-2026-10-10T14:00:00Z,Coventry City FC,Newcastle United FC,Premier League,6
-2026-10-10T14:00:00Z,Liverpool FC,Manchester City FC,Premier League,6
-2026-10-10T14:00:00Z,Ipswich Town FC,Fulham FC,Premier League,6
-2026-10-10T14:00:00Z,Manchester United FC,Tottenham Hotspur FC,Premier League,6
-2026-10-10T14:00:00Z,Aston Villa FC,Brentford FC,Premier League,6
-2026-10-17T14:00:00Z,Fulham FC,Hull City AFC,Premier League,7
-2026-10-17T14:00:00Z,Everton FC,Chelsea FC,Premier League,7
-2026-10-17T14:00:00Z,AFC Bournemouth,Sunderland AFC,Premier League,7
-2026-10-17T14:00:00Z,Leeds United FC,Manchester United FC,Premier League,7
-2026-10-17T14:00:00Z,Tottenham Hotspur FC,Coventry City FC,Premier League,7
-2026-10-17T14:00:00Z,Newcastle United FC,Aston Villa FC,Premier League,7
-2026-10-17T14:00:00Z,Nottingham Forest FC,Arsenal FC,Premier League,7
-2026-10-17T14:00:00Z,Brighton & Hove Albion FC,Crystal Palace FC,Premier League,7
-2026-10-17T14:00:00Z,Manchester City FC,Ipswich Town FC,Premier League,7
-2026-10-17T14:00:00Z,Brentford FC,Liverpool FC,Premier League,7
-2026-10-24T14:00:00Z,Liverpool FC,Brighton & Hove Albion FC,Premier League,8
-2026-10-24T14:00:00Z,Crystal Palace FC,Newcastle United FC,Premier League,8
-2026-10-24T14:00:00Z,Aston Villa FC,Manchester City FC,Premier League,8
-2026-10-24T14:00:00Z,Manchester United FC,AFC Bournemouth,Premier League,8
-2026-10-24T14:00:00Z,Arsenal FC,Everton FC,Premier League,8
-2026-10-24T14:00:00Z,Chelsea FC,Tottenham Hotspur FC,Premier League,8
-2026-10-24T14:00:00Z,Coventry City FC,Fulham FC,Premier League,8
-2026-10-24T14:00:00Z,Hull City AFC,Brentford FC,Premier League,8
-2026-10-24T14:00:00Z,Ipswich Town FC,Nottingham Forest FC,Premier League,8
-2026-10-24T14:00:00Z,Sunderland AFC,Leeds United FC,Premier League,8
-2026-10-31T15:00:00Z,Newcastle United FC,Everton FC,Premier League,9
-2026-10-31T15:00:00Z,Manchester City FC,Brighton & Hove Albion FC,Premier League,9
-2026-10-31T15:00:00Z,AFC Bournemouth,Leeds United FC,Premier League,9
-2026-10-31T15:00:00Z,Coventry City FC,Sunderland AFC,Premier League,9
-2026-10-31T15:00:00Z,Chelsea FC,Manchester United FC,Premier League,9
-2026-10-31T15:00:00Z,Tottenham Hotspur FC,Crystal Palace FC,Premier League,9
-2026-10-31T15:00:00Z,Aston Villa FC,Fulham FC,Premier League,9
-2026-10-31T15:00:00Z,Hull City AFC,Ipswich Town FC,Premier League,9
-2026-10-31T15:00:00Z,Brentford FC,Nottingham Forest FC,Premier League,9
-2026-10-31T15:00:00Z,Liverpool FC,Arsenal FC,Premier League,9
-2026-11-07T15:00:00Z,Arsenal FC,Hull City AFC,Premier League,10
-2026-11-07T15:00:00Z,Nottingham Forest FC,Manchester City FC,Premier League,10
-2026-11-07T15:00:00Z,Leeds United FC,Tottenham Hotspur FC,Premier League,10
-2026-11-07T15:00:00Z,Fulham FC,Newcastle United FC,Premier League,10
-2026-11-07T15:00:00Z,Everton FC,Coventry City FC,Premier League,10
-2026-11-07T15:00:00Z,Crystal Palace FC,Liverpool FC,Premier League,10
-2026-11-07T15:00:00Z,Sunderland AFC,Chelsea FC,Premier League,10
-2026-11-07T15:00:00Z,Ipswich Town FC,AFC Bournemouth,Premier League,10
-2026-11-07T15:00:00Z,Brighton & Hove Albion FC,Brentford FC,Premier League,10
-2026-11-07T15:00:00Z,Manchester United FC,Aston Villa FC,Premier League,10
-2026-11-21T15:00:00Z,Chelsea FC,Leeds United FC,Premier League,11
-2026-11-21T15:00:00Z,Manchester City FC,Fulham FC,Premier League,11
-2026-11-21T15:00:00Z,Aston Villa FC,Sunderland AFC,Premier League,11
-2026-11-21T15:00:00Z,Liverpool FC,Manchester United FC,Premier League,11
-2026-11-21T15:00:00Z,Hull City AFC,Brighton & Hove Albion FC,Premier League,11
-2026-11-21T15:00:00Z,AFC Bournemouth,Nottingham Forest FC,Premier League,11
-2026-11-21T15:00:00Z,Tottenham Hotspur FC,Ipswich Town FC,Premier League,11
-2026-11-21T15:00:00Z,Brentford FC,Everton FC,Premier League,11
-2026-11-21T15:00:00Z,Coventry City FC,Crystal Palace FC,Premier League,11
-2026-11-21T15:00:00Z,Newcastle United FC,Arsenal FC,Premier League,11
-2026-11-28T15:00:00Z,Leeds United FC,Coventry City FC,Premier League,12
-2026-11-28T15:00:00Z,Ipswich Town FC,Aston Villa FC,Premier League,12
-2026-11-28T15:00:00Z,Arsenal FC,Manchester City FC,Premier League,12
-2026-11-28T15:00:00Z,Manchester United FC,Brentford FC,Premier League,12
-2026-11-28T15:00:00Z,Everton FC,Liverpool FC,Premier League,12
-2026-11-28T15:00:00Z,Fulham FC,AFC Bournemouth,Premier League,12
-2026-11-28T15:00:00Z,Nottingham Forest FC,Chelsea FC,Premier League,12
-2026-11-28T15:00:00Z,Brighton & Hove Albion FC,Newcastle United FC,Premier League,12
-2026-11-28T15:00:00Z,Sunderland AFC,Tottenham Hotspur FC,Premier League,12
-2026-11-28T15:00:00Z,Crystal Palace FC,Hull City AFC,Premier League,12
-2026-12-02T20:00:00Z,Tottenham Hotspur FC,Fulham FC,Premier League,13
-2026-12-02T20:00:00Z,Liverpool FC,Sunderland AFC,Premier League,13
-2026-12-02T20:00:00Z,Hull City AFC,Nottingham Forest FC,Premier League,13
-2026-12-02T20:00:00Z,Chelsea FC,Crystal Palace FC,Premier League,13
-2026-12-02T20:00:00Z,Aston Villa FC,Everton FC,Premier League,13
-2026-12-02T20:00:00Z,Brentford FC,Arsenal FC,Premier League,13
-2026-12-02T20:00:00Z,Coventry City FC,Ipswich Town FC,Premier League,13
-2026-12-02T20:00:00Z,Manchester City FC,Leeds United FC,Premier League,13
-2026-12-02T20:00:00Z,Newcastle United FC,Manchester United FC,Premier League,13
-2026-12-02T20:00:00Z,AFC Bournemouth,Brighton & Hove Albion FC,Premier League,13
-2026-12-05T15:00:00Z,Tottenham Hotspur FC,Arsenal FC,Premier League,14
-2026-12-05T15:00:00Z,Manchester United FC,Coventry City FC,Premier League,14
-2026-12-05T15:00:00Z,Leeds United FC,Ipswich Town FC,Premier League,14
-2026-12-05T15:00:00Z,Newcastle United FC,Sunderland AFC,Premier League,14
-2026-12-05T15:00:00Z,Chelsea FC,Liverpool FC,Premier League,14
-2026-12-05T15:00:00Z,Brentford FC,Manchester City FC,Premier League,14
-2026-12-05T15:00:00Z,AFC Bournemouth,Hull City AFC,Premier League,14
-2026-12-05T15:00:00Z,Aston Villa FC,Crystal Palace FC,Premier League,14
-2026-12-05T15:00:00Z,Nottingham Forest FC,Brighton & Hove Albion FC,Premier League,14
-2026-12-05T15:00:00Z,Everton FC,Fulham FC,Premier League,14
-2026-12-12T15:00:00Z,Sunderland AFC,Nottingham Forest FC,Premier League,15
-2026-12-12T15:00:00Z,Crystal Palace FC,Manchester United FC,Premier League,15
-2026-12-12T15:00:00Z,Hull City AFC,Tottenham Hotspur FC,Premier League,15
-2026-12-12T15:00:00Z,Brighton & Hove Albion FC,Everton FC,Premier League,15
-2026-12-12T15:00:00Z,Ipswich Town FC,Newcastle United FC,Premier League,15
-2026-12-12T15:00:00Z,Coventry City FC,Aston Villa FC,Premier League,15
-2026-12-12T15:00:00Z,Arsenal FC,AFC Bournemouth,Premier League,15
-2026-12-12T15:00:00Z,Manchester City FC,Chelsea FC,Premier League,15
-2026-12-12T15:00:00Z,Liverpool FC,Leeds United FC,Premier League,15
-2026-12-12T15:00:00Z,Fulham FC,Brentford FC,Premier League,15
-2026-12-19T15:00:00Z,Leeds United FC,Fulham FC,Premier League,16
-2026-12-19T15:00:00Z,Brighton & Hove Albion FC,Ipswich Town FC,Premier League,16
-2026-12-19T15:00:00Z,Nottingham Forest FC,Everton FC,Premier League,16
-2026-12-19T15:00:00Z,Brentford FC,Newcastle United FC,Premier League,16
-2026-12-19T15:00:00Z,Manchester City FC,Hull City AFC,Premier League,16
-2026-12-19T15:00:00Z,Sunderland AFC,Crystal Palace FC,Premier League,16
-2026-12-19T15:00:00Z,AFC Bournemouth,Coventry City FC,Premier League,16
-2026-12-19T15:00:00Z,Arsenal FC,Manchester United FC,Premier League,16
-2026-12-19T15:00:00Z,Liverpool FC,Tottenham Hotspur FC,Premier League,16
-2026-12-19T15:00:00Z,Chelsea FC,Aston Villa FC,Premier League,16
-2026-12-26T15:00:00Z,Aston Villa FC,Leeds United FC,Premier League,17
-2026-12-26T15:00:00Z,Manchester United FC,Nottingham Forest FC,Premier League,17
-2026-12-26T15:00:00Z,Crystal Palace FC,Arsenal FC,Premier League,17
-2026-12-26T15:00:00Z,Everton FC,Sunderland AFC,Premier League,17
-2026-12-26T15:00:00Z,Coventry City FC,Chelsea FC,Premier League,17
-2026-12-26T15:00:00Z,Newcastle United FC,Manchester City FC,Premier League,17
-2026-12-26T15:00:00Z,Fulham FC,Brighton & Hove Albion FC,Premier League,17
-2026-12-26T15:00:00Z,Tottenham Hotspur FC,AFC Bournemouth,Premier League,17
-2026-12-26T15:00:00Z,Hull City AFC,Liverpool FC,Premier League,17
-2026-12-26T15:00:00Z,Ipswich Town FC,Brentford FC,Premier League,17
-2026-12-30T20:00:00Z,Fulham FC,Arsenal FC,Premier League,18
-2026-12-30T20:00:00Z,Coventry City FC,Brentford FC,Premier League,18
-2026-12-30T20:00:00Z,Aston Villa FC,Liverpool FC,Premier League,18
-2026-12-30T20:00:00Z,Newcastle United FC,Nottingham Forest FC,Premier League,18
-2026-12-30T20:00:00Z,Hull City AFC,Leeds United FC,Premier League,18
-2026-12-30T20:00:00Z,Manchester United FC,Sunderland AFC,Premier League,18
-2026-12-30T20:00:00Z,Ipswich Town FC,Chelsea FC,Premier League,18
-2026-12-30T20:00:00Z,Tottenham Hotspur FC,Brighton & Hove Albion FC,Premier League,18
-2026-12-30T20:00:00Z,Everton FC,Manchester City FC,Premier League,18
-2026-12-30T20:00:00Z,Crystal Palace FC,AFC Bournemouth,Premier League,18
-2027-01-02T12:00:00Z,AFC Bournemouth,Aston Villa FC,Premier League,19
-2027-01-02T12:00:00Z,Brentford FC,Crystal Palace FC,Premier League,19
-2027-01-02T12:00:00Z,Leeds United FC,Everton FC,Premier League,19
-2027-01-02T12:00:00Z,Arsenal FC,Ipswich Town FC,Premier League,19
-2027-01-02T12:00:00Z,Sunderland AFC,Hull City AFC,Premier League,19
-2027-01-02T12:00:00Z,Liverpool FC,Coventry City FC,Premier League,19
-2027-01-02T12:00:00Z,Chelsea FC,Newcastle United FC,Premier League,19
-2027-01-02T12:00:00Z,Nottingham Forest FC,Fulham FC,Premier League,19
-2027-01-02T12:00:00Z,Brighton & Hove Albion FC,Manchester United FC,Premier League,19
-2027-01-02T12:00:00Z,Manchester City FC,Tottenham Hotspur FC,Premier League,19
-2027-01-06T12:00:00Z,Arsenal FC,Brentford FC,Premier League,20
-2027-01-06T12:00:00Z,Leeds United FC,Manchester City FC,Premier League,20
-2027-01-06T12:00:00Z,Manchester United FC,Newcastle United FC,Premier League,20
-2027-01-06T12:00:00Z,Brighton & Hove Albion FC,AFC Bournemouth,Premier League,20
-2027-01-06T12:00:00Z,Nottingham Forest FC,Hull City AFC,Premier League,20
-2027-01-06T12:00:00Z,Fulham FC,Tottenham Hotspur FC,Premier League,20
-2027-01-06T12:00:00Z,Everton FC,Aston Villa FC,Premier League,20
-2027-01-06T12:00:00Z,Sunderland AFC,Liverpool FC,Premier League,20
-2027-01-06T12:00:00Z,Crystal Palace FC,Chelsea FC,Premier League,20
-2027-01-06T12:00:00Z,Ipswich Town FC,Coventry City FC,Premier League,20
-2027-01-16T12:00:00Z,AFC Bournemouth,Ipswich Town FC,Premier League,21
-2027-01-16T12:00:00Z,Manchester City FC,Nottingham Forest FC,Premier League,21
-2027-01-16T12:00:00Z,Chelsea FC,Sunderland AFC,Premier League,21
-2027-01-16T12:00:00Z,Brentford FC,Brighton & Hove Albion FC,Premier League,21
-2027-01-16T12:00:00Z,Aston Villa FC,Manchester United FC,Premier League,21
-2027-01-16T12:00:00Z,Tottenham Hotspur FC,Leeds United FC,Premier League,21
-2027-01-16T12:00:00Z,Coventry City FC,Everton FC,Premier League,21
-2027-01-16T12:00:00Z,Liverpool FC,Crystal Palace FC,Premier League,21
-2027-01-16T12:00:00Z,Hull City AFC,Arsenal FC,Premier League,21
-2027-01-16T12:00:00Z,Newcastle United FC,Fulham FC,Premier League,21
-2027-01-23T12:00:00Z,Ipswich Town FC,Hull City AFC,Premier League,22
-2027-01-23T12:00:00Z,Everton FC,Brentford FC,Premier League,22
-2027-01-23T12:00:00Z,Sunderland AFC,Coventry City FC,Premier League,22
-2027-01-23T12:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,22
-2027-01-23T12:00:00Z,Arsenal FC,Newcastle United FC,Premier League,22
-2027-01-23T12:00:00Z,Leeds United FC,Chelsea FC,Premier League,22
-2027-01-23T12:00:00Z,Fulham FC,Aston Villa FC,Premier League,22
-2027-01-23T12:00:00Z,Manchester United FC,Liverpool FC,Premier League,22
-2027-01-23T12:00:00Z,Brighton & Hove Albion FC,Manchester City FC,Premier League,22
-2027-01-23T12:00:00Z,Crystal Palace FC,Tottenham Hotspur FC,Premier League,22
-2027-01-30T12:00:00Z,Tottenham Hotspur FC,Sunderland AFC,Premier League,23
-2027-01-30T12:00:00Z,Brentford FC,Manchester United FC,Premier League,23
-2027-01-30T12:00:00Z,Newcastle United FC,Brighton & Hove Albion FC,Premier League,23
-2027-01-30T12:00:00Z,Hull City AFC,Crystal Palace FC,Premier League,23
-2027-01-30T12:00:00Z,Coventry City FC,Leeds United FC,Premier League,23
-2027-01-30T12:00:00Z,AFC Bournemouth,Fulham FC,Premier League,23
-2027-01-30T12:00:00Z,Chelsea FC,Nottingham Forest FC,Premier League,23
-2027-01-30T12:00:00Z,Liverpool FC,Everton FC,Premier League,23
-2027-01-30T12:00:00Z,Manchester City FC,Arsenal FC,Premier League,23
-2027-01-30T12:00:00Z,Aston Villa FC,Ipswich Town FC,Premier League,23
-2027-02-06T12:00:00Z,Arsenal FC,Liverpool FC,Premier League,24
-2027-02-06T12:00:00Z,Brighton & Hove Albion FC,Hull City AFC,Premier League,24
-2027-02-06T12:00:00Z,Sunderland AFC,Aston Villa FC,Premier League,24
-2027-02-06T12:00:00Z,Crystal Palace FC,Coventry City FC,Premier League,24
-2027-02-06T12:00:00Z,Ipswich Town FC,Tottenham Hotspur FC,Premier League,24
-2027-02-06T12:00:00Z,Everton FC,Newcastle United FC,Premier League,24
-2027-02-06T12:00:00Z,Fulham FC,Manchester City FC,Premier League,24
-2027-02-06T12:00:00Z,Leeds United FC,AFC Bournemouth,Premier League,24
-2027-02-06T12:00:00Z,Manchester United FC,Chelsea FC,Premier League,24
-2027-02-06T12:00:00Z,Nottingham Forest FC,Brentford FC,Premier League,24
-2027-02-10T12:00:00Z,Everton FC,Leeds United FC,Premier League,25
-2027-02-10T12:00:00Z,Coventry City FC,Liverpool FC,Premier League,25
-2027-02-10T12:00:00Z,Hull City AFC,Sunderland AFC,Premier League,25
-2027-02-10T12:00:00Z,Aston Villa FC,AFC Bournemouth,Premier League,25
-2027-02-10T12:00:00Z,Crystal Palace FC,Brentford FC,Premier League,25
-2027-02-10T12:00:00Z,Newcastle United FC,Chelsea FC,Premier League,25
-2027-02-10T12:00:00Z,Fulham FC,Nottingham Forest FC,Premier League,25
-2027-02-10T12:00:00Z,Tottenham Hotspur FC,Manchester City FC,Premier League,25
-2027-02-10T12:00:00Z,Manchester United FC,Brighton & Hove Albion FC,Premier League,25
-2027-02-10T12:00:00Z,Ipswich Town FC,Arsenal FC,Premier League,25
-2027-02-20T12:00:00Z,Manchester City FC,Newcastle United FC,Premier League,26
-2027-02-20T12:00:00Z,AFC Bournemouth,Crystal Palace FC,Premier League,26
-2027-02-20T12:00:00Z,Brentford FC,Coventry City FC,Premier League,26
-2027-02-20T12:00:00Z,Chelsea FC,Ipswich Town FC,Premier League,26
-2027-02-20T12:00:00Z,Liverpool FC,Hull City AFC,Premier League,26
-2027-02-20T12:00:00Z,Arsenal FC,Fulham FC,Premier League,26
-2027-02-20T12:00:00Z,Nottingham Forest FC,Manchester United FC,Premier League,26
-2027-02-20T12:00:00Z,Brighton & Hove Albion FC,Tottenham Hotspur FC,Premier League,26
-2027-02-20T12:00:00Z,Sunderland AFC,Everton FC,Premier League,26
-2027-02-20T12:00:00Z,Leeds United FC,Aston Villa FC,Premier League,26
-2027-02-27T12:00:00Z,Crystal Palace FC,Sunderland AFC,Premier League,27
-2027-02-27T12:00:00Z,Manchester United FC,Arsenal FC,Premier League,27
-2027-02-27T12:00:00Z,Ipswich Town FC,Brighton & Hove Albion FC,Premier League,27
-2027-02-27T12:00:00Z,Coventry City FC,AFC Bournemouth,Premier League,27
-2027-02-27T12:00:00Z,Everton FC,Nottingham Forest FC,Premier League,27
-2027-02-27T12:00:00Z,Fulham FC,Leeds United FC,Premier League,27
-2027-02-27T12:00:00Z,Aston Villa FC,Chelsea FC,Premier League,27
-2027-02-27T12:00:00Z,Tottenham Hotspur FC,Liverpool FC,Premier League,27
-2027-02-27T12:00:00Z,Newcastle United FC,Brentford FC,Premier League,27
-2027-02-27T12:00:00Z,Hull City AFC,Manchester City FC,Premier League,27
-2027-03-03T12:00:00Z,Nottingham Forest FC,Newcastle United FC,Premier League,28
-2027-03-03T12:00:00Z,AFC Bournemouth,Tottenham Hotspur FC,Premier League,28
-2027-03-03T12:00:00Z,Manchester City FC,Everton FC,Premier League,28
-2027-03-03T12:00:00Z,Arsenal FC,Crystal Palace FC,Premier League,28
-2027-03-03T12:00:00Z,Leeds United FC,Hull City AFC,Premier League,28
-2027-03-03T12:00:00Z,Sunderland AFC,Manchester United FC,Premier League,28
-2027-03-03T12:00:00Z,Liverpool FC,Aston Villa FC,Premier League,28
-2027-03-03T12:00:00Z,Brighton & Hove Albion FC,Fulham FC,Premier League,28
-2027-03-03T12:00:00Z,Brentford FC,Ipswich Town FC,Premier League,28
-2027-03-03T12:00:00Z,Chelsea FC,Coventry City FC,Premier League,28
-2027-03-13T12:00:00Z,Leeds United FC,Brighton & Hove Albion FC,Premier League,29
-2027-03-13T12:00:00Z,Tottenham Hotspur FC,Nottingham Forest FC,Premier League,29
-2027-03-13T12:00:00Z,Crystal Palace FC,Fulham FC,Premier League,29
-2027-03-13T12:00:00Z,Liverpool FC,Ipswich Town FC,Premier League,29
-2027-03-13T12:00:00Z,Coventry City FC,Manchester City FC,Premier League,29
-2027-03-13T12:00:00Z,AFC Bournemouth,Newcastle United FC,Premier League,29
-2027-03-13T12:00:00Z,Chelsea FC,Arsenal FC,Premier League,29
-2027-03-13T12:00:00Z,Aston Villa FC,Hull City AFC,Premier League,29
-2027-03-13T12:00:00Z,Manchester United FC,Everton FC,Premier League,29
-2027-03-13T12:00:00Z,Sunderland AFC,Brentford FC,Premier League,29
-2027-03-20T12:00:00Z,Brentford FC,AFC Bournemouth,Premier League,30
-2027-03-20T12:00:00Z,Brighton & Hove Albion FC,Coventry City FC,Premier League,30
-2027-03-20T12:00:00Z,Manchester City FC,Manchester United FC,Premier League,30
-2027-03-20T12:00:00Z,Ipswich Town FC,Crystal Palace FC,Premier League,30
-2027-03-20T12:00:00Z,Arsenal FC,Sunderland AFC,Premier League,30
-2027-03-20T12:00:00Z,Fulham FC,Liverpool FC,Premier League,30
-2027-03-20T12:00:00Z,Hull City AFC,Chelsea FC,Premier League,30
-2027-03-20T12:00:00Z,Nottingham Forest FC,Aston Villa FC,Premier League,30
-2027-03-20T12:00:00Z,Everton FC,Tottenham Hotspur FC,Premier League,30
-2027-03-20T12:00:00Z,Newcastle United FC,Leeds United FC,Premier League,30
-2027-04-10T12:00:00Z,Sunderland AFC,Ipswich Town FC,Premier League,31
-2027-04-10T12:00:00Z,Leeds United FC,Nottingham Forest FC,Premier League,31
-2027-04-10T12:00:00Z,Manchester United FC,Hull City AFC,Premier League,31
-2027-04-10T12:00:00Z,Chelsea FC,Fulham FC,Premier League,31
-2027-04-10T12:00:00Z,Liverpool FC,Newcastle United FC,Premier League,31
-2027-04-10T12:00:00Z,Coventry City FC,Arsenal FC,Premier League,31
-2027-04-10T12:00:00Z,AFC Bournemouth,Manchester City FC,Premier League,31
-2027-04-10T12:00:00Z,Crystal Palace FC,Everton FC,Premier League,31
-2027-04-10T12:00:00Z,Tottenham Hotspur FC,Brentford FC,Premier League,31
-2027-04-10T12:00:00Z,Aston Villa FC,Brighton & Hove Albion FC,Premier League,31
-2027-04-17T12:00:00Z,Brighton & Hove Albion FC,Chelsea FC,Premier League,32
-2027-04-17T12:00:00Z,Fulham FC,Sunderland AFC,Premier League,32
-2027-04-17T12:00:00Z,Brentford FC,Leeds United FC,Premier League,32
-2027-04-17T12:00:00Z,Nottingham Forest FC,Liverpool FC,Premier League,32
-2027-04-17T12:00:00Z,Hull City AFC,Coventry City FC,Premier League,32
-2027-04-17T12:00:00Z,Arsenal FC,Aston Villa FC,Premier League,32
-2027-04-17T12:00:00Z,Ipswich Town FC,Manchester United FC,Premier League,32
-2027-04-17T12:00:00Z,Manchester City FC,Crystal Palace FC,Premier League,32
-2027-04-17T12:00:00Z,Newcastle United FC,Tottenham Hotspur FC,Premier League,32
-2027-04-17T12:00:00Z,Everton FC,AFC Bournemouth,Premier League,32
-2027-04-24T12:00:00Z,Chelsea FC,Manchester City FC,Premier League,33
-2027-04-24T12:00:00Z,AFC Bournemouth,Arsenal FC,Premier League,33
-2027-04-24T12:00:00Z,Tottenham Hotspur FC,Hull City AFC,Premier League,33
-2027-04-24T12:00:00Z,Manchester United FC,Crystal Palace FC,Premier League,33
-2027-04-24T12:00:00Z,Everton FC,Brighton & Hove Albion FC,Premier League,33
-2027-04-24T12:00:00Z,Nottingham Forest FC,Sunderland AFC,Premier League,33
-2027-04-24T12:00:00Z,Newcastle United FC,Ipswich Town FC,Premier League,33
-2027-04-24T12:00:00Z,Aston Villa FC,Coventry City FC,Premier League,33
-2027-04-24T12:00:00Z,Brentford FC,Fulham FC,Premier League,33
-2027-04-24T12:00:00Z,Leeds United FC,Liverpool FC,Premier League,33
-2027-05-01T12:00:00Z,Sunderland AFC,Newcastle United FC,Premier League,34
-2027-05-01T12:00:00Z,Brighton & Hove Albion FC,Nottingham Forest FC,Premier League,34
-2027-05-01T12:00:00Z,Coventry City FC,Manchester United FC,Premier League,34
-2027-05-01T12:00:00Z,Hull City AFC,AFC Bournemouth,Premier League,34
-2027-05-01T12:00:00Z,Manchester City FC,Brentford FC,Premier League,34
-2027-05-01T12:00:00Z,Fulham FC,Everton FC,Premier League,34
-2027-05-01T12:00:00Z,Liverpool FC,Chelsea FC,Premier League,34
-2027-05-01T12:00:00Z,Arsenal FC,Tottenham Hotspur FC,Premier League,34
-2027-05-01T12:00:00Z,Crystal Palace FC,Aston Villa FC,Premier League,34
-2027-05-01T12:00:00Z,Ipswich Town FC,Leeds United FC,Premier League,34
-2027-05-08T12:00:00Z,Manchester City FC,Liverpool FC,Premier League,35
-2027-05-08T12:00:00Z,Leeds United FC,Arsenal FC,Premier League,35
-2027-05-08T12:00:00Z,Fulham FC,Ipswich Town FC,Premier League,35
-2027-05-08T12:00:00Z,Nottingham Forest FC,Crystal Palace FC,Premier League,35
-2027-05-08T12:00:00Z,Brentford FC,Aston Villa FC,Premier League,35
-2027-05-08T12:00:00Z,Newcastle United FC,Coventry City FC,Premier League,35
-2027-05-08T12:00:00Z,Brighton & Hove Albion FC,Sunderland AFC,Premier League,35
-2027-05-08T12:00:00Z,Tottenham Hotspur FC,Chelsea FC,Premier League,35
-2027-05-08T12:00:00Z,Everton FC,Hull City AFC,Premier League,35
-2027-05-08T12:00:00Z,AFC Bournemouth,Manchester United FC,Premier League,35
-2027-05-15T12:00:00Z,Hull City AFC,Fulham FC,Premier League,36
-2027-05-15T12:00:00Z,Manchester United FC,Leeds United FC,Premier League,36
-2027-05-15T12:00:00Z,Crystal Palace FC,Brighton & Hove Albion FC,Premier League,36
-2027-05-15T12:00:00Z,Aston Villa FC,Newcastle United FC,Premier League,36
-2027-05-15T12:00:00Z,Chelsea FC,Everton FC,Premier League,36
-2027-05-15T12:00:00Z,Coventry City FC,Tottenham Hotspur FC,Premier League,36
-2027-05-15T12:00:00Z,Sunderland AFC,AFC Bournemouth,Premier League,36
-2027-05-15T12:00:00Z,Liverpool FC,Brentford FC,Premier League,36
-2027-05-15T12:00:00Z,Ipswich Town FC,Manchester City FC,Premier League,36
-2027-05-15T12:00:00Z,Arsenal FC,Nottingham Forest FC,Premier League,36
-2027-05-23T12:00:00Z,Brentford FC,Hull City AFC,Premier League,37
-2027-05-23T12:00:00Z,Newcastle United FC,Crystal Palace FC,Premier League,37
-2027-05-23T12:00:00Z,Tottenham Hotspur FC,Manchester United FC,Premier League,37
-2027-05-23T12:00:00Z,Leeds United FC,Sunderland AFC,Premier League,37
-2027-05-23T12:00:00Z,Brighton & Hove Albion FC,Liverpool FC,Premier League,37
-2027-05-23T12:00:00Z,Nottingham Forest FC,Ipswich Town FC,Premier League,37
-2027-05-23T12:00:00Z,AFC Bournemouth,Chelsea FC,Premier League,37
-2027-05-23T12:00:00Z,Fulham FC,Coventry City FC,Premier League,37
-2027-05-23T12:00:00Z,Everton FC,Arsenal FC,Premier League,37
-2027-05-23T12:00:00Z,Manchester City FC,Aston Villa FC,Premier League,37
-2027-05-30T12:00:00Z,Ipswich Town FC,Everton FC,Premier League,38
-2027-05-30T12:00:00Z,Arsenal FC,Brighton & Hove Albion FC,Premier League,38
-2027-05-30T12:00:00Z,Liverpool FC,AFC Bournemouth,Premier League,38
-2027-05-30T12:00:00Z,Coventry City FC,Nottingham Forest FC,Premier League,38
-2027-05-30T12:00:00Z,Aston Villa FC,Tottenham Hotspur FC,Premier League,38
-2027-05-30T12:00:00Z,Hull City AFC,Newcastle United FC,Premier League,38
-2027-05-30T12:00:00Z,Manchester United FC,Fulham FC,Premier League,38
-2027-05-30T12:00:00Z,Sunderland AFC,Manchester City FC,Premier League,38
-2027-05-30T12:00:00Z,Chelsea FC,Brentford FC,Premier League,38
-2027-05-30T12:00:00Z,Crystal Palace FC,Leeds United FC,Premier League,38
+2026-10-10T00:00:00Z,Sunderland AFC,Brighton & Hove Albion FC,Premier League,6
+2026-10-10T00:00:00Z,Arsenal FC,Leeds United FC,Premier League,6
+2026-10-10T00:00:00Z,Hull City AFC,Everton FC,Premier League,6
+2026-10-10T00:00:00Z,Chelsea FC,AFC Bournemouth,Premier League,6
+2026-10-10T00:00:00Z,Crystal Palace FC,Nottingham Forest FC,Premier League,6
+2026-10-10T00:00:00Z,Coventry City FC,Newcastle United FC,Premier League,6
+2026-10-10T00:00:00Z,Liverpool FC,Manchester City FC,Premier League,6
+2026-10-10T00:00:00Z,Ipswich Town FC,Fulham FC,Premier League,6
+2026-10-10T00:00:00Z,Manchester United FC,Tottenham Hotspur FC,Premier League,6
+2026-10-10T00:00:00Z,Aston Villa FC,Brentford FC,Premier League,6
+2026-10-17T00:00:00Z,Fulham FC,Hull City AFC,Premier League,7
+2026-10-17T00:00:00Z,Everton FC,Chelsea FC,Premier League,7
+2026-10-17T00:00:00Z,AFC Bournemouth,Sunderland AFC,Premier League,7
+2026-10-17T00:00:00Z,Leeds United FC,Manchester United FC,Premier League,7
+2026-10-17T00:00:00Z,Tottenham Hotspur FC,Coventry City FC,Premier League,7
+2026-10-17T00:00:00Z,Newcastle United FC,Aston Villa FC,Premier League,7
+2026-10-17T00:00:00Z,Nottingham Forest FC,Arsenal FC,Premier League,7
+2026-10-17T00:00:00Z,Brighton & Hove Albion FC,Crystal Palace FC,Premier League,7
+2026-10-17T00:00:00Z,Manchester City FC,Ipswich Town FC,Premier League,7
+2026-10-17T00:00:00Z,Brentford FC,Liverpool FC,Premier League,7
+2026-10-24T00:00:00Z,Liverpool FC,Brighton & Hove Albion FC,Premier League,8
+2026-10-24T00:00:00Z,Crystal Palace FC,Newcastle United FC,Premier League,8
+2026-10-24T00:00:00Z,Aston Villa FC,Manchester City FC,Premier League,8
+2026-10-24T00:00:00Z,Manchester United FC,AFC Bournemouth,Premier League,8
+2026-10-24T00:00:00Z,Arsenal FC,Everton FC,Premier League,8
+2026-10-24T00:00:00Z,Chelsea FC,Tottenham Hotspur FC,Premier League,8
+2026-10-24T00:00:00Z,Coventry City FC,Fulham FC,Premier League,8
+2026-10-24T00:00:00Z,Hull City AFC,Brentford FC,Premier League,8
+2026-10-24T00:00:00Z,Ipswich Town FC,Nottingham Forest FC,Premier League,8
+2026-10-24T00:00:00Z,Sunderland AFC,Leeds United FC,Premier League,8
+2026-10-31T00:00:00Z,Newcastle United FC,Everton FC,Premier League,9
+2026-10-31T00:00:00Z,Manchester City FC,Brighton & Hove Albion FC,Premier League,9
+2026-10-31T00:00:00Z,AFC Bournemouth,Leeds United FC,Premier League,9
+2026-10-31T00:00:00Z,Coventry City FC,Sunderland AFC,Premier League,9
+2026-10-31T00:00:00Z,Chelsea FC,Manchester United FC,Premier League,9
+2026-10-31T00:00:00Z,Tottenham Hotspur FC,Crystal Palace FC,Premier League,9
+2026-10-31T00:00:00Z,Aston Villa FC,Fulham FC,Premier League,9
+2026-10-31T00:00:00Z,Hull City AFC,Ipswich Town FC,Premier League,9
+2026-10-31T00:00:00Z,Brentford FC,Nottingham Forest FC,Premier League,9
+2026-10-31T00:00:00Z,Liverpool FC,Arsenal FC,Premier League,9
+2026-11-07T00:00:00Z,Arsenal FC,Hull City AFC,Premier League,10
+2026-11-07T00:00:00Z,Nottingham Forest FC,Manchester City FC,Premier League,10
+2026-11-07T00:00:00Z,Leeds United FC,Tottenham Hotspur FC,Premier League,10
+2026-11-07T00:00:00Z,Fulham FC,Newcastle United FC,Premier League,10
+2026-11-07T00:00:00Z,Everton FC,Coventry City FC,Premier League,10
+2026-11-07T00:00:00Z,Crystal Palace FC,Liverpool FC,Premier League,10
+2026-11-07T00:00:00Z,Sunderland AFC,Chelsea FC,Premier League,10
+2026-11-07T00:00:00Z,Ipswich Town FC,AFC Bournemouth,Premier League,10
+2026-11-07T00:00:00Z,Brighton & Hove Albion FC,Brentford FC,Premier League,10
+2026-11-07T00:00:00Z,Manchester United FC,Aston Villa FC,Premier League,10
+2026-11-21T00:00:00Z,Chelsea FC,Leeds United FC,Premier League,11
+2026-11-21T00:00:00Z,Manchester City FC,Fulham FC,Premier League,11
+2026-11-21T00:00:00Z,Aston Villa FC,Sunderland AFC,Premier League,11
+2026-11-21T00:00:00Z,Liverpool FC,Manchester United FC,Premier League,11
+2026-11-21T00:00:00Z,Hull City AFC,Brighton & Hove Albion FC,Premier League,11
+2026-11-21T00:00:00Z,AFC Bournemouth,Nottingham Forest FC,Premier League,11
+2026-11-21T00:00:00Z,Tottenham Hotspur FC,Ipswich Town FC,Premier League,11
+2026-11-21T00:00:00Z,Brentford FC,Everton FC,Premier League,11
+2026-11-21T00:00:00Z,Coventry City FC,Crystal Palace FC,Premier League,11
+2026-11-21T00:00:00Z,Newcastle United FC,Arsenal FC,Premier League,11
+2026-11-28T00:00:00Z,Leeds United FC,Coventry City FC,Premier League,12
+2026-11-28T00:00:00Z,Ipswich Town FC,Aston Villa FC,Premier League,12
+2026-11-28T00:00:00Z,Arsenal FC,Manchester City FC,Premier League,12
+2026-11-28T00:00:00Z,Manchester United FC,Brentford FC,Premier League,12
+2026-11-28T00:00:00Z,Everton FC,Liverpool FC,Premier League,12
+2026-11-28T00:00:00Z,Fulham FC,AFC Bournemouth,Premier League,12
+2026-11-28T00:00:00Z,Nottingham Forest FC,Chelsea FC,Premier League,12
+2026-11-28T00:00:00Z,Brighton & Hove Albion FC,Newcastle United FC,Premier League,12
+2026-11-28T00:00:00Z,Sunderland AFC,Tottenham Hotspur FC,Premier League,12
+2026-11-28T00:00:00Z,Crystal Palace FC,Hull City AFC,Premier League,12
+2026-12-02T00:00:00Z,Tottenham Hotspur FC,Fulham FC,Premier League,13
+2026-12-02T00:00:00Z,Liverpool FC,Sunderland AFC,Premier League,13
+2026-12-02T00:00:00Z,Hull City AFC,Nottingham Forest FC,Premier League,13
+2026-12-02T00:00:00Z,Chelsea FC,Crystal Palace FC,Premier League,13
+2026-12-02T00:00:00Z,Aston Villa FC,Everton FC,Premier League,13
+2026-12-02T00:00:00Z,Brentford FC,Arsenal FC,Premier League,13
+2026-12-02T00:00:00Z,Coventry City FC,Ipswich Town FC,Premier League,13
+2026-12-02T00:00:00Z,Manchester City FC,Leeds United FC,Premier League,13
+2026-12-02T00:00:00Z,Newcastle United FC,Manchester United FC,Premier League,13
+2026-12-02T00:00:00Z,AFC Bournemouth,Brighton & Hove Albion FC,Premier League,13
+2026-12-05T00:00:00Z,Tottenham Hotspur FC,Arsenal FC,Premier League,14
+2026-12-05T00:00:00Z,Manchester United FC,Coventry City FC,Premier League,14
+2026-12-05T00:00:00Z,Leeds United FC,Ipswich Town FC,Premier League,14
+2026-12-05T00:00:00Z,Newcastle United FC,Sunderland AFC,Premier League,14
+2026-12-05T00:00:00Z,Chelsea FC,Liverpool FC,Premier League,14
+2026-12-05T00:00:00Z,Brentford FC,Manchester City FC,Premier League,14
+2026-12-05T00:00:00Z,AFC Bournemouth,Hull City AFC,Premier League,14
+2026-12-05T00:00:00Z,Aston Villa FC,Crystal Palace FC,Premier League,14
+2026-12-05T00:00:00Z,Nottingham Forest FC,Brighton & Hove Albion FC,Premier League,14
+2026-12-05T00:00:00Z,Everton FC,Fulham FC,Premier League,14
+2026-12-12T00:00:00Z,Sunderland AFC,Nottingham Forest FC,Premier League,15
+2026-12-12T00:00:00Z,Crystal Palace FC,Manchester United FC,Premier League,15
+2026-12-12T00:00:00Z,Hull City AFC,Tottenham Hotspur FC,Premier League,15
+2026-12-12T00:00:00Z,Brighton & Hove Albion FC,Everton FC,Premier League,15
+2026-12-12T00:00:00Z,Ipswich Town FC,Newcastle United FC,Premier League,15
+2026-12-12T00:00:00Z,Coventry City FC,Aston Villa FC,Premier League,15
+2026-12-12T00:00:00Z,Arsenal FC,AFC Bournemouth,Premier League,15
+2026-12-12T00:00:00Z,Manchester City FC,Chelsea FC,Premier League,15
+2026-12-12T00:00:00Z,Liverpool FC,Leeds United FC,Premier League,15
+2026-12-12T00:00:00Z,Fulham FC,Brentford FC,Premier League,15
+2026-12-19T00:00:00Z,Leeds United FC,Fulham FC,Premier League,16
+2026-12-19T00:00:00Z,Brighton & Hove Albion FC,Ipswich Town FC,Premier League,16
+2026-12-19T00:00:00Z,Nottingham Forest FC,Everton FC,Premier League,16
+2026-12-19T00:00:00Z,Brentford FC,Newcastle United FC,Premier League,16
+2026-12-19T00:00:00Z,Manchester City FC,Hull City AFC,Premier League,16
+2026-12-19T00:00:00Z,Sunderland AFC,Crystal Palace FC,Premier League,16
+2026-12-19T00:00:00Z,AFC Bournemouth,Coventry City FC,Premier League,16
+2026-12-19T00:00:00Z,Arsenal FC,Manchester United FC,Premier League,16
+2026-12-19T00:00:00Z,Liverpool FC,Tottenham Hotspur FC,Premier League,16
+2026-12-19T00:00:00Z,Chelsea FC,Aston Villa FC,Premier League,16
+2026-12-26T00:00:00Z,Aston Villa FC,Leeds United FC,Premier League,17
+2026-12-26T00:00:00Z,Manchester United FC,Nottingham Forest FC,Premier League,17
+2026-12-26T00:00:00Z,Crystal Palace FC,Arsenal FC,Premier League,17
+2026-12-26T00:00:00Z,Everton FC,Sunderland AFC,Premier League,17
+2026-12-26T00:00:00Z,Coventry City FC,Chelsea FC,Premier League,17
+2026-12-26T00:00:00Z,Newcastle United FC,Manchester City FC,Premier League,17
+2026-12-26T00:00:00Z,Fulham FC,Brighton & Hove Albion FC,Premier League,17
+2026-12-26T00:00:00Z,Tottenham Hotspur FC,AFC Bournemouth,Premier League,17
+2026-12-26T00:00:00Z,Hull City AFC,Liverpool FC,Premier League,17
+2026-12-26T00:00:00Z,Ipswich Town FC,Brentford FC,Premier League,17
+2026-12-30T00:00:00Z,Fulham FC,Arsenal FC,Premier League,18
+2026-12-30T00:00:00Z,Coventry City FC,Brentford FC,Premier League,18
+2026-12-30T00:00:00Z,Aston Villa FC,Liverpool FC,Premier League,18
+2026-12-30T00:00:00Z,Newcastle United FC,Nottingham Forest FC,Premier League,18
+2026-12-30T00:00:00Z,Hull City AFC,Leeds United FC,Premier League,18
+2026-12-30T00:00:00Z,Manchester United FC,Sunderland AFC,Premier League,18
+2026-12-30T00:00:00Z,Ipswich Town FC,Chelsea FC,Premier League,18
+2026-12-30T00:00:00Z,Tottenham Hotspur FC,Brighton & Hove Albion FC,Premier League,18
+2026-12-30T00:00:00Z,Everton FC,Manchester City FC,Premier League,18
+2026-12-30T00:00:00Z,Crystal Palace FC,AFC Bournemouth,Premier League,18
+2027-01-02T00:00:00Z,AFC Bournemouth,Aston Villa FC,Premier League,19
+2027-01-02T00:00:00Z,Brentford FC,Crystal Palace FC,Premier League,19
+2027-01-02T00:00:00Z,Leeds United FC,Everton FC,Premier League,19
+2027-01-02T00:00:00Z,Arsenal FC,Ipswich Town FC,Premier League,19
+2027-01-02T00:00:00Z,Sunderland AFC,Hull City AFC,Premier League,19
+2027-01-02T00:00:00Z,Liverpool FC,Coventry City FC,Premier League,19
+2027-01-02T00:00:00Z,Chelsea FC,Newcastle United FC,Premier League,19
+2027-01-02T00:00:00Z,Nottingham Forest FC,Fulham FC,Premier League,19
+2027-01-02T00:00:00Z,Brighton & Hove Albion FC,Manchester United FC,Premier League,19
+2027-01-02T00:00:00Z,Manchester City FC,Tottenham Hotspur FC,Premier League,19
+2027-01-06T00:00:00Z,Arsenal FC,Brentford FC,Premier League,20
+2027-01-06T00:00:00Z,Leeds United FC,Manchester City FC,Premier League,20
+2027-01-06T00:00:00Z,Manchester United FC,Newcastle United FC,Premier League,20
+2027-01-06T00:00:00Z,Brighton & Hove Albion FC,AFC Bournemouth,Premier League,20
+2027-01-06T00:00:00Z,Nottingham Forest FC,Hull City AFC,Premier League,20
+2027-01-06T00:00:00Z,Fulham FC,Tottenham Hotspur FC,Premier League,20
+2027-01-06T00:00:00Z,Everton FC,Aston Villa FC,Premier League,20
+2027-01-06T00:00:00Z,Sunderland AFC,Liverpool FC,Premier League,20
+2027-01-06T00:00:00Z,Crystal Palace FC,Chelsea FC,Premier League,20
+2027-01-06T00:00:00Z,Ipswich Town FC,Coventry City FC,Premier League,20
+2027-01-16T00:00:00Z,AFC Bournemouth,Ipswich Town FC,Premier League,21
+2027-01-16T00:00:00Z,Manchester City FC,Nottingham Forest FC,Premier League,21
+2027-01-16T00:00:00Z,Chelsea FC,Sunderland AFC,Premier League,21
+2027-01-16T00:00:00Z,Brentford FC,Brighton & Hove Albion FC,Premier League,21
+2027-01-16T00:00:00Z,Aston Villa FC,Manchester United FC,Premier League,21
+2027-01-16T00:00:00Z,Tottenham Hotspur FC,Leeds United FC,Premier League,21
+2027-01-16T00:00:00Z,Coventry City FC,Everton FC,Premier League,21
+2027-01-16T00:00:00Z,Liverpool FC,Crystal Palace FC,Premier League,21
+2027-01-16T00:00:00Z,Hull City AFC,Arsenal FC,Premier League,21
+2027-01-16T00:00:00Z,Newcastle United FC,Fulham FC,Premier League,21
+2027-01-23T00:00:00Z,Ipswich Town FC,Hull City AFC,Premier League,22
+2027-01-23T00:00:00Z,Everton FC,Brentford FC,Premier League,22
+2027-01-23T00:00:00Z,Sunderland AFC,Coventry City FC,Premier League,22
+2027-01-23T00:00:00Z,Nottingham Forest FC,AFC Bournemouth,Premier League,22
+2027-01-23T00:00:00Z,Arsenal FC,Newcastle United FC,Premier League,22
+2027-01-23T00:00:00Z,Leeds United FC,Chelsea FC,Premier League,22
+2027-01-23T00:00:00Z,Fulham FC,Aston Villa FC,Premier League,22
+2027-01-23T00:00:00Z,Manchester United FC,Liverpool FC,Premier League,22
+2027-01-23T00:00:00Z,Brighton & Hove Albion FC,Manchester City FC,Premier League,22
+2027-01-23T00:00:00Z,Crystal Palace FC,Tottenham Hotspur FC,Premier League,22
+2027-01-30T00:00:00Z,Tottenham Hotspur FC,Sunderland AFC,Premier League,23
+2027-01-30T00:00:00Z,Brentford FC,Manchester United FC,Premier League,23
+2027-01-30T00:00:00Z,Newcastle United FC,Brighton & Hove Albion FC,Premier League,23
+2027-01-30T00:00:00Z,Hull City AFC,Crystal Palace FC,Premier League,23
+2027-01-30T00:00:00Z,Coventry City FC,Leeds United FC,Premier League,23
+2027-01-30T00:00:00Z,AFC Bournemouth,Fulham FC,Premier League,23
+2027-01-30T00:00:00Z,Chelsea FC,Nottingham Forest FC,Premier League,23
+2027-01-30T00:00:00Z,Liverpool FC,Everton FC,Premier League,23
+2027-01-30T00:00:00Z,Manchester City FC,Arsenal FC,Premier League,23
+2027-01-30T00:00:00Z,Aston Villa FC,Ipswich Town FC,Premier League,23
+2027-02-06T00:00:00Z,Arsenal FC,Liverpool FC,Premier League,24
+2027-02-06T00:00:00Z,Brighton & Hove Albion FC,Hull City AFC,Premier League,24
+2027-02-06T00:00:00Z,Sunderland AFC,Aston Villa FC,Premier League,24
+2027-02-06T00:00:00Z,Crystal Palace FC,Coventry City FC,Premier League,24
+2027-02-06T00:00:00Z,Ipswich Town FC,Tottenham Hotspur FC,Premier League,24
+2027-02-06T00:00:00Z,Everton FC,Newcastle United FC,Premier League,24
+2027-02-06T00:00:00Z,Fulham FC,Manchester City FC,Premier League,24
+2027-02-06T00:00:00Z,Leeds United FC,AFC Bournemouth,Premier League,24
+2027-02-06T00:00:00Z,Manchester United FC,Chelsea FC,Premier League,24
+2027-02-06T00:00:00Z,Nottingham Forest FC,Brentford FC,Premier League,24
+2027-02-10T00:00:00Z,Everton FC,Leeds United FC,Premier League,25
+2027-02-10T00:00:00Z,Coventry City FC,Liverpool FC,Premier League,25
+2027-02-10T00:00:00Z,Hull City AFC,Sunderland AFC,Premier League,25
+2027-02-10T00:00:00Z,Aston Villa FC,AFC Bournemouth,Premier League,25
+2027-02-10T00:00:00Z,Crystal Palace FC,Brentford FC,Premier League,25
+2027-02-10T00:00:00Z,Newcastle United FC,Chelsea FC,Premier League,25
+2027-02-10T00:00:00Z,Fulham FC,Nottingham Forest FC,Premier League,25
+2027-02-10T00:00:00Z,Tottenham Hotspur FC,Manchester City FC,Premier League,25
+2027-02-10T00:00:00Z,Manchester United FC,Brighton & Hove Albion FC,Premier League,25
+2027-02-10T00:00:00Z,Ipswich Town FC,Arsenal FC,Premier League,25
+2027-02-20T00:00:00Z,Manchester City FC,Newcastle United FC,Premier League,26
+2027-02-20T00:00:00Z,AFC Bournemouth,Crystal Palace FC,Premier League,26
+2027-02-20T00:00:00Z,Brentford FC,Coventry City FC,Premier League,26
+2027-02-20T00:00:00Z,Chelsea FC,Ipswich Town FC,Premier League,26
+2027-02-20T00:00:00Z,Liverpool FC,Hull City AFC,Premier League,26
+2027-02-20T00:00:00Z,Arsenal FC,Fulham FC,Premier League,26
+2027-02-20T00:00:00Z,Nottingham Forest FC,Manchester United FC,Premier League,26
+2027-02-20T00:00:00Z,Brighton & Hove Albion FC,Tottenham Hotspur FC,Premier League,26
+2027-02-20T00:00:00Z,Sunderland AFC,Everton FC,Premier League,26
+2027-02-20T00:00:00Z,Leeds United FC,Aston Villa FC,Premier League,26
+2027-02-27T00:00:00Z,Crystal Palace FC,Sunderland AFC,Premier League,27
+2027-02-27T00:00:00Z,Manchester United FC,Arsenal FC,Premier League,27
+2027-02-27T00:00:00Z,Ipswich Town FC,Brighton & Hove Albion FC,Premier League,27
+2027-02-27T00:00:00Z,Coventry City FC,AFC Bournemouth,Premier League,27
+2027-02-27T00:00:00Z,Everton FC,Nottingham Forest FC,Premier League,27
+2027-02-27T00:00:00Z,Fulham FC,Leeds United FC,Premier League,27
+2027-02-27T00:00:00Z,Aston Villa FC,Chelsea FC,Premier League,27
+2027-02-27T00:00:00Z,Tottenham Hotspur FC,Liverpool FC,Premier League,27
+2027-02-27T00:00:00Z,Newcastle United FC,Brentford FC,Premier League,27
+2027-02-27T00:00:00Z,Hull City AFC,Manchester City FC,Premier League,27
+2027-03-03T00:00:00Z,Nottingham Forest FC,Newcastle United FC,Premier League,28
+2027-03-03T00:00:00Z,AFC Bournemouth,Tottenham Hotspur FC,Premier League,28
+2027-03-03T00:00:00Z,Manchester City FC,Everton FC,Premier League,28
+2027-03-03T00:00:00Z,Arsenal FC,Crystal Palace FC,Premier League,28
+2027-03-03T00:00:00Z,Leeds United FC,Hull City AFC,Premier League,28
+2027-03-03T00:00:00Z,Sunderland AFC,Manchester United FC,Premier League,28
+2027-03-03T00:00:00Z,Liverpool FC,Aston Villa FC,Premier League,28
+2027-03-03T00:00:00Z,Brighton & Hove Albion FC,Fulham FC,Premier League,28
+2027-03-03T00:00:00Z,Brentford FC,Ipswich Town FC,Premier League,28
+2027-03-03T00:00:00Z,Chelsea FC,Coventry City FC,Premier League,28
+2027-03-13T00:00:00Z,Leeds United FC,Brighton & Hove Albion FC,Premier League,29
+2027-03-13T00:00:00Z,Tottenham Hotspur FC,Nottingham Forest FC,Premier League,29
+2027-03-13T00:00:00Z,Crystal Palace FC,Fulham FC,Premier League,29
+2027-03-13T00:00:00Z,Liverpool FC,Ipswich Town FC,Premier League,29
+2027-03-13T00:00:00Z,Coventry City FC,Manchester City FC,Premier League,29
+2027-03-13T00:00:00Z,AFC Bournemouth,Newcastle United FC,Premier League,29
+2027-03-13T00:00:00Z,Chelsea FC,Arsenal FC,Premier League,29
+2027-03-13T00:00:00Z,Aston Villa FC,Hull City AFC,Premier League,29
+2027-03-13T00:00:00Z,Manchester United FC,Everton FC,Premier League,29
+2027-03-13T00:00:00Z,Sunderland AFC,Brentford FC,Premier League,29
+2027-03-20T00:00:00Z,Brentford FC,AFC Bournemouth,Premier League,30
+2027-03-20T00:00:00Z,Brighton & Hove Albion FC,Coventry City FC,Premier League,30
+2027-03-20T00:00:00Z,Manchester City FC,Manchester United FC,Premier League,30
+2027-03-20T00:00:00Z,Ipswich Town FC,Crystal Palace FC,Premier League,30
+2027-03-20T00:00:00Z,Arsenal FC,Sunderland AFC,Premier League,30
+2027-03-20T00:00:00Z,Fulham FC,Liverpool FC,Premier League,30
+2027-03-20T00:00:00Z,Hull City AFC,Chelsea FC,Premier League,30
+2027-03-20T00:00:00Z,Nottingham Forest FC,Aston Villa FC,Premier League,30
+2027-03-20T00:00:00Z,Everton FC,Tottenham Hotspur FC,Premier League,30
+2027-03-20T00:00:00Z,Newcastle United FC,Leeds United FC,Premier League,30
+2027-04-10T00:00:00Z,Sunderland AFC,Ipswich Town FC,Premier League,31
+2027-04-10T00:00:00Z,Leeds United FC,Nottingham Forest FC,Premier League,31
+2027-04-10T00:00:00Z,Manchester United FC,Hull City AFC,Premier League,31
+2027-04-10T00:00:00Z,Chelsea FC,Fulham FC,Premier League,31
+2027-04-10T00:00:00Z,Liverpool FC,Newcastle United FC,Premier League,31
+2027-04-10T00:00:00Z,Coventry City FC,Arsenal FC,Premier League,31
+2027-04-10T00:00:00Z,AFC Bournemouth,Manchester City FC,Premier League,31
+2027-04-10T00:00:00Z,Crystal Palace FC,Everton FC,Premier League,31
+2027-04-10T00:00:00Z,Tottenham Hotspur FC,Brentford FC,Premier League,31
+2027-04-10T00:00:00Z,Aston Villa FC,Brighton & Hove Albion FC,Premier League,31
+2027-04-17T00:00:00Z,Brighton & Hove Albion FC,Chelsea FC,Premier League,32
+2027-04-17T00:00:00Z,Fulham FC,Sunderland AFC,Premier League,32
+2027-04-17T00:00:00Z,Brentford FC,Leeds United FC,Premier League,32
+2027-04-17T00:00:00Z,Nottingham Forest FC,Liverpool FC,Premier League,32
+2027-04-17T00:00:00Z,Hull City AFC,Coventry City FC,Premier League,32
+2027-04-17T00:00:00Z,Arsenal FC,Aston Villa FC,Premier League,32
+2027-04-17T00:00:00Z,Ipswich Town FC,Manchester United FC,Premier League,32
+2027-04-17T00:00:00Z,Manchester City FC,Crystal Palace FC,Premier League,32
+2027-04-17T00:00:00Z,Newcastle United FC,Tottenham Hotspur FC,Premier League,32
+2027-04-17T00:00:00Z,Everton FC,AFC Bournemouth,Premier League,32
+2027-04-24T00:00:00Z,Chelsea FC,Manchester City FC,Premier League,33
+2027-04-24T00:00:00Z,AFC Bournemouth,Arsenal FC,Premier League,33
+2027-04-24T00:00:00Z,Tottenham Hotspur FC,Hull City AFC,Premier League,33
+2027-04-24T00:00:00Z,Manchester United FC,Crystal Palace FC,Premier League,33
+2027-04-24T00:00:00Z,Everton FC,Brighton & Hove Albion FC,Premier League,33
+2027-04-24T00:00:00Z,Nottingham Forest FC,Sunderland AFC,Premier League,33
+2027-04-24T00:00:00Z,Newcastle United FC,Ipswich Town FC,Premier League,33
+2027-04-24T00:00:00Z,Aston Villa FC,Coventry City FC,Premier League,33
+2027-04-24T00:00:00Z,Brentford FC,Fulham FC,Premier League,33
+2027-04-24T00:00:00Z,Leeds United FC,Liverpool FC,Premier League,33
+2027-05-01T00:00:00Z,Sunderland AFC,Newcastle United FC,Premier League,34
+2027-05-01T00:00:00Z,Brighton & Hove Albion FC,Nottingham Forest FC,Premier League,34
+2027-05-01T00:00:00Z,Coventry City FC,Manchester United FC,Premier League,34
+2027-05-01T00:00:00Z,Hull City AFC,AFC Bournemouth,Premier League,34
+2027-05-01T00:00:00Z,Manchester City FC,Brentford FC,Premier League,34
+2027-05-01T00:00:00Z,Fulham FC,Everton FC,Premier League,34
+2027-05-01T00:00:00Z,Liverpool FC,Chelsea FC,Premier League,34
+2027-05-01T00:00:00Z,Arsenal FC,Tottenham Hotspur FC,Premier League,34
+2027-05-01T00:00:00Z,Crystal Palace FC,Aston Villa FC,Premier League,34
+2027-05-01T00:00:00Z,Ipswich Town FC,Leeds United FC,Premier League,34
+2027-05-08T00:00:00Z,Manchester City FC,Liverpool FC,Premier League,35
+2027-05-08T00:00:00Z,Leeds United FC,Arsenal FC,Premier League,35
+2027-05-08T00:00:00Z,Fulham FC,Ipswich Town FC,Premier League,35
+2027-05-08T00:00:00Z,Nottingham Forest FC,Crystal Palace FC,Premier League,35
+2027-05-08T00:00:00Z,Brentford FC,Aston Villa FC,Premier League,35
+2027-05-08T00:00:00Z,Newcastle United FC,Coventry City FC,Premier League,35
+2027-05-08T00:00:00Z,Brighton & Hove Albion FC,Sunderland AFC,Premier League,35
+2027-05-08T00:00:00Z,Tottenham Hotspur FC,Chelsea FC,Premier League,35
+2027-05-08T00:00:00Z,Everton FC,Hull City AFC,Premier League,35
+2027-05-08T00:00:00Z,AFC Bournemouth,Manchester United FC,Premier League,35
+2027-05-15T00:00:00Z,Hull City AFC,Fulham FC,Premier League,36
+2027-05-15T00:00:00Z,Manchester United FC,Leeds United FC,Premier League,36
+2027-05-15T00:00:00Z,Crystal Palace FC,Brighton & Hove Albion FC,Premier League,36
+2027-05-15T00:00:00Z,Aston Villa FC,Newcastle United FC,Premier League,36
+2027-05-15T00:00:00Z,Chelsea FC,Everton FC,Premier League,36
+2027-05-15T00:00:00Z,Coventry City FC,Tottenham Hotspur FC,Premier League,36
+2027-05-15T00:00:00Z,Sunderland AFC,AFC Bournemouth,Premier League,36
+2027-05-15T00:00:00Z,Liverpool FC,Brentford FC,Premier League,36
+2027-05-15T00:00:00Z,Ipswich Town FC,Manchester City FC,Premier League,36
+2027-05-15T00:00:00Z,Arsenal FC,Nottingham Forest FC,Premier League,36
+2027-05-23T00:00:00Z,Brentford FC,Hull City AFC,Premier League,37
+2027-05-23T00:00:00Z,Newcastle United FC,Crystal Palace FC,Premier League,37
+2027-05-23T00:00:00Z,Tottenham Hotspur FC,Manchester United FC,Premier League,37
+2027-05-23T00:00:00Z,Leeds United FC,Sunderland AFC,Premier League,37
+2027-05-23T00:00:00Z,Brighton & Hove Albion FC,Liverpool FC,Premier League,37
+2027-05-23T00:00:00Z,Nottingham Forest FC,Ipswich Town FC,Premier League,37
+2027-05-23T00:00:00Z,AFC Bournemouth,Chelsea FC,Premier League,37
+2027-05-23T00:00:00Z,Fulham FC,Coventry City FC,Premier League,37
+2027-05-23T00:00:00Z,Everton FC,Arsenal FC,Premier League,37
+2027-05-23T00:00:00Z,Manchester City FC,Aston Villa FC,Premier League,37
+2027-05-30T00:00:00Z,Ipswich Town FC,Everton FC,Premier League,38
+2027-05-30T00:00:00Z,Arsenal FC,Brighton & Hove Albion FC,Premier League,38
+2027-05-30T00:00:00Z,Liverpool FC,AFC Bournemouth,Premier League,38
+2027-05-30T00:00:00Z,Coventry City FC,Nottingham Forest FC,Premier League,38
+2027-05-30T00:00:00Z,Aston Villa FC,Tottenham Hotspur FC,Premier League,38
+2027-05-30T00:00:00Z,Hull City AFC,Newcastle United FC,Premier League,38
+2027-05-30T00:00:00Z,Manchester United FC,Fulham FC,Premier League,38
+2027-05-30T00:00:00Z,Sunderland AFC,Manchester City FC,Premier League,38
+2027-05-30T00:00:00Z,Chelsea FC,Brentford FC,Premier League,38
+2027-05-30T00:00:00Z,Crystal Palace FC,Leeds United FC,Premier League,38
 2026-08-22T16:30:00Z,Udinese Calcio,Como 1907,Serie A,1
 2026-08-22T16:30:00Z,FC Internazionale Milano,AC Monza,Serie A,1
 2026-08-22T18:45:00Z,Genoa CFC,SSC Napoli,Serie A,1
@@ -407,17 +407,17 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-09-06T13:00:00Z,Frosinone Calcio,Venezia FC,Serie A,3
 2026-09-06T16:00:00Z,Bologna FC 1909,US Sassuolo Calcio,Serie A,3
 2026-09-06T18:45:00Z,Juventus FC,AC Milan,Serie A,3
-2026-09-07T16:00:00Z,Cagliari Calcio,US Lecce,Serie A,3
+2026-09-07T16:30:00Z,Cagliari Calcio,US Lecce,Serie A,3
 2026-09-07T18:45:00Z,Udinese Calcio,SS Lazio,Serie A,3
 2026-09-11T18:45:00Z,Venezia FC,ACF Fiorentina,Serie A,4
 2026-09-12T13:00:00Z,Genoa CFC,Frosinone Calcio,Serie A,4
-2026-09-12T16:00:00Z,US Sassuolo Calcio,Juventus FC,Serie A,4
+2026-09-12T16:00:00Z,SS Lazio,AC Milan,Serie A,4
 2026-09-12T18:45:00Z,Atalanta BC,Cagliari Calcio,Serie A,4
 2026-09-13T10:30:00Z,Torino FC,AS Roma,Serie A,4
 2026-09-13T13:00:00Z,Como 1907,Parma Calcio 1913,Serie A,4
 2026-09-13T13:00:00Z,US Lecce,AC Monza,Serie A,4
 2026-09-13T16:00:00Z,SSC Napoli,Bologna FC 1909,Serie A,4
-2026-09-13T18:45:00Z,SS Lazio,AC Milan,Serie A,4
+2026-09-13T18:45:00Z,US Sassuolo Calcio,Juventus FC,Serie A,4
 2026-09-14T18:45:00Z,FC Internazionale Milano,Udinese Calcio,Serie A,4
 2026-09-18T18:45:00Z,AC Monza,US Sassuolo Calcio,Serie A,5
 2026-09-19T13:00:00Z,Bologna FC 1909,Torino FC,Serie A,5
@@ -429,336 +429,336 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-09-20T13:00:00Z,Parma Calcio 1913,Genoa CFC,Serie A,5
 2026-09-20T16:00:00Z,Juventus FC,Atalanta BC,Serie A,5
 2026-09-20T18:45:00Z,AC Milan,US Lecce,Serie A,5
-2026-10-11T16:30:00Z,Atalanta BC,Venezia FC,Serie A,6
-2026-10-11T16:30:00Z,US Sassuolo Calcio,AC Milan,Serie A,6
-2026-10-11T16:30:00Z,US Lecce,Bologna FC 1909,Serie A,6
-2026-10-11T16:30:00Z,FC Internazionale Milano,Parma Calcio 1913,Serie A,6
-2026-10-11T16:30:00Z,SS Lazio,AC Monza,Serie A,6
-2026-10-11T16:30:00Z,Cagliari Calcio,Juventus FC,Serie A,6
-2026-10-11T16:30:00Z,Como 1907,AS Roma,Serie A,6
-2026-10-11T16:30:00Z,SSC Napoli,Frosinone Calcio,Serie A,6
-2026-10-11T16:30:00Z,Torino FC,Udinese Calcio,Serie A,6
-2026-10-11T16:30:00Z,Genoa CFC,ACF Fiorentina,Serie A,6
-2026-10-18T16:30:00Z,AC Milan,Atalanta BC,Serie A,7
-2026-10-18T16:30:00Z,Juventus FC,SS Lazio,Serie A,7
-2026-10-18T16:30:00Z,Bologna FC 1909,FC Internazionale Milano,Serie A,7
-2026-10-18T16:30:00Z,AS Roma,Genoa CFC,Serie A,7
-2026-10-18T16:30:00Z,Frosinone Calcio,US Sassuolo Calcio,Serie A,7
-2026-10-18T16:30:00Z,Udinese Calcio,US Lecce,Serie A,7
-2026-10-18T16:30:00Z,Venezia FC,SSC Napoli,Serie A,7
-2026-10-18T16:30:00Z,AC Monza,Cagliari Calcio,Serie A,7
-2026-10-18T16:30:00Z,ACF Fiorentina,Como 1907,Serie A,7
-2026-10-18T16:30:00Z,Parma Calcio 1913,Torino FC,Serie A,7
-2026-10-25T17:30:00Z,Udinese Calcio,AC Milan,Serie A,8
-2026-10-25T17:30:00Z,Cagliari Calcio,Bologna FC 1909,Serie A,8
-2026-10-25T17:30:00Z,Como 1907,US Sassuolo Calcio,Serie A,8
-2026-10-25T17:30:00Z,Atalanta BC,Frosinone Calcio,Serie A,8
-2026-10-25T17:30:00Z,FC Internazionale Milano,ACF Fiorentina,Serie A,8
-2026-10-25T17:30:00Z,SSC Napoli,AS Roma,Serie A,8
-2026-10-25T17:30:00Z,SS Lazio,Parma Calcio 1913,Serie A,8
-2026-10-25T17:30:00Z,US Lecce,Juventus FC,Serie A,8
-2026-10-25T17:30:00Z,Torino FC,AC Monza,Serie A,8
-2026-10-25T17:30:00Z,Genoa CFC,Venezia FC,Serie A,8
-2026-10-28T17:30:00Z,AC Milan,Bologna FC 1909,Serie A,9
-2026-10-28T17:30:00Z,Venezia FC,FC Internazionale Milano,Serie A,9
-2026-10-28T17:30:00Z,ACF Fiorentina,Atalanta BC,Serie A,9
-2026-10-28T17:30:00Z,Genoa CFC,Juventus FC,Serie A,9
-2026-10-28T17:30:00Z,Parma Calcio 1913,Udinese Calcio,Serie A,9
-2026-10-28T17:30:00Z,AC Monza,SSC Napoli,Serie A,9
-2026-10-28T17:30:00Z,AS Roma,Cagliari Calcio,Serie A,9
-2026-10-28T17:30:00Z,US Sassuolo Calcio,SS Lazio,Serie A,9
-2026-10-28T17:30:00Z,Torino FC,Como 1907,Serie A,9
-2026-10-28T17:30:00Z,Frosinone Calcio,US Lecce,Serie A,9
-2026-11-01T17:30:00Z,Bologna FC 1909,AC Monza,Serie A,10
-2026-11-01T17:30:00Z,US Lecce,Genoa CFC,Serie A,10
-2026-11-01T17:30:00Z,US Sassuolo Calcio,ACF Fiorentina,Serie A,10
-2026-11-01T17:30:00Z,Udinese Calcio,AS Roma,Serie A,10
-2026-11-01T17:30:00Z,Como 1907,Venezia FC,Serie A,10
-2026-11-01T17:30:00Z,Frosinone Calcio,Torino FC,Serie A,10
-2026-11-01T17:30:00Z,Atalanta BC,Parma Calcio 1913,Serie A,10
-2026-11-01T17:30:00Z,SS Lazio,Cagliari Calcio,Serie A,10
-2026-11-01T17:30:00Z,Juventus FC,SSC Napoli,Serie A,10
-2026-11-01T17:30:00Z,AC Milan,FC Internazionale Milano,Serie A,10
-2026-11-08T17:30:00Z,ACF Fiorentina,Juventus FC,Serie A,11
-2026-11-08T17:30:00Z,FC Internazionale Milano,Como 1907,Serie A,11
-2026-11-08T17:30:00Z,AS Roma,US Sassuolo Calcio,Serie A,11
-2026-11-08T17:30:00Z,Torino FC,US Lecce,Serie A,11
-2026-11-08T17:30:00Z,SSC Napoli,SS Lazio,Serie A,11
-2026-11-08T17:30:00Z,Cagliari Calcio,Frosinone Calcio,Serie A,11
-2026-11-08T17:30:00Z,Parma Calcio 1913,Bologna FC 1909,Serie A,11
-2026-11-08T17:30:00Z,Genoa CFC,AC Milan,Serie A,11
-2026-11-08T17:30:00Z,Venezia FC,Udinese Calcio,Serie A,11
-2026-11-08T17:30:00Z,AC Monza,Atalanta BC,Serie A,11
-2026-11-22T17:30:00Z,AC Monza,ACF Fiorentina,Serie A,12
-2026-11-22T17:30:00Z,Atalanta BC,FC Internazionale Milano,Serie A,12
-2026-11-22T17:30:00Z,Juventus FC,Venezia FC,Serie A,12
-2026-11-22T17:30:00Z,Bologna FC 1909,Udinese Calcio,Serie A,12
-2026-11-22T17:30:00Z,AC Milan,Frosinone Calcio,Serie A,12
-2026-11-22T17:30:00Z,US Sassuolo Calcio,Genoa CFC,Serie A,12
-2026-11-22T17:30:00Z,Como 1907,Cagliari Calcio,Serie A,12
-2026-11-22T17:30:00Z,Parma Calcio 1913,AS Roma,Serie A,12
-2026-11-22T17:30:00Z,SSC Napoli,Torino FC,Serie A,12
-2026-11-22T17:30:00Z,SS Lazio,US Lecce,Serie A,12
-2026-11-29T17:30:00Z,US Sassuolo Calcio,SSC Napoli,Serie A,13
-2026-11-29T17:30:00Z,Cagliari Calcio,AC Milan,Serie A,13
-2026-11-29T17:30:00Z,Como 1907,Juventus FC,Serie A,13
-2026-11-29T17:30:00Z,AS Roma,AC Monza,Serie A,13
-2026-11-29T17:30:00Z,Frosinone Calcio,Parma Calcio 1913,Serie A,13
-2026-11-29T17:30:00Z,Torino FC,SS Lazio,Serie A,13
-2026-11-29T17:30:00Z,Venezia FC,Bologna FC 1909,Serie A,13
-2026-11-29T17:30:00Z,US Lecce,Atalanta BC,Serie A,13
-2026-11-29T17:30:00Z,Udinese Calcio,ACF Fiorentina,Serie A,13
-2026-11-29T17:30:00Z,FC Internazionale Milano,Genoa CFC,Serie A,13
-2026-12-06T17:30:00Z,Genoa CFC,Torino FC,Serie A,14
-2026-12-06T17:30:00Z,Juventus FC,Udinese Calcio,Serie A,14
-2026-12-06T17:30:00Z,Frosinone Calcio,FC Internazionale Milano,Serie A,14
-2026-12-06T17:30:00Z,Bologna FC 1909,AS Roma,Serie A,14
-2026-12-06T17:30:00Z,ACF Fiorentina,Cagliari Calcio,Serie A,14
-2026-12-06T17:30:00Z,SS Lazio,Atalanta BC,Serie A,14
-2026-12-06T17:30:00Z,AC Milan,Parma Calcio 1913,Serie A,14
-2026-12-06T17:30:00Z,Venezia FC,US Sassuolo Calcio,Serie A,14
-2026-12-06T17:30:00Z,AC Monza,Como 1907,Serie A,14
-2026-12-06T17:30:00Z,SSC Napoli,US Lecce,Serie A,14
-2026-12-13T17:30:00Z,SSC Napoli,AC Milan,Serie A,15
-2026-12-13T17:30:00Z,Como 1907,Bologna FC 1909,Serie A,15
-2026-12-13T17:30:00Z,Udinese Calcio,Frosinone Calcio,Serie A,15
-2026-12-13T17:30:00Z,US Lecce,US Sassuolo Calcio,Serie A,15
-2026-12-13T17:30:00Z,Parma Calcio 1913,ACF Fiorentina,Serie A,15
-2026-12-13T17:30:00Z,Cagliari Calcio,Venezia FC,Serie A,15
-2026-12-13T17:30:00Z,FC Internazionale Milano,Torino FC,Serie A,15
-2026-12-13T17:30:00Z,Juventus FC,AC Monza,Serie A,15
-2026-12-13T17:30:00Z,Atalanta BC,Genoa CFC,Serie A,15
-2026-12-13T17:30:00Z,SS Lazio,AS Roma,Serie A,15
-2026-12-20T17:30:00Z,AC Milan,Como 1907,Serie A,16
-2026-12-20T17:30:00Z,US Sassuolo Calcio,Parma Calcio 1913,Serie A,16
-2026-12-20T17:30:00Z,AS Roma,Juventus FC,Serie A,16
-2026-12-20T17:30:00Z,Frosinone Calcio,SS Lazio,Serie A,16
-2026-12-20T17:30:00Z,Atalanta BC,SSC Napoli,Serie A,16
-2026-12-20T17:30:00Z,ACF Fiorentina,Bologna FC 1909,Serie A,16
-2026-12-20T17:30:00Z,Genoa CFC,Udinese Calcio,Serie A,16
-2026-12-20T17:30:00Z,US Lecce,FC Internazionale Milano,Serie A,16
-2026-12-20T17:30:00Z,Torino FC,Cagliari Calcio,Serie A,16
-2026-12-20T17:30:00Z,Venezia FC,AC Monza,Serie A,16
-2027-01-03T12:00:00Z,Udinese Calcio,Atalanta BC,Serie A,17
-2027-01-03T12:00:00Z,Como 1907,US Lecce,Serie A,17
-2027-01-03T12:00:00Z,AS Roma,Frosinone Calcio,Serie A,17
-2027-01-03T12:00:00Z,Parma Calcio 1913,SSC Napoli,Serie A,17
-2027-01-03T12:00:00Z,Cagliari Calcio,Genoa CFC,Serie A,17
-2027-01-03T12:00:00Z,Torino FC,Venezia FC,Serie A,17
-2027-01-03T12:00:00Z,AC Monza,AC Milan,Serie A,17
-2027-01-03T12:00:00Z,FC Internazionale Milano,US Sassuolo Calcio,Serie A,17
-2027-01-03T12:00:00Z,Bologna FC 1909,Juventus FC,Serie A,17
-2027-01-03T12:00:00Z,ACF Fiorentina,SS Lazio,Serie A,17
-2027-01-06T12:00:00Z,Frosinone Calcio,Bologna FC 1909,Serie A,18
-2027-01-06T12:00:00Z,US Sassuolo Calcio,Udinese Calcio,Serie A,18
-2027-01-06T12:00:00Z,Genoa CFC,AC Monza,Serie A,18
-2027-01-06T12:00:00Z,Venezia FC,AS Roma,Serie A,18
-2027-01-06T12:00:00Z,SSC Napoli,Cagliari Calcio,Serie A,18
-2027-01-06T12:00:00Z,AC Milan,ACF Fiorentina,Serie A,18
-2027-01-06T12:00:00Z,Juventus FC,Torino FC,Serie A,18
-2027-01-06T12:00:00Z,Atalanta BC,Como 1907,Serie A,18
-2027-01-06T12:00:00Z,SS Lazio,FC Internazionale Milano,Serie A,18
-2027-01-06T12:00:00Z,US Lecce,Parma Calcio 1913,Serie A,18
-2027-01-10T12:00:00Z,ACF Fiorentina,US Lecce,Serie A,19
-2027-01-10T12:00:00Z,Udinese Calcio,SSC Napoli,Serie A,19
-2027-01-10T12:00:00Z,Torino FC,Atalanta BC,Serie A,19
-2027-01-10T12:00:00Z,AC Monza,Frosinone Calcio,Serie A,19
-2027-01-10T12:00:00Z,FC Internazionale Milano,Juventus FC,Serie A,19
-2027-01-10T12:00:00Z,Parma Calcio 1913,Venezia FC,Serie A,19
-2027-01-10T12:00:00Z,Bologna FC 1909,Genoa CFC,Serie A,19
-2027-01-10T12:00:00Z,Cagliari Calcio,US Sassuolo Calcio,Serie A,19
-2027-01-10T12:00:00Z,Como 1907,SS Lazio,Serie A,19
-2027-01-10T12:00:00Z,AS Roma,AC Milan,Serie A,19
-2027-01-17T12:00:00Z,AC Milan,Torino FC,Serie A,20
-2027-01-17T12:00:00Z,Parma Calcio 1913,FC Internazionale Milano,Serie A,20
-2027-01-17T12:00:00Z,Juventus FC,Genoa CFC,Serie A,20
-2027-01-17T12:00:00Z,US Lecce,Udinese Calcio,Serie A,20
-2027-01-17T12:00:00Z,Cagliari Calcio,Como 1907,Serie A,20
-2027-01-17T12:00:00Z,US Sassuolo Calcio,AC Monza,Serie A,20
-2027-01-17T12:00:00Z,SSC Napoli,ACF Fiorentina,Serie A,20
-2027-01-17T12:00:00Z,SS Lazio,Bologna FC 1909,Serie A,20
-2027-01-17T12:00:00Z,Venezia FC,Frosinone Calcio,Serie A,20
-2027-01-17T12:00:00Z,Atalanta BC,AS Roma,Serie A,20
-2027-01-24T12:00:00Z,US Lecce,Torino FC,Serie A,21
-2027-01-24T12:00:00Z,Juventus FC,Cagliari Calcio,Serie A,21
-2027-01-24T12:00:00Z,FC Internazionale Milano,Venezia FC,Serie A,21
-2027-01-24T12:00:00Z,ACF Fiorentina,US Sassuolo Calcio,Serie A,21
-2027-01-24T12:00:00Z,Frosinone Calcio,AC Milan,Serie A,21
-2027-01-24T12:00:00Z,AS Roma,Udinese Calcio,Serie A,21
-2027-01-24T12:00:00Z,Bologna FC 1909,Atalanta BC,Serie A,21
-2027-01-24T12:00:00Z,Genoa CFC,Parma Calcio 1913,Serie A,21
-2027-01-24T12:00:00Z,Como 1907,SSC Napoli,Serie A,21
-2027-01-24T12:00:00Z,AC Monza,SS Lazio,Serie A,21
-2027-01-31T12:00:00Z,AC Milan,Juventus FC,Serie A,22
-2027-01-31T12:00:00Z,AC Monza,AS Roma,Serie A,22
-2027-01-31T12:00:00Z,Torino FC,Frosinone Calcio,Serie A,22
-2027-01-31T12:00:00Z,Udinese Calcio,Bologna FC 1909,Serie A,22
-2027-01-31T12:00:00Z,US Sassuolo Calcio,Como 1907,Serie A,22
-2027-01-31T12:00:00Z,Genoa CFC,US Lecce,Serie A,22
-2027-01-31T12:00:00Z,Cagliari Calcio,Parma Calcio 1913,Serie A,22
-2027-01-31T12:00:00Z,Atalanta BC,ACF Fiorentina,Serie A,22
-2027-01-31T12:00:00Z,SS Lazio,Venezia FC,Serie A,22
-2027-01-31T12:00:00Z,SSC Napoli,FC Internazionale Milano,Serie A,22
-2027-02-07T12:00:00Z,Juventus FC,US Sassuolo Calcio,Serie A,23
-2027-02-07T12:00:00Z,FC Internazionale Milano,Cagliari Calcio,Serie A,23
-2027-02-07T12:00:00Z,Como 1907,AC Monza,Serie A,23
-2027-02-07T12:00:00Z,US Lecce,SSC Napoli,Serie A,23
-2027-02-07T12:00:00Z,Venezia FC,Genoa CFC,Serie A,23
-2027-02-07T12:00:00Z,AS Roma,Torino FC,Serie A,23
-2027-02-07T12:00:00Z,Atalanta BC,SS Lazio,Serie A,23
-2027-02-07T12:00:00Z,Parma Calcio 1913,Frosinone Calcio,Serie A,23
-2027-02-07T12:00:00Z,Bologna FC 1909,AC Milan,Serie A,23
-2027-02-07T12:00:00Z,ACF Fiorentina,Udinese Calcio,Serie A,23
-2027-02-14T12:00:00Z,SSC Napoli,Juventus FC,Serie A,24
-2027-02-14T12:00:00Z,AC Monza,US Lecce,Serie A,24
-2027-02-14T12:00:00Z,Torino FC,US Sassuolo Calcio,Serie A,24
-2027-02-14T12:00:00Z,Frosinone Calcio,ACF Fiorentina,Serie A,24
-2027-02-14T12:00:00Z,Bologna FC 1909,Como 1907,Serie A,24
-2027-02-14T12:00:00Z,AS Roma,Parma Calcio 1913,Serie A,24
-2027-02-14T12:00:00Z,Udinese Calcio,Venezia FC,Serie A,24
-2027-02-14T12:00:00Z,Genoa CFC,Atalanta BC,Serie A,24
-2027-02-14T12:00:00Z,Cagliari Calcio,SS Lazio,Serie A,24
-2027-02-14T12:00:00Z,FC Internazionale Milano,AC Milan,Serie A,24
-2027-02-21T12:00:00Z,Como 1907,Torino FC,Serie A,25
-2027-02-21T12:00:00Z,Atalanta BC,AC Monza,Serie A,25
-2027-02-21T12:00:00Z,Udinese Calcio,Parma Calcio 1913,Serie A,25
-2027-02-21T12:00:00Z,Juventus FC,Bologna FC 1909,Serie A,25
-2027-02-21T12:00:00Z,ACF Fiorentina,FC Internazionale Milano,Serie A,25
-2027-02-21T12:00:00Z,US Sassuolo Calcio,AS Roma,Serie A,25
-2027-02-21T12:00:00Z,AC Milan,Genoa CFC,Serie A,25
-2027-02-21T12:00:00Z,Venezia FC,Cagliari Calcio,Serie A,25
-2027-02-21T12:00:00Z,US Lecce,Frosinone Calcio,Serie A,25
-2027-02-21T12:00:00Z,SS Lazio,SSC Napoli,Serie A,25
-2027-02-28T12:00:00Z,FC Internazionale Milano,Atalanta BC,Serie A,26
-2027-02-28T12:00:00Z,Cagliari Calcio,Udinese Calcio,Serie A,26
-2027-02-28T12:00:00Z,Parma Calcio 1913,US Sassuolo Calcio,Serie A,26
-2027-02-28T12:00:00Z,Genoa CFC,SS Lazio,Serie A,26
-2027-02-28T12:00:00Z,AS Roma,Venezia FC,Serie A,26
-2027-02-28T12:00:00Z,Como 1907,AC Milan,Serie A,26
-2027-02-28T12:00:00Z,Torino FC,ACF Fiorentina,Serie A,26
-2027-02-28T12:00:00Z,Bologna FC 1909,US Lecce,Serie A,26
-2027-02-28T12:00:00Z,AC Monza,Juventus FC,Serie A,26
-2027-02-28T12:00:00Z,Frosinone Calcio,SSC Napoli,Serie A,26
-2027-03-07T12:00:00Z,Udinese Calcio,FC Internazionale Milano,Serie A,27
-2027-03-07T12:00:00Z,Atalanta BC,Torino FC,Serie A,27
-2027-03-07T12:00:00Z,SSC Napoli,Parma Calcio 1913,Serie A,27
-2027-03-07T12:00:00Z,US Lecce,Como 1907,Serie A,27
-2027-03-07T12:00:00Z,SS Lazio,Frosinone Calcio,Serie A,27
-2027-03-07T12:00:00Z,US Sassuolo Calcio,Bologna FC 1909,Serie A,27
-2027-03-07T12:00:00Z,AC Monza,Genoa CFC,Serie A,27
-2027-03-07T12:00:00Z,ACF Fiorentina,Venezia FC,Serie A,27
-2027-03-07T12:00:00Z,AC Milan,Cagliari Calcio,Serie A,27
-2027-03-07T12:00:00Z,Juventus FC,AS Roma,Serie A,27
-2027-03-14T12:00:00Z,Bologna FC 1909,SSC Napoli,Serie A,28
-2027-03-14T12:00:00Z,Cagliari Calcio,ACF Fiorentina,Serie A,28
-2027-03-14T12:00:00Z,AC Milan,US Sassuolo Calcio,Serie A,28
-2027-03-14T12:00:00Z,Genoa CFC,AS Roma,Serie A,28
-2027-03-14T12:00:00Z,Parma Calcio 1913,US Lecce,Serie A,28
-2027-03-14T12:00:00Z,Torino FC,FC Internazionale Milano,Serie A,28
-2027-03-14T12:00:00Z,Frosinone Calcio,AC Monza,Serie A,28
-2027-03-14T12:00:00Z,Como 1907,Udinese Calcio,Serie A,28
-2027-03-14T12:00:00Z,SS Lazio,Juventus FC,Serie A,28
-2027-03-14T12:00:00Z,Venezia FC,Atalanta BC,Serie A,28
-2027-03-21T12:00:00Z,SSC Napoli,Venezia FC,Serie A,29
-2027-03-21T12:00:00Z,Udinese Calcio,Torino FC,Serie A,29
-2027-03-21T12:00:00Z,Juventus FC,Como 1907,Serie A,29
-2027-03-21T12:00:00Z,ACF Fiorentina,Genoa CFC,Serie A,29
-2027-03-21T12:00:00Z,Parma Calcio 1913,SS Lazio,Serie A,29
-2027-03-21T12:00:00Z,US Sassuolo Calcio,Cagliari Calcio,Serie A,29
-2027-03-21T12:00:00Z,AC Monza,Bologna FC 1909,Serie A,29
-2027-03-21T12:00:00Z,FC Internazionale Milano,Frosinone Calcio,Serie A,29
-2027-03-21T12:00:00Z,AS Roma,US Lecce,Serie A,29
-2027-03-21T12:00:00Z,Atalanta BC,AC Milan,Serie A,29
-2027-04-04T12:00:00Z,US Lecce,SS Lazio,Serie A,30
-2027-04-04T12:00:00Z,Cagliari Calcio,SSC Napoli,Serie A,30
-2027-04-04T12:00:00Z,Como 1907,ACF Fiorentina,Serie A,30
-2027-04-04T12:00:00Z,US Sassuolo Calcio,Atalanta BC,Serie A,30
-2027-04-04T12:00:00Z,AS Roma,Bologna FC 1909,Serie A,30
-2027-04-04T12:00:00Z,AC Milan,AC Monza,Serie A,30
-2027-04-04T12:00:00Z,Genoa CFC,FC Internazionale Milano,Serie A,30
-2027-04-04T12:00:00Z,Torino FC,Juventus FC,Serie A,30
-2027-04-04T12:00:00Z,Venezia FC,Parma Calcio 1913,Serie A,30
-2027-04-04T12:00:00Z,Frosinone Calcio,Udinese Calcio,Serie A,30
-2027-04-11T12:00:00Z,Juventus FC,US Lecce,Serie A,31
-2027-04-11T12:00:00Z,SSC Napoli,US Sassuolo Calcio,Serie A,31
-2027-04-11T12:00:00Z,ACF Fiorentina,AC Milan,Serie A,31
-2027-04-11T12:00:00Z,SS Lazio,Torino FC,Serie A,31
-2027-04-11T12:00:00Z,Cagliari Calcio,Atalanta BC,Serie A,31
-2027-04-11T12:00:00Z,Parma Calcio 1913,Como 1907,Serie A,31
-2027-04-11T12:00:00Z,Bologna FC 1909,Venezia FC,Serie A,31
-2027-04-11T12:00:00Z,Frosinone Calcio,Genoa CFC,Serie A,31
-2027-04-11T12:00:00Z,FC Internazionale Milano,AS Roma,Serie A,31
-2027-04-11T12:00:00Z,Udinese Calcio,AC Monza,Serie A,31
-2027-04-18T12:00:00Z,AC Monza,FC Internazionale Milano,Serie A,32
-2027-04-18T12:00:00Z,ACF Fiorentina,Parma Calcio 1913,Serie A,32
-2027-04-18T12:00:00Z,AS Roma,SS Lazio,Serie A,32
-2027-04-18T12:00:00Z,Como 1907,Frosinone Calcio,Serie A,32
-2027-04-18T12:00:00Z,US Sassuolo Calcio,US Lecce,Serie A,32
-2027-04-18T12:00:00Z,Bologna FC 1909,Cagliari Calcio,Serie A,32
-2027-04-18T12:00:00Z,Atalanta BC,Udinese Calcio,Serie A,32
-2027-04-18T12:00:00Z,Venezia FC,Juventus FC,Serie A,32
-2027-04-18T12:00:00Z,AC Milan,SSC Napoli,Serie A,32
-2027-04-18T12:00:00Z,Torino FC,Genoa CFC,Serie A,32
-2027-04-25T12:00:00Z,Frosinone Calcio,AS Roma,Serie A,33
-2027-04-25T12:00:00Z,Cagliari Calcio,AC Monza,Serie A,33
-2027-04-25T12:00:00Z,SSC Napoli,Udinese Calcio,Serie A,33
-2027-04-25T12:00:00Z,Parma Calcio 1913,Atalanta BC,Serie A,33
-2027-04-25T12:00:00Z,SS Lazio,Como 1907,Serie A,33
-2027-04-25T12:00:00Z,Juventus FC,ACF Fiorentina,Serie A,33
-2027-04-25T12:00:00Z,Genoa CFC,US Sassuolo Calcio,Serie A,33
-2027-04-25T12:00:00Z,US Lecce,AC Milan,Serie A,33
-2027-04-25T12:00:00Z,Venezia FC,Torino FC,Serie A,33
-2027-04-25T12:00:00Z,FC Internazionale Milano,Bologna FC 1909,Serie A,33
-2027-05-02T12:00:00Z,Atalanta BC,Juventus FC,Serie A,34
-2027-05-02T12:00:00Z,Torino FC,Parma Calcio 1913,Serie A,34
-2027-05-02T12:00:00Z,AC Milan,SS Lazio,Serie A,34
-2027-05-02T12:00:00Z,Udinese Calcio,Genoa CFC,Serie A,34
-2027-05-02T12:00:00Z,US Sassuolo Calcio,Frosinone Calcio,Serie A,34
-2027-05-02T12:00:00Z,Bologna FC 1909,ACF Fiorentina,Serie A,34
-2027-05-02T12:00:00Z,Como 1907,FC Internazionale Milano,Serie A,34
-2027-05-02T12:00:00Z,AC Monza,Venezia FC,Serie A,34
-2027-05-02T12:00:00Z,US Lecce,Cagliari Calcio,Serie A,34
-2027-05-02T12:00:00Z,AS Roma,SSC Napoli,Serie A,34
-2027-05-09T12:00:00Z,Parma Calcio 1913,AC Milan,Serie A,35
-2027-05-09T12:00:00Z,Genoa CFC,Cagliari Calcio,Serie A,35
-2027-05-09T12:00:00Z,SS Lazio,US Sassuolo Calcio,Serie A,35
-2027-05-09T12:00:00Z,SSC Napoli,AC Monza,Serie A,35
-2027-05-09T12:00:00Z,FC Internazionale Milano,US Lecce,Serie A,35
-2027-05-09T12:00:00Z,Venezia FC,Como 1907,Serie A,35
-2027-05-09T12:00:00Z,Udinese Calcio,Juventus FC,Serie A,35
-2027-05-09T12:00:00Z,Torino FC,Bologna FC 1909,Serie A,35
-2027-05-09T12:00:00Z,Frosinone Calcio,Atalanta BC,Serie A,35
-2027-05-09T12:00:00Z,ACF Fiorentina,AS Roma,Serie A,35
-2027-05-16T12:00:00Z,SSC Napoli,Genoa CFC,Serie A,36
-2027-05-16T12:00:00Z,US Lecce,ACF Fiorentina,Serie A,36
-2027-05-16T12:00:00Z,SS Lazio,Udinese Calcio,Serie A,36
-2027-05-16T12:00:00Z,Bologna FC 1909,Frosinone Calcio,Serie A,36
-2027-05-16T12:00:00Z,Como 1907,Atalanta BC,Serie A,36
-2027-05-16T12:00:00Z,Juventus FC,FC Internazionale Milano,Serie A,36
-2027-05-16T12:00:00Z,US Sassuolo Calcio,Venezia FC,Serie A,36
-2027-05-16T12:00:00Z,AC Monza,Parma Calcio 1913,Serie A,36
-2027-05-16T12:00:00Z,AC Milan,AS Roma,Serie A,36
-2027-05-16T12:00:00Z,Cagliari Calcio,Torino FC,Serie A,36
-2027-05-23T12:00:00Z,AS Roma,Como 1907,Serie A,37
-2027-05-23T12:00:00Z,Parma Calcio 1913,Juventus FC,Serie A,37
-2027-05-23T12:00:00Z,Torino FC,SSC Napoli,Serie A,37
-2027-05-23T12:00:00Z,Atalanta BC,US Lecce,Serie A,37
-2027-05-23T12:00:00Z,FC Internazionale Milano,SS Lazio,Serie A,37
-2027-05-23T12:00:00Z,Udinese Calcio,US Sassuolo Calcio,Serie A,37
-2027-05-23T12:00:00Z,Frosinone Calcio,Cagliari Calcio,Serie A,37
-2027-05-23T12:00:00Z,ACF Fiorentina,AC Monza,Serie A,37
-2027-05-23T12:00:00Z,Venezia FC,AC Milan,Serie A,37
-2027-05-23T12:00:00Z,Genoa CFC,Bologna FC 1909,Serie A,37
-2027-05-30T12:00:00Z,AC Milan,Udinese Calcio,Serie A,38
-2027-05-30T12:00:00Z,Juventus FC,Frosinone Calcio,Serie A,38
-2027-05-30T12:00:00Z,AC Monza,Torino FC,Serie A,38
-2027-05-30T12:00:00Z,US Sassuolo Calcio,FC Internazionale Milano,Serie A,38
-2027-05-30T12:00:00Z,Cagliari Calcio,AS Roma,Serie A,38
-2027-05-30T12:00:00Z,SS Lazio,ACF Fiorentina,Serie A,38
-2027-05-30T12:00:00Z,Como 1907,Genoa CFC,Serie A,38
-2027-05-30T12:00:00Z,SSC Napoli,Atalanta BC,Serie A,38
-2027-05-30T12:00:00Z,US Lecce,Venezia FC,Serie A,38
-2027-05-30T12:00:00Z,Bologna FC 1909,Parma Calcio 1913,Serie A,38
+2026-10-11T00:00:00Z,Atalanta BC,Venezia FC,Serie A,6
+2026-10-11T00:00:00Z,US Sassuolo Calcio,AC Milan,Serie A,6
+2026-10-11T00:00:00Z,US Lecce,Bologna FC 1909,Serie A,6
+2026-10-11T00:00:00Z,FC Internazionale Milano,Parma Calcio 1913,Serie A,6
+2026-10-11T00:00:00Z,SS Lazio,AC Monza,Serie A,6
+2026-10-11T00:00:00Z,Cagliari Calcio,Juventus FC,Serie A,6
+2026-10-11T00:00:00Z,Como 1907,AS Roma,Serie A,6
+2026-10-11T00:00:00Z,SSC Napoli,Frosinone Calcio,Serie A,6
+2026-10-11T00:00:00Z,Torino FC,Udinese Calcio,Serie A,6
+2026-10-11T00:00:00Z,Genoa CFC,ACF Fiorentina,Serie A,6
+2026-10-18T00:00:00Z,AC Milan,Atalanta BC,Serie A,7
+2026-10-18T00:00:00Z,Juventus FC,SS Lazio,Serie A,7
+2026-10-18T00:00:00Z,Bologna FC 1909,FC Internazionale Milano,Serie A,7
+2026-10-18T00:00:00Z,AS Roma,Genoa CFC,Serie A,7
+2026-10-18T00:00:00Z,Frosinone Calcio,US Sassuolo Calcio,Serie A,7
+2026-10-18T00:00:00Z,Udinese Calcio,US Lecce,Serie A,7
+2026-10-18T00:00:00Z,Venezia FC,SSC Napoli,Serie A,7
+2026-10-18T00:00:00Z,AC Monza,Cagliari Calcio,Serie A,7
+2026-10-18T00:00:00Z,ACF Fiorentina,Como 1907,Serie A,7
+2026-10-18T00:00:00Z,Parma Calcio 1913,Torino FC,Serie A,7
+2026-10-25T00:00:00Z,Udinese Calcio,AC Milan,Serie A,8
+2026-10-25T00:00:00Z,Cagliari Calcio,Bologna FC 1909,Serie A,8
+2026-10-25T00:00:00Z,Como 1907,US Sassuolo Calcio,Serie A,8
+2026-10-25T00:00:00Z,Atalanta BC,Frosinone Calcio,Serie A,8
+2026-10-25T00:00:00Z,FC Internazionale Milano,ACF Fiorentina,Serie A,8
+2026-10-25T00:00:00Z,SSC Napoli,AS Roma,Serie A,8
+2026-10-25T00:00:00Z,SS Lazio,Parma Calcio 1913,Serie A,8
+2026-10-25T00:00:00Z,US Lecce,Juventus FC,Serie A,8
+2026-10-25T00:00:00Z,Torino FC,AC Monza,Serie A,8
+2026-10-25T00:00:00Z,Genoa CFC,Venezia FC,Serie A,8
+2026-10-28T00:00:00Z,AC Milan,Bologna FC 1909,Serie A,9
+2026-10-28T00:00:00Z,Venezia FC,FC Internazionale Milano,Serie A,9
+2026-10-28T00:00:00Z,ACF Fiorentina,Atalanta BC,Serie A,9
+2026-10-28T00:00:00Z,Genoa CFC,Juventus FC,Serie A,9
+2026-10-28T00:00:00Z,Parma Calcio 1913,Udinese Calcio,Serie A,9
+2026-10-28T00:00:00Z,AC Monza,SSC Napoli,Serie A,9
+2026-10-28T00:00:00Z,AS Roma,Cagliari Calcio,Serie A,9
+2026-10-28T00:00:00Z,US Sassuolo Calcio,SS Lazio,Serie A,9
+2026-10-28T00:00:00Z,Torino FC,Como 1907,Serie A,9
+2026-10-28T00:00:00Z,Frosinone Calcio,US Lecce,Serie A,9
+2026-11-01T00:00:00Z,Bologna FC 1909,AC Monza,Serie A,10
+2026-11-01T00:00:00Z,US Lecce,Genoa CFC,Serie A,10
+2026-11-01T00:00:00Z,US Sassuolo Calcio,ACF Fiorentina,Serie A,10
+2026-11-01T00:00:00Z,Udinese Calcio,AS Roma,Serie A,10
+2026-11-01T00:00:00Z,Como 1907,Venezia FC,Serie A,10
+2026-11-01T00:00:00Z,Frosinone Calcio,Torino FC,Serie A,10
+2026-11-01T00:00:00Z,Atalanta BC,Parma Calcio 1913,Serie A,10
+2026-11-01T00:00:00Z,SS Lazio,Cagliari Calcio,Serie A,10
+2026-11-01T00:00:00Z,Juventus FC,SSC Napoli,Serie A,10
+2026-11-01T00:00:00Z,AC Milan,FC Internazionale Milano,Serie A,10
+2026-11-08T00:00:00Z,ACF Fiorentina,Juventus FC,Serie A,11
+2026-11-08T00:00:00Z,FC Internazionale Milano,Como 1907,Serie A,11
+2026-11-08T00:00:00Z,AS Roma,US Sassuolo Calcio,Serie A,11
+2026-11-08T00:00:00Z,Torino FC,US Lecce,Serie A,11
+2026-11-08T00:00:00Z,SSC Napoli,SS Lazio,Serie A,11
+2026-11-08T00:00:00Z,Cagliari Calcio,Frosinone Calcio,Serie A,11
+2026-11-08T00:00:00Z,Parma Calcio 1913,Bologna FC 1909,Serie A,11
+2026-11-08T00:00:00Z,Genoa CFC,AC Milan,Serie A,11
+2026-11-08T00:00:00Z,Venezia FC,Udinese Calcio,Serie A,11
+2026-11-08T00:00:00Z,AC Monza,Atalanta BC,Serie A,11
+2026-11-22T00:00:00Z,AC Monza,ACF Fiorentina,Serie A,12
+2026-11-22T00:00:00Z,Atalanta BC,FC Internazionale Milano,Serie A,12
+2026-11-22T00:00:00Z,Juventus FC,Venezia FC,Serie A,12
+2026-11-22T00:00:00Z,Bologna FC 1909,Udinese Calcio,Serie A,12
+2026-11-22T00:00:00Z,AC Milan,Frosinone Calcio,Serie A,12
+2026-11-22T00:00:00Z,US Sassuolo Calcio,Genoa CFC,Serie A,12
+2026-11-22T00:00:00Z,Como 1907,Cagliari Calcio,Serie A,12
+2026-11-22T00:00:00Z,Parma Calcio 1913,AS Roma,Serie A,12
+2026-11-22T00:00:00Z,SSC Napoli,Torino FC,Serie A,12
+2026-11-22T00:00:00Z,SS Lazio,US Lecce,Serie A,12
+2026-11-29T00:00:00Z,US Sassuolo Calcio,SSC Napoli,Serie A,13
+2026-11-29T00:00:00Z,Cagliari Calcio,AC Milan,Serie A,13
+2026-11-29T00:00:00Z,Como 1907,Juventus FC,Serie A,13
+2026-11-29T00:00:00Z,AS Roma,AC Monza,Serie A,13
+2026-11-29T00:00:00Z,Frosinone Calcio,Parma Calcio 1913,Serie A,13
+2026-11-29T00:00:00Z,Torino FC,SS Lazio,Serie A,13
+2026-11-29T00:00:00Z,Venezia FC,Bologna FC 1909,Serie A,13
+2026-11-29T00:00:00Z,US Lecce,Atalanta BC,Serie A,13
+2026-11-29T00:00:00Z,Udinese Calcio,ACF Fiorentina,Serie A,13
+2026-11-29T00:00:00Z,FC Internazionale Milano,Genoa CFC,Serie A,13
+2026-12-06T00:00:00Z,Genoa CFC,Torino FC,Serie A,14
+2026-12-06T00:00:00Z,Juventus FC,Udinese Calcio,Serie A,14
+2026-12-06T00:00:00Z,Frosinone Calcio,FC Internazionale Milano,Serie A,14
+2026-12-06T00:00:00Z,Bologna FC 1909,AS Roma,Serie A,14
+2026-12-06T00:00:00Z,ACF Fiorentina,Cagliari Calcio,Serie A,14
+2026-12-06T00:00:00Z,SS Lazio,Atalanta BC,Serie A,14
+2026-12-06T00:00:00Z,AC Milan,Parma Calcio 1913,Serie A,14
+2026-12-06T00:00:00Z,Venezia FC,US Sassuolo Calcio,Serie A,14
+2026-12-06T00:00:00Z,AC Monza,Como 1907,Serie A,14
+2026-12-06T00:00:00Z,SSC Napoli,US Lecce,Serie A,14
+2026-12-13T00:00:00Z,SSC Napoli,AC Milan,Serie A,15
+2026-12-13T00:00:00Z,Como 1907,Bologna FC 1909,Serie A,15
+2026-12-13T00:00:00Z,Udinese Calcio,Frosinone Calcio,Serie A,15
+2026-12-13T00:00:00Z,US Lecce,US Sassuolo Calcio,Serie A,15
+2026-12-13T00:00:00Z,Parma Calcio 1913,ACF Fiorentina,Serie A,15
+2026-12-13T00:00:00Z,Cagliari Calcio,Venezia FC,Serie A,15
+2026-12-13T00:00:00Z,FC Internazionale Milano,Torino FC,Serie A,15
+2026-12-13T00:00:00Z,Juventus FC,AC Monza,Serie A,15
+2026-12-13T00:00:00Z,Atalanta BC,Genoa CFC,Serie A,15
+2026-12-13T00:00:00Z,SS Lazio,AS Roma,Serie A,15
+2026-12-20T00:00:00Z,AC Milan,Como 1907,Serie A,16
+2026-12-20T00:00:00Z,US Sassuolo Calcio,Parma Calcio 1913,Serie A,16
+2026-12-20T00:00:00Z,AS Roma,Juventus FC,Serie A,16
+2026-12-20T00:00:00Z,Frosinone Calcio,SS Lazio,Serie A,16
+2026-12-20T00:00:00Z,Atalanta BC,SSC Napoli,Serie A,16
+2026-12-20T00:00:00Z,ACF Fiorentina,Bologna FC 1909,Serie A,16
+2026-12-20T00:00:00Z,Genoa CFC,Udinese Calcio,Serie A,16
+2026-12-20T00:00:00Z,US Lecce,FC Internazionale Milano,Serie A,16
+2026-12-20T00:00:00Z,Torino FC,Cagliari Calcio,Serie A,16
+2026-12-20T00:00:00Z,Venezia FC,AC Monza,Serie A,16
+2027-01-03T00:00:00Z,Udinese Calcio,Atalanta BC,Serie A,17
+2027-01-03T00:00:00Z,Como 1907,US Lecce,Serie A,17
+2027-01-03T00:00:00Z,AS Roma,Frosinone Calcio,Serie A,17
+2027-01-03T00:00:00Z,Parma Calcio 1913,SSC Napoli,Serie A,17
+2027-01-03T00:00:00Z,Cagliari Calcio,Genoa CFC,Serie A,17
+2027-01-03T00:00:00Z,Torino FC,Venezia FC,Serie A,17
+2027-01-03T00:00:00Z,AC Monza,AC Milan,Serie A,17
+2027-01-03T00:00:00Z,FC Internazionale Milano,US Sassuolo Calcio,Serie A,17
+2027-01-03T00:00:00Z,Bologna FC 1909,Juventus FC,Serie A,17
+2027-01-03T00:00:00Z,ACF Fiorentina,SS Lazio,Serie A,17
+2027-01-06T00:00:00Z,Frosinone Calcio,Bologna FC 1909,Serie A,18
+2027-01-06T00:00:00Z,US Sassuolo Calcio,Udinese Calcio,Serie A,18
+2027-01-06T00:00:00Z,Genoa CFC,AC Monza,Serie A,18
+2027-01-06T00:00:00Z,Venezia FC,AS Roma,Serie A,18
+2027-01-06T00:00:00Z,SSC Napoli,Cagliari Calcio,Serie A,18
+2027-01-06T00:00:00Z,AC Milan,ACF Fiorentina,Serie A,18
+2027-01-06T00:00:00Z,Juventus FC,Torino FC,Serie A,18
+2027-01-06T00:00:00Z,Atalanta BC,Como 1907,Serie A,18
+2027-01-06T00:00:00Z,SS Lazio,FC Internazionale Milano,Serie A,18
+2027-01-06T00:00:00Z,US Lecce,Parma Calcio 1913,Serie A,18
+2027-01-10T00:00:00Z,ACF Fiorentina,US Lecce,Serie A,19
+2027-01-10T00:00:00Z,Udinese Calcio,SSC Napoli,Serie A,19
+2027-01-10T00:00:00Z,Torino FC,Atalanta BC,Serie A,19
+2027-01-10T00:00:00Z,AC Monza,Frosinone Calcio,Serie A,19
+2027-01-10T00:00:00Z,FC Internazionale Milano,Juventus FC,Serie A,19
+2027-01-10T00:00:00Z,Parma Calcio 1913,Venezia FC,Serie A,19
+2027-01-10T00:00:00Z,Bologna FC 1909,Genoa CFC,Serie A,19
+2027-01-10T00:00:00Z,Cagliari Calcio,US Sassuolo Calcio,Serie A,19
+2027-01-10T00:00:00Z,Como 1907,SS Lazio,Serie A,19
+2027-01-10T00:00:00Z,AS Roma,AC Milan,Serie A,19
+2027-01-17T00:00:00Z,AC Milan,Torino FC,Serie A,20
+2027-01-17T00:00:00Z,Parma Calcio 1913,FC Internazionale Milano,Serie A,20
+2027-01-17T00:00:00Z,Juventus FC,Genoa CFC,Serie A,20
+2027-01-17T00:00:00Z,US Lecce,Udinese Calcio,Serie A,20
+2027-01-17T00:00:00Z,Cagliari Calcio,Como 1907,Serie A,20
+2027-01-17T00:00:00Z,US Sassuolo Calcio,AC Monza,Serie A,20
+2027-01-17T00:00:00Z,SSC Napoli,ACF Fiorentina,Serie A,20
+2027-01-17T00:00:00Z,SS Lazio,Bologna FC 1909,Serie A,20
+2027-01-17T00:00:00Z,Venezia FC,Frosinone Calcio,Serie A,20
+2027-01-17T00:00:00Z,Atalanta BC,AS Roma,Serie A,20
+2027-01-24T00:00:00Z,US Lecce,Torino FC,Serie A,21
+2027-01-24T00:00:00Z,Juventus FC,Cagliari Calcio,Serie A,21
+2027-01-24T00:00:00Z,FC Internazionale Milano,Venezia FC,Serie A,21
+2027-01-24T00:00:00Z,ACF Fiorentina,US Sassuolo Calcio,Serie A,21
+2027-01-24T00:00:00Z,Frosinone Calcio,AC Milan,Serie A,21
+2027-01-24T00:00:00Z,AS Roma,Udinese Calcio,Serie A,21
+2027-01-24T00:00:00Z,Bologna FC 1909,Atalanta BC,Serie A,21
+2027-01-24T00:00:00Z,Genoa CFC,Parma Calcio 1913,Serie A,21
+2027-01-24T00:00:00Z,Como 1907,SSC Napoli,Serie A,21
+2027-01-24T00:00:00Z,AC Monza,SS Lazio,Serie A,21
+2027-01-31T00:00:00Z,AC Milan,Juventus FC,Serie A,22
+2027-01-31T00:00:00Z,AC Monza,AS Roma,Serie A,22
+2027-01-31T00:00:00Z,Torino FC,Frosinone Calcio,Serie A,22
+2027-01-31T00:00:00Z,Udinese Calcio,Bologna FC 1909,Serie A,22
+2027-01-31T00:00:00Z,US Sassuolo Calcio,Como 1907,Serie A,22
+2027-01-31T00:00:00Z,Genoa CFC,US Lecce,Serie A,22
+2027-01-31T00:00:00Z,Cagliari Calcio,Parma Calcio 1913,Serie A,22
+2027-01-31T00:00:00Z,Atalanta BC,ACF Fiorentina,Serie A,22
+2027-01-31T00:00:00Z,SS Lazio,Venezia FC,Serie A,22
+2027-01-31T00:00:00Z,SSC Napoli,FC Internazionale Milano,Serie A,22
+2027-02-07T00:00:00Z,Juventus FC,US Sassuolo Calcio,Serie A,23
+2027-02-07T00:00:00Z,FC Internazionale Milano,Cagliari Calcio,Serie A,23
+2027-02-07T00:00:00Z,Como 1907,AC Monza,Serie A,23
+2027-02-07T00:00:00Z,US Lecce,SSC Napoli,Serie A,23
+2027-02-07T00:00:00Z,Venezia FC,Genoa CFC,Serie A,23
+2027-02-07T00:00:00Z,AS Roma,Torino FC,Serie A,23
+2027-02-07T00:00:00Z,Atalanta BC,SS Lazio,Serie A,23
+2027-02-07T00:00:00Z,Parma Calcio 1913,Frosinone Calcio,Serie A,23
+2027-02-07T00:00:00Z,Bologna FC 1909,AC Milan,Serie A,23
+2027-02-07T00:00:00Z,ACF Fiorentina,Udinese Calcio,Serie A,23
+2027-02-14T00:00:00Z,SSC Napoli,Juventus FC,Serie A,24
+2027-02-14T00:00:00Z,AC Monza,US Lecce,Serie A,24
+2027-02-14T00:00:00Z,Torino FC,US Sassuolo Calcio,Serie A,24
+2027-02-14T00:00:00Z,Frosinone Calcio,ACF Fiorentina,Serie A,24
+2027-02-14T00:00:00Z,Bologna FC 1909,Como 1907,Serie A,24
+2027-02-14T00:00:00Z,AS Roma,Parma Calcio 1913,Serie A,24
+2027-02-14T00:00:00Z,Udinese Calcio,Venezia FC,Serie A,24
+2027-02-14T00:00:00Z,Genoa CFC,Atalanta BC,Serie A,24
+2027-02-14T00:00:00Z,Cagliari Calcio,SS Lazio,Serie A,24
+2027-02-14T00:00:00Z,FC Internazionale Milano,AC Milan,Serie A,24
+2027-02-21T00:00:00Z,Como 1907,Torino FC,Serie A,25
+2027-02-21T00:00:00Z,Atalanta BC,AC Monza,Serie A,25
+2027-02-21T00:00:00Z,Udinese Calcio,Parma Calcio 1913,Serie A,25
+2027-02-21T00:00:00Z,Juventus FC,Bologna FC 1909,Serie A,25
+2027-02-21T00:00:00Z,ACF Fiorentina,FC Internazionale Milano,Serie A,25
+2027-02-21T00:00:00Z,US Sassuolo Calcio,AS Roma,Serie A,25
+2027-02-21T00:00:00Z,AC Milan,Genoa CFC,Serie A,25
+2027-02-21T00:00:00Z,Venezia FC,Cagliari Calcio,Serie A,25
+2027-02-21T00:00:00Z,US Lecce,Frosinone Calcio,Serie A,25
+2027-02-21T00:00:00Z,SS Lazio,SSC Napoli,Serie A,25
+2027-02-28T00:00:00Z,FC Internazionale Milano,Atalanta BC,Serie A,26
+2027-02-28T00:00:00Z,Cagliari Calcio,Udinese Calcio,Serie A,26
+2027-02-28T00:00:00Z,Parma Calcio 1913,US Sassuolo Calcio,Serie A,26
+2027-02-28T00:00:00Z,Genoa CFC,SS Lazio,Serie A,26
+2027-02-28T00:00:00Z,AS Roma,Venezia FC,Serie A,26
+2027-02-28T00:00:00Z,Como 1907,AC Milan,Serie A,26
+2027-02-28T00:00:00Z,Torino FC,ACF Fiorentina,Serie A,26
+2027-02-28T00:00:00Z,Bologna FC 1909,US Lecce,Serie A,26
+2027-02-28T00:00:00Z,AC Monza,Juventus FC,Serie A,26
+2027-02-28T00:00:00Z,Frosinone Calcio,SSC Napoli,Serie A,26
+2027-03-07T00:00:00Z,Udinese Calcio,FC Internazionale Milano,Serie A,27
+2027-03-07T00:00:00Z,Atalanta BC,Torino FC,Serie A,27
+2027-03-07T00:00:00Z,SSC Napoli,Parma Calcio 1913,Serie A,27
+2027-03-07T00:00:00Z,US Lecce,Como 1907,Serie A,27
+2027-03-07T00:00:00Z,SS Lazio,Frosinone Calcio,Serie A,27
+2027-03-07T00:00:00Z,US Sassuolo Calcio,Bologna FC 1909,Serie A,27
+2027-03-07T00:00:00Z,AC Monza,Genoa CFC,Serie A,27
+2027-03-07T00:00:00Z,ACF Fiorentina,Venezia FC,Serie A,27
+2027-03-07T00:00:00Z,AC Milan,Cagliari Calcio,Serie A,27
+2027-03-07T00:00:00Z,Juventus FC,AS Roma,Serie A,27
+2027-03-14T00:00:00Z,Bologna FC 1909,SSC Napoli,Serie A,28
+2027-03-14T00:00:00Z,Cagliari Calcio,ACF Fiorentina,Serie A,28
+2027-03-14T00:00:00Z,AC Milan,US Sassuolo Calcio,Serie A,28
+2027-03-14T00:00:00Z,Genoa CFC,AS Roma,Serie A,28
+2027-03-14T00:00:00Z,Parma Calcio 1913,US Lecce,Serie A,28
+2027-03-14T00:00:00Z,Torino FC,FC Internazionale Milano,Serie A,28
+2027-03-14T00:00:00Z,Frosinone Calcio,AC Monza,Serie A,28
+2027-03-14T00:00:00Z,Como 1907,Udinese Calcio,Serie A,28
+2027-03-14T00:00:00Z,SS Lazio,Juventus FC,Serie A,28
+2027-03-14T00:00:00Z,Venezia FC,Atalanta BC,Serie A,28
+2027-03-21T00:00:00Z,SSC Napoli,Venezia FC,Serie A,29
+2027-03-21T00:00:00Z,Udinese Calcio,Torino FC,Serie A,29
+2027-03-21T00:00:00Z,Juventus FC,Como 1907,Serie A,29
+2027-03-21T00:00:00Z,ACF Fiorentina,Genoa CFC,Serie A,29
+2027-03-21T00:00:00Z,Parma Calcio 1913,SS Lazio,Serie A,29
+2027-03-21T00:00:00Z,US Sassuolo Calcio,Cagliari Calcio,Serie A,29
+2027-03-21T00:00:00Z,AC Monza,Bologna FC 1909,Serie A,29
+2027-03-21T00:00:00Z,FC Internazionale Milano,Frosinone Calcio,Serie A,29
+2027-03-21T00:00:00Z,AS Roma,US Lecce,Serie A,29
+2027-03-21T00:00:00Z,Atalanta BC,AC Milan,Serie A,29
+2027-04-04T00:00:00Z,US Lecce,SS Lazio,Serie A,30
+2027-04-04T00:00:00Z,Cagliari Calcio,SSC Napoli,Serie A,30
+2027-04-04T00:00:00Z,Como 1907,ACF Fiorentina,Serie A,30
+2027-04-04T00:00:00Z,US Sassuolo Calcio,Atalanta BC,Serie A,30
+2027-04-04T00:00:00Z,AS Roma,Bologna FC 1909,Serie A,30
+2027-04-04T00:00:00Z,AC Milan,AC Monza,Serie A,30
+2027-04-04T00:00:00Z,Genoa CFC,FC Internazionale Milano,Serie A,30
+2027-04-04T00:00:00Z,Torino FC,Juventus FC,Serie A,30
+2027-04-04T00:00:00Z,Venezia FC,Parma Calcio 1913,Serie A,30
+2027-04-04T00:00:00Z,Frosinone Calcio,Udinese Calcio,Serie A,30
+2027-04-11T00:00:00Z,Juventus FC,US Lecce,Serie A,31
+2027-04-11T00:00:00Z,SSC Napoli,US Sassuolo Calcio,Serie A,31
+2027-04-11T00:00:00Z,ACF Fiorentina,AC Milan,Serie A,31
+2027-04-11T00:00:00Z,SS Lazio,Torino FC,Serie A,31
+2027-04-11T00:00:00Z,Cagliari Calcio,Atalanta BC,Serie A,31
+2027-04-11T00:00:00Z,Parma Calcio 1913,Como 1907,Serie A,31
+2027-04-11T00:00:00Z,Bologna FC 1909,Venezia FC,Serie A,31
+2027-04-11T00:00:00Z,Frosinone Calcio,Genoa CFC,Serie A,31
+2027-04-11T00:00:00Z,FC Internazionale Milano,AS Roma,Serie A,31
+2027-04-11T00:00:00Z,Udinese Calcio,AC Monza,Serie A,31
+2027-04-18T00:00:00Z,AC Monza,FC Internazionale Milano,Serie A,32
+2027-04-18T00:00:00Z,ACF Fiorentina,Parma Calcio 1913,Serie A,32
+2027-04-18T00:00:00Z,AS Roma,SS Lazio,Serie A,32
+2027-04-18T00:00:00Z,Como 1907,Frosinone Calcio,Serie A,32
+2027-04-18T00:00:00Z,US Sassuolo Calcio,US Lecce,Serie A,32
+2027-04-18T00:00:00Z,Bologna FC 1909,Cagliari Calcio,Serie A,32
+2027-04-18T00:00:00Z,Atalanta BC,Udinese Calcio,Serie A,32
+2027-04-18T00:00:00Z,Venezia FC,Juventus FC,Serie A,32
+2027-04-18T00:00:00Z,AC Milan,SSC Napoli,Serie A,32
+2027-04-18T00:00:00Z,Torino FC,Genoa CFC,Serie A,32
+2027-04-25T00:00:00Z,Frosinone Calcio,AS Roma,Serie A,33
+2027-04-25T00:00:00Z,Cagliari Calcio,AC Monza,Serie A,33
+2027-04-25T00:00:00Z,SSC Napoli,Udinese Calcio,Serie A,33
+2027-04-25T00:00:00Z,Parma Calcio 1913,Atalanta BC,Serie A,33
+2027-04-25T00:00:00Z,SS Lazio,Como 1907,Serie A,33
+2027-04-25T00:00:00Z,Juventus FC,ACF Fiorentina,Serie A,33
+2027-04-25T00:00:00Z,Genoa CFC,US Sassuolo Calcio,Serie A,33
+2027-04-25T00:00:00Z,US Lecce,AC Milan,Serie A,33
+2027-04-25T00:00:00Z,Venezia FC,Torino FC,Serie A,33
+2027-04-25T00:00:00Z,FC Internazionale Milano,Bologna FC 1909,Serie A,33
+2027-05-02T00:00:00Z,Atalanta BC,Juventus FC,Serie A,34
+2027-05-02T00:00:00Z,Torino FC,Parma Calcio 1913,Serie A,34
+2027-05-02T00:00:00Z,AC Milan,SS Lazio,Serie A,34
+2027-05-02T00:00:00Z,Udinese Calcio,Genoa CFC,Serie A,34
+2027-05-02T00:00:00Z,US Sassuolo Calcio,Frosinone Calcio,Serie A,34
+2027-05-02T00:00:00Z,Bologna FC 1909,ACF Fiorentina,Serie A,34
+2027-05-02T00:00:00Z,Como 1907,FC Internazionale Milano,Serie A,34
+2027-05-02T00:00:00Z,AC Monza,Venezia FC,Serie A,34
+2027-05-02T00:00:00Z,US Lecce,Cagliari Calcio,Serie A,34
+2027-05-02T00:00:00Z,AS Roma,SSC Napoli,Serie A,34
+2027-05-09T00:00:00Z,Parma Calcio 1913,AC Milan,Serie A,35
+2027-05-09T00:00:00Z,Genoa CFC,Cagliari Calcio,Serie A,35
+2027-05-09T00:00:00Z,SS Lazio,US Sassuolo Calcio,Serie A,35
+2027-05-09T00:00:00Z,SSC Napoli,AC Monza,Serie A,35
+2027-05-09T00:00:00Z,FC Internazionale Milano,US Lecce,Serie A,35
+2027-05-09T00:00:00Z,Venezia FC,Como 1907,Serie A,35
+2027-05-09T00:00:00Z,Udinese Calcio,Juventus FC,Serie A,35
+2027-05-09T00:00:00Z,Torino FC,Bologna FC 1909,Serie A,35
+2027-05-09T00:00:00Z,Frosinone Calcio,Atalanta BC,Serie A,35
+2027-05-09T00:00:00Z,ACF Fiorentina,AS Roma,Serie A,35
+2027-05-16T00:00:00Z,SSC Napoli,Genoa CFC,Serie A,36
+2027-05-16T00:00:00Z,US Lecce,ACF Fiorentina,Serie A,36
+2027-05-16T00:00:00Z,SS Lazio,Udinese Calcio,Serie A,36
+2027-05-16T00:00:00Z,Bologna FC 1909,Frosinone Calcio,Serie A,36
+2027-05-16T00:00:00Z,Como 1907,Atalanta BC,Serie A,36
+2027-05-16T00:00:00Z,Juventus FC,FC Internazionale Milano,Serie A,36
+2027-05-16T00:00:00Z,US Sassuolo Calcio,Venezia FC,Serie A,36
+2027-05-16T00:00:00Z,AC Monza,Parma Calcio 1913,Serie A,36
+2027-05-16T00:00:00Z,AC Milan,AS Roma,Serie A,36
+2027-05-16T00:00:00Z,Cagliari Calcio,Torino FC,Serie A,36
+2027-05-23T00:00:00Z,AS Roma,Como 1907,Serie A,37
+2027-05-23T00:00:00Z,Parma Calcio 1913,Juventus FC,Serie A,37
+2027-05-23T00:00:00Z,Torino FC,SSC Napoli,Serie A,37
+2027-05-23T00:00:00Z,Atalanta BC,US Lecce,Serie A,37
+2027-05-23T00:00:00Z,FC Internazionale Milano,SS Lazio,Serie A,37
+2027-05-23T00:00:00Z,Udinese Calcio,US Sassuolo Calcio,Serie A,37
+2027-05-23T00:00:00Z,Frosinone Calcio,Cagliari Calcio,Serie A,37
+2027-05-23T00:00:00Z,ACF Fiorentina,AC Monza,Serie A,37
+2027-05-23T00:00:00Z,Venezia FC,AC Milan,Serie A,37
+2027-05-23T00:00:00Z,Genoa CFC,Bologna FC 1909,Serie A,37
+2027-05-30T00:00:00Z,AC Milan,Udinese Calcio,Serie A,38
+2027-05-30T00:00:00Z,Juventus FC,Frosinone Calcio,Serie A,38
+2027-05-30T00:00:00Z,AC Monza,Torino FC,Serie A,38
+2027-05-30T00:00:00Z,US Sassuolo Calcio,FC Internazionale Milano,Serie A,38
+2027-05-30T00:00:00Z,Cagliari Calcio,AS Roma,Serie A,38
+2027-05-30T00:00:00Z,SS Lazio,ACF Fiorentina,Serie A,38
+2027-05-30T00:00:00Z,Como 1907,Genoa CFC,Serie A,38
+2027-05-30T00:00:00Z,SSC Napoli,Atalanta BC,Serie A,38
+2027-05-30T00:00:00Z,US Lecce,Venezia FC,Serie A,38
+2027-05-30T00:00:00Z,Bologna FC 1909,Parma Calcio 1913,Serie A,38
 2026-08-21T18:45:00Z,Olympique de Marseille,RC Strasbourg Alsace,Ligue 1,1
 2026-08-22T15:15:00Z,Racing Club de Lens,AJ Auxerre,Ligue 1,1
 2026-08-22T18:45:00Z,Le Mans FC,Stade Brestois 29,Ligue 1,1
@@ -1065,386 +1065,345 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-29T12:00:00Z,Olympique Lyonnais,Paris FC,Ligue 1,34
 2027-05-29T12:00:00Z,AJ Auxerre,Le Havre AC,Ligue 1,34
 2027-05-29T12:00:00Z,RC Strasbourg Alsace,OGC Nice,Ligue 1,34
-2026-08-15T17:30:00Z,Deportivo Alavés,Getafe CF,La Liga,1
-2026-08-15T19:30:00Z,Sevilla FC,Rayo Vallecano de Madrid,La Liga,1
-2026-08-16T15:00:00Z,Real Racing Club de Santander,Villarreal CF,La Liga,1
-2026-08-16T17:00:00Z,RCD Espanyol de Barcelona,Levante UD,La Liga,1
-2026-08-16T19:30:00Z,RC Celta de Vigo,CA Osasuna,La Liga,1
-2026-08-17T19:00:00Z,RC Deportivo La Coruña,Elche CF,La Liga,1
-2026-08-19T19:00:00Z,Club Atlético de Madrid,Málaga CF,La Liga,1
-2026-08-20T19:00:00Z,Rayo Vallecano de Madrid,Deportivo Alavés,La Liga,2
-2026-08-21T19:00:00Z,Real Betis Balompié,Real Sociedad de Fútbol,La Liga,2
-2026-08-22T15:00:00Z,Athletic Club,Sevilla FC,La Liga,2
-2026-08-22T17:30:00Z,Valencia CF,RC Celta de Vigo,La Liga,2
-2026-08-22T19:30:00Z,RCD Espanyol de Barcelona,Real Madrid CF,La Liga,2
-2026-08-23T15:00:00Z,Club Atlético de Madrid,Villarreal CF,La Liga,2
-2026-08-23T17:30:00Z,Getafe CF,Real Racing Club de Santander,La Liga,2
-2026-08-23T19:30:00Z,Elche CF,FC Barcelona,La Liga,2
-2026-08-24T17:30:00Z,CA Osasuna,Levante UD,La Liga,2
-2026-08-24T19:30:00Z,Málaga CF,RC Deportivo La Coruña,La Liga,2
-2026-08-25T19:00:00Z,Valencia CF,Real Betis Balompié,La Liga,1
-2026-08-26T19:00:00Z,Real Madrid CF,Real Sociedad de Fútbol,La Liga,1
-2026-08-27T19:00:00Z,FC Barcelona,Athletic Club,La Liga,1
-2026-08-28T17:00:00Z,Real Racing Club de Santander,Elche CF,La Liga,3
-2026-08-28T19:30:00Z,Deportivo Alavés,Villarreal CF,La Liga,3
-2026-08-29T15:00:00Z,Levante UD,Real Betis Balompié,La Liga,3
-2026-08-29T17:00:00Z,Real Sociedad de Fútbol,RCD Espanyol de Barcelona,La Liga,3
-2026-08-29T19:30:00Z,Sevilla FC,Club Atlético de Madrid,La Liga,3
-2026-08-30T15:00:00Z,Real Madrid CF,Málaga CF,La Liga,3
-2026-08-30T17:30:00Z,RC Deportivo La Coruña,Valencia CF,La Liga,3
-2026-08-30T19:30:00Z,RC Celta de Vigo,Athletic Club,La Liga,3
-2026-08-31T17:30:00Z,CA Osasuna,Getafe CF,La Liga,3
-2026-08-31T19:30:00Z,FC Barcelona,Rayo Vallecano de Madrid,La Liga,3
-2026-09-06T15:00:00Z,Elche CF,Real Sociedad de Fútbol,La Liga,4
-2026-09-06T15:00:00Z,Valencia CF,FC Barcelona,La Liga,4
-2026-09-06T15:00:00Z,Rayo Vallecano de Madrid,Real Racing Club de Santander,La Liga,4
-2026-09-06T15:00:00Z,RCD Espanyol de Barcelona,Sevilla FC,La Liga,4
-2026-09-06T15:00:00Z,Villarreal CF,RC Deportivo La Coruña,La Liga,4
-2026-09-06T15:00:00Z,Athletic Club,Club Atlético de Madrid,La Liga,4
-2026-09-06T15:00:00Z,Deportivo Alavés,CA Osasuna,La Liga,4
-2026-09-06T15:00:00Z,Getafe CF,RC Celta de Vigo,La Liga,4
-2026-09-06T15:00:00Z,Málaga CF,Levante UD,La Liga,4
-2026-09-06T15:00:00Z,Real Betis Balompié,Real Madrid CF,La Liga,4
-2026-09-13T15:00:00Z,Getafe CF,RC Deportivo La Coruña,La Liga,5
-2026-09-13T15:00:00Z,Sevilla FC,Valencia CF,La Liga,5
-2026-09-13T15:00:00Z,Real Racing Club de Santander,Deportivo Alavés,La Liga,5
-2026-09-13T15:00:00Z,Villarreal CF,Real Betis Balompié,La Liga,5
-2026-09-13T15:00:00Z,RC Celta de Vigo,Málaga CF,La Liga,5
-2026-09-13T15:00:00Z,CA Osasuna,RCD Espanyol de Barcelona,La Liga,5
-2026-09-13T15:00:00Z,Real Sociedad de Fútbol,Club Atlético de Madrid,La Liga,5
-2026-09-13T15:00:00Z,Levante UD,FC Barcelona,La Liga,5
-2026-09-13T15:00:00Z,Athletic Club,Elche CF,La Liga,5
-2026-09-13T15:00:00Z,Real Madrid CF,Rayo Vallecano de Madrid,La Liga,5
-2026-09-16T15:00:00Z,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,La Liga,6
-2026-09-16T15:00:00Z,RC Deportivo La Coruña,Sevilla FC,La Liga,6
-2026-09-16T15:00:00Z,Deportivo Alavés,Valencia CF,La Liga,6
-2026-09-16T15:00:00Z,Elche CF,Real Madrid CF,La Liga,6
-2026-09-16T15:00:00Z,Real Sociedad de Fútbol,RC Celta de Vigo,La Liga,6
-2026-09-16T15:00:00Z,Málaga CF,Villarreal CF,La Liga,6
-2026-09-16T15:00:00Z,Club Atlético de Madrid,CA Osasuna,La Liga,6
-2026-09-16T15:00:00Z,Levante UD,Athletic Club,La Liga,6
-2026-09-16T15:00:00Z,Real Betis Balompié,Getafe CF,La Liga,6
-2026-09-16T15:00:00Z,FC Barcelona,Real Racing Club de Santander,La Liga,6
-2026-09-20T15:00:00Z,Club Atlético de Madrid,Real Madrid CF,La Liga,7
-2026-09-20T15:00:00Z,Valencia CF,Real Sociedad de Fútbol,La Liga,7
-2026-09-20T15:00:00Z,Sevilla FC,FC Barcelona,La Liga,7
-2026-09-20T15:00:00Z,Athletic Club,Deportivo Alavés,La Liga,7
-2026-09-20T15:00:00Z,RCD Espanyol de Barcelona,Elche CF,La Liga,7
-2026-09-20T15:00:00Z,CA Osasuna,Rayo Vallecano de Madrid,La Liga,7
-2026-09-20T15:00:00Z,RC Celta de Vigo,Real Racing Club de Santander,La Liga,7
-2026-09-20T15:00:00Z,RC Deportivo La Coruña,Real Betis Balompié,La Liga,7
-2026-09-20T15:00:00Z,Villarreal CF,Levante UD,La Liga,7
-2026-09-20T15:00:00Z,Getafe CF,Málaga CF,La Liga,7
-2026-10-11T15:00:00Z,Rayo Vallecano de Madrid,Athletic Club,La Liga,8
-2026-10-11T15:00:00Z,Deportivo Alavés,Club Atlético de Madrid,La Liga,8
-2026-10-11T15:00:00Z,FC Barcelona,Getafe CF,La Liga,8
-2026-10-11T15:00:00Z,Real Betis Balompié,CA Osasuna,La Liga,8
-2026-10-11T15:00:00Z,Real Madrid CF,Villarreal CF,La Liga,8
-2026-10-11T15:00:00Z,Elche CF,RC Celta de Vigo,La Liga,8
-2026-10-11T15:00:00Z,Levante UD,Sevilla FC,La Liga,8
-2026-10-11T15:00:00Z,Real Racing Club de Santander,Valencia CF,La Liga,8
-2026-10-11T15:00:00Z,Málaga CF,RCD Espanyol de Barcelona,La Liga,8
-2026-10-11T15:00:00Z,Real Sociedad de Fútbol,RC Deportivo La Coruña,La Liga,8
-2026-10-18T15:00:00Z,Villarreal CF,Elche CF,La Liga,9
-2026-10-18T15:00:00Z,Real Madrid CF,Sevilla FC,La Liga,9
-2026-10-18T15:00:00Z,RCD Espanyol de Barcelona,Club Atlético de Madrid,La Liga,9
-2026-10-18T15:00:00Z,Valencia CF,Athletic Club,La Liga,9
-2026-10-18T15:00:00Z,RC Celta de Vigo,Deportivo Alavés,La Liga,9
-2026-10-18T15:00:00Z,Real Betis Balompié,FC Barcelona,La Liga,9
-2026-10-18T15:00:00Z,Málaga CF,Real Sociedad de Fútbol,La Liga,9
-2026-10-18T15:00:00Z,CA Osasuna,Real Racing Club de Santander,La Liga,9
-2026-10-18T15:00:00Z,RC Deportivo La Coruña,Levante UD,La Liga,9
-2026-10-18T15:00:00Z,Getafe CF,Rayo Vallecano de Madrid,La Liga,9
-2026-10-25T16:00:00Z,Rayo Vallecano de Madrid,Elche CF,La Liga,10
-2026-10-25T16:00:00Z,Deportivo Alavés,Málaga CF,La Liga,10
-2026-10-25T16:00:00Z,Athletic Club,Getafe CF,La Liga,10
-2026-10-25T16:00:00Z,Sevilla FC,CA Osasuna,La Liga,10
-2026-10-25T16:00:00Z,Valencia CF,Villarreal CF,La Liga,10
-2026-10-25T16:00:00Z,FC Barcelona,Real Madrid CF,La Liga,10
-2026-10-25T16:00:00Z,Club Atlético de Madrid,RC Deportivo La Coruña,La Liga,10
-2026-10-25T16:00:00Z,RC Celta de Vigo,Real Betis Balompié,La Liga,10
-2026-10-25T16:00:00Z,Real Sociedad de Fútbol,Levante UD,La Liga,10
-2026-10-25T16:00:00Z,Real Racing Club de Santander,RCD Espanyol de Barcelona,La Liga,10
-2026-11-01T16:00:00Z,Real Betis Balompié,Málaga CF,La Liga,11
-2026-11-01T16:00:00Z,Villarreal CF,RCD Espanyol de Barcelona,La Liga,11
-2026-11-01T16:00:00Z,Elche CF,Valencia CF,La Liga,11
-2026-11-01T16:00:00Z,Athletic Club,Real Sociedad de Fútbol,La Liga,11
-2026-11-01T16:00:00Z,Levante UD,Club Atlético de Madrid,La Liga,11
-2026-11-01T16:00:00Z,RC Deportivo La Coruña,CA Osasuna,La Liga,11
-2026-11-01T16:00:00Z,FC Barcelona,Deportivo Alavés,La Liga,11
-2026-11-01T16:00:00Z,Getafe CF,Sevilla FC,La Liga,11
-2026-11-01T16:00:00Z,Real Racing Club de Santander,Real Madrid CF,La Liga,11
-2026-11-01T16:00:00Z,Rayo Vallecano de Madrid,RC Celta de Vigo,La Liga,11
-2026-11-08T16:00:00Z,Elche CF,Real Betis Balompié,La Liga,12
-2026-11-08T16:00:00Z,CA Osasuna,Athletic Club,La Liga,12
-2026-11-08T16:00:00Z,Sevilla FC,Deportivo Alavés,La Liga,12
-2026-11-08T16:00:00Z,Valencia CF,Real Madrid CF,La Liga,12
-2026-11-08T16:00:00Z,RC Celta de Vigo,Levante UD,La Liga,12
-2026-11-08T16:00:00Z,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,La Liga,12
-2026-11-08T16:00:00Z,Málaga CF,Real Racing Club de Santander,La Liga,12
-2026-11-08T16:00:00Z,RCD Espanyol de Barcelona,RC Deportivo La Coruña,La Liga,12
-2026-11-08T16:00:00Z,Club Atlético de Madrid,FC Barcelona,La Liga,12
-2026-11-08T16:00:00Z,Villarreal CF,Getafe CF,La Liga,12
-2026-11-22T16:00:00Z,Athletic Club,RCD Espanyol de Barcelona,La Liga,13
-2026-11-22T16:00:00Z,FC Barcelona,Villarreal CF,La Liga,13
-2026-11-22T16:00:00Z,Real Racing Club de Santander,Real Sociedad de Fútbol,La Liga,13
-2026-11-22T16:00:00Z,Rayo Vallecano de Madrid,Valencia CF,La Liga,13
-2026-11-22T16:00:00Z,CA Osasuna,Málaga CF,La Liga,13
-2026-11-22T16:00:00Z,Getafe CF,Club Atlético de Madrid,La Liga,13
-2026-11-22T16:00:00Z,Real Madrid CF,RC Celta de Vigo,La Liga,13
-2026-11-22T16:00:00Z,Deportivo Alavés,RC Deportivo La Coruña,La Liga,13
-2026-11-22T16:00:00Z,Sevilla FC,Real Betis Balompié,La Liga,13
-2026-11-22T16:00:00Z,Levante UD,Elche CF,La Liga,13
-2026-11-29T16:00:00Z,RC Celta de Vigo,Villarreal CF,La Liga,14
-2026-11-29T16:00:00Z,Elche CF,Club Atlético de Madrid,La Liga,14
-2026-11-29T16:00:00Z,Real Betis Balompié,Rayo Vallecano de Madrid,La Liga,14
-2026-11-29T16:00:00Z,Valencia CF,CA Osasuna,La Liga,14
-2026-11-29T16:00:00Z,Real Madrid CF,Deportivo Alavés,La Liga,14
-2026-11-29T16:00:00Z,RCD Espanyol de Barcelona,Getafe CF,La Liga,14
-2026-11-29T16:00:00Z,Real Sociedad de Fútbol,Sevilla FC,La Liga,14
-2026-11-29T16:00:00Z,Levante UD,Real Racing Club de Santander,La Liga,14
-2026-11-29T16:00:00Z,RC Deportivo La Coruña,FC Barcelona,La Liga,14
-2026-11-29T16:00:00Z,Málaga CF,Athletic Club,La Liga,14
-2026-12-06T16:00:00Z,CA Osasuna,Elche CF,La Liga,15
-2026-12-06T16:00:00Z,Sevilla FC,Málaga CF,La Liga,15
-2026-12-06T16:00:00Z,Deportivo Alavés,RCD Espanyol de Barcelona,La Liga,15
-2026-12-06T16:00:00Z,Club Atlético de Madrid,Real Betis Balompié,La Liga,15
-2026-12-06T16:00:00Z,Real Racing Club de Santander,RC Deportivo La Coruña,La Liga,15
-2026-12-06T16:00:00Z,FC Barcelona,RC Celta de Vigo,La Liga,15
-2026-12-06T16:00:00Z,Getafe CF,Valencia CF,La Liga,15
-2026-12-06T16:00:00Z,Athletic Club,Real Madrid CF,La Liga,15
-2026-12-06T16:00:00Z,Villarreal CF,Real Sociedad de Fútbol,La Liga,15
-2026-12-06T16:00:00Z,Rayo Vallecano de Madrid,Levante UD,La Liga,15
-2026-12-13T16:00:00Z,RCD Espanyol de Barcelona,RC Celta de Vigo,La Liga,16
-2026-12-13T16:00:00Z,Málaga CF,FC Barcelona,La Liga,16
-2026-12-13T16:00:00Z,Real Madrid CF,CA Osasuna,La Liga,16
-2026-12-13T16:00:00Z,RC Deportivo La Coruña,Athletic Club,La Liga,16
-2026-12-13T16:00:00Z,Levante UD,Deportivo Alavés,La Liga,16
-2026-12-13T16:00:00Z,Elche CF,Sevilla FC,La Liga,16
-2026-12-13T16:00:00Z,Villarreal CF,Rayo Vallecano de Madrid,La Liga,16
-2026-12-13T16:00:00Z,Real Betis Balompié,Real Racing Club de Santander,La Liga,16
-2026-12-13T16:00:00Z,Real Sociedad de Fútbol,Getafe CF,La Liga,16
-2026-12-13T16:00:00Z,Club Atlético de Madrid,Valencia CF,La Liga,16
-2026-12-20T16:00:00Z,Athletic Club,Real Betis Balompié,La Liga,17
-2026-12-20T16:00:00Z,Getafe CF,Levante UD,La Liga,17
-2026-12-20T16:00:00Z,Deportivo Alavés,Elche CF,La Liga,17
-2026-12-20T16:00:00Z,Valencia CF,RCD Espanyol de Barcelona,La Liga,17
-2026-12-20T16:00:00Z,CA Osasuna,Villarreal CF,La Liga,17
-2026-12-20T16:00:00Z,FC Barcelona,Real Sociedad de Fútbol,La Liga,17
-2026-12-20T16:00:00Z,RC Celta de Vigo,Club Atlético de Madrid,La Liga,17
-2026-12-20T16:00:00Z,Rayo Vallecano de Madrid,Málaga CF,La Liga,17
-2026-12-20T16:00:00Z,RC Deportivo La Coruña,Real Madrid CF,La Liga,17
-2026-12-20T16:00:00Z,Sevilla FC,Real Racing Club de Santander,La Liga,17
-2027-01-03T12:00:00Z,Real Madrid CF,Getafe CF,La Liga,18
-2027-01-03T12:00:00Z,Real Sociedad de Fútbol,CA Osasuna,La Liga,18
-2027-01-03T12:00:00Z,Levante UD,Valencia CF,La Liga,18
-2027-01-03T12:00:00Z,Real Racing Club de Santander,Athletic Club,La Liga,18
-2027-01-03T12:00:00Z,Málaga CF,Elche CF,La Liga,18
-2027-01-03T12:00:00Z,Real Betis Balompié,Deportivo Alavés,La Liga,18
-2027-01-03T12:00:00Z,RC Celta de Vigo,RC Deportivo La Coruña,La Liga,18
-2027-01-03T12:00:00Z,RCD Espanyol de Barcelona,FC Barcelona,La Liga,18
-2027-01-03T12:00:00Z,Villarreal CF,Sevilla FC,La Liga,18
-2027-01-03T12:00:00Z,Rayo Vallecano de Madrid,Club Atlético de Madrid,La Liga,18
-2027-01-10T12:00:00Z,Athletic Club,Villarreal CF,La Liga,19
-2027-01-10T12:00:00Z,Elche CF,Getafe CF,La Liga,19
-2027-01-10T12:00:00Z,Real Madrid CF,Levante UD,La Liga,19
-2027-01-10T12:00:00Z,CA Osasuna,FC Barcelona,La Liga,19
-2027-01-10T12:00:00Z,RC Deportivo La Coruña,Rayo Vallecano de Madrid,La Liga,19
-2027-01-10T12:00:00Z,Club Atlético de Madrid,Real Racing Club de Santander,La Liga,19
-2027-01-10T12:00:00Z,Deportivo Alavés,Real Sociedad de Fútbol,La Liga,19
-2027-01-10T12:00:00Z,Sevilla FC,RC Celta de Vigo,La Liga,19
-2027-01-10T12:00:00Z,RCD Espanyol de Barcelona,Real Betis Balompié,La Liga,19
-2027-01-10T12:00:00Z,Valencia CF,Málaga CF,La Liga,19
-2027-01-17T12:00:00Z,Málaga CF,Real Madrid CF,La Liga,20
-2027-01-17T12:00:00Z,FC Barcelona,Elche CF,La Liga,20
-2027-01-17T12:00:00Z,Villarreal CF,Deportivo Alavés,La Liga,20
-2027-01-17T12:00:00Z,Real Racing Club de Santander,CA Osasuna,La Liga,20
-2027-01-17T12:00:00Z,Levante UD,RCD Espanyol de Barcelona,La Liga,20
-2027-01-17T12:00:00Z,RC Celta de Vigo,Valencia CF,La Liga,20
-2027-01-17T12:00:00Z,Getafe CF,Athletic Club,La Liga,20
-2027-01-17T12:00:00Z,Rayo Vallecano de Madrid,Sevilla FC,La Liga,20
-2027-01-17T12:00:00Z,Real Betis Balompié,RC Deportivo La Coruña,La Liga,20
-2027-01-17T12:00:00Z,Club Atlético de Madrid,Real Sociedad de Fútbol,La Liga,20
-2027-01-24T12:00:00Z,Real Madrid CF,Real Betis Balompié,La Liga,21
-2027-01-24T12:00:00Z,Getafe CF,CA Osasuna,La Liga,21
-2027-01-24T12:00:00Z,Valencia CF,Sevilla FC,La Liga,21
-2027-01-24T12:00:00Z,Elche CF,Rayo Vallecano de Madrid,La Liga,21
-2027-01-24T12:00:00Z,Deportivo Alavés,FC Barcelona,La Liga,21
-2027-01-24T12:00:00Z,Real Sociedad de Fútbol,Málaga CF,La Liga,21
-2027-01-24T12:00:00Z,Real Racing Club de Santander,RC Celta de Vigo,La Liga,21
-2027-01-24T12:00:00Z,Athletic Club,Levante UD,La Liga,21
-2027-01-24T12:00:00Z,RCD Espanyol de Barcelona,Villarreal CF,La Liga,21
-2027-01-24T12:00:00Z,RC Deportivo La Coruña,Club Atlético de Madrid,La Liga,21
-2027-01-31T12:00:00Z,Real Betis Balompié,Elche CF,La Liga,22
-2027-01-31T12:00:00Z,Rayo Vallecano de Madrid,Real Madrid CF,La Liga,22
-2027-01-31T12:00:00Z,Club Atlético de Madrid,RCD Espanyol de Barcelona,La Liga,22
-2027-01-31T12:00:00Z,RC Celta de Vigo,Getafe CF,La Liga,22
-2027-01-31T12:00:00Z,Villarreal CF,Real Racing Club de Santander,La Liga,22
-2027-01-31T12:00:00Z,Levante UD,Real Sociedad de Fútbol,La Liga,22
-2027-01-31T12:00:00Z,FC Barcelona,Valencia CF,La Liga,22
-2027-01-31T12:00:00Z,Sevilla FC,Athletic Club,La Liga,22
-2027-01-31T12:00:00Z,CA Osasuna,RC Deportivo La Coruña,La Liga,22
-2027-01-31T12:00:00Z,Málaga CF,Deportivo Alavés,La Liga,22
-2027-02-07T12:00:00Z,Athletic Club,CA Osasuna,La Liga,23
-2027-02-07T12:00:00Z,Deportivo Alavés,RC Celta de Vigo,La Liga,23
-2027-02-07T12:00:00Z,Real Betis Balompié,Sevilla FC,La Liga,23
-2027-02-07T12:00:00Z,Elche CF,Levante UD,La Liga,23
-2027-02-07T12:00:00Z,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,La Liga,23
-2027-02-07T12:00:00Z,Getafe CF,Villarreal CF,La Liga,23
-2027-02-07T12:00:00Z,RC Deportivo La Coruña,Málaga CF,La Liga,23
-2027-02-07T12:00:00Z,Real Sociedad de Fútbol,Real Madrid CF,La Liga,23
-2027-02-07T12:00:00Z,Valencia CF,Real Racing Club de Santander,La Liga,23
-2027-02-07T12:00:00Z,FC Barcelona,Club Atlético de Madrid,La Liga,23
-2027-02-14T12:00:00Z,Sevilla FC,RCD Espanyol de Barcelona,La Liga,24
-2027-02-14T12:00:00Z,CA Osasuna,Club Atlético de Madrid,La Liga,24
-2027-02-14T12:00:00Z,RC Celta de Vigo,Rayo Vallecano de Madrid,La Liga,24
-2027-02-14T12:00:00Z,Villarreal CF,FC Barcelona,La Liga,24
-2027-02-14T12:00:00Z,Real Sociedad de Fútbol,Real Betis Balompié,La Liga,24
-2027-02-14T12:00:00Z,Elche CF,RC Deportivo La Coruña,La Liga,24
-2027-02-14T12:00:00Z,Valencia CF,Deportivo Alavés,La Liga,24
-2027-02-14T12:00:00Z,Levante UD,Málaga CF,La Liga,24
-2027-02-14T12:00:00Z,Real Racing Club de Santander,Getafe CF,La Liga,24
-2027-02-14T12:00:00Z,Real Madrid CF,Athletic Club,La Liga,24
-2027-02-21T12:00:00Z,Deportivo Alavés,Real Racing Club de Santander,La Liga,25
-2027-02-21T12:00:00Z,Málaga CF,Real Betis Balompié,La Liga,25
-2027-02-21T12:00:00Z,Villarreal CF,Valencia CF,La Liga,25
-2027-02-21T12:00:00Z,FC Barcelona,Levante UD,La Liga,25
-2027-02-21T12:00:00Z,Athletic Club,RC Celta de Vigo,La Liga,25
-2027-02-21T12:00:00Z,RCD Espanyol de Barcelona,CA Osasuna,La Liga,25
-2027-02-21T12:00:00Z,Sevilla FC,Real Madrid CF,La Liga,25
-2027-02-21T12:00:00Z,Club Atlético de Madrid,Elche CF,La Liga,25
-2027-02-21T12:00:00Z,RC Deportivo La Coruña,Real Sociedad de Fútbol,La Liga,25
-2027-02-21T12:00:00Z,Rayo Vallecano de Madrid,Getafe CF,La Liga,25
-2027-02-28T12:00:00Z,RC Celta de Vigo,RCD Espanyol de Barcelona,La Liga,26
-2027-02-28T12:00:00Z,Levante UD,RC Deportivo La Coruña,La Liga,26
-2027-02-28T12:00:00Z,Málaga CF,Club Atlético de Madrid,La Liga,26
-2027-02-28T12:00:00Z,CA Osasuna,Sevilla FC,La Liga,26
-2027-02-28T12:00:00Z,Real Madrid CF,Valencia CF,La Liga,26
-2027-02-28T12:00:00Z,Getafe CF,Deportivo Alavés,La Liga,26
-2027-02-28T12:00:00Z,Athletic Club,FC Barcelona,La Liga,26
-2027-02-28T12:00:00Z,Real Racing Club de Santander,Rayo Vallecano de Madrid,La Liga,26
-2027-02-28T12:00:00Z,Real Betis Balompié,Villarreal CF,La Liga,26
-2027-02-28T12:00:00Z,Real Sociedad de Fútbol,Elche CF,La Liga,26
-2027-03-07T12:00:00Z,FC Barcelona,Real Betis Balompié,La Liga,27
-2027-03-07T12:00:00Z,Elche CF,Málaga CF,La Liga,27
-2027-03-07T12:00:00Z,Deportivo Alavés,Athletic Club,La Liga,27
-2027-03-07T12:00:00Z,Rayo Vallecano de Madrid,CA Osasuna,La Liga,27
-2027-03-07T12:00:00Z,Sevilla FC,Real Sociedad de Fútbol,La Liga,27
-2027-03-07T12:00:00Z,Club Atlético de Madrid,RC Celta de Vigo,La Liga,27
-2027-03-07T12:00:00Z,Villarreal CF,Real Madrid CF,La Liga,27
-2027-03-07T12:00:00Z,Valencia CF,Levante UD,La Liga,27
-2027-03-07T12:00:00Z,RC Deportivo La Coruña,Getafe CF,La Liga,27
-2027-03-07T12:00:00Z,RCD Espanyol de Barcelona,Real Racing Club de Santander,La Liga,27
-2027-03-14T12:00:00Z,CA Osasuna,RC Celta de Vigo,La Liga,28
-2027-03-14T12:00:00Z,Elche CF,Villarreal CF,La Liga,28
-2027-03-14T12:00:00Z,Deportivo Alavés,Sevilla FC,La Liga,28
-2027-03-14T12:00:00Z,Athletic Club,Valencia CF,La Liga,28
-2027-03-14T12:00:00Z,Real Betis Balompié,Levante UD,La Liga,28
-2027-03-14T12:00:00Z,Real Racing Club de Santander,Club Atlético de Madrid,La Liga,28
-2027-03-14T12:00:00Z,Málaga CF,Rayo Vallecano de Madrid,La Liga,28
-2027-03-14T12:00:00Z,Getafe CF,Real Sociedad de Fútbol,La Liga,28
-2027-03-14T12:00:00Z,FC Barcelona,RC Deportivo La Coruña,La Liga,28
-2027-03-14T12:00:00Z,Real Madrid CF,RCD Espanyol de Barcelona,La Liga,28
-2027-03-21T12:00:00Z,Villarreal CF,Málaga CF,La Liga,29
-2027-03-21T12:00:00Z,Sevilla FC,Elche CF,La Liga,29
-2027-03-21T12:00:00Z,Levante UD,CA Osasuna,La Liga,29
-2027-03-21T12:00:00Z,RC Celta de Vigo,Real Madrid CF,La Liga,29
-2027-03-21T12:00:00Z,Rayo Vallecano de Madrid,FC Barcelona,La Liga,29
-2027-03-21T12:00:00Z,Real Sociedad de Fútbol,Deportivo Alavés,La Liga,29
-2027-03-21T12:00:00Z,RCD Espanyol de Barcelona,Athletic Club,La Liga,29
-2027-03-21T12:00:00Z,Real Racing Club de Santander,Real Betis Balompié,La Liga,29
-2027-03-21T12:00:00Z,Valencia CF,RC Deportivo La Coruña,La Liga,29
-2027-03-21T12:00:00Z,Club Atlético de Madrid,Getafe CF,La Liga,29
-2027-04-04T12:00:00Z,Levante UD,Rayo Vallecano de Madrid,La Liga,30
-2027-04-04T12:00:00Z,FC Barcelona,Sevilla FC,La Liga,30
-2027-04-04T12:00:00Z,Málaga CF,CA Osasuna,La Liga,30
-2027-04-04T12:00:00Z,Athletic Club,Real Racing Club de Santander,La Liga,30
-2027-04-04T12:00:00Z,RC Deportivo La Coruña,Villarreal CF,La Liga,30
-2027-04-04T12:00:00Z,Real Sociedad de Fútbol,Valencia CF,La Liga,30
-2027-04-04T12:00:00Z,Elche CF,Deportivo Alavés,La Liga,30
-2027-04-04T12:00:00Z,Real Madrid CF,Club Atlético de Madrid,La Liga,30
-2027-04-04T12:00:00Z,Getafe CF,RCD Espanyol de Barcelona,La Liga,30
-2027-04-04T12:00:00Z,Real Betis Balompié,RC Celta de Vigo,La Liga,30
-2027-04-11T12:00:00Z,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,La Liga,31
-2027-04-11T12:00:00Z,RCD Espanyol de Barcelona,Málaga CF,La Liga,31
-2027-04-11T12:00:00Z,Villarreal CF,Athletic Club,La Liga,31
-2027-04-11T12:00:00Z,Deportivo Alavés,Real Betis Balompié,La Liga,31
-2027-04-11T12:00:00Z,Valencia CF,Getafe CF,La Liga,31
-2027-04-11T12:00:00Z,Sevilla FC,RC Deportivo La Coruña,La Liga,31
-2027-04-11T12:00:00Z,RC Celta de Vigo,Elche CF,La Liga,31
-2027-04-11T12:00:00Z,Real Racing Club de Santander,FC Barcelona,La Liga,31
-2027-04-11T12:00:00Z,CA Osasuna,Real Madrid CF,La Liga,31
-2027-04-11T12:00:00Z,Club Atlético de Madrid,Levante UD,La Liga,31
-2027-04-18T12:00:00Z,Club Atlético de Madrid,Sevilla FC,La Liga,32
-2027-04-18T12:00:00Z,FC Barcelona,RCD Espanyol de Barcelona,La Liga,32
-2027-04-18T12:00:00Z,Levante UD,Villarreal CF,La Liga,32
-2027-04-18T12:00:00Z,Real Sociedad de Fútbol,Real Racing Club de Santander,La Liga,32
-2027-04-18T12:00:00Z,Málaga CF,Valencia CF,La Liga,32
-2027-04-18T12:00:00Z,RC Deportivo La Coruña,RC Celta de Vigo,La Liga,32
-2027-04-18T12:00:00Z,Elche CF,CA Osasuna,La Liga,32
-2027-04-18T12:00:00Z,Deportivo Alavés,Rayo Vallecano de Madrid,La Liga,32
-2027-04-18T12:00:00Z,Real Betis Balompié,Athletic Club,La Liga,32
-2027-04-18T12:00:00Z,Getafe CF,Real Madrid CF,La Liga,32
-2027-04-21T12:00:00Z,Getafe CF,Real Betis Balompié,La Liga,33
-2027-04-21T12:00:00Z,Valencia CF,Rayo Vallecano de Madrid,La Liga,33
-2027-04-21T12:00:00Z,RC Celta de Vigo,FC Barcelona,La Liga,33
-2027-04-21T12:00:00Z,CA Osasuna,Deportivo Alavés,La Liga,33
-2027-04-21T12:00:00Z,Real Madrid CF,Elche CF,La Liga,33
-2027-04-21T12:00:00Z,Athletic Club,RC Deportivo La Coruña,La Liga,33
-2027-04-21T12:00:00Z,Real Racing Club de Santander,Málaga CF,La Liga,33
-2027-04-21T12:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,33
-2027-04-21T12:00:00Z,Sevilla FC,Levante UD,La Liga,33
-2027-04-21T12:00:00Z,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,La Liga,33
-2027-05-02T12:00:00Z,RC Deportivo La Coruña,Real Racing Club de Santander,La Liga,34
-2027-05-02T12:00:00Z,RC Celta de Vigo,Sevilla FC,La Liga,34
-2027-05-02T12:00:00Z,Real Sociedad de Fútbol,Athletic Club,La Liga,34
-2027-05-02T12:00:00Z,FC Barcelona,CA Osasuna,La Liga,34
-2027-05-02T12:00:00Z,Rayo Vallecano de Madrid,Villarreal CF,La Liga,34
-2027-05-02T12:00:00Z,Málaga CF,Getafe CF,La Liga,34
-2027-05-02T12:00:00Z,Real Betis Balompié,Valencia CF,La Liga,34
-2027-05-02T12:00:00Z,Elche CF,RCD Espanyol de Barcelona,La Liga,34
-2027-05-02T12:00:00Z,Levante UD,Real Madrid CF,La Liga,34
-2027-05-02T12:00:00Z,Club Atlético de Madrid,Deportivo Alavés,La Liga,34
-2027-05-09T12:00:00Z,Valencia CF,Club Atlético de Madrid,La Liga,35
-2027-05-09T12:00:00Z,CA Osasuna,Real Sociedad de Fútbol,La Liga,35
-2027-05-09T12:00:00Z,Deportivo Alavés,Levante UD,La Liga,35
-2027-05-09T12:00:00Z,Athletic Club,Málaga CF,La Liga,35
-2027-05-09T12:00:00Z,Real Racing Club de Santander,Sevilla FC,La Liga,35
-2027-05-09T12:00:00Z,Rayo Vallecano de Madrid,RC Deportivo La Coruña,La Liga,35
-2027-05-09T12:00:00Z,Real Betis Balompié,RCD Espanyol de Barcelona,La Liga,35
-2027-05-09T12:00:00Z,Real Madrid CF,FC Barcelona,La Liga,35
-2027-05-09T12:00:00Z,Getafe CF,Elche CF,La Liga,35
-2027-05-09T12:00:00Z,Villarreal CF,RC Celta de Vigo,La Liga,35
-2027-05-16T12:00:00Z,Club Atlético de Madrid,Rayo Vallecano de Madrid,La Liga,36
-2027-05-16T12:00:00Z,Sevilla FC,Villarreal CF,La Liga,36
-2027-05-16T12:00:00Z,Real Sociedad de Fútbol,FC Barcelona,La Liga,36
-2027-05-16T12:00:00Z,Elche CF,Athletic Club,La Liga,36
-2027-05-16T12:00:00Z,Málaga CF,RC Celta de Vigo,La Liga,36
-2027-05-16T12:00:00Z,RC Deportivo La Coruña,Deportivo Alavés,La Liga,36
-2027-05-16T12:00:00Z,Levante UD,Getafe CF,La Liga,36
-2027-05-16T12:00:00Z,RCD Espanyol de Barcelona,Valencia CF,La Liga,36
-2027-05-16T12:00:00Z,Real Madrid CF,Real Racing Club de Santander,La Liga,36
-2027-05-16T12:00:00Z,CA Osasuna,Real Betis Balompié,La Liga,36
-2027-05-23T12:00:00Z,Club Atlético de Madrid,Athletic Club,La Liga,37
-2027-05-23T12:00:00Z,Deportivo Alavés,Real Madrid CF,La Liga,37
-2027-05-23T12:00:00Z,Sevilla FC,Getafe CF,La Liga,37
-2027-05-23T12:00:00Z,Villarreal CF,CA Osasuna,La Liga,37
-2027-05-23T12:00:00Z,Real Racing Club de Santander,Levante UD,La Liga,37
-2027-05-23T12:00:00Z,RC Deportivo La Coruña,RCD Espanyol de Barcelona,La Liga,37
-2027-05-23T12:00:00Z,Rayo Vallecano de Madrid,Real Betis Balompié,La Liga,37
-2027-05-23T12:00:00Z,FC Barcelona,Málaga CF,La Liga,37
-2027-05-23T12:00:00Z,Valencia CF,Elche CF,La Liga,37
-2027-05-23T12:00:00Z,RC Celta de Vigo,Real Sociedad de Fútbol,La Liga,37
-2027-05-30T12:00:00Z,Levante UD,RC Celta de Vigo,La Liga,38
-2027-05-30T12:00:00Z,Real Madrid CF,RC Deportivo La Coruña,La Liga,38
-2027-05-30T12:00:00Z,Real Betis Balompié,Club Atlético de Madrid,La Liga,38
-2027-05-30T12:00:00Z,Real Sociedad de Fútbol,Villarreal CF,La Liga,38
-2027-05-30T12:00:00Z,Málaga CF,Sevilla FC,La Liga,38
-2027-05-30T12:00:00Z,Elche CF,Real Racing Club de Santander,La Liga,38
-2027-05-30T12:00:00Z,Athletic Club,Rayo Vallecano de Madrid,La Liga,38
-2027-05-30T12:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés,La Liga,38
-2027-05-30T12:00:00Z,Getafe CF,FC Barcelona,La Liga,38
-2027-05-30T12:00:00Z,CA Osasuna,Valencia CF,La Liga,38
+2026-09-13T00:00:00Z,Getafe CF,RC Deportivo La Coruña,La Liga,5
+2026-09-13T00:00:00Z,Sevilla FC,Valencia CF,La Liga,5
+2026-09-13T00:00:00Z,Real Racing Club de Santander,Deportivo Alavés,La Liga,5
+2026-09-13T00:00:00Z,Villarreal CF,Real Betis Balompié,La Liga,5
+2026-09-13T00:00:00Z,RC Celta de Vigo,Málaga CF,La Liga,5
+2026-09-13T00:00:00Z,CA Osasuna,RCD Espanyol de Barcelona,La Liga,5
+2026-09-13T00:00:00Z,Real Sociedad de Fútbol,Club Atlético de Madrid,La Liga,5
+2026-09-13T00:00:00Z,Levante UD,FC Barcelona,La Liga,5
+2026-09-13T00:00:00Z,Athletic Club,Elche CF,La Liga,5
+2026-09-13T00:00:00Z,Real Madrid CF,Rayo Vallecano de Madrid,La Liga,5
+2026-09-16T00:00:00Z,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,La Liga,6
+2026-09-16T00:00:00Z,RC Deportivo La Coruña,Sevilla FC,La Liga,6
+2026-09-16T00:00:00Z,Deportivo Alavés,Valencia CF,La Liga,6
+2026-09-16T00:00:00Z,Elche CF,Real Madrid CF,La Liga,6
+2026-09-16T00:00:00Z,Málaga CF,Villarreal CF,La Liga,6
+2026-09-16T00:00:00Z,Club Atlético de Madrid,CA Osasuna,La Liga,6
+2026-09-16T00:00:00Z,Levante UD,Athletic Club,La Liga,6
+2026-09-16T00:00:00Z,Real Betis Balompié,Getafe CF,La Liga,6
+2026-09-16T00:00:00Z,FC Barcelona,Real Racing Club de Santander,La Liga,6
+2026-09-20T00:00:00Z,Club Atlético de Madrid,Real Madrid CF,La Liga,7
+2026-09-20T00:00:00Z,Valencia CF,Real Sociedad de Fútbol,La Liga,7
+2026-09-20T00:00:00Z,Sevilla FC,FC Barcelona,La Liga,7
+2026-09-20T00:00:00Z,Athletic Club,Deportivo Alavés,La Liga,7
+2026-09-20T00:00:00Z,RCD Espanyol de Barcelona,Elche CF,La Liga,7
+2026-09-20T00:00:00Z,CA Osasuna,Rayo Vallecano de Madrid,La Liga,7
+2026-09-20T00:00:00Z,RC Celta de Vigo,Real Racing Club de Santander,La Liga,7
+2026-09-20T00:00:00Z,RC Deportivo La Coruña,Real Betis Balompié,La Liga,7
+2026-09-20T00:00:00Z,Villarreal CF,Levante UD,La Liga,7
+2026-09-20T00:00:00Z,Getafe CF,Málaga CF,La Liga,7
+2026-10-11T00:00:00Z,Rayo Vallecano de Madrid,Athletic Club,La Liga,8
+2026-10-11T00:00:00Z,Deportivo Alavés,Club Atlético de Madrid,La Liga,8
+2026-10-11T00:00:00Z,FC Barcelona,Getafe CF,La Liga,8
+2026-10-11T00:00:00Z,Real Betis Balompié,CA Osasuna,La Liga,8
+2026-10-11T00:00:00Z,Real Madrid CF,Villarreal CF,La Liga,8
+2026-10-11T00:00:00Z,Elche CF,RC Celta de Vigo,La Liga,8
+2026-10-11T00:00:00Z,Levante UD,Sevilla FC,La Liga,8
+2026-10-11T00:00:00Z,Real Racing Club de Santander,Valencia CF,La Liga,8
+2026-10-11T00:00:00Z,Málaga CF,RCD Espanyol de Barcelona,La Liga,8
+2026-10-11T00:00:00Z,Real Sociedad de Fútbol,RC Deportivo La Coruña,La Liga,8
+2026-10-18T00:00:00Z,Villarreal CF,Elche CF,La Liga,9
+2026-10-18T00:00:00Z,Real Madrid CF,Sevilla FC,La Liga,9
+2026-10-18T00:00:00Z,RCD Espanyol de Barcelona,Club Atlético de Madrid,La Liga,9
+2026-10-18T00:00:00Z,Valencia CF,Athletic Club,La Liga,9
+2026-10-18T00:00:00Z,RC Celta de Vigo,Deportivo Alavés,La Liga,9
+2026-10-18T00:00:00Z,Real Betis Balompié,FC Barcelona,La Liga,9
+2026-10-18T00:00:00Z,Málaga CF,Real Sociedad de Fútbol,La Liga,9
+2026-10-18T00:00:00Z,CA Osasuna,Real Racing Club de Santander,La Liga,9
+2026-10-18T00:00:00Z,RC Deportivo La Coruña,Levante UD,La Liga,9
+2026-10-18T00:00:00Z,Getafe CF,Rayo Vallecano de Madrid,La Liga,9
+2026-10-25T00:00:00Z,Rayo Vallecano de Madrid,Elche CF,La Liga,10
+2026-10-25T00:00:00Z,Deportivo Alavés,Málaga CF,La Liga,10
+2026-10-25T00:00:00Z,Athletic Club,Getafe CF,La Liga,10
+2026-10-25T00:00:00Z,Sevilla FC,CA Osasuna,La Liga,10
+2026-10-25T00:00:00Z,Valencia CF,Villarreal CF,La Liga,10
+2026-10-25T00:00:00Z,FC Barcelona,Real Madrid CF,La Liga,10
+2026-10-25T00:00:00Z,Club Atlético de Madrid,RC Deportivo La Coruña,La Liga,10
+2026-10-25T00:00:00Z,RC Celta de Vigo,Real Betis Balompié,La Liga,10
+2026-10-25T00:00:00Z,Real Sociedad de Fútbol,Levante UD,La Liga,10
+2026-10-25T00:00:00Z,Real Racing Club de Santander,RCD Espanyol de Barcelona,La Liga,10
+2026-11-01T00:00:00Z,Real Betis Balompié,Málaga CF,La Liga,11
+2026-11-01T00:00:00Z,Villarreal CF,RCD Espanyol de Barcelona,La Liga,11
+2026-11-01T00:00:00Z,Elche CF,Valencia CF,La Liga,11
+2026-11-01T00:00:00Z,Athletic Club,Real Sociedad de Fútbol,La Liga,11
+2026-11-01T00:00:00Z,Levante UD,Club Atlético de Madrid,La Liga,11
+2026-11-01T00:00:00Z,RC Deportivo La Coruña,CA Osasuna,La Liga,11
+2026-11-01T00:00:00Z,FC Barcelona,Deportivo Alavés,La Liga,11
+2026-11-01T00:00:00Z,Getafe CF,Sevilla FC,La Liga,11
+2026-11-01T00:00:00Z,Real Racing Club de Santander,Real Madrid CF,La Liga,11
+2026-11-01T00:00:00Z,Rayo Vallecano de Madrid,RC Celta de Vigo,La Liga,11
+2026-11-08T00:00:00Z,Elche CF,Real Betis Balompié,La Liga,12
+2026-11-08T00:00:00Z,CA Osasuna,Athletic Club,La Liga,12
+2026-11-08T00:00:00Z,Sevilla FC,Deportivo Alavés,La Liga,12
+2026-11-08T00:00:00Z,Valencia CF,Real Madrid CF,La Liga,12
+2026-11-08T00:00:00Z,RC Celta de Vigo,Levante UD,La Liga,12
+2026-11-08T00:00:00Z,Real Sociedad de Fútbol,Rayo Vallecano de Madrid,La Liga,12
+2026-11-08T00:00:00Z,Málaga CF,Real Racing Club de Santander,La Liga,12
+2026-11-08T00:00:00Z,RCD Espanyol de Barcelona,RC Deportivo La Coruña,La Liga,12
+2026-11-08T00:00:00Z,Club Atlético de Madrid,FC Barcelona,La Liga,12
+2026-11-08T00:00:00Z,Villarreal CF,Getafe CF,La Liga,12
+2026-11-22T00:00:00Z,Athletic Club,RCD Espanyol de Barcelona,La Liga,13
+2026-11-22T00:00:00Z,FC Barcelona,Villarreal CF,La Liga,13
+2026-11-22T00:00:00Z,Real Racing Club de Santander,Real Sociedad de Fútbol,La Liga,13
+2026-11-22T00:00:00Z,Rayo Vallecano de Madrid,Valencia CF,La Liga,13
+2026-11-22T00:00:00Z,CA Osasuna,Málaga CF,La Liga,13
+2026-11-22T00:00:00Z,Getafe CF,Club Atlético de Madrid,La Liga,13
+2026-11-22T00:00:00Z,Real Madrid CF,RC Celta de Vigo,La Liga,13
+2026-11-22T00:00:00Z,Deportivo Alavés,RC Deportivo La Coruña,La Liga,13
+2026-11-22T00:00:00Z,Sevilla FC,Real Betis Balompié,La Liga,13
+2026-11-22T00:00:00Z,Levante UD,Elche CF,La Liga,13
+2026-11-29T00:00:00Z,RC Celta de Vigo,Villarreal CF,La Liga,14
+2026-11-29T00:00:00Z,Elche CF,Club Atlético de Madrid,La Liga,14
+2026-11-29T00:00:00Z,Real Betis Balompié,Rayo Vallecano de Madrid,La Liga,14
+2026-11-29T00:00:00Z,Valencia CF,CA Osasuna,La Liga,14
+2026-11-29T00:00:00Z,Real Madrid CF,Deportivo Alavés,La Liga,14
+2026-11-29T00:00:00Z,RCD Espanyol de Barcelona,Getafe CF,La Liga,14
+2026-11-29T00:00:00Z,Real Sociedad de Fútbol,Sevilla FC,La Liga,14
+2026-11-29T00:00:00Z,Levante UD,Real Racing Club de Santander,La Liga,14
+2026-11-29T00:00:00Z,RC Deportivo La Coruña,FC Barcelona,La Liga,14
+2026-11-29T00:00:00Z,Málaga CF,Athletic Club,La Liga,14
+2026-12-06T00:00:00Z,CA Osasuna,Elche CF,La Liga,15
+2026-12-06T00:00:00Z,Sevilla FC,Málaga CF,La Liga,15
+2026-12-06T00:00:00Z,Deportivo Alavés,RCD Espanyol de Barcelona,La Liga,15
+2026-12-06T00:00:00Z,Club Atlético de Madrid,Real Betis Balompié,La Liga,15
+2026-12-06T00:00:00Z,Real Racing Club de Santander,RC Deportivo La Coruña,La Liga,15
+2026-12-06T00:00:00Z,FC Barcelona,RC Celta de Vigo,La Liga,15
+2026-12-06T00:00:00Z,Getafe CF,Valencia CF,La Liga,15
+2026-12-06T00:00:00Z,Athletic Club,Real Madrid CF,La Liga,15
+2026-12-06T00:00:00Z,Villarreal CF,Real Sociedad de Fútbol,La Liga,15
+2026-12-06T00:00:00Z,Rayo Vallecano de Madrid,Levante UD,La Liga,15
+2026-12-13T00:00:00Z,RCD Espanyol de Barcelona,RC Celta de Vigo,La Liga,16
+2026-12-13T00:00:00Z,Málaga CF,FC Barcelona,La Liga,16
+2026-12-13T00:00:00Z,Real Madrid CF,CA Osasuna,La Liga,16
+2026-12-13T00:00:00Z,RC Deportivo La Coruña,Athletic Club,La Liga,16
+2026-12-13T00:00:00Z,Levante UD,Deportivo Alavés,La Liga,16
+2026-12-13T00:00:00Z,Elche CF,Sevilla FC,La Liga,16
+2026-12-13T00:00:00Z,Villarreal CF,Rayo Vallecano de Madrid,La Liga,16
+2026-12-13T00:00:00Z,Real Betis Balompié,Real Racing Club de Santander,La Liga,16
+2026-12-13T00:00:00Z,Real Sociedad de Fútbol,Getafe CF,La Liga,16
+2026-12-13T00:00:00Z,Club Atlético de Madrid,Valencia CF,La Liga,16
+2026-12-20T00:00:00Z,Athletic Club,Real Betis Balompié,La Liga,17
+2026-12-20T00:00:00Z,Getafe CF,Levante UD,La Liga,17
+2026-12-20T00:00:00Z,Deportivo Alavés,Elche CF,La Liga,17
+2026-12-20T00:00:00Z,Valencia CF,RCD Espanyol de Barcelona,La Liga,17
+2026-12-20T00:00:00Z,CA Osasuna,Villarreal CF,La Liga,17
+2026-12-20T00:00:00Z,FC Barcelona,Real Sociedad de Fútbol,La Liga,17
+2026-12-20T00:00:00Z,RC Celta de Vigo,Club Atlético de Madrid,La Liga,17
+2026-12-20T00:00:00Z,Rayo Vallecano de Madrid,Málaga CF,La Liga,17
+2026-12-20T00:00:00Z,RC Deportivo La Coruña,Real Madrid CF,La Liga,17
+2026-12-20T00:00:00Z,Sevilla FC,Real Racing Club de Santander,La Liga,17
+2027-01-03T00:00:00Z,Real Madrid CF,Getafe CF,La Liga,18
+2027-01-03T00:00:00Z,Real Sociedad de Fútbol,CA Osasuna,La Liga,18
+2027-01-03T00:00:00Z,Levante UD,Valencia CF,La Liga,18
+2027-01-03T00:00:00Z,Real Racing Club de Santander,Athletic Club,La Liga,18
+2027-01-03T00:00:00Z,Málaga CF,Elche CF,La Liga,18
+2027-01-03T00:00:00Z,Real Betis Balompié,Deportivo Alavés,La Liga,18
+2027-01-03T00:00:00Z,RC Celta de Vigo,RC Deportivo La Coruña,La Liga,18
+2027-01-03T00:00:00Z,RCD Espanyol de Barcelona,FC Barcelona,La Liga,18
+2027-01-03T00:00:00Z,Villarreal CF,Sevilla FC,La Liga,18
+2027-01-03T00:00:00Z,Rayo Vallecano de Madrid,Club Atlético de Madrid,La Liga,18
+2027-01-10T00:00:00Z,Athletic Club,Villarreal CF,La Liga,19
+2027-01-10T00:00:00Z,Elche CF,Getafe CF,La Liga,19
+2027-01-10T00:00:00Z,Real Madrid CF,Levante UD,La Liga,19
+2027-01-10T00:00:00Z,CA Osasuna,FC Barcelona,La Liga,19
+2027-01-10T00:00:00Z,RC Deportivo La Coruña,Rayo Vallecano de Madrid,La Liga,19
+2027-01-10T00:00:00Z,Club Atlético de Madrid,Real Racing Club de Santander,La Liga,19
+2027-01-10T00:00:00Z,Deportivo Alavés,Real Sociedad de Fútbol,La Liga,19
+2027-01-10T00:00:00Z,Sevilla FC,RC Celta de Vigo,La Liga,19
+2027-01-10T00:00:00Z,RCD Espanyol de Barcelona,Real Betis Balompié,La Liga,19
+2027-01-10T00:00:00Z,Valencia CF,Málaga CF,La Liga,19
+2027-01-17T00:00:00Z,Málaga CF,Real Madrid CF,La Liga,20
+2027-01-17T00:00:00Z,FC Barcelona,Elche CF,La Liga,20
+2027-01-17T00:00:00Z,Villarreal CF,Deportivo Alavés,La Liga,20
+2027-01-17T00:00:00Z,Real Racing Club de Santander,CA Osasuna,La Liga,20
+2027-01-17T00:00:00Z,Levante UD,RCD Espanyol de Barcelona,La Liga,20
+2027-01-17T00:00:00Z,RC Celta de Vigo,Valencia CF,La Liga,20
+2027-01-17T00:00:00Z,Getafe CF,Athletic Club,La Liga,20
+2027-01-17T00:00:00Z,Rayo Vallecano de Madrid,Sevilla FC,La Liga,20
+2027-01-17T00:00:00Z,Real Betis Balompié,RC Deportivo La Coruña,La Liga,20
+2027-01-17T00:00:00Z,Club Atlético de Madrid,Real Sociedad de Fútbol,La Liga,20
+2027-01-24T00:00:00Z,Real Madrid CF,Real Betis Balompié,La Liga,21
+2027-01-24T00:00:00Z,Getafe CF,CA Osasuna,La Liga,21
+2027-01-24T00:00:00Z,Valencia CF,Sevilla FC,La Liga,21
+2027-01-24T00:00:00Z,Elche CF,Rayo Vallecano de Madrid,La Liga,21
+2027-01-24T00:00:00Z,Deportivo Alavés,FC Barcelona,La Liga,21
+2027-01-24T00:00:00Z,Real Sociedad de Fútbol,Málaga CF,La Liga,21
+2027-01-24T00:00:00Z,Real Racing Club de Santander,RC Celta de Vigo,La Liga,21
+2027-01-24T00:00:00Z,Athletic Club,Levante UD,La Liga,21
+2027-01-24T00:00:00Z,RCD Espanyol de Barcelona,Villarreal CF,La Liga,21
+2027-01-24T00:00:00Z,RC Deportivo La Coruña,Club Atlético de Madrid,La Liga,21
+2027-01-31T00:00:00Z,Real Betis Balompié,Elche CF,La Liga,22
+2027-01-31T00:00:00Z,Rayo Vallecano de Madrid,Real Madrid CF,La Liga,22
+2027-01-31T00:00:00Z,Club Atlético de Madrid,RCD Espanyol de Barcelona,La Liga,22
+2027-01-31T00:00:00Z,RC Celta de Vigo,Getafe CF,La Liga,22
+2027-01-31T00:00:00Z,Villarreal CF,Real Racing Club de Santander,La Liga,22
+2027-01-31T00:00:00Z,Levante UD,Real Sociedad de Fútbol,La Liga,22
+2027-01-31T00:00:00Z,FC Barcelona,Valencia CF,La Liga,22
+2027-01-31T00:00:00Z,Sevilla FC,Athletic Club,La Liga,22
+2027-01-31T00:00:00Z,CA Osasuna,RC Deportivo La Coruña,La Liga,22
+2027-01-31T00:00:00Z,Málaga CF,Deportivo Alavés,La Liga,22
+2027-02-07T00:00:00Z,Athletic Club,CA Osasuna,La Liga,23
+2027-02-07T00:00:00Z,Deportivo Alavés,RC Celta de Vigo,La Liga,23
+2027-02-07T00:00:00Z,Real Betis Balompié,Sevilla FC,La Liga,23
+2027-02-07T00:00:00Z,Elche CF,Levante UD,La Liga,23
+2027-02-07T00:00:00Z,RCD Espanyol de Barcelona,Rayo Vallecano de Madrid,La Liga,23
+2027-02-07T00:00:00Z,Getafe CF,Villarreal CF,La Liga,23
+2027-02-07T00:00:00Z,RC Deportivo La Coruña,Málaga CF,La Liga,23
+2027-02-07T00:00:00Z,Real Sociedad de Fútbol,Real Madrid CF,La Liga,23
+2027-02-07T00:00:00Z,Valencia CF,Real Racing Club de Santander,La Liga,23
+2027-02-07T00:00:00Z,FC Barcelona,Club Atlético de Madrid,La Liga,23
+2027-02-14T00:00:00Z,Sevilla FC,RCD Espanyol de Barcelona,La Liga,24
+2027-02-14T00:00:00Z,CA Osasuna,Club Atlético de Madrid,La Liga,24
+2027-02-14T00:00:00Z,RC Celta de Vigo,Rayo Vallecano de Madrid,La Liga,24
+2027-02-14T00:00:00Z,Villarreal CF,FC Barcelona,La Liga,24
+2027-02-14T00:00:00Z,Real Sociedad de Fútbol,Real Betis Balompié,La Liga,24
+2027-02-14T00:00:00Z,Elche CF,RC Deportivo La Coruña,La Liga,24
+2027-02-14T00:00:00Z,Valencia CF,Deportivo Alavés,La Liga,24
+2027-02-14T00:00:00Z,Levante UD,Málaga CF,La Liga,24
+2027-02-14T00:00:00Z,Real Racing Club de Santander,Getafe CF,La Liga,24
+2027-02-14T00:00:00Z,Real Madrid CF,Athletic Club,La Liga,24
+2027-02-21T00:00:00Z,Deportivo Alavés,Real Racing Club de Santander,La Liga,25
+2027-02-21T00:00:00Z,Málaga CF,Real Betis Balompié,La Liga,25
+2027-02-21T00:00:00Z,Villarreal CF,Valencia CF,La Liga,25
+2027-02-21T00:00:00Z,FC Barcelona,Levante UD,La Liga,25
+2027-02-21T00:00:00Z,Athletic Club,RC Celta de Vigo,La Liga,25
+2027-02-21T00:00:00Z,RCD Espanyol de Barcelona,CA Osasuna,La Liga,25
+2027-02-21T00:00:00Z,Sevilla FC,Real Madrid CF,La Liga,25
+2027-02-21T00:00:00Z,Club Atlético de Madrid,Elche CF,La Liga,25
+2027-02-21T00:00:00Z,RC Deportivo La Coruña,Real Sociedad de Fútbol,La Liga,25
+2027-02-21T00:00:00Z,Rayo Vallecano de Madrid,Getafe CF,La Liga,25
+2027-02-28T00:00:00Z,RC Celta de Vigo,RCD Espanyol de Barcelona,La Liga,26
+2027-02-28T00:00:00Z,Levante UD,RC Deportivo La Coruña,La Liga,26
+2027-02-28T00:00:00Z,Málaga CF,Club Atlético de Madrid,La Liga,26
+2027-02-28T00:00:00Z,CA Osasuna,Sevilla FC,La Liga,26
+2027-02-28T00:00:00Z,Real Madrid CF,Valencia CF,La Liga,26
+2027-02-28T00:00:00Z,Getafe CF,Deportivo Alavés,La Liga,26
+2027-02-28T00:00:00Z,Athletic Club,FC Barcelona,La Liga,26
+2027-02-28T00:00:00Z,Real Racing Club de Santander,Rayo Vallecano de Madrid,La Liga,26
+2027-02-28T00:00:00Z,Real Betis Balompié,Villarreal CF,La Liga,26
+2027-02-28T00:00:00Z,Real Sociedad de Fútbol,Elche CF,La Liga,26
+2027-03-07T00:00:00Z,FC Barcelona,Real Betis Balompié,La Liga,27
+2027-03-07T00:00:00Z,Elche CF,Málaga CF,La Liga,27
+2027-03-07T00:00:00Z,Deportivo Alavés,Athletic Club,La Liga,27
+2027-03-07T00:00:00Z,Rayo Vallecano de Madrid,CA Osasuna,La Liga,27
+2027-03-07T00:00:00Z,Sevilla FC,Real Sociedad de Fútbol,La Liga,27
+2027-03-07T00:00:00Z,Club Atlético de Madrid,RC Celta de Vigo,La Liga,27
+2027-03-07T00:00:00Z,Villarreal CF,Real Madrid CF,La Liga,27
+2027-03-07T00:00:00Z,Valencia CF,Levante UD,La Liga,27
+2027-03-07T00:00:00Z,RC Deportivo La Coruña,Getafe CF,La Liga,27
+2027-03-07T00:00:00Z,RCD Espanyol de Barcelona,Real Racing Club de Santander,La Liga,27
+2027-03-14T00:00:00Z,CA Osasuna,RC Celta de Vigo,La Liga,28
+2027-03-14T00:00:00Z,Elche CF,Villarreal CF,La Liga,28
+2027-03-14T00:00:00Z,Deportivo Alavés,Sevilla FC,La Liga,28
+2027-03-14T00:00:00Z,Athletic Club,Valencia CF,La Liga,28
+2027-03-14T00:00:00Z,Real Betis Balompié,Levante UD,La Liga,28
+2027-03-14T00:00:00Z,Real Racing Club de Santander,Club Atlético de Madrid,La Liga,28
+2027-03-14T00:00:00Z,Málaga CF,Rayo Vallecano de Madrid,La Liga,28
+2027-03-14T00:00:00Z,Getafe CF,Real Sociedad de Fútbol,La Liga,28
+2027-03-14T00:00:00Z,FC Barcelona,RC Deportivo La Coruña,La Liga,28
+2027-03-14T00:00:00Z,Real Madrid CF,RCD Espanyol de Barcelona,La Liga,28
+2027-03-21T00:00:00Z,Villarreal CF,Málaga CF,La Liga,29
+2027-03-21T00:00:00Z,Sevilla FC,Elche CF,La Liga,29
+2027-03-21T00:00:00Z,Levante UD,CA Osasuna,La Liga,29
+2027-03-21T00:00:00Z,RC Celta de Vigo,Real Madrid CF,La Liga,29
+2027-03-21T00:00:00Z,Rayo Vallecano de Madrid,FC Barcelona,La Liga,29
+2027-03-21T00:00:00Z,Real Sociedad de Fútbol,Deportivo Alavés,La Liga,29
+2027-03-21T00:00:00Z,RCD Espanyol de Barcelona,Athletic Club,La Liga,29
+2027-03-21T00:00:00Z,Real Racing Club de Santander,Real Betis Balompié,La Liga,29
+2027-03-21T00:00:00Z,Valencia CF,RC Deportivo La Coruña,La Liga,29
+2027-03-21T00:00:00Z,Club Atlético de Madrid,Getafe CF,La Liga,29
+2027-04-04T00:00:00Z,Levante UD,Rayo Vallecano de Madrid,La Liga,30
+2027-04-04T00:00:00Z,FC Barcelona,Sevilla FC,La Liga,30
+2027-04-04T00:00:00Z,Málaga CF,CA Osasuna,La Liga,30
+2027-04-04T00:00:00Z,Athletic Club,Real Racing Club de Santander,La Liga,30
+2027-04-04T00:00:00Z,RC Deportivo La Coruña,Villarreal CF,La Liga,30
+2027-04-04T00:00:00Z,Real Sociedad de Fútbol,Valencia CF,La Liga,30
+2027-04-04T00:00:00Z,Elche CF,Deportivo Alavés,La Liga,30
+2027-04-04T00:00:00Z,Real Madrid CF,Club Atlético de Madrid,La Liga,30
+2027-04-04T00:00:00Z,Getafe CF,RCD Espanyol de Barcelona,La Liga,30
+2027-04-04T00:00:00Z,Real Betis Balompié,RC Celta de Vigo,La Liga,30
+2027-04-11T00:00:00Z,Rayo Vallecano de Madrid,Real Sociedad de Fútbol,La Liga,31
+2027-04-11T00:00:00Z,RCD Espanyol de Barcelona,Málaga CF,La Liga,31
+2027-04-11T00:00:00Z,Villarreal CF,Athletic Club,La Liga,31
+2027-04-11T00:00:00Z,Deportivo Alavés,Real Betis Balompié,La Liga,31
+2027-04-11T00:00:00Z,Valencia CF,Getafe CF,La Liga,31
+2027-04-11T00:00:00Z,Sevilla FC,RC Deportivo La Coruña,La Liga,31
+2027-04-11T00:00:00Z,RC Celta de Vigo,Elche CF,La Liga,31
+2027-04-11T00:00:00Z,Real Racing Club de Santander,FC Barcelona,La Liga,31
+2027-04-11T00:00:00Z,CA Osasuna,Real Madrid CF,La Liga,31
+2027-04-11T00:00:00Z,Club Atlético de Madrid,Levante UD,La Liga,31
+2027-04-18T00:00:00Z,Club Atlético de Madrid,Sevilla FC,La Liga,32
+2027-04-18T00:00:00Z,FC Barcelona,RCD Espanyol de Barcelona,La Liga,32
+2027-04-18T00:00:00Z,Levante UD,Villarreal CF,La Liga,32
+2027-04-18T00:00:00Z,Real Sociedad de Fútbol,Real Racing Club de Santander,La Liga,32
+2027-04-18T00:00:00Z,Málaga CF,Valencia CF,La Liga,32
+2027-04-18T00:00:00Z,RC Deportivo La Coruña,RC Celta de Vigo,La Liga,32
+2027-04-18T00:00:00Z,Elche CF,CA Osasuna,La Liga,32
+2027-04-18T00:00:00Z,Deportivo Alavés,Rayo Vallecano de Madrid,La Liga,32
+2027-04-18T00:00:00Z,Real Betis Balompié,Athletic Club,La Liga,32
+2027-04-18T00:00:00Z,Getafe CF,Real Madrid CF,La Liga,32
+2027-04-21T00:00:00Z,Getafe CF,Real Betis Balompié,La Liga,33
+2027-04-21T00:00:00Z,Valencia CF,Rayo Vallecano de Madrid,La Liga,33
+2027-04-21T00:00:00Z,RC Celta de Vigo,FC Barcelona,La Liga,33
+2027-04-21T00:00:00Z,CA Osasuna,Deportivo Alavés,La Liga,33
+2027-04-21T00:00:00Z,Real Madrid CF,Elche CF,La Liga,33
+2027-04-21T00:00:00Z,Athletic Club,RC Deportivo La Coruña,La Liga,33
+2027-04-21T00:00:00Z,Real Racing Club de Santander,Málaga CF,La Liga,33
+2027-04-21T00:00:00Z,Villarreal CF,Club Atlético de Madrid,La Liga,33
+2027-04-21T00:00:00Z,Sevilla FC,Levante UD,La Liga,33
+2027-04-21T00:00:00Z,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,La Liga,33
+2027-05-02T00:00:00Z,RC Deportivo La Coruña,Real Racing Club de Santander,La Liga,34
+2027-05-02T00:00:00Z,RC Celta de Vigo,Sevilla FC,La Liga,34
+2027-05-02T00:00:00Z,Real Sociedad de Fútbol,Athletic Club,La Liga,34
+2027-05-02T00:00:00Z,FC Barcelona,CA Osasuna,La Liga,34
+2027-05-02T00:00:00Z,Rayo Vallecano de Madrid,Villarreal CF,La Liga,34
+2027-05-02T00:00:00Z,Málaga CF,Getafe CF,La Liga,34
+2027-05-02T00:00:00Z,Real Betis Balompié,Valencia CF,La Liga,34
+2027-05-02T00:00:00Z,Elche CF,RCD Espanyol de Barcelona,La Liga,34
+2027-05-02T00:00:00Z,Levante UD,Real Madrid CF,La Liga,34
+2027-05-02T00:00:00Z,Club Atlético de Madrid,Deportivo Alavés,La Liga,34
+2027-05-09T00:00:00Z,Valencia CF,Club Atlético de Madrid,La Liga,35
+2027-05-09T00:00:00Z,CA Osasuna,Real Sociedad de Fútbol,La Liga,35
+2027-05-09T00:00:00Z,Deportivo Alavés,Levante UD,La Liga,35
+2027-05-09T00:00:00Z,Athletic Club,Málaga CF,La Liga,35
+2027-05-09T00:00:00Z,Real Racing Club de Santander,Sevilla FC,La Liga,35
+2027-05-09T00:00:00Z,Rayo Vallecano de Madrid,RC Deportivo La Coruña,La Liga,35
+2027-05-09T00:00:00Z,Real Betis Balompié,RCD Espanyol de Barcelona,La Liga,35
+2027-05-09T00:00:00Z,Real Madrid CF,FC Barcelona,La Liga,35
+2027-05-09T00:00:00Z,Getafe CF,Elche CF,La Liga,35
+2027-05-09T00:00:00Z,Villarreal CF,RC Celta de Vigo,La Liga,35
+2027-05-16T00:00:00Z,Club Atlético de Madrid,Rayo Vallecano de Madrid,La Liga,36
+2027-05-16T00:00:00Z,Sevilla FC,Villarreal CF,La Liga,36
+2027-05-16T00:00:00Z,Real Sociedad de Fútbol,FC Barcelona,La Liga,36
+2027-05-16T00:00:00Z,Elche CF,Athletic Club,La Liga,36
+2027-05-16T00:00:00Z,Málaga CF,RC Celta de Vigo,La Liga,36
+2027-05-16T00:00:00Z,RC Deportivo La Coruña,Deportivo Alavés,La Liga,36
+2027-05-16T00:00:00Z,Levante UD,Getafe CF,La Liga,36
+2027-05-16T00:00:00Z,RCD Espanyol de Barcelona,Valencia CF,La Liga,36
+2027-05-16T00:00:00Z,Real Madrid CF,Real Racing Club de Santander,La Liga,36
+2027-05-16T00:00:00Z,CA Osasuna,Real Betis Balompié,La Liga,36
+2027-05-23T00:00:00Z,Club Atlético de Madrid,Athletic Club,La Liga,37
+2027-05-23T00:00:00Z,Deportivo Alavés,Real Madrid CF,La Liga,37
+2027-05-23T00:00:00Z,Sevilla FC,Getafe CF,La Liga,37
+2027-05-23T00:00:00Z,Villarreal CF,CA Osasuna,La Liga,37
+2027-05-23T00:00:00Z,Real Racing Club de Santander,Levante UD,La Liga,37
+2027-05-23T00:00:00Z,RC Deportivo La Coruña,RCD Espanyol de Barcelona,La Liga,37
+2027-05-23T00:00:00Z,Rayo Vallecano de Madrid,Real Betis Balompié,La Liga,37
+2027-05-23T00:00:00Z,FC Barcelona,Málaga CF,La Liga,37
+2027-05-23T00:00:00Z,Valencia CF,Elche CF,La Liga,37
+2027-05-23T00:00:00Z,RC Celta de Vigo,Real Sociedad de Fútbol,La Liga,37
+2027-05-30T00:00:00Z,Levante UD,RC Celta de Vigo,La Liga,38
+2027-05-30T00:00:00Z,Real Madrid CF,RC Deportivo La Coruña,La Liga,38
+2027-05-30T00:00:00Z,Real Betis Balompié,Club Atlético de Madrid,La Liga,38
+2027-05-30T00:00:00Z,Real Sociedad de Fútbol,Villarreal CF,La Liga,38
+2027-05-30T00:00:00Z,Málaga CF,Sevilla FC,La Liga,38
+2027-05-30T00:00:00Z,Elche CF,Real Racing Club de Santander,La Liga,38
+2027-05-30T00:00:00Z,Athletic Club,Rayo Vallecano de Madrid,La Liga,38
+2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés,La Liga,38
+2027-05-30T00:00:00Z,Getafe CF,FC Barcelona,La Liga,38
+2027-05-30T00:00:00Z,CA Osasuna,Valencia CF,La Liga,38
 2026-08-28T18:30:00Z,FC Bayern München,VfB Stuttgart,Bundesliga,1
 2026-08-29T13:30:00Z,RB Leipzig,Borussia Mönchengladbach,Bundesliga,1
 2026-08-29T13:30:00Z,1. FSV Mainz 05,SC Paderborn 07,Bundesliga,1
