@@ -1,9 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2026-08-22T11:30:00Z,Hull City AFC,Manchester United FC,Premier League,1
-2026-08-22T14:00:00Z,Ipswich Town FC,Sunderland AFC,Premier League,1
-2026-08-22T14:00:00Z,Nottingham Forest FC,Leeds United FC,Premier League,1
-2026-08-22T14:00:00Z,Everton FC,Crystal Palace FC,Premier League,1
-2026-08-22T16:30:00Z,Brentford FC,Tottenham Hotspur FC,Premier League,1
 2026-08-23T13:00:00Z,Manchester City FC,AFC Bournemouth,Premier League,1
 2026-08-23T13:00:00Z,Brighton & Hove Albion FC,Aston Villa FC,Premier League,1
 2026-08-23T15:30:00Z,Newcastle United FC,Liverpool FC,Premier League,1
@@ -48,21 +43,46 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-09-19T16:30:00Z,Nottingham Forest FC,Coventry City FC,Premier League,5
 2026-09-20T13:00:00Z,AFC Bournemouth,Liverpool FC,Premier League,5
 2026-09-20T15:30:00Z,Fulham FC,Manchester United FC,Premier League,5
+2026-10-10T11:30:00Z,Arsenal FC,Leeds United FC,Premier League,6
 2026-10-10T14:00:00Z,Sunderland AFC,Brighton & Hove Albion FC,Premier League,6
 2026-10-10T14:00:00Z,Chelsea FC,AFC Bournemouth,Premier League,6
 2026-10-10T14:00:00Z,Ipswich Town FC,Fulham FC,Premier League,6
 2026-10-10T14:00:00Z,Aston Villa FC,Brentford FC,Premier League,6
+2026-10-10T16:30:00Z,Manchester United FC,Tottenham Hotspur FC,Premier League,6
+2026-10-11T13:00:00Z,Hull City AFC,Everton FC,Premier League,6
+2026-10-11T13:00:00Z,Crystal Palace FC,Nottingham Forest FC,Premier League,6
+2026-10-11T15:30:00Z,Liverpool FC,Manchester City FC,Premier League,6
+2026-10-12T19:00:00Z,Coventry City FC,Newcastle United FC,Premier League,6
+2026-10-17T11:30:00Z,Everton FC,Chelsea FC,Premier League,7
 2026-10-17T14:00:00Z,Fulham FC,Hull City AFC,Premier League,7
 2026-10-17T14:00:00Z,Manchester City FC,Ipswich Town FC,Premier League,7
 2026-10-17T14:00:00Z,Brentford FC,Liverpool FC,Premier League,7
+2026-10-17T16:30:00Z,Newcastle United FC,Aston Villa FC,Premier League,7
+2026-10-18T13:00:00Z,AFC Bournemouth,Sunderland AFC,Premier League,7
+2026-10-18T13:00:00Z,Leeds United FC,Manchester United FC,Premier League,7
+2026-10-18T13:00:00Z,Brighton & Hove Albion FC,Crystal Palace FC,Premier League,7
+2026-10-18T15:30:00Z,Nottingham Forest FC,Arsenal FC,Premier League,7
+2026-10-19T19:00:00Z,Tottenham Hotspur FC,Coventry City FC,Premier League,7
+2026-10-23T19:00:00Z,Ipswich Town FC,Nottingham Forest FC,Premier League,8
+2026-10-24T11:30:00Z,Aston Villa FC,Manchester City FC,Premier League,8
 2026-10-24T14:00:00Z,Liverpool FC,Brighton & Hove Albion FC,Premier League,8
 2026-10-24T14:00:00Z,Arsenal FC,Everton FC,Premier League,8
 2026-10-24T14:00:00Z,Coventry City FC,Fulham FC,Premier League,8
+2026-10-24T16:30:00Z,Chelsea FC,Tottenham Hotspur FC,Premier League,8
+2026-10-25T14:00:00Z,Crystal Palace FC,Newcastle United FC,Premier League,8
+2026-10-25T14:00:00Z,Manchester United FC,AFC Bournemouth,Premier League,8
+2026-10-25T14:00:00Z,Hull City AFC,Brentford FC,Premier League,8
+2026-10-25T16:30:00Z,Sunderland AFC,Leeds United FC,Premier League,8
+2026-10-31T12:30:00Z,Chelsea FC,Manchester United FC,Premier League,9
 2026-10-31T15:00:00Z,Manchester City FC,Brighton & Hove Albion FC,Premier League,9
 2026-10-31T15:00:00Z,AFC Bournemouth,Leeds United FC,Premier League,9
 2026-10-31T15:00:00Z,Coventry City FC,Sunderland AFC,Premier League,9
 2026-10-31T15:00:00Z,Hull City AFC,Ipswich Town FC,Premier League,9
 2026-10-31T15:00:00Z,Brentford FC,Nottingham Forest FC,Premier League,9
+2026-10-31T17:30:00Z,Tottenham Hotspur FC,Crystal Palace FC,Premier League,9
+2026-11-01T14:00:00Z,Aston Villa FC,Fulham FC,Premier League,9
+2026-11-01T16:30:00Z,Liverpool FC,Arsenal FC,Premier League,9
+2026-11-02T20:00:00Z,Newcastle United FC,Everton FC,Premier League,9
 2026-11-07T15:00:00Z,Arsenal FC,Hull City AFC,Premier League,10
 2026-11-07T15:00:00Z,Nottingham Forest FC,Manchester City FC,Premier League,10
 2026-11-07T15:00:00Z,Leeds United FC,Tottenham Hotspur FC,Premier League,10
@@ -353,10 +373,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-30T15:00:00Z,Sunderland AFC,Manchester City FC,Premier League,38
 2027-05-30T15:00:00Z,Chelsea FC,Brentford FC,Premier League,38
 2027-05-30T15:00:00Z,Crystal Palace FC,Leeds United FC,Premier League,38
-2026-08-22T16:30:00Z,Udinese Calcio,Como 1907,Serie A,1
-2026-08-22T16:30:00Z,FC Internazionale Milano,AC Monza,Serie A,1
-2026-08-22T18:45:00Z,Genoa CFC,SSC Napoli,Serie A,1
-2026-08-22T18:45:00Z,Parma Calcio 1913,Cagliari Calcio,Serie A,1
 2026-08-23T16:30:00Z,Frosinone Calcio,Juventus FC,Serie A,1
 2026-08-23T16:30:00Z,Venezia FC,US Lecce,Serie A,1
 2026-08-23T18:45:00Z,Atalanta BC,US Sassuolo Calcio,Serie A,1
@@ -733,11 +749,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-30T00:00:00Z,SSC Napoli,Atalanta BC,Serie A,38
 2027-05-30T00:00:00Z,US Lecce,Venezia FC,Serie A,38
 2027-05-30T00:00:00Z,Bologna FC 1909,Parma Calcio 1913,Serie A,38
-2026-08-22T15:15:00Z,Racing Club de Lens,AJ Auxerre,Ligue 1,1
-2026-08-22T18:45:00Z,Le Mans FC,Stade Brestois 29,Ligue 1,1
-2026-08-22T18:45:00Z,ES Troyes AC,Paris FC,Ligue 1,1
-2026-08-22T18:45:00Z,OGC Nice,FC Lorient,Ligue 1,1
-2026-08-22T18:45:00Z,Toulouse FC,Olympique Lyonnais,Ligue 1,1
 2026-08-23T13:00:00Z,Angers SCO,Lille OSC,Ligue 1,1
 2026-08-23T15:15:00Z,Le Havre AC,AS Monaco FC,Ligue 1,1
 2026-08-23T18:45:00Z,Paris Saint-Germain FC,Stade Rennais FC 1901,Ligue 1,1
@@ -1038,9 +1049,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-29T00:00:00Z,Olympique Lyonnais,Paris FC,Ligue 1,34
 2027-05-29T00:00:00Z,AJ Auxerre,Le Havre AC,Ligue 1,34
 2027-05-29T00:00:00Z,RC Strasbourg Alsace,OGC Nice,Ligue 1,34
-2026-08-22T15:00:00Z,Athletic Club,Sevilla FC,La Liga,2
-2026-08-22T17:30:00Z,Valencia CF,RC Celta de Vigo,La Liga,2
-2026-08-22T19:30:00Z,RCD Espanyol de Barcelona,Real Madrid CF,La Liga,2
 2026-08-23T15:00:00Z,Club Atlético de Madrid,Villarreal CF,La Liga,2
 2026-08-23T17:30:00Z,Getafe CF,Real Racing Club de Santander,La Liga,2
 2026-08-23T19:30:00Z,Elche CF,FC Barcelona,La Liga,2
