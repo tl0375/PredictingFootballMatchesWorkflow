@@ -1,8 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-08-30,13:00,Sunderland,Fulham,Premier League,2
-2026-08-30,13:00,Chelsea,Brighton,Premier League,2
-2026-08-30,13:00,Leeds,Brentford,Premier League,2
-2026-08-30,15:30,Manchester Utd,Ipswich,Premier League,2
 2026-08-31,19:00,Aston Villa,Arsenal,Premier League,2
 2026-09-04,19:00,Ipswich,Liverpool,Premier League,3
 2026-09-05,11:30,Newcastle,Bournemouth,Premier League,3
@@ -364,14 +360,11 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,15:00,Sunderland,Manchester City,Premier League,38
 2027-05-30,15:00,Chelsea,Brentford,Premier League,38
 2027-05-30,15:00,Crystal Palace,Leeds,Premier League,38
-2026-08-30,16:30,Napoli,Como,Serie A,2
-2026-08-30,18:45,Lazio,Genoa,Serie A,2
-2026-08-30,18:45,Cagliari,Milan,Serie A,2
 2026-08-31,16:30,Lecce,Roma,Serie A,2
 2026-08-31,18:45,Atalanta,Bologna,Serie A,2
 2026-09-04,18:45,Genoa,Como,Serie A,3
 2026-09-05,13:00,Fiorentina,Torino,Serie A,3
-2026-09-05,16:00,Milan,Napoli,Serie A,3
+2026-09-05,16:00,Inter,Napoli,Serie A,3
 2026-09-05,18:45,Roma,Atalanta,Serie A,3
 2026-09-06,13:00,Parma,Monza,Serie A,3
 2026-09-06,13:00,Frosinone,Venezia,Serie A,3
@@ -388,11 +381,11 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-09-13,13:00,Lecce,Monza,Serie A,4
 2026-09-13,16:00,Napoli,Bologna,Serie A,4
 2026-09-13,18:45,Lazio,Milan,Serie A,4
-2026-09-14,18:45,Milan,Udinese,Serie A,4
+2026-09-14,18:45,Inter,Udinese,Serie A,4
 2026-09-18,18:45,Monza,Sassuolo,Serie A,5
 2026-09-19,13:00,Bologna,Torino,Serie A,5
 2026-09-19,13:00,Udinese,Cagliari,Serie A,5
-2026-09-19,16:00,Roma,Milan,Serie A,5
+2026-09-19,16:00,Roma,Inter,Serie A,5
 2026-09-19,18:45,Venezia,Lazio,Serie A,5
 2026-09-20,10:30,Fiorentina,Napoli,Serie A,5
 2026-09-20,13:00,Frosinone,Como,Serie A,5
@@ -402,7 +395,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-11,00:00,Atalanta,Venezia,Serie A,6
 2026-10-11,00:00,Sassuolo,Milan,Serie A,6
 2026-10-11,00:00,Lecce,Bologna,Serie A,6
-2026-10-11,00:00,Milan,Parma,Serie A,6
+2026-10-11,00:00,Inter,Parma,Serie A,6
 2026-10-11,00:00,Lazio,Monza,Serie A,6
 2026-10-11,00:00,Cagliari,Juventus,Serie A,6
 2026-10-11,00:00,Como,Roma,Serie A,6
@@ -411,7 +404,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-11,00:00,Genoa,Fiorentina,Serie A,6
 2026-10-18,00:00,Milan,Atalanta,Serie A,7
 2026-10-18,00:00,Juventus,Lazio,Serie A,7
-2026-10-18,00:00,Bologna,Milan,Serie A,7
+2026-10-18,00:00,Bologna,Inter,Serie A,7
 2026-10-18,00:00,Roma,Genoa,Serie A,7
 2026-10-18,00:00,Frosinone,Sassuolo,Serie A,7
 2026-10-18,00:00,Udinese,Lecce,Serie A,7
@@ -423,14 +416,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-25,00:00,Cagliari,Bologna,Serie A,8
 2026-10-25,00:00,Como,Sassuolo,Serie A,8
 2026-10-25,00:00,Atalanta,Frosinone,Serie A,8
-2026-10-25,00:00,Milan,Fiorentina,Serie A,8
+2026-10-25,00:00,Inter,Fiorentina,Serie A,8
 2026-10-25,00:00,Napoli,Roma,Serie A,8
 2026-10-25,00:00,Lazio,Parma,Serie A,8
 2026-10-25,00:00,Lecce,Juventus,Serie A,8
 2026-10-25,00:00,Torino,Monza,Serie A,8
 2026-10-25,00:00,Genoa,Venezia,Serie A,8
 2026-10-28,00:00,Milan,Bologna,Serie A,9
-2026-10-28,00:00,Venezia,Milan,Serie A,9
+2026-10-28,00:00,Venezia,Inter,Serie A,9
 2026-10-28,00:00,Fiorentina,Atalanta,Serie A,9
 2026-10-28,00:00,Genoa,Juventus,Serie A,9
 2026-10-28,00:00,Parma,Udinese,Serie A,9
@@ -448,9 +441,9 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-11-01,00:00,Atalanta,Parma,Serie A,10
 2026-11-01,00:00,Lazio,Cagliari,Serie A,10
 2026-11-01,00:00,Juventus,Napoli,Serie A,10
-2026-11-01,00:00,Milan,Milan,Serie A,10
+2026-11-01,00:00,Milan,Inter,Serie A,10
 2026-11-08,00:00,Fiorentina,Juventus,Serie A,11
-2026-11-08,00:00,Milan,Como,Serie A,11
+2026-11-08,00:00,Inter,Como,Serie A,11
 2026-11-08,00:00,Roma,Sassuolo,Serie A,11
 2026-11-08,00:00,Torino,Lecce,Serie A,11
 2026-11-08,00:00,Napoli,Lazio,Serie A,11
@@ -460,7 +453,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-11-08,00:00,Venezia,Udinese,Serie A,11
 2026-11-08,00:00,Monza,Atalanta,Serie A,11
 2026-11-22,00:00,Monza,Fiorentina,Serie A,12
-2026-11-22,00:00,Atalanta,Milan,Serie A,12
+2026-11-22,00:00,Atalanta,Inter,Serie A,12
 2026-11-22,00:00,Juventus,Venezia,Serie A,12
 2026-11-22,00:00,Bologna,Udinese,Serie A,12
 2026-11-22,00:00,Milan,Frosinone,Serie A,12
@@ -478,10 +471,10 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-11-29,00:00,Venezia,Bologna,Serie A,13
 2026-11-29,00:00,Lecce,Atalanta,Serie A,13
 2026-11-29,00:00,Udinese,Fiorentina,Serie A,13
-2026-11-29,00:00,Milan,Genoa,Serie A,13
+2026-11-29,00:00,Inter,Genoa,Serie A,13
 2026-12-06,00:00,Genoa,Torino,Serie A,14
 2026-12-06,00:00,Juventus,Udinese,Serie A,14
-2026-12-06,00:00,Frosinone,Milan,Serie A,14
+2026-12-06,00:00,Frosinone,Inter,Serie A,14
 2026-12-06,00:00,Bologna,Roma,Serie A,14
 2026-12-06,00:00,Fiorentina,Cagliari,Serie A,14
 2026-12-06,00:00,Lazio,Atalanta,Serie A,14
@@ -495,7 +488,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-12-13,00:00,Lecce,Sassuolo,Serie A,15
 2026-12-13,00:00,Parma,Fiorentina,Serie A,15
 2026-12-13,00:00,Cagliari,Venezia,Serie A,15
-2026-12-13,00:00,Milan,Torino,Serie A,15
+2026-12-13,00:00,Inter,Torino,Serie A,15
 2026-12-13,00:00,Juventus,Monza,Serie A,15
 2026-12-13,00:00,Atalanta,Genoa,Serie A,15
 2026-12-13,00:00,Lazio,Roma,Serie A,15
@@ -506,7 +499,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-12-20,00:00,Atalanta,Napoli,Serie A,16
 2026-12-20,00:00,Fiorentina,Bologna,Serie A,16
 2026-12-20,00:00,Genoa,Udinese,Serie A,16
-2026-12-20,00:00,Lecce,Milan,Serie A,16
+2026-12-20,00:00,Lecce,Inter,Serie A,16
 2026-12-20,00:00,Torino,Cagliari,Serie A,16
 2026-12-20,00:00,Venezia,Monza,Serie A,16
 2027-01-03,00:00,Udinese,Atalanta,Serie A,17
@@ -516,7 +509,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-03,00:00,Cagliari,Genoa,Serie A,17
 2027-01-03,00:00,Torino,Venezia,Serie A,17
 2027-01-03,00:00,Monza,Milan,Serie A,17
-2027-01-03,00:00,Milan,Sassuolo,Serie A,17
+2027-01-03,00:00,Inter,Sassuolo,Serie A,17
 2027-01-03,00:00,Bologna,Juventus,Serie A,17
 2027-01-03,00:00,Fiorentina,Lazio,Serie A,17
 2027-01-06,00:00,Frosinone,Bologna,Serie A,18
@@ -527,20 +520,20 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-06,00:00,Milan,Fiorentina,Serie A,18
 2027-01-06,00:00,Juventus,Torino,Serie A,18
 2027-01-06,00:00,Atalanta,Como,Serie A,18
-2027-01-06,00:00,Lazio,Milan,Serie A,18
+2027-01-06,00:00,Lazio,Inter,Serie A,18
 2027-01-06,00:00,Lecce,Parma,Serie A,18
 2027-01-10,00:00,Fiorentina,Lecce,Serie A,19
 2027-01-10,00:00,Udinese,Napoli,Serie A,19
 2027-01-10,00:00,Torino,Atalanta,Serie A,19
 2027-01-10,00:00,Monza,Frosinone,Serie A,19
-2027-01-10,00:00,Milan,Juventus,Serie A,19
+2027-01-10,00:00,Inter,Juventus,Serie A,19
 2027-01-10,00:00,Parma,Venezia,Serie A,19
 2027-01-10,00:00,Bologna,Genoa,Serie A,19
 2027-01-10,00:00,Cagliari,Sassuolo,Serie A,19
 2027-01-10,00:00,Como,Lazio,Serie A,19
 2027-01-10,00:00,Roma,Milan,Serie A,19
 2027-01-17,00:00,Milan,Torino,Serie A,20
-2027-01-17,00:00,Parma,Milan,Serie A,20
+2027-01-17,00:00,Parma,Inter,Serie A,20
 2027-01-17,00:00,Juventus,Genoa,Serie A,20
 2027-01-17,00:00,Lecce,Udinese,Serie A,20
 2027-01-17,00:00,Cagliari,Como,Serie A,20
@@ -551,7 +544,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-17,00:00,Atalanta,Roma,Serie A,20
 2027-01-24,00:00,Lecce,Torino,Serie A,21
 2027-01-24,00:00,Juventus,Cagliari,Serie A,21
-2027-01-24,00:00,Milan,Venezia,Serie A,21
+2027-01-24,00:00,Inter,Venezia,Serie A,21
 2027-01-24,00:00,Fiorentina,Sassuolo,Serie A,21
 2027-01-24,00:00,Frosinone,Milan,Serie A,21
 2027-01-24,00:00,Roma,Udinese,Serie A,21
@@ -568,9 +561,9 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-31,00:00,Cagliari,Parma,Serie A,22
 2027-01-31,00:00,Atalanta,Fiorentina,Serie A,22
 2027-01-31,00:00,Lazio,Venezia,Serie A,22
-2027-01-31,00:00,Napoli,Milan,Serie A,22
+2027-01-31,00:00,Napoli,Inter,Serie A,22
 2027-02-07,00:00,Juventus,Sassuolo,Serie A,23
-2027-02-07,00:00,Milan,Cagliari,Serie A,23
+2027-02-07,00:00,Inter,Cagliari,Serie A,23
 2027-02-07,00:00,Como,Monza,Serie A,23
 2027-02-07,00:00,Lecce,Napoli,Serie A,23
 2027-02-07,00:00,Venezia,Genoa,Serie A,23
@@ -588,18 +581,18 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-02-14,00:00,Udinese,Venezia,Serie A,24
 2027-02-14,00:00,Genoa,Atalanta,Serie A,24
 2027-02-14,00:00,Cagliari,Lazio,Serie A,24
-2027-02-14,00:00,Milan,Milan,Serie A,24
+2027-02-14,00:00,Inter,Milan,Serie A,24
 2027-02-21,00:00,Como,Torino,Serie A,25
 2027-02-21,00:00,Atalanta,Monza,Serie A,25
 2027-02-21,00:00,Udinese,Parma,Serie A,25
 2027-02-21,00:00,Juventus,Bologna,Serie A,25
-2027-02-21,00:00,Fiorentina,Milan,Serie A,25
+2027-02-21,00:00,Fiorentina,Inter,Serie A,25
 2027-02-21,00:00,Sassuolo,Roma,Serie A,25
 2027-02-21,00:00,Milan,Genoa,Serie A,25
 2027-02-21,00:00,Venezia,Cagliari,Serie A,25
 2027-02-21,00:00,Lecce,Frosinone,Serie A,25
 2027-02-21,00:00,Lazio,Napoli,Serie A,25
-2027-02-28,00:00,Milan,Atalanta,Serie A,26
+2027-02-28,00:00,Inter,Atalanta,Serie A,26
 2027-02-28,00:00,Cagliari,Udinese,Serie A,26
 2027-02-28,00:00,Parma,Sassuolo,Serie A,26
 2027-02-28,00:00,Genoa,Lazio,Serie A,26
@@ -609,7 +602,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-02-28,00:00,Bologna,Lecce,Serie A,26
 2027-02-28,00:00,Monza,Juventus,Serie A,26
 2027-02-28,00:00,Frosinone,Napoli,Serie A,26
-2027-03-07,00:00,Udinese,Milan,Serie A,27
+2027-03-07,00:00,Udinese,Inter,Serie A,27
 2027-03-07,00:00,Atalanta,Torino,Serie A,27
 2027-03-07,00:00,Napoli,Parma,Serie A,27
 2027-03-07,00:00,Lecce,Como,Serie A,27
@@ -624,7 +617,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-03-14,00:00,Milan,Sassuolo,Serie A,28
 2027-03-14,00:00,Genoa,Roma,Serie A,28
 2027-03-14,00:00,Parma,Lecce,Serie A,28
-2027-03-14,00:00,Torino,Milan,Serie A,28
+2027-03-14,00:00,Torino,Inter,Serie A,28
 2027-03-14,00:00,Frosinone,Monza,Serie A,28
 2027-03-14,00:00,Como,Udinese,Serie A,28
 2027-03-14,00:00,Lazio,Juventus,Serie A,28
@@ -636,7 +629,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-03-21,00:00,Parma,Lazio,Serie A,29
 2027-03-21,00:00,Sassuolo,Cagliari,Serie A,29
 2027-03-21,00:00,Monza,Bologna,Serie A,29
-2027-03-21,00:00,Milan,Frosinone,Serie A,29
+2027-03-21,00:00,Inter,Frosinone,Serie A,29
 2027-03-21,00:00,Roma,Lecce,Serie A,29
 2027-03-21,00:00,Atalanta,Milan,Serie A,29
 2027-04-04,00:00,Lecce,Lazio,Serie A,30
@@ -645,7 +638,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-04-04,00:00,Sassuolo,Atalanta,Serie A,30
 2027-04-04,00:00,Roma,Bologna,Serie A,30
 2027-04-04,00:00,Milan,Monza,Serie A,30
-2027-04-04,00:00,Genoa,Milan,Serie A,30
+2027-04-04,00:00,Genoa,Inter,Serie A,30
 2027-04-04,00:00,Torino,Juventus,Serie A,30
 2027-04-04,00:00,Venezia,Parma,Serie A,30
 2027-04-04,00:00,Frosinone,Udinese,Serie A,30
@@ -657,9 +650,9 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-04-11,00:00,Parma,Como,Serie A,31
 2027-04-11,00:00,Bologna,Venezia,Serie A,31
 2027-04-11,00:00,Frosinone,Genoa,Serie A,31
-2027-04-11,00:00,Milan,Roma,Serie A,31
+2027-04-11,00:00,Inter,Roma,Serie A,31
 2027-04-11,00:00,Udinese,Monza,Serie A,31
-2027-04-18,00:00,Monza,Milan,Serie A,32
+2027-04-18,00:00,Monza,Inter,Serie A,32
 2027-04-18,00:00,Fiorentina,Parma,Serie A,32
 2027-04-18,00:00,Roma,Lazio,Serie A,32
 2027-04-18,00:00,Como,Frosinone,Serie A,32
@@ -678,14 +671,14 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-04-25,00:00,Genoa,Sassuolo,Serie A,33
 2027-04-25,00:00,Lecce,Milan,Serie A,33
 2027-04-25,00:00,Venezia,Torino,Serie A,33
-2027-04-25,00:00,Milan,Bologna,Serie A,33
+2027-04-25,00:00,Inter,Bologna,Serie A,33
 2027-05-02,00:00,Atalanta,Juventus,Serie A,34
 2027-05-02,00:00,Torino,Parma,Serie A,34
 2027-05-02,00:00,Milan,Lazio,Serie A,34
 2027-05-02,00:00,Udinese,Genoa,Serie A,34
 2027-05-02,00:00,Sassuolo,Frosinone,Serie A,34
 2027-05-02,00:00,Bologna,Fiorentina,Serie A,34
-2027-05-02,00:00,Como,Milan,Serie A,34
+2027-05-02,00:00,Como,Inter,Serie A,34
 2027-05-02,00:00,Monza,Venezia,Serie A,34
 2027-05-02,00:00,Lecce,Cagliari,Serie A,34
 2027-05-02,00:00,Roma,Napoli,Serie A,34
@@ -693,7 +686,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-09,00:00,Genoa,Cagliari,Serie A,35
 2027-05-09,00:00,Lazio,Sassuolo,Serie A,35
 2027-05-09,00:00,Napoli,Monza,Serie A,35
-2027-05-09,00:00,Milan,Lecce,Serie A,35
+2027-05-09,00:00,Inter,Lecce,Serie A,35
 2027-05-09,00:00,Venezia,Como,Serie A,35
 2027-05-09,00:00,Udinese,Juventus,Serie A,35
 2027-05-09,00:00,Torino,Bologna,Serie A,35
@@ -704,7 +697,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-16,00:00,Lazio,Udinese,Serie A,36
 2027-05-16,00:00,Bologna,Frosinone,Serie A,36
 2027-05-16,00:00,Como,Atalanta,Serie A,36
-2027-05-16,00:00,Juventus,Milan,Serie A,36
+2027-05-16,00:00,Juventus,Inter,Serie A,36
 2027-05-16,00:00,Sassuolo,Venezia,Serie A,36
 2027-05-16,00:00,Monza,Parma,Serie A,36
 2027-05-16,00:00,Milan,Roma,Serie A,36
@@ -713,7 +706,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-23,00:00,Parma,Juventus,Serie A,37
 2027-05-23,00:00,Torino,Napoli,Serie A,37
 2027-05-23,00:00,Atalanta,Lecce,Serie A,37
-2027-05-23,00:00,Milan,Lazio,Serie A,37
+2027-05-23,00:00,Inter,Lazio,Serie A,37
 2027-05-23,00:00,Udinese,Sassuolo,Serie A,37
 2027-05-23,00:00,Frosinone,Cagliari,Serie A,37
 2027-05-23,00:00,Fiorentina,Monza,Serie A,37
@@ -722,16 +715,13 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Milan,Udinese,Serie A,38
 2027-05-30,00:00,Juventus,Frosinone,Serie A,38
 2027-05-30,00:00,Monza,Torino,Serie A,38
-2027-05-30,00:00,Sassuolo,Milan,Serie A,38
+2027-05-30,00:00,Sassuolo,Inter,Serie A,38
 2027-05-30,00:00,Cagliari,Roma,Serie A,38
 2027-05-30,00:00,Lazio,Fiorentina,Serie A,38
 2027-05-30,00:00,Como,Genoa,Serie A,38
 2027-05-30,00:00,Napoli,Atalanta,Serie A,38
 2027-05-30,00:00,Lecce,Venezia,Serie A,38
 2027-05-30,00:00,Bologna,Parma,Serie A,38
-2026-08-30,13:00,Paris FC,Nice,Ligue 1,2
-2026-08-30,15:15,Rennes,Le Mans FC,Ligue 1,2
-2026-08-30,18:45,Monaco,Marseille,Ligue 1,2
 2026-09-03,18:45,Toulouse,Lille,Ligue 1,3
 2026-09-04,17:00,Lyon,Auxerre,Ligue 1,3
 2026-09-04,19:05,Paris SG,Monaco,Ligue 1,3
@@ -1020,8 +1010,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-29,00:00,Lyon,Paris FC,Ligue 1,34
 2027-05-29,00:00,Auxerre,Le Havre,Ligue 1,34
 2027-05-29,00:00,Strasbourg,Nice,Ligue 1,34
-2026-08-30,15:00,Real Madrid,Málaga CF,La Liga,3
-2026-08-30,17:30,RC Deportivo La Coruña,Valencia,La Liga,3
 2026-08-30,19:30,Celta,Athletic Club,La Liga,3
 2026-08-31,17:30,Osasuna,Getafe,La Liga,3
 2026-08-31,19:30,Barcelona,Vallecano,La Liga,3
@@ -1375,8 +1363,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Espanol,Alaves,La Liga,38
 2027-05-30,00:00,Getafe,Barcelona,La Liga,38
 2027-05-30,00:00,Osasuna,Valencia,La Liga,38
-2026-08-30,13:30,Freiburg,Werder Bremen,Bundesliga,1
-2026-08-30,15:30,Augsburg,Schalke 04,Bundesliga,1
 2026-09-04,18:30,Stuttgart,FC Koln,Bundesliga,2
 2026-09-05,13:30,Werder Bremen,RB Leipzig,Bundesliga,2
 2026-09-05,13:30,Hoffenheim,Dortmund,Bundesliga,2
