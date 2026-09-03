@@ -51,10 +51,10 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-19,19:00,Tottenham,Coventry City FC,Premier League,7
 2026-10-23,19:00,Ipswich,Nott'm Forest,Premier League,8
 2026-10-24,11:30,Aston Villa,Manchester City,Premier League,8
-2026-10-24,14:00,Liverpool,Brighton,Premier League,8
 2026-10-24,14:00,Arsenal,Everton,Premier League,8
 2026-10-24,14:00,Coventry City FC,Fulham,Premier League,8
 2026-10-24,16:30,Chelsea,Tottenham,Premier League,8
+2026-10-25,14:00,Liverpool,Brighton,Premier League,8
 2026-10-25,14:00,Crystal Palace,Newcastle,Premier League,8
 2026-10-25,14:00,Manchester Utd,Bournemouth,Premier League,8
 2026-10-25,14:00,Hull City AFC,Brentford,Premier League,8
@@ -66,7 +66,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-31,15:00,Hull City AFC,Ipswich,Premier League,9
 2026-10-31,15:00,Brentford,Nott'm Forest,Premier League,9
 2026-10-31,17:30,Tottenham,Crystal Palace,Premier League,9
-2026-11-01,14:00,Aston Villa,Fulham,Premier League,9
+2026-10-31,20:00,Aston Villa,Fulham,Premier League,9
 2026-11-01,16:30,Liverpool,Arsenal,Premier League,9
 2026-11-02,20:00,Newcastle,Everton,Premier League,9
 2026-11-07,15:00,Arsenal,Hull City AFC,Premier League,10
@@ -367,17 +367,12 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-09-06,13:00,Frosinone,Venezia,Serie A,3
 2026-09-06,16:00,Bologna,Sassuolo,Serie A,3
 2026-09-06,18:45,Juventus,Milan,Serie A,3
-2026-09-07,16:30,Cagliari,Lecce,Serie A,3
 2026-09-07,18:45,Udinese,Lazio,Serie A,3
 2026-09-11,18:45,Venezia,Fiorentina,Serie A,4
 2026-09-12,13:00,Genoa,Frosinone,Serie A,4
-2026-09-12,16:00,Lazio,Milan,Serie A,4
 2026-09-12,18:45,Atalanta,Cagliari,Serie A,4
 2026-09-13,13:00,Lecce,Monza,Serie A,4
 2026-09-13,16:00,Napoli,Bologna,Serie A,4
-2026-09-13,18:45,Sassuolo,Juventus,Serie A,4
-2026-09-14,16:30,Como,Parma,Serie A,4
-2026-09-14,16:30,Torino,Roma,Serie A,4
 2026-09-14,18:45,Inter,Udinese,Serie A,4
 2026-09-18,18:45,Monza,Sassuolo,Serie A,5
 2026-09-19,13:00,Bologna,Torino,Serie A,5
@@ -399,16 +394,16 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-10-11,00:00,Napoli,Frosinone,Serie A,6
 2026-10-11,00:00,Torino,Udinese,Serie A,6
 2026-10-11,00:00,Genoa,Fiorentina,Serie A,6
-2026-10-18,00:00,Milan,Atalanta,Serie A,7
-2026-10-18,00:00,Juventus,Lazio,Serie A,7
-2026-10-18,00:00,Bologna,Inter,Serie A,7
-2026-10-18,00:00,Roma,Genoa,Serie A,7
-2026-10-18,00:00,Frosinone,Sassuolo,Serie A,7
-2026-10-18,00:00,Udinese,Lecce,Serie A,7
-2026-10-18,00:00,Venezia,Napoli,Serie A,7
-2026-10-18,00:00,Monza,Cagliari,Serie A,7
-2026-10-18,00:00,Fiorentina,Como,Serie A,7
-2026-10-18,00:00,Parma,Torino,Serie A,7
+2026-10-17,00:00,Milan,Atalanta,Serie A,7
+2026-10-17,00:00,Juventus,Lazio,Serie A,7
+2026-10-17,00:00,Bologna,Inter,Serie A,7
+2026-10-17,00:00,Roma,Genoa,Serie A,7
+2026-10-17,00:00,Frosinone,Sassuolo,Serie A,7
+2026-10-17,00:00,Udinese,Lecce,Serie A,7
+2026-10-17,00:00,Venezia,Napoli,Serie A,7
+2026-10-17,00:00,Monza,Cagliari,Serie A,7
+2026-10-17,00:00,Fiorentina,Como,Serie A,7
+2026-10-17,00:00,Parma,Torino,Serie A,7
 2026-10-25,00:00,Udinese,Milan,Serie A,8
 2026-10-25,00:00,Cagliari,Bologna,Serie A,8
 2026-10-25,00:00,Como,Sassuolo,Serie A,8
@@ -746,32 +741,32 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-09-20,13:00,Auxerre,Brest,Ligue 1,5
 2026-09-20,15:15,Nice,Lille,Ligue 1,5
 2026-09-20,18:45,Marseille,Paris SG,Ligue 1,5
-2026-10-10,00:00,Brest,Angers,Ligue 1,6
-2026-10-10,00:00,Rennes,Auxerre,Ligue 1,6
-2026-10-10,00:00,Lorient,Paris FC,Ligue 1,6
-2026-10-10,00:00,Lens,Lyon,Ligue 1,6
-2026-10-10,00:00,Nice,Strasbourg,Ligue 1,6
-2026-10-10,00:00,Troyes,Marseille,Ligue 1,6
-2026-10-10,00:00,Paris SG,Le Mans FC,Ligue 1,6
-2026-10-10,00:00,Monaco,Toulouse,Ligue 1,6
-2026-10-10,00:00,Lille,Le Havre,Ligue 1,6
-2026-10-17,00:00,Lorient,Monaco,Ligue 1,7
-2026-10-17,00:00,Paris FC,Rennes,Ligue 1,7
-2026-10-17,00:00,Troyes,Lens,Ligue 1,7
-2026-10-17,00:00,Lille,Brest,Ligue 1,7
-2026-10-17,00:00,Le Mans FC,Toulouse,Ligue 1,7
-2026-10-17,00:00,Strasbourg,Paris SG,Ligue 1,7
-2026-10-17,00:00,Le Havre,Auxerre,Ligue 1,7
-2026-10-17,00:00,Angers,Marseille,Ligue 1,7
-2026-10-17,00:00,Lyon,Nice,Ligue 1,7
-2026-10-24,00:00,Marseille,Le Havre,Ligue 1,8
-2026-10-24,00:00,Monaco,Lille,Ligue 1,8
-2026-10-24,00:00,Rennes,Strasbourg,Ligue 1,8
-2026-10-24,00:00,Lens,Paris FC,Ligue 1,8
-2026-10-24,00:00,Angers,Lorient,Ligue 1,8
-2026-10-24,00:00,Brest,Nice,Ligue 1,8
-2026-10-24,00:00,Toulouse,Troyes,Ligue 1,8
-2026-10-24,00:00,Auxerre,Le Mans FC,Ligue 1,8
+2026-10-09,18:45,Lens,Lyon,Ligue 1,6
+2026-10-10,15:15,Lille,Le Havre,Ligue 1,6
+2026-10-10,18:45,Brest,Angers,Ligue 1,6
+2026-10-10,18:45,Lorient,Paris FC,Ligue 1,6
+2026-10-10,18:45,Paris SG,Le Mans FC,Ligue 1,6
+2026-10-10,18:45,Monaco,Toulouse,Ligue 1,6
+2026-10-11,13:00,Nice,Strasbourg,Ligue 1,6
+2026-10-11,15:15,Rennes,Auxerre,Ligue 1,6
+2026-10-11,18:45,Troyes,Marseille,Ligue 1,6
+2026-10-16,18:45,Le Mans FC,Toulouse,Ligue 1,7
+2026-10-17,15:15,Strasbourg,Paris SG,Ligue 1,7
+2026-10-17,18:45,Troyes,Lens,Ligue 1,7
+2026-10-17,18:45,Lille,Brest,Ligue 1,7
+2026-10-18,13:00,Angers,Marseille,Ligue 1,7
+2026-10-18,15:15,Lorient,Monaco,Ligue 1,7
+2026-10-18,15:15,Paris FC,Rennes,Ligue 1,7
+2026-10-18,15:15,Le Havre,Auxerre,Ligue 1,7
+2026-10-18,18:45,Lyon,Nice,Ligue 1,7
+2026-10-23,18:45,Brest,Nice,Ligue 1,8
+2026-10-24,15:15,Toulouse,Troyes,Ligue 1,8
+2026-10-24,18:45,Lens,Paris FC,Ligue 1,8
+2026-10-25,14:00,Monaco,Lille,Ligue 1,8
+2026-10-25,16:15,Marseille,Le Havre,Ligue 1,8
+2026-10-25,16:15,Rennes,Strasbourg,Ligue 1,8
+2026-10-25,16:15,Angers,Lorient,Ligue 1,8
+2026-10-25,16:15,Auxerre,Le Mans FC,Ligue 1,8
 2026-10-25,19:45,Paris SG,Lyon,Ligue 1,8
 2026-10-31,00:00,Lille,Lens,Ligue 1,9
 2026-10-31,00:00,Lyon,Angers,Ligue 1,9
@@ -835,7 +830,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-01-02,00:00,Paris FC,Le Havre,Ligue 1,15
 2027-01-02,00:00,Lorient,Auxerre,Ligue 1,15
 2027-01-02,00:00,Lille,Strasbourg,Ligue 1,15
-2027-01-03,00:00,Lens,Paris SG,Ligue 1,15
+2027-01-03,19:45,Lens,Paris SG,Ligue 1,15
 2027-01-16,00:00,Marseille,Lille,Ligue 1,16
 2027-01-16,00:00,Lyon,Lorient,Ligue 1,16
 2027-01-16,00:00,Paris FC,Toulouse,Ligue 1,16
@@ -871,7 +866,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-02-06,00:00,Rennes,Lyon,Ligue 1,19
 2027-02-06,00:00,Strasbourg,Paris FC,Ligue 1,19
 2027-02-06,00:00,Auxerre,Monaco,Ligue 1,19
-2027-02-07,00:00,Paris SG,Marseille,Ligue 1,19
+2027-02-07,19:45,Paris SG,Marseille,Ligue 1,19
 2027-02-13,00:00,Brest,Rennes,Ligue 1,20
 2027-02-13,00:00,Paris FC,Troyes,Ligue 1,20
 2027-02-13,00:00,Le Mans FC,Paris SG,Ligue 1,20
@@ -898,7 +893,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-02-27,00:00,Marseille,Rennes,Ligue 1,22
 2027-02-27,00:00,Lyon,Toulouse,Ligue 1,22
 2027-02-27,00:00,Le Mans FC,Paris FC,Ligue 1,22
-2027-02-28,00:00,Paris SG,Lens,Ligue 1,22
+2027-02-28,19:45,Paris SG,Lens,Ligue 1,22
 2027-03-06,00:00,Le Havre,Nice,Ligue 1,23
 2027-03-06,00:00,Paris SG,Rennes,Ligue 1,23
 2027-03-06,00:00,Lens,Strasbourg,Ligue 1,23
@@ -925,7 +920,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-03-20,00:00,Paris SG,Strasbourg,Ligue 1,25
 2027-03-20,00:00,Lens,Lille,Ligue 1,25
 2027-03-20,00:00,Lorient,Nice,Ligue 1,25
-2027-03-21,00:00,Marseille,Lyon,Ligue 1,25
+2027-03-21,19:45,Marseille,Lyon,Ligue 1,25
 2027-04-03,00:00,Le Havre,Troyes,Ligue 1,26
 2027-04-03,00:00,Angers,Monaco,Ligue 1,26
 2027-04-03,00:00,Le Mans FC,Marseille,Ligue 1,26
@@ -979,7 +974,7 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-08,00:00,Lens,Monaco,Ligue 1,31
 2027-05-08,00:00,Angers,Toulouse,Ligue 1,31
 2027-05-08,00:00,Nice,Marseille,Ligue 1,31
-2027-05-09,00:00,Lyon,Paris SG,Ligue 1,31
+2027-05-09,18:45,Lyon,Paris SG,Ligue 1,31
 2027-05-16,00:00,Monaco,Paris FC,Ligue 1,32
 2027-05-16,00:00,Lyon,Le Mans FC,Ligue 1,32
 2027-05-16,00:00,Paris SG,Nice,Ligue 1,32
