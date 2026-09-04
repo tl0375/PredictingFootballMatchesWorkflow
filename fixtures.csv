@@ -367,12 +367,17 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-09-06T13:00:00Z,Frosinone Calcio,Venezia FC,Serie A,3
 2026-09-06T16:00:00Z,Bologna FC 1909,US Sassuolo Calcio,Serie A,3
 2026-09-06T18:45:00Z,Juventus FC,AC Milan,Serie A,3
+2026-09-07T16:30:00Z,Cagliari Calcio,US Lecce,Serie A,3
 2026-09-07T18:45:00Z,Udinese Calcio,SS Lazio,Serie A,3
 2026-09-11T18:45:00Z,Venezia FC,ACF Fiorentina,Serie A,4
 2026-09-12T13:00:00Z,Genoa CFC,Frosinone Calcio,Serie A,4
+2026-09-12T16:00:00Z,SS Lazio,AC Milan,Serie A,4
 2026-09-12T18:45:00Z,Atalanta BC,Cagliari Calcio,Serie A,4
 2026-09-13T13:00:00Z,US Lecce,AC Monza,Serie A,4
 2026-09-13T16:00:00Z,SSC Napoli,Bologna FC 1909,Serie A,4
+2026-09-13T18:45:00Z,US Sassuolo Calcio,Juventus FC,Serie A,4
+2026-09-14T16:30:00Z,Como 1907,Parma Calcio 1913,Serie A,4
+2026-09-14T16:30:00Z,Torino FC,AS Roma,Serie A,4
 2026-09-14T18:45:00Z,FC Internazionale Milano,Udinese Calcio,Serie A,4
 2026-09-18T18:45:00Z,AC Monza,US Sassuolo Calcio,Serie A,5
 2026-09-19T13:00:00Z,Bologna FC 1909,Torino FC,Serie A,5
@@ -714,7 +719,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-30T00:00:00Z,SSC Napoli,Atalanta BC,Serie A,38
 2027-05-30T00:00:00Z,US Lecce,Venezia FC,Serie A,38
 2027-05-30T00:00:00Z,Bologna FC 1909,Parma Calcio 1913,Serie A,38
-2026-09-03T18:45:00Z,Toulouse FC,Lille OSC,Ligue 1,3
 2026-09-04T17:00:00Z,Olympique Lyonnais,AJ Auxerre,Ligue 1,3
 2026-09-04T19:05:00Z,Paris Saint-Germain FC,AS Monaco FC,Ligue 1,3
 2026-09-05T15:15:00Z,Racing Club de Lens,FC Lorient,Ligue 1,3
@@ -768,15 +772,15 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-10-25T16:15:00Z,Angers SCO,FC Lorient,Ligue 1,8
 2026-10-25T16:15:00Z,AJ Auxerre,Le Mans FC,Ligue 1,8
 2026-10-25T19:45:00Z,Paris Saint-Germain FC,Olympique Lyonnais,Ligue 1,8
-2026-10-31T00:00:00Z,Lille OSC,Racing Club de Lens,Ligue 1,9
-2026-10-31T00:00:00Z,Olympique Lyonnais,Angers SCO,Ligue 1,9
-2026-10-31T00:00:00Z,FC Lorient,Stade Brestois 29,Ligue 1,9
-2026-10-31T00:00:00Z,Paris FC,AS Monaco FC,Ligue 1,9
-2026-10-31T00:00:00Z,ES Troyes AC,Le Mans FC,Ligue 1,9
-2026-10-31T00:00:00Z,Le Havre AC,Paris Saint-Germain FC,Ligue 1,9
-2026-10-31T00:00:00Z,Olympique de Marseille,Toulouse FC,Ligue 1,9
-2026-10-31T00:00:00Z,OGC Nice,Stade Rennais FC 1901,Ligue 1,9
-2026-10-31T00:00:00Z,RC Strasbourg Alsace,AJ Auxerre,Ligue 1,9
+2026-10-30T18:00:00Z,Le Havre AC,Paris Saint-Germain FC,Ligue 1,9
+2026-10-30T20:05:00Z,Lille OSC,Racing Club de Lens,Ligue 1,9
+2026-10-31T16:15:00Z,OGC Nice,Stade Rennais FC 1901,Ligue 1,9
+2026-10-31T19:45:00Z,Olympique Lyonnais,Angers SCO,Ligue 1,9
+2026-10-31T19:45:00Z,FC Lorient,Stade Brestois 29,Ligue 1,9
+2026-10-31T19:45:00Z,ES Troyes AC,Le Mans FC,Ligue 1,9
+2026-11-01T14:00:00Z,RC Strasbourg Alsace,AJ Auxerre,Ligue 1,9
+2026-11-01T16:15:00Z,Paris FC,AS Monaco FC,Ligue 1,9
+2026-11-01T19:45:00Z,Olympique de Marseille,Toulouse FC,Ligue 1,9
 2026-11-07T00:00:00Z,Le Mans FC,AS Monaco FC,Ligue 1,10
 2026-11-07T00:00:00Z,Stade Brestois 29,Olympique Lyonnais,Ligue 1,10
 2026-11-07T00:00:00Z,Le Havre AC,FC Lorient,Ligue 1,10
@@ -1002,7 +1006,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-29T00:00:00Z,Olympique Lyonnais,Paris FC,Ligue 1,34
 2027-05-29T00:00:00Z,AJ Auxerre,Le Havre AC,Ligue 1,34
 2027-05-29T00:00:00Z,RC Strasbourg Alsace,OGC Nice,Ligue 1,34
-2026-09-03T19:00:00Z,Real Sociedad de Fútbol,RC Celta de Vigo,La Liga,6
 2026-09-04T19:00:00Z,Real Betis Balompié,Real Madrid CF,La Liga,4
 2026-09-05T14:15:00Z,Athletic Club,Club Atlético de Madrid,La Liga,4
 2026-09-05T16:30:00Z,Rayo Vallecano de Madrid,Real Racing Club de Santander,La Liga,4
