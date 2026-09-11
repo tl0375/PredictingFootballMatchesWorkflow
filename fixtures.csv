@@ -1007,16 +1007,16 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-09-20T16:30:00Z,RC Deportivo La Coruña,Real Betis Balompié,La Liga,7
 2026-09-20T16:30:00Z,Villarreal CF,Levante UD,La Liga,7
 2026-09-20T19:00:00Z,Valencia CF,Real Sociedad de Fútbol,La Liga,7
-2026-10-11T00:00:00Z,Rayo Vallecano de Madrid,Athletic Club,La Liga,8
-2026-10-11T00:00:00Z,Deportivo Alavés,Club Atlético de Madrid,La Liga,8
-2026-10-11T00:00:00Z,FC Barcelona,Getafe CF,La Liga,8
-2026-10-11T00:00:00Z,Real Betis Balompié,CA Osasuna,La Liga,8
-2026-10-11T00:00:00Z,Real Madrid CF,Villarreal CF,La Liga,8
-2026-10-11T00:00:00Z,Elche CF,RC Celta de Vigo,La Liga,8
-2026-10-11T00:00:00Z,Levante UD,Sevilla FC,La Liga,8
-2026-10-11T00:00:00Z,Real Racing Club de Santander,Valencia CF,La Liga,8
-2026-10-11T00:00:00Z,Málaga CF,RCD Espanyol de Barcelona,La Liga,8
-2026-10-11T00:00:00Z,Real Sociedad de Fútbol,RC Deportivo La Coruña,La Liga,8
+2026-10-09T19:00:00Z,Málaga CF,RCD Espanyol de Barcelona,La Liga,8
+2026-10-10T12:00:00Z,Rayo Vallecano de Madrid,Athletic Club,La Liga,8
+2026-10-10T14:15:00Z,Deportivo Alavés,Club Atlético de Madrid,La Liga,8
+2026-10-10T16:30:00Z,FC Barcelona,Getafe CF,La Liga,8
+2026-10-10T19:00:00Z,Real Madrid CF,Villarreal CF,La Liga,8
+2026-10-11T12:00:00Z,Elche CF,RC Celta de Vigo,La Liga,8
+2026-10-11T14:15:00Z,Real Sociedad de Fútbol,RC Deportivo La Coruña,La Liga,8
+2026-10-11T16:30:00Z,Real Betis Balompié,CA Osasuna,La Liga,8
+2026-10-11T19:00:00Z,Real Racing Club de Santander,Valencia CF,La Liga,8
+2026-10-12T19:00:00Z,Levante UD,Sevilla FC,La Liga,8
 2026-10-18T00:00:00Z,Villarreal CF,Elche CF,La Liga,9
 2026-10-18T00:00:00Z,Real Madrid CF,Sevilla FC,La Liga,9
 2026-10-18T00:00:00Z,RCD Espanyol de Barcelona,Club Atlético de Madrid,La Liga,9
@@ -1335,69 +1335,69 @@ Date,Home Team,Away Team,Competition,Matchweek
 2026-09-20T13:30:00Z,Bayer 04 Leverkusen,RB Leipzig,Bundesliga,4
 2026-09-20T15:30:00Z,FC Schalke 04,SV 07 Elversberg,Bundesliga,4
 2026-09-20T17:30:00Z,SC Paderborn 07,TSG 1899 Hoffenheim,Bundesliga,4
-2026-10-10T00:00:00Z,1. FSV Mainz 05,Bayer 04 Leverkusen,Bundesliga,5
-2026-10-10T00:00:00Z,SC Paderborn 07,VfB Stuttgart,Bundesliga,5
-2026-10-10T00:00:00Z,1. FC Köln,Borussia Mönchengladbach,Bundesliga,5
-2026-10-10T00:00:00Z,RB Leipzig,Eintracht Frankfurt,Bundesliga,5
-2026-10-10T00:00:00Z,SC Freiburg,FC Schalke 04,Bundesliga,5
-2026-10-10T00:00:00Z,1. FC Union Berlin,SV 07 Elversberg,Bundesliga,5
-2026-10-10T00:00:00Z,TSG 1899 Hoffenheim,Hamburger SV,Bundesliga,5
-2026-10-10T00:00:00Z,FC Augsburg,FC Bayern München,Bundesliga,5
-2026-10-10T00:00:00Z,Borussia Dortmund,SV Werder Bremen,Bundesliga,5
-2026-10-17T00:00:00Z,1. FC Union Berlin,Borussia Dortmund,Bundesliga,6
-2026-10-17T00:00:00Z,Hamburger SV,VfB Stuttgart,Bundesliga,6
-2026-10-17T00:00:00Z,SV Werder Bremen,SC Paderborn 07,Bundesliga,6
-2026-10-17T00:00:00Z,SV 07 Elversberg,FC Augsburg,Bundesliga,6
-2026-10-17T00:00:00Z,FC Bayern München,RB Leipzig,Bundesliga,6
-2026-10-17T00:00:00Z,Borussia Mönchengladbach,TSG 1899 Hoffenheim,Bundesliga,6
-2026-10-17T00:00:00Z,Bayer 04 Leverkusen,SC Freiburg,Bundesliga,6
-2026-10-17T00:00:00Z,Eintracht Frankfurt,1. FC Köln,Bundesliga,6
-2026-10-17T00:00:00Z,FC Schalke 04,1. FSV Mainz 05,Bundesliga,6
-2026-10-24T00:00:00Z,1. FSV Mainz 05,SV Werder Bremen,Bundesliga,7
-2026-10-24T00:00:00Z,1. FC Köln,FC Schalke 04,Bundesliga,7
-2026-10-24T00:00:00Z,RB Leipzig,SV 07 Elversberg,Bundesliga,7
-2026-10-24T00:00:00Z,VfB Stuttgart,Borussia Mönchengladbach,Bundesliga,7
-2026-10-24T00:00:00Z,SC Paderborn 07,Hamburger SV,Bundesliga,7
-2026-10-24T00:00:00Z,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Bundesliga,7
-2026-10-24T00:00:00Z,SC Freiburg,FC Bayern München,Bundesliga,7
-2026-10-24T00:00:00Z,Borussia Dortmund,Eintracht Frankfurt,Bundesliga,7
-2026-10-24T00:00:00Z,FC Augsburg,1. FC Union Berlin,Bundesliga,7
-2026-10-31T00:00:00Z,Borussia Mönchengladbach,SC Paderborn 07,Bundesliga,8
-2026-10-31T00:00:00Z,FC Schalke 04,RB Leipzig,Bundesliga,8
-2026-10-31T00:00:00Z,1. FC Union Berlin,1. FC Köln,Bundesliga,8
-2026-10-31T00:00:00Z,FC Augsburg,SC Freiburg,Bundesliga,8
-2026-10-31T00:00:00Z,SV Werder Bremen,TSG 1899 Hoffenheim,Bundesliga,8
-2026-10-31T00:00:00Z,Eintracht Frankfurt,Hamburger SV,Bundesliga,8
-2026-10-31T00:00:00Z,FC Bayern München,Borussia Dortmund,Bundesliga,8
-2026-10-31T00:00:00Z,SV 07 Elversberg,1. FSV Mainz 05,Bundesliga,8
-2026-10-31T00:00:00Z,Bayer 04 Leverkusen,VfB Stuttgart,Bundesliga,8
-2026-11-07T00:00:00Z,RB Leipzig,FC Augsburg,Bundesliga,9
-2026-11-07T00:00:00Z,VfB Stuttgart,SV Werder Bremen,Bundesliga,9
-2026-11-07T00:00:00Z,Borussia Dortmund,SV 07 Elversberg,Bundesliga,9
-2026-11-07T00:00:00Z,1. FSV Mainz 05,FC Bayern München,Bundesliga,9
-2026-11-07T00:00:00Z,Hamburger SV,Borussia Mönchengladbach,Bundesliga,9
-2026-11-07T00:00:00Z,SC Paderborn 07,Eintracht Frankfurt,Bundesliga,9
-2026-11-07T00:00:00Z,SC Freiburg,1. FC Union Berlin,Bundesliga,9
-2026-11-07T00:00:00Z,1. FC Köln,Bayer 04 Leverkusen,Bundesliga,9
-2026-11-07T00:00:00Z,TSG 1899 Hoffenheim,FC Schalke 04,Bundesliga,9
-2026-11-21T00:00:00Z,Bayer 04 Leverkusen,SC Paderborn 07,Bundesliga,10
-2026-11-21T00:00:00Z,1. FC Union Berlin,RB Leipzig,Bundesliga,10
-2026-11-21T00:00:00Z,FC Bayern München,1. FC Köln,Bundesliga,10
-2026-11-21T00:00:00Z,SV 07 Elversberg,SC Freiburg,Bundesliga,10
-2026-11-21T00:00:00Z,FC Schalke 04,VfB Stuttgart,Bundesliga,10
-2026-11-21T00:00:00Z,Borussia Mönchengladbach,Borussia Dortmund,Bundesliga,10
-2026-11-21T00:00:00Z,SV Werder Bremen,Hamburger SV,Bundesliga,10
-2026-11-21T00:00:00Z,FC Augsburg,1. FSV Mainz 05,Bundesliga,10
-2026-11-21T00:00:00Z,Eintracht Frankfurt,TSG 1899 Hoffenheim,Bundesliga,10
-2026-11-28T00:00:00Z,1. FC Köln,SV 07 Elversberg,Bundesliga,11
-2026-11-28T00:00:00Z,1. FSV Mainz 05,1. FC Union Berlin,Bundesliga,11
-2026-11-28T00:00:00Z,SC Paderborn 07,FC Schalke 04,Bundesliga,11
-2026-11-28T00:00:00Z,SV Werder Bremen,Borussia Mönchengladbach,Bundesliga,11
-2026-11-28T00:00:00Z,VfB Stuttgart,Eintracht Frankfurt,Bundesliga,11
-2026-11-28T00:00:00Z,TSG 1899 Hoffenheim,FC Augsburg,Bundesliga,11
-2026-11-28T00:00:00Z,Borussia Dortmund,Bayer 04 Leverkusen,Bundesliga,11
-2026-11-28T00:00:00Z,SC Freiburg,RB Leipzig,Bundesliga,11
-2026-11-28T00:00:00Z,Hamburger SV,FC Bayern München,Bundesliga,11
+2026-10-09T18:30:00Z,Borussia Dortmund,SV Werder Bremen,Bundesliga,5
+2026-10-10T13:30:00Z,1. FSV Mainz 05,Bayer 04 Leverkusen,Bundesliga,5
+2026-10-10T13:30:00Z,SC Paderborn 07,VfB Stuttgart,Bundesliga,5
+2026-10-10T13:30:00Z,1. FC Union Berlin,SV 07 Elversberg,Bundesliga,5
+2026-10-10T13:30:00Z,TSG 1899 Hoffenheim,Hamburger SV,Bundesliga,5
+2026-10-10T13:30:00Z,FC Augsburg,FC Bayern München,Bundesliga,5
+2026-10-10T16:30:00Z,RB Leipzig,Eintracht Frankfurt,Bundesliga,5
+2026-10-11T13:30:00Z,1. FC Köln,Borussia Mönchengladbach,Bundesliga,5
+2026-10-11T15:30:00Z,SC Freiburg,FC Schalke 04,Bundesliga,5
+2026-10-16T18:30:00Z,Eintracht Frankfurt,1. FC Köln,Bundesliga,6
+2026-10-17T13:30:00Z,1. FC Union Berlin,Borussia Dortmund,Bundesliga,6
+2026-10-17T13:30:00Z,Hamburger SV,VfB Stuttgart,Bundesliga,6
+2026-10-17T13:30:00Z,SV Werder Bremen,SC Paderborn 07,Bundesliga,6
+2026-10-17T13:30:00Z,SV 07 Elversberg,FC Augsburg,Bundesliga,6
+2026-10-17T13:30:00Z,FC Schalke 04,1. FSV Mainz 05,Bundesliga,6
+2026-10-17T16:30:00Z,FC Bayern München,RB Leipzig,Bundesliga,6
+2026-10-18T13:30:00Z,Bayer 04 Leverkusen,SC Freiburg,Bundesliga,6
+2026-10-18T15:30:00Z,Borussia Mönchengladbach,TSG 1899 Hoffenheim,Bundesliga,6
+2026-10-23T18:30:00Z,VfB Stuttgart,Borussia Mönchengladbach,Bundesliga,7
+2026-10-24T13:30:00Z,1. FSV Mainz 05,SV Werder Bremen,Bundesliga,7
+2026-10-24T13:30:00Z,1. FC Köln,FC Schalke 04,Bundesliga,7
+2026-10-24T13:30:00Z,RB Leipzig,SV 07 Elversberg,Bundesliga,7
+2026-10-24T13:30:00Z,SC Paderborn 07,Hamburger SV,Bundesliga,7
+2026-10-24T13:30:00Z,FC Augsburg,1. FC Union Berlin,Bundesliga,7
+2026-10-24T16:30:00Z,Borussia Dortmund,Eintracht Frankfurt,Bundesliga,7
+2026-10-25T14:30:00Z,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,Bundesliga,7
+2026-10-25T16:30:00Z,SC Freiburg,FC Bayern München,Bundesliga,7
+2026-10-30T19:30:00Z,SV 07 Elversberg,1. FSV Mainz 05,Bundesliga,8
+2026-10-31T14:30:00Z,Borussia Mönchengladbach,SC Paderborn 07,Bundesliga,8
+2026-10-31T14:30:00Z,FC Schalke 04,RB Leipzig,Bundesliga,8
+2026-10-31T14:30:00Z,FC Augsburg,SC Freiburg,Bundesliga,8
+2026-10-31T14:30:00Z,SV Werder Bremen,TSG 1899 Hoffenheim,Bundesliga,8
+2026-10-31T14:30:00Z,Bayer 04 Leverkusen,VfB Stuttgart,Bundesliga,8
+2026-10-31T17:30:00Z,FC Bayern München,Borussia Dortmund,Bundesliga,8
+2026-11-01T14:30:00Z,1. FC Union Berlin,1. FC Köln,Bundesliga,8
+2026-11-01T16:30:00Z,Eintracht Frankfurt,Hamburger SV,Bundesliga,8
+2026-11-06T19:30:00Z,Hamburger SV,Borussia Mönchengladbach,Bundesliga,9
+2026-11-07T14:30:00Z,RB Leipzig,FC Augsburg,Bundesliga,9
+2026-11-07T14:30:00Z,Borussia Dortmund,SV 07 Elversberg,Bundesliga,9
+2026-11-07T14:30:00Z,1. FSV Mainz 05,FC Bayern München,Bundesliga,9
+2026-11-07T14:30:00Z,SC Paderborn 07,Eintracht Frankfurt,Bundesliga,9
+2026-11-07T17:30:00Z,VfB Stuttgart,SV Werder Bremen,Bundesliga,9
+2026-11-08T14:30:00Z,1. FC Köln,Bayer 04 Leverkusen,Bundesliga,9
+2026-11-08T16:30:00Z,SC Freiburg,1. FC Union Berlin,Bundesliga,9
+2026-11-08T18:30:00Z,TSG 1899 Hoffenheim,FC Schalke 04,Bundesliga,9
+2026-11-20T19:30:00Z,FC Bayern München,1. FC Köln,Bundesliga,10
+2026-11-21T14:30:00Z,Bayer 04 Leverkusen,SC Paderborn 07,Bundesliga,10
+2026-11-21T14:30:00Z,1. FC Union Berlin,RB Leipzig,Bundesliga,10
+2026-11-21T14:30:00Z,SV 07 Elversberg,SC Freiburg,Bundesliga,10
+2026-11-21T14:30:00Z,Borussia Mönchengladbach,Borussia Dortmund,Bundesliga,10
+2026-11-21T14:30:00Z,Eintracht Frankfurt,TSG 1899 Hoffenheim,Bundesliga,10
+2026-11-21T17:30:00Z,FC Schalke 04,VfB Stuttgart,Bundesliga,10
+2026-11-22T14:30:00Z,FC Augsburg,1. FSV Mainz 05,Bundesliga,10
+2026-11-22T16:30:00Z,SV Werder Bremen,Hamburger SV,Bundesliga,10
+2026-11-27T19:30:00Z,SV Werder Bremen,Borussia Mönchengladbach,Bundesliga,11
+2026-11-28T14:30:00Z,1. FC Köln,SV 07 Elversberg,Bundesliga,11
+2026-11-28T14:30:00Z,1. FSV Mainz 05,1. FC Union Berlin,Bundesliga,11
+2026-11-28T14:30:00Z,SC Paderborn 07,FC Schalke 04,Bundesliga,11
+2026-11-28T14:30:00Z,Hamburger SV,FC Bayern München,Bundesliga,11
+2026-11-28T17:30:00Z,VfB Stuttgart,Eintracht Frankfurt,Bundesliga,11
+2026-11-29T14:30:00Z,SC Freiburg,RB Leipzig,Bundesliga,11
+2026-11-29T16:30:00Z,TSG 1899 Hoffenheim,FC Augsburg,Bundesliga,11
+2026-11-29T18:30:00Z,Borussia Dortmund,Bayer 04 Leverkusen,Bundesliga,11
 2026-12-05T00:00:00Z,1. FC Union Berlin,Hamburger SV,Bundesliga,12
 2026-12-05T00:00:00Z,FC Schalke 04,Borussia Dortmund,Bundesliga,12
 2026-12-05T00:00:00Z,Bayer 04 Leverkusen,Borussia Mönchengladbach,Bundesliga,12
