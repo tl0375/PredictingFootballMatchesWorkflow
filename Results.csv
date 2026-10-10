@@ -659,7 +659,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,00:00,38,Serie A,Napoli,Atalanta,Home Win,0.46444964,0.24701524,0.28853512
 2027-05-30,00:00,38,Serie A,Lecce,Venezia,Home Win,0.54162395,0.2350093,0.22336677
 2027-05-30,00:00,38,Serie A,Bologna,Parma,Home Win,0.54001635,0.23570032,0.22428326
-2026-10-09,18:45,6,Ligue 1,Lens,Lyon,Home Win,0.3901432,0.2515514,0.35830548
 2026-10-10,15:15,6,Ligue 1,Lille,Le Havre,Home Win,0.6852789,0.19050078,0.12422028
 2026-10-10,18:45,6,Ligue 1,Brest,Angers,Home Win,0.45606396,0.24854733,0.29538873
 2026-10-10,18:45,6,Ligue 1,Lorient,Paris FC,Home Win,0.44109067,0.24950917,0.30940014
@@ -920,7 +919,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-29,00:00,34,Ligue 1,Lyon,Paris FC,Home Win,0.53866696,0.2359661,0.22536692
 2027-05-29,00:00,34,Ligue 1,Auxerre,Le Havre,Home Win,0.50600034,0.24218163,0.25181806
 2027-05-29,00:00,34,Ligue 1,Strasbourg,Nice,Home Win,0.56652296,0.22922601,0.20425104
-2026-10-09,19:00,8,La Liga,Málaga CF,Espanol,Away Win,0.35408893,0.25100636,0.3949047
 2026-10-10,12:00,8,La Liga,Vallecano,Athletic Club,Home Win,0.5636792,0.22997935,0.20634146
 2026-10-10,14:15,8,La Liga,Alaves,Ath Madrid,Away Win,0.2766095,0.24284825,0.48054224
 2026-10-10,16:30,8,La Liga,Barcelona,Getafe,Home Win,0.6807851,0.1922311,0.12698375
@@ -1231,7 +1229,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,00:00,38,La Liga,Espanol,Alaves,Away Win,0.30742896,0.24707675,0.44549432
 2027-05-30,00:00,38,La Liga,Getafe,Barcelona,Away Win,0.23000902,0.2320298,0.5379611
 2027-05-30,00:00,38,La Liga,Osasuna,Valencia,Away Win,0.3080082,0.2477371,0.44425467
-2026-10-09,18:30,5,Bundesliga,Dortmund,Werder Bremen,Home Win,0.6632066,0.19878986,0.13800356
 2026-10-10,13:30,5,Bundesliga,Mainz,Leverkusen,Away Win,0.3057171,0.24718083,0.447102
 2026-10-10,13:30,5,Bundesliga,Paderborn,Stuttgart,Away Win,0.2344907,0.23349448,0.53201485
 2026-10-10,13:30,5,Bundesliga,Union Berlin,SV 07 Elversberg,Home Win,0.44511715,0.24949846,0.30538437
