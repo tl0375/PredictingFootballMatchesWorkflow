@@ -1,10 +1,4 @@
 Date,Home Team,Away Team,Competition,Matchweek
-2026-10-10T11:30:00Z,Arsenal FC,Leeds United FC,Premier League,6
-2026-10-10T14:00:00Z,Sunderland AFC,Brighton & Hove Albion FC,Premier League,6
-2026-10-10T14:00:00Z,Chelsea FC,AFC Bournemouth,Premier League,6
-2026-10-10T14:00:00Z,Ipswich Town FC,Fulham FC,Premier League,6
-2026-10-10T14:00:00Z,Aston Villa FC,Brentford FC,Premier League,6
-2026-10-10T16:30:00Z,Manchester United FC,Tottenham Hotspur FC,Premier League,6
 2026-10-11T13:00:00Z,Hull City AFC,Everton FC,Premier League,6
 2026-10-11T13:00:00Z,Crystal Palace FC,Nottingham Forest FC,Premier League,6
 2026-10-11T15:30:00Z,Liverpool FC,Manchester City FC,Premier League,6
@@ -329,9 +323,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-30T15:00:00Z,Sunderland AFC,Manchester City FC,Premier League,38
 2027-05-30T15:00:00Z,Chelsea FC,Brentford FC,Premier League,38
 2027-05-30T15:00:00Z,Crystal Palace FC,Leeds United FC,Premier League,38
-2026-10-10T13:00:00Z,Genoa CFC,ACF Fiorentina,Serie A,6
-2026-10-10T16:00:00Z,FC Internazionale Milano,Parma Calcio 1913,Serie A,6
-2026-10-10T18:45:00Z,SSC Napoli,Frosinone Calcio,Serie A,6
 2026-10-11T10:30:00Z,Como 1907,AS Roma,Serie A,6
 2026-10-11T13:00:00Z,US Lecce,Bologna FC 1909,Serie A,6
 2026-10-11T13:00:00Z,SS Lazio,AC Monza,Serie A,6
@@ -659,11 +650,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-30T00:00:00Z,SSC Napoli,Atalanta BC,Serie A,38
 2027-05-30T00:00:00Z,US Lecce,Venezia FC,Serie A,38
 2027-05-30T00:00:00Z,Bologna FC 1909,Parma Calcio 1913,Serie A,38
-2026-10-10T15:15:00Z,Lille OSC,Le Havre AC,Ligue 1,6
-2026-10-10T18:45:00Z,Stade Brestois 29,Angers SCO,Ligue 1,6
-2026-10-10T18:45:00Z,FC Lorient,Paris FC,Ligue 1,6
-2026-10-10T18:45:00Z,Paris Saint-Germain FC,Le Mans FC,Ligue 1,6
-2026-10-10T18:45:00Z,AS Monaco FC,Toulouse FC,Ligue 1,6
 2026-10-11T13:00:00Z,OGC Nice,RC Strasbourg Alsace,Ligue 1,6
 2026-10-11T15:15:00Z,Stade Rennais FC 1901,AJ Auxerre,Ligue 1,6
 2026-10-11T18:45:00Z,ES Troyes AC,Olympique de Marseille,Ligue 1,6
@@ -919,10 +905,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-29T00:00:00Z,Olympique Lyonnais,Paris FC,Ligue 1,34
 2027-05-29T00:00:00Z,AJ Auxerre,Le Havre AC,Ligue 1,34
 2027-05-29T00:00:00Z,RC Strasbourg Alsace,OGC Nice,Ligue 1,34
-2026-10-10T12:00:00Z,Rayo Vallecano de Madrid,Athletic Club,La Liga,8
-2026-10-10T14:15:00Z,Deportivo Alavés,Club Atlético de Madrid,La Liga,8
-2026-10-10T16:30:00Z,FC Barcelona,Getafe CF,La Liga,8
-2026-10-10T19:00:00Z,Real Madrid CF,Villarreal CF,La Liga,8
 2026-10-11T12:00:00Z,Elche CF,RC Celta de Vigo,La Liga,8
 2026-10-11T14:15:00Z,Real Sociedad de Fútbol,RC Deportivo La Coruña,La Liga,8
 2026-10-11T16:30:00Z,Real Betis Balompié,CA Osasuna,La Liga,8
@@ -1229,12 +1211,6 @@ Date,Home Team,Away Team,Competition,Matchweek
 2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés,La Liga,38
 2027-05-30T00:00:00Z,Getafe CF,FC Barcelona,La Liga,38
 2027-05-30T00:00:00Z,CA Osasuna,Valencia CF,La Liga,38
-2026-10-10T13:30:00Z,1. FSV Mainz 05,Bayer 04 Leverkusen,Bundesliga,5
-2026-10-10T13:30:00Z,SC Paderborn 07,VfB Stuttgart,Bundesliga,5
-2026-10-10T13:30:00Z,1. FC Union Berlin,SV 07 Elversberg,Bundesliga,5
-2026-10-10T13:30:00Z,TSG 1899 Hoffenheim,Hamburger SV,Bundesliga,5
-2026-10-10T13:30:00Z,FC Augsburg,FC Bayern München,Bundesliga,5
-2026-10-10T16:30:00Z,RB Leipzig,Eintracht Frankfurt,Bundesliga,5
 2026-10-11T13:30:00Z,1. FC Köln,Borussia Mönchengladbach,Bundesliga,5
 2026-10-11T15:30:00Z,SC Freiburg,FC Schalke 04,Bundesliga,5
 2026-10-16T18:30:00Z,Eintracht Frankfurt,1. FC Köln,Bundesliga,6
