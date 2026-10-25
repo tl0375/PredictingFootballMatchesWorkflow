@@ -1,5 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-10-24,11:30,Aston Villa,Manchester City,Premier League,8
 2026-10-24,14:00,Arsenal,Everton,Premier League,8
 2026-10-24,14:00,Coventry City FC,Fulham,Premier League,8
 2026-10-24,16:30,Chelsea,Tottenham,Premier League,8
@@ -617,7 +616,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Napoli,Atalanta,Serie A,38
 2027-05-30,00:00,Lecce,Venezia,Serie A,38
 2027-05-30,00:00,Bologna,Parma,Serie A,38
-2026-10-24,18:45,Lens,Paris FC,Ligue 1,8
 2026-10-25,14:00,Monaco,Lille,Ligue 1,8
 2026-10-25,16:15,Marseille,Le Havre,Ligue 1,8
 2026-10-25,16:15,Rennes,Strasbourg,Ligue 1,8
@@ -859,7 +857,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-29,00:00,Lyon,Paris FC,Ligue 1,34
 2027-05-29,00:00,Auxerre,Le Havre,Ligue 1,34
 2027-05-29,00:00,Strasbourg,Nice,Ligue 1,34
-2026-10-24,12:00,Vallecano,Elche,La Liga,10
 2026-10-24,14:15,Real Racing Club de Santander,Espanol,La Liga,10
 2026-10-24,16:30,Valencia,Villarreal,La Liga,10
 2026-10-24,19:00,Ath Madrid,RC Deportivo La Coruña,La Liga,10
@@ -1150,10 +1147,8 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Osasuna,Valencia,La Liga,38
 2026-10-24,13:30,Mainz,Werder Bremen,Bundesliga,7
 2026-10-24,13:30,FC Koln,Schalke 04,Bundesliga,7
-2026-10-24,13:30,RB Leipzig,SV 07 Elversberg,Bundesliga,7
 2026-10-24,13:30,Paderborn,Hamburg,Bundesliga,7
 2026-10-24,13:30,Augsburg,Union Berlin,Bundesliga,7
-2026-10-24,16:30,Dortmund,Ein Frankfurt,Bundesliga,7
 2026-10-25,14:30,Hoffenheim,Leverkusen,Bundesliga,7
 2026-10-25,16:30,Freiburg,Bayern Munich,Bundesliga,7
 2026-10-30,19:30,SV 07 Elversberg,Mainz,Bundesliga,8
