@@ -589,9 +589,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,00:00,38,Serie A,Napoli,Atalanta,Home Win,0.46444964,0.24701524,0.28853512
 2027-05-30,00:00,38,Serie A,Lecce,Venezia,Home Win,0.54162395,0.2350093,0.22336677
 2027-05-30,00:00,38,Serie A,Bologna,Parma,Home Win,0.54001635,0.23570032,0.22428326
-2026-10-30,18:00,9,Ligue 1,Le Havre,Paris SG,Away Win,0.23592252,0.23400243,0.5300751
-2026-10-30,18:00,9,Ligue 1,Nice,Rennes,Away Win,0.23552528,0.23411627,0.53035843
-2026-10-30,20:05,9,Ligue 1,Lille,Lens,Home Win,0.5649383,0.22964664,0.20541507
 2026-10-31,19:45,9,Ligue 1,Troyes,Le Mans FC,Away Win,0.3675497,0.25161612,0.3808342
 2026-11-01,14:00,9,Ligue 1,Strasbourg,Auxerre,Home Win,0.4982422,0.24325308,0.25850466
 2026-11-01,16:15,9,Ligue 1,Lyon,Angers,Home Win,0.66483325,0.19819307,0.13697368
@@ -823,7 +820,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-29,00:00,34,Ligue 1,Lyon,Paris FC,Home Win,0.53866696,0.2359661,0.22536692
 2027-05-29,00:00,34,Ligue 1,Auxerre,Le Havre,Home Win,0.50600034,0.24218163,0.25181806
 2027-05-29,00:00,34,Ligue 1,Strasbourg,Nice,Home Win,0.56652296,0.22922601,0.20425104
-2026-10-30,20:00,11,La Liga,Villarreal,Espanol,Home Win,0.5742582,0.22713742,0.19860443
 2026-10-31,13:00,11,La Liga,Levante,Ath Madrid,Away Win,0.35413194,0.25100124,0.3948668
 2026-10-31,15:15,11,La Liga,Vallecano,Celta,Home Win,0.50264174,0.24258937,0.25476894
 2026-10-31,17:30,11,La Liga,Betis,Málaga CF,Home Win,0.61641544,0.21470124,0.16888335
@@ -1103,7 +1099,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,00:00,38,La Liga,Espanol,Alaves,Away Win,0.30742896,0.24707675,0.44549432
 2027-05-30,00:00,38,La Liga,Getafe,Barcelona,Away Win,0.23000902,0.2320298,0.5379611
 2027-05-30,00:00,38,La Liga,Osasuna,Valencia,Away Win,0.3080082,0.2477371,0.44425467
-2026-10-30,19:30,8,Bundesliga,SV 07 Elversberg,Mainz,Away Win,0.26991993,0.24156336,0.48851675
 2026-10-31,14:30,8,Bundesliga,M'gladbach,Paderborn,Home Win,0.6211629,0.21318676,0.16565038
 2026-10-31,14:30,8,Bundesliga,Schalke 04,RB Leipzig,Away Win,0.22558476,0.23088464,0.5435306
 2026-10-31,14:30,8,Bundesliga,Augsburg,Freiburg,Home Win,0.5285653,0.23801373,0.23342103
