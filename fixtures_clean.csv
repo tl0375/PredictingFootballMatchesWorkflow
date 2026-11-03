@@ -1,5 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-11-02,20:00,Newcastle,Everton,Premier League,9
 2026-11-06,20:00,Everton,Coventry City FC,Premier League,10
 2026-11-07,12:30,Leeds,Tottenham,Premier League,10
 2026-11-07,15:00,Arsenal,Hull City AFC,Premier League,10
@@ -290,8 +289,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,15:00,Sunderland,Manchester City,Premier League,38
 2027-05-30,15:00,Chelsea,Brentford,Premier League,38
 2027-05-30,15:00,Crystal Palace,Leeds,Premier League,38
-2026-11-02,17:30,Sassuolo,Fiorentina,Serie A,10
-2026-11-02,19:45,Atalanta,Parma,Serie A,10
 2026-11-06,19:45,Venezia,Udinese,Serie A,11
 2026-11-07,14:00,Torino,Lecce,Serie A,11
 2026-11-07,14:00,Cagliari,Frosinone,Serie A,11
@@ -572,7 +569,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Napoli,Atalanta,Serie A,38
 2027-05-30,00:00,Lecce,Venezia,Serie A,38
 2027-05-30,00:00,Bologna,Parma,Serie A,38
-2026-11-02,19:45,Lorient,Brest,Ligue 1,9
 2026-11-06,19:45,Toulouse,Strasbourg,Ligue 1,10
 2026-11-07,16:15,Auxerre,Paris FC,Ligue 1,10
 2026-11-07,19:45,Paris SG,Troyes,Ligue 1,10
@@ -798,7 +794,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-29,00:00,Lyon,Paris FC,Ligue 1,34
 2027-05-29,00:00,Auxerre,Le Havre,Ligue 1,34
 2027-05-29,00:00,Strasbourg,Nice,Ligue 1,34
-2026-11-02,20:00,RC Deportivo La Coruña,Osasuna,La Liga,11
 2026-11-06,20:00,Sevilla,Alaves,La Liga,12
 2026-11-07,13:00,Málaga CF,Real Racing Club de Santander,La Liga,12
 2026-11-07,15:15,Espanol,RC Deportivo La Coruña,La Liga,12
