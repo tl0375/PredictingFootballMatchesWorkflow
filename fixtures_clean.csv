@@ -61,11 +61,11 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2026-12-14,20:00,Hull City AFC,Tottenham,Premier League,15
 2026-12-19,12:30,Brentford,Newcastle,Premier League,16
 2026-12-19,15:00,Leeds,Fulham,Premier League,16
-2026-12-19,15:00,Nott'm Forest,Everton,Premier League,16
 2026-12-19,15:00,Manchester City,Hull City AFC,Premier League,16
 2026-12-19,15:00,Bournemouth,Coventry City FC,Premier League,16
 2026-12-19,17:30,Liverpool,Tottenham,Premier League,16
 2026-12-20,14:00,Brighton,Ipswich,Premier League,16
+2026-12-20,14:00,Nott'm Forest,Everton,Premier League,16
 2026-12-20,14:00,Sunderland,Crystal Palace,Premier League,16
 2026-12-20,16:30,Arsenal,Manchester Utd,Premier League,16
 2026-12-21,20:00,Chelsea,Aston Villa,Premier League,16
@@ -570,8 +570,8 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Lecce,Venezia,Serie A,38
 2027-05-30,00:00,Bologna,Parma,Serie A,38
 2026-11-06,19:45,Toulouse,Strasbourg,Ligue 1,10
-2026-11-07,16:15,Auxerre,Paris FC,Ligue 1,10
-2026-11-07,19:45,Paris SG,Troyes,Ligue 1,10
+2026-11-07,18:00,Auxerre,Paris FC,Ligue 1,10
+2026-11-07,20:05,Paris SG,Troyes,Ligue 1,10
 2026-11-08,14:00,Rennes,Lille,Ligue 1,10
 2026-11-08,16:15,Le Mans FC,Monaco,Ligue 1,10
 2026-11-08,16:15,Brest,Lyon,Ligue 1,10

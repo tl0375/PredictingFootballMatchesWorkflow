@@ -61,11 +61,11 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-12-14,20:00,15,Premier League,Hull City AFC,Tottenham,Away Win,0.35208106,0.2511637,0.39675522
 2026-12-19,12:30,16,Premier League,Brentford,Newcastle,Home Win,0.4193164,0.25086954,0.32981405
 2026-12-19,15:00,16,Premier League,Leeds,Fulham,Home Win,0.5189838,0.23969895,0.24131729
-2026-12-19,15:00,16,Premier League,Nott'm Forest,Everton,Home Win,0.50412035,0.242276,0.2536036
 2026-12-19,15:00,16,Premier League,Manchester City,Hull City AFC,Home Win,0.75091386,0.1627804,0.08630577
 2026-12-19,15:00,16,Premier League,Bournemouth,Coventry City FC,Home Win,0.68751985,0.18963133,0.12284881
 2026-12-19,17:30,16,Premier League,Liverpool,Tottenham,Home Win,0.5880908,0.22325736,0.18865186
 2026-12-20,14:00,16,Premier League,Brighton,Ipswich,Home Win,0.6949672,0.1867042,0.11832857
+2026-12-20,14:00,16,Premier League,Nott'm Forest,Everton,Home Win,0.50412035,0.242276,0.2536036
 2026-12-20,14:00,16,Premier League,Sunderland,Crystal Palace,Home Win,0.4620154,0.24791725,0.29006732
 2026-12-20,16:30,16,Premier League,Arsenal,Manchester Utd,Home Win,0.50169814,0.24259263,0.25570926
 2026-12-21,20:00,16,Premier League,Chelsea,Aston Villa,Away Win,0.3372303,0.250298,0.41247174
@@ -570,8 +570,8 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,00:00,38,Serie A,Lecce,Venezia,Home Win,0.54162395,0.2350093,0.22336677
 2027-05-30,00:00,38,Serie A,Bologna,Parma,Home Win,0.54001635,0.23570032,0.22428326
 2026-11-06,19:45,10,Ligue 1,Toulouse,Strasbourg,Home Win,0.39936137,0.2512949,0.34934366
-2026-11-07,16:15,10,Ligue 1,Auxerre,Paris FC,Away Win,0.31796008,0.24855088,0.43348902
-2026-11-07,19:45,10,Ligue 1,Paris SG,Troyes,Home Win,0.76467884,0.15635748,0.07896366
+2026-11-07,18:00,10,Ligue 1,Auxerre,Paris FC,Away Win,0.31796008,0.24855088,0.43348902
+2026-11-07,20:05,10,Ligue 1,Paris SG,Troyes,Home Win,0.76467884,0.15635748,0.07896366
 2026-11-08,14:00,10,Ligue 1,Rennes,Lille,Home Win,0.37567177,0.2516967,0.37263146
 2026-11-08,16:15,10,Ligue 1,Le Mans FC,Monaco,Away Win,0.23226337,0.23301156,0.534725
 2026-11-08,16:15,10,Ligue 1,Brest,Lyon,Away Win,0.250982,0.23779836,0.5112196
