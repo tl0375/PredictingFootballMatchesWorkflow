@@ -1,5 +1,4 @@
 Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Prob_Draw,Prob_Away_Win
-2026-11-06,20:00,10,Premier League,Everton,Coventry City FC,Home Win,0.54184705,0.23517813,0.22297476
 2026-11-07,12:30,10,Premier League,Leeds,Tottenham,Home Win,0.58945906,0.22286238,0.18767853
 2026-11-07,15:00,10,Premier League,Arsenal,Hull City AFC,Home Win,0.7253073,0.17415899,0.100533746
 2026-11-07,15:00,10,Premier League,Fulham,Newcastle,Away Win,0.3378487,0.25031707,0.4118342
@@ -289,7 +288,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,15:00,38,Premier League,Sunderland,Manchester City,Away Win,0.22487862,0.23055641,0.54456496
 2027-05-30,15:00,38,Premier League,Chelsea,Brentford,Away Win,0.31514895,0.24832676,0.4365242
 2027-05-30,15:00,38,Premier League,Crystal Palace,Leeds,Away Win,0.27057618,0.24178551,0.48763832
-2026-11-06,19:45,11,Serie A,Venezia,Udinese,Away Win,0.2572587,0.23893042,0.5038109
 2026-11-07,14:00,11,Serie A,Torino,Lecce,Home Win,0.4585662,0.24826942,0.29316437
 2026-11-07,14:00,11,Serie A,Cagliari,Frosinone,Home Win,0.52814525,0.2378769,0.2339778
 2026-11-07,17:00,11,Serie A,Parma,Bologna,Away Win,0.29925096,0.24640653,0.45434257
@@ -569,7 +567,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,00:00,38,Serie A,Napoli,Atalanta,Home Win,0.46444964,0.24701524,0.28853512
 2027-05-30,00:00,38,Serie A,Lecce,Venezia,Home Win,0.54162395,0.2350093,0.22336677
 2027-05-30,00:00,38,Serie A,Bologna,Parma,Home Win,0.54001635,0.23570032,0.22428326
-2026-11-06,19:45,10,Ligue 1,Toulouse,Strasbourg,Home Win,0.39936137,0.2512949,0.34934366
 2026-11-07,18:00,10,Ligue 1,Auxerre,Paris FC,Away Win,0.31796008,0.24855088,0.43348902
 2026-11-07,20:05,10,Ligue 1,Paris SG,Troyes,Home Win,0.76467884,0.15635748,0.07896366
 2026-11-08,14:00,10,Ligue 1,Rennes,Lille,Home Win,0.37567177,0.2516967,0.37263146
@@ -794,7 +791,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-29,00:00,34,Ligue 1,Lyon,Paris FC,Home Win,0.53866696,0.2359661,0.22536692
 2027-05-29,00:00,34,Ligue 1,Auxerre,Le Havre,Home Win,0.50600034,0.24218163,0.25181806
 2027-05-29,00:00,34,Ligue 1,Strasbourg,Nice,Home Win,0.56652296,0.22922601,0.20425104
-2026-11-06,20:00,12,La Liga,Sevilla,Alaves,Away Win,0.34542176,0.2506286,0.40394965
 2026-11-07,13:00,12,La Liga,Málaga CF,Real Racing Club de Santander,Home Win,0.38657972,0.25162578,0.3617944
 2026-11-07,15:15,12,La Liga,Espanol,RC Deportivo La Coruña,Home Win,0.46600407,0.24714029,0.28685564
 2026-11-07,17:30,12,La Liga,Osasuna,Athletic Club,Home Win,0.39036655,0.25204045,0.357593
@@ -814,16 +810,16 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2026-11-22,17:30,13,La Liga,Osasuna,Málaga CF,Home Win,0.4365663,0.2501977,0.313236
 2026-11-22,20:00,13,La Liga,Getafe,Ath Madrid,Away Win,0.27156675,0.24177493,0.48665828
 2026-11-23,20:00,13,La Liga,Levante,Elche,Home Win,0.5293152,0.2380034,0.23268145
-2026-11-29,00:00,14,La Liga,Celta,Villarreal,Away Win,0.3139838,0.247872,0.43814415
-2026-11-29,00:00,14,La Liga,Elche,Ath Madrid,Away Win,0.26208645,0.2399965,0.49791712
-2026-11-29,00:00,14,La Liga,Betis,Vallecano,Home Win,0.45552686,0.24828048,0.29619268
-2026-11-29,00:00,14,La Liga,Valencia,Osasuna,Home Win,0.54349935,0.23499732,0.22150336
-2026-11-29,00:00,14,La Liga,Real Madrid,Alaves,Home Win,0.6287631,0.2107204,0.1605165
-2026-11-29,00:00,14,La Liga,Espanol,Getafe,Away Win,0.311659,0.24751897,0.440822
-2026-11-29,00:00,14,La Liga,Sociedad,Sevilla,Home Win,0.397096,0.25182164,0.35108235
-2026-11-29,00:00,14,La Liga,Levante,Real Racing Club de Santander,Home Win,0.5958145,0.22100247,0.18318298
-2026-11-29,00:00,14,La Liga,RC Deportivo La Coruña,Barcelona,Away Win,0.22338109,0.22994266,0.5466762
-2026-11-29,00:00,14,La Liga,Málaga CF,Athletic Club,Away Win,0.35825965,0.25119615,0.39054427
+2026-11-27,20:00,14,La Liga,Levante,Real Racing Club de Santander,Home Win,0.5958145,0.22100247,0.18318298
+2026-11-28,13:00,14,La Liga,Betis,Vallecano,Home Win,0.45552686,0.24828048,0.29619268
+2026-11-28,15:15,14,La Liga,Málaga CF,Athletic Club,Away Win,0.35825965,0.25119615,0.39054427
+2026-11-28,17:30,14,La Liga,Elche,Ath Madrid,Away Win,0.26208645,0.2399965,0.49791712
+2026-11-28,20:00,14,La Liga,Real Madrid,Alaves,Home Win,0.6287631,0.2107204,0.1605165
+2026-11-29,13:00,14,La Liga,Valencia,Osasuna,Home Win,0.54349935,0.23499732,0.22150336
+2026-11-29,15:15,14,La Liga,RC Deportivo La Coruña,Barcelona,Away Win,0.22338109,0.22994266,0.5466762
+2026-11-29,17:30,14,La Liga,Celta,Villarreal,Away Win,0.3139838,0.247872,0.43814415
+2026-11-29,20:00,14,La Liga,Sociedad,Sevilla,Home Win,0.397096,0.25182164,0.35108235
+2026-11-30,20:00,14,La Liga,Espanol,Getafe,Away Win,0.311659,0.24751897,0.440822
 2026-12-06,00:00,15,La Liga,Osasuna,Elche,Away Win,0.3391398,0.25062665,0.41023353
 2026-12-06,00:00,15,La Liga,Sevilla,Málaga CF,Home Win,0.51103526,0.24124938,0.24771537
 2026-12-06,00:00,15,La Liga,Alaves,Espanol,Home Win,0.4961945,0.24365294,0.26015258
@@ -1064,7 +1060,6 @@ Date,Time,Matchweek,League,Home_Team,Away_Team,Predicted_Result,Prob_Home_Win,Pr
 2027-05-30,00:00,38,La Liga,Espanol,Alaves,Away Win,0.30742896,0.24707675,0.44549432
 2027-05-30,00:00,38,La Liga,Getafe,Barcelona,Away Win,0.23000902,0.2320298,0.5379611
 2027-05-30,00:00,38,La Liga,Osasuna,Valencia,Away Win,0.3080082,0.2477371,0.44425467
-2026-11-06,19:30,9,Bundesliga,Hamburg,M'gladbach,Home Win,0.39891255,0.25161296,0.34947446
 2026-11-07,14:30,9,Bundesliga,RB Leipzig,Augsburg,Home Win,0.5374945,0.23599647,0.22650903
 2026-11-07,14:30,9,Bundesliga,Dortmund,SV 07 Elversberg,Home Win,0.6847265,0.19071709,0.12455643
 2026-11-07,14:30,9,Bundesliga,Mainz,Bayern Munich,Away Win,0.241333,0.23503402,0.52363294
