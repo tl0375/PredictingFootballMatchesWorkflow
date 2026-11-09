@@ -1,9 +1,4 @@
 Date,Time,Home_Team,Away_Team,Competition,Matchweek
-2026-11-08,14:00,Crystal Palace,Liverpool,Premier League,10
-2026-11-08,14:00,Sunderland,Chelsea,Premier League,10
-2026-11-08,14:00,Ipswich,Bournemouth,Premier League,10
-2026-11-08,14:00,Brighton,Brentford,Premier League,10
-2026-11-08,16:30,Manchester Utd,Aston Villa,Premier League,10
 2026-11-21,12:30,Manchester City,Fulham,Premier League,11
 2026-11-21,15:00,Chelsea,Leeds,Premier League,11
 2026-11-21,15:00,Aston Villa,Sunderland,Premier League,11
@@ -284,11 +279,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,15:00,Sunderland,Manchester City,Premier League,38
 2027-05-30,15:00,Chelsea,Brentford,Premier League,38
 2027-05-30,15:00,Crystal Palace,Leeds,Premier League,38
-2026-11-08,11:30,Napoli,Lazio,Serie A,11
-2026-11-08,14:00,Genoa,Milan,Serie A,11
-2026-11-08,14:00,Monza,Atalanta,Serie A,11
-2026-11-08,17:00,Inter,Como,Serie A,11
-2026-11-08,19:45,Fiorentina,Juventus,Serie A,11
 2026-11-21,14:00,Como,Cagliari,Serie A,12
 2026-11-21,14:00,Lazio,Lecce,Serie A,12
 2026-11-21,17:00,Parma,Roma,Serie A,12
@@ -559,12 +549,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Napoli,Atalanta,Serie A,38
 2027-05-30,00:00,Lecce,Venezia,Serie A,38
 2027-05-30,00:00,Bologna,Parma,Serie A,38
-2026-11-08,14:00,Rennes,Lille,Ligue 1,10
-2026-11-08,16:15,Le Mans FC,Monaco,Ligue 1,10
-2026-11-08,16:15,Brest,Lyon,Ligue 1,10
-2026-11-08,16:15,Le Havre,Lorient,Ligue 1,10
-2026-11-08,16:15,Angers,Nice,Ligue 1,10
-2026-11-08,19:45,Lens,Marseille,Ligue 1,10
 2026-11-20,19:45,Troyes,Le Havre,Ligue 1,11
 2026-11-21,16:15,Nice,Paris SG,Ligue 1,11
 2026-11-21,19:45,Monaco,Auxerre,Ligue 1,11
@@ -781,11 +765,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-29,00:00,Lyon,Paris FC,Ligue 1,34
 2027-05-29,00:00,Auxerre,Le Havre,Ligue 1,34
 2027-05-29,00:00,Strasbourg,Nice,Ligue 1,34
-2026-11-08,13:00,Elche,Betis,La Liga,12
-2026-11-08,15:15,Sociedad,Vallecano,La Liga,12
-2026-11-08,17:30,Celta,Levante,La Liga,12
-2026-11-08,17:30,Villarreal,Getafe,La Liga,12
-2026-11-08,20:00,Ath Madrid,Barcelona,La Liga,12
 2026-11-20,20:00,Athletic Club,Espanol,La Liga,13
 2026-11-21,13:00,Alaves,RC Deportivo La Coruña,La Liga,13
 2026-11-21,15:15,Vallecano,Valencia,La Liga,13
@@ -1046,9 +1025,6 @@ Date,Time,Home_Team,Away_Team,Competition,Matchweek
 2027-05-30,00:00,Espanol,Alaves,La Liga,38
 2027-05-30,00:00,Getafe,Barcelona,La Liga,38
 2027-05-30,00:00,Osasuna,Valencia,La Liga,38
-2026-11-08,14:30,FC Koln,Leverkusen,Bundesliga,9
-2026-11-08,16:30,Freiburg,Union Berlin,Bundesliga,9
-2026-11-08,18:30,Hoffenheim,Schalke 04,Bundesliga,9
 2026-11-20,19:30,Bayern Munich,FC Koln,Bundesliga,10
 2026-11-21,14:30,Leverkusen,Paderborn,Bundesliga,10
 2026-11-21,14:30,Union Berlin,RB Leipzig,Bundesliga,10
